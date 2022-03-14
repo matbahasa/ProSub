@@ -4,6 +4,8 @@
 This repository contains resources developed by the JSPS KAKENHI project "A cross-linguistic study of pronoun substitutes and address terms" ([JP20H01255](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H01255/)).
 
 ## How to cite
+岡野賢二, 野元裕樹, スニサーウィッタヤーパンヤーノン, トゥザライン, 春日淳. 2022.「アジア三言語における代名詞代用・呼びかけ語の共通項目調査」『言語処理学会第28回年次大会発表論文集』.
+
 ```
 @proceedings{OkanoEtAl22,
     author = {Okano, Kenji and Nomoto, Hiroki and Wittayapanyanon, Sunisa and Thuzar Hlaing and Kasuga, Atsushi},
@@ -11,7 +13,7 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
     title = {Ajia sangengo niokeru daimeishidaiyou, yobikakego no kyoutsuukoumoku chousa},
     booktitle = {Proceedings of the Twenty-Eighth Annual Meeting of the {A}ssociation for {N}atural {L}anguage {P}rocessing},
     pages = {##-##},
-    note = {An investigation of pronoun substitutes and address terms in three Asian languages based on a common questionnaire},
+    note = {An investigation of pronoun substitutes and address terms in three Asian languages based on a common questionnaire}
     }
 ```
 
@@ -119,5 +121,5 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 ## Judgements
 - `yes` acceptable, available, possible
 - `no` unacceptable, unavailable, impossible
-- `*` acceptable if a title is added, but not by itself
+- `*` acceptable if used together with a title, but not by itself
 - `?` uncertain, requires cheking

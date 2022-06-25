@@ -101,25 +101,25 @@
 101	王女	princess	10474064-n	Royal
 102	自分	self	09604981-n	Anaphor
 103	人名＋自身	personal name + self	09604981-n	Anaphor
-104	全員	everybody		Quantifier
+104	全員	everybody	77000099-n	Quantifier
 105	二人	two people	07976936-n	Quantifier
 106	二人とも	both persons	07976936-n	Quantifier
 107	これ／この	this	77000075-n	Demonstrative
-108	これら／これらの	these		Demonstrative
-109	それ／その	that (medial)		Demonstrative
-110	それら／それらの	those (medial)		Demonstrative
-111	あれ／あの	that (distal)		Demonstrative
-112	あれら／あれらの	those (distal)		Demonstrative
-113	ここ	here		Demonstrative
-114	そこ	there (medial)	08489627-n	Demonstrative
-115	あそこ	there (distal)		Demonstrative
+108	これら／これらの	these	77000058-n	Demonstrative
+109	それ／その	that (medial)	77000060-n	Demonstrative
+110	それら／それらの	those (medial)	77000057-n	Demonstrative
+111	あれ／あの	that (distal)	77000059-n, 77000079-n	Demonstrative
+112	あれら／あれらの	those (distal)	77000082-n	Demonstrative
+113	ここ	here	08489497-n, 77000121-n	Demonstrative
+114	そこ	there (medial)	08489627-n, 77000117-n	Demonstrative
+115	あそこ	there (distal)	77000081-n	Demonstrative
 116	人名	personal name		Proper_name
-117	敬称（専用の表現）	honorific title		Proper_name
-118	人名＋敬称	personal name + title		Proper_name
+117	敬称（専用の表現）	honorific title	06341862-n, 10601451-n	Proper_name
+118	人名＋敬称	personal name + title	06341862-n, 10601451-n	Proper_name
 119	人名＋首相	personal name + prime minister	09906986-n	Proper_name
-120	人名＋先生	personal name + teacher		Proper_name
-121	人名＋Dr.	personal name + Dr.		Proper_name
-122	人名＋お姉さん	personal name + elder sister		Proper_name
+120	人名＋先生	personal name + teacher	10694258-n	Proper_name
+121	人名＋Dr.	personal name + Dr.	80000732-n, 10021892-n, 10020890-n	Proper_name
+122	人名＋お姉さん	personal name + elder sister	10130447-n, 06341249-n	Proper_name
 123	～のお母さん	~’s mother		Modified_NP
 124	あなたのお父さん	your father		Modified_NP
 125	お父さんの子	father’s child		Modified_NP
@@ -136,12 +136,13 @@
 136	紳士淑女諸君	ladies and gentlemen		Misc
 137	まぬけ	idiot, fool	10197525-n	Misc
 138	お金持ち（の人）	rich person	08179455-n	Misc
-139	私	I		Personal_pronoun
-140	私達（包括形）	we (inclusive)	77000139-n, 80001133-n	Personal_pronoun
-141	私達（除外形）	we (exclusive)		Personal_pronoun
-142	あなた	you		Personal_pronoun
-143	あなた達	you (pl)		Personal_pronoun
-144	彼	he		Personal_pronoun
-145	彼女	she		Personal_pronoun
-146	彼ら	they		Personal_pronoun
-147	彼女ら	they		Personal_pronoun
+139	私	I	77000012-n, 77000015-n	Personal_pronoun
+140	私達（包括形）	we (inclusive)	77000139-n, 77000002-n, 77000003-n	Personal_pronoun
+141	私達（除外形）	we (exclusive)	80001133-n, 77000002-n, 77000003-n	Personal_pronoun
+142	あなた	you	77000021-n, 77000022-n, 77000023-n, 77000027-n	Personal_pronoun
+143	あなた達	you (pl)	77000019-n	Personal_pronoun
+144	彼	he	77000046-n	Personal_pronoun
+145	彼女	she	77000041-n	Personal_pronoun
+146	彼ら	they	77000031-n, 77000036-n	Personal_pronoun
+147	彼女ら	they	77000031-n, 77000035-n	Personal_pronoun
+148	人	person	00007846-n	Misc

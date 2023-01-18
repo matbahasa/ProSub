@@ -1,5 +1,8 @@
 # List of prosub annotations
 
+- If the corpus/text is not open, we can only provide the annotation file.  You need to obtain the corpus/text file(s) by yourself.
+- We developed a tool to combine the corpus and annotation files easily: [ETA: Easy Text Annotator]((https://github.com/matbahasa/ETA)).
+
 | No | Corpus/Text | Language | Corpus/text openness | Location |
 | --:|----------- | -------- | -------------------- | -------- |
 |  1 | [TUFS Asian Language Parallel Corpora (TALPCo)](https://github.com/matbahasa/TALPCo) | Japanese, Korean, Malay, Indonesian, Thai, Vietnamese, Burmese | CC BY 4.0 | [Link](https://github.com/matbahasa/TALPCo) |

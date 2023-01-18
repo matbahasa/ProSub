@@ -1,7 +1,8 @@
 # List of prosub annotations
 
-- If the corpus/text is not open, we can only provide the annotation file.  You need to obtain the corpus/text file(s) by yourself.
-- We developed a tool to combine the corpus and annotation files easily: [ETA: Easy Text Annotator]((https://github.com/matbahasa/ETA)).
+- The annotation is provided in the tab-delimited text format and the jsonl format for open corpora.
+- For closed corpora, we can only provide the tab-delimited text format annotation file, as we cannot redistribute the texts in them.  You need to obtain the corpus file(s) and combine the corpus and annotation files by yourself.
+- We developed a tool to combine the corpus and annotation files easily: [ETA: Easy Text Annotator](https://github.com/matbahasa/ETA).
 
 | No | Corpus/Text | Language | Corpus/text openness | Location |
 | --:|----------- | -------- | -------------------- | -------- |

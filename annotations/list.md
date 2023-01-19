@@ -4,7 +4,7 @@
 - For closed corpora, we can only provide the tab-delimited text format annotation file, as we cannot redistribute the texts in them.  You need to obtain the corpus file(s) and combine the corpus and annotation files by yourself.
 - We developed a tool to combine the corpus and annotation files easily: [ETA: Easy Text Annotator](https://github.com/matbahasa/ETA).
 
-| No | Corpus/Text | Language | Corpus/text openness | Location |
+| No | Corpus/text | Language | Corpus/text openness | Location |
 | --:|----------- | -------- | -------------------- | -------- |
 |  1 | [TUFS Asian Language Parallel Corpora (TALPCo)](https://github.com/matbahasa/TALPCo) | Japanese, Korean, Malay, Indonesian, Thai, Vietnamese, Burmese | CC BY 4.0 | [Link](https://github.com/matbahasa/TALPCo) |
 |  2 | [Corpus of Everyday Japanese Conversation (CEJC)](https://www2.ninjal.ac.jp/conversation/cejc.html) | Japanese | Contract-based (25,000-10,000,000 yen) | forthcoming |

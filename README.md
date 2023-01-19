@@ -7,7 +7,7 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
 - (Common questionnaire)  
   岡野賢二, 野元裕樹, スニサーウィッタヤーパンヤーノン, トゥザライン, 春日淳. 2022.[「アジア三言語における代名詞代用・呼びかけ語の共通項目調査」](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D1-2.pdf)『言語処理学会第28回年次大会発表論文集』, 69-73.
 - (Dataset)  
-  谷口龍子, 大久保弥, 野元裕樹, 南潤珍. 2022. [代名詞代用・呼びかけ表現の多言語データセット](https://www.ls-japan.org/modules/documents/LSJpapers/meeting/164/handouts/p/P-6_164.pdf).『日本言語学会第164回大会予稿集』, 307-313.
+  谷口龍子, 大久保弥, 野元裕樹, 南潤珍. 2022. [「代名詞代用・呼びかけ表現の多言語データセット」](https://www.ls-japan.org/modules/documents/LSJpapers/meeting/164/handouts/p/P-6_164.pdf).『日本言語学会第164回大会予稿集』, 307-313.
 
 ```bib
 @InProceedings{OkanoEtAl22,

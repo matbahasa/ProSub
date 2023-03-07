@@ -1,0 +1,7 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	T002_006b-luu-anno.txt	1	2154	2155	僕					1	1	0	0
+annotation	T002_006b-luu-anno.txt	2	2218	2220	自分					1	1	0	0
+annotation	T002_006b-luu-anno.txt	3	2351	2352	僕					1	1	0	0
+annotation	T002_006b-luu-anno.txt	4	3000	3005	直也)さん					1	0	1	0
+annotation	T002_006b-luu-anno.txt	5	3038	3043	直也)さん					1	0	1	0
+annotation	T002_006b-luu-anno.txt	6	3646	3647	僕					1	1	0	0

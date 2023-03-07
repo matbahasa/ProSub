@@ -1,0 +1,42 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T007_015-luu-anno.txt	1	1282	1286	お母さん	01				1	0	1	0
+Texts	T007_015-luu-anno.txt	2	3945	3952	お父さ(U ん	01				1	0	0	1
+Texts	T007_015-luu-anno.txt	3	4548	4550	塚田					1	1	0	0
+Texts	T007_015-luu-anno.txt	4	5381	5384	わたし					1	1	0	0
+Texts	T007_015-luu-anno.txt	5	5497	5500	そちら					1	0	1	0
+Texts	T007_015-luu-anno.txt	6	7428	7432	お父さん					1	0	1	0
+Texts	T007_015-luu-anno.txt	7	8250	8254	お父さん	02				1	0	1	0
+Texts	T007_015-luu-anno.txt	8	8450	8454	お父さん	01				1	0	0	1
+Texts	T007_015-luu-anno.txt	9	9286	9290	お父さん	01				1	0	0	1
+Texts	T007_015-luu-anno.txt	10	9443	9447	お父さん	01				1	0	1	0
+Texts	T007_015-luu-anno.txt	11	9958	9962	お父さん	01				1	0	1	0
+Texts	T007_015-luu-anno.txt	12	12502	12504	お前					1	0	1	0
+Texts	T007_015-luu-anno.txt	13	12514	12519	あたしたち					1	1	0	0
+Texts	T007_015-luu-anno.txt	14	12676	12681	わたしたち					1	1	0	0
+Texts	T007_015-luu-anno.txt	15	14090	14094	お父さん	01				1	1	0	0
+Texts	T007_015-luu-anno.txt	16	14738	14742	お父さん	01				1	0	0	1
+Texts	T007_015-luu-anno.txt	17	15007	15011	お父さん	01				1	0	1	0
+Texts	T007_015-luu-anno.txt	18	16635	16637	自分					1	1	0	0
+Texts	T007_015-luu-anno.txt	19	17185	17191	お父さんたち	01				1	1	0	0
+Texts	T007_015-luu-anno.txt	20	19697	19700	あたし					1	1	0	0
+Texts	T007_015-luu-anno.txt	21	21011	21013	自分					1	1	0	0
+Texts	T007_015-luu-anno.txt	22	22591	22595	お父さん	01				1	1	0	0
+Texts	T007_015-luu-anno.txt	23	24826	24830	お父さん	01				1	0	0	1
+Texts	T007_015-luu-anno.txt	24	26476	26480	お父さん	01				1	0	1	0
+Texts	T007_015-luu-anno.txt	25	26865	26869	お父さん	01				1	0	1	0
+Texts	T007_015-luu-anno.txt	26	27483	27487	野口)君					1	0	1	0
+Texts	T007_015-luu-anno.txt	27	28064	28071	ゆづき)ちゃん					1	0	1	0
+Texts	T007_015-luu-anno.txt	28	28943	28950	ゆづき)ちゃん					1	0	0	1
+Texts	T007_015-luu-anno.txt	29	28957	28960	あたし					1	1	0	0
+Texts	T007_015-luu-anno.txt	30	28964	28971	ゆづき)ちゃん					1	0	1	0
+Texts	T007_015-luu-anno.txt	31	29283	29290	ゆづき)ちゃん					1	0	1	0
+Texts	T007_015-luu-anno.txt	32	29326	29328	自分					1	1	0	0
+Texts	T007_015-luu-anno.txt	33	29590	29593	あたし					1	1	0	0
+Texts	T007_015-luu-anno.txt	34	29652	29659	ゆづき)ちゃん					1	0	1	0
+Texts	T007_015-luu-anno.txt	35	31827	31830	あたし					1	1	0	0
+Texts	T007_015-luu-anno.txt	36	33164	33171	ゆづ))ちゃん					1	0	0	1
+Texts	T007_015-luu-anno.txt	37	36652	36659	ゆう)ちゃ:ん					1	0	0	1
+Texts	T007_015-luu-anno.txt	40	36754	36756	自分					1	0	1	0
+Texts	T007_015-luu-anno.txt	41	36902	36904	自分					1	0	1	0
+Texts	T007_015-luu-anno.txt	38	37310	37311	俺					1	1	0	0
+Texts	T007_015-luu-anno.txt	39	38751	38755	お父さん	01				1	1	0	0

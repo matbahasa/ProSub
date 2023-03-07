@@ -1,0 +1,82 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T014_008-luu-anno.txt	1	42	45	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	2	186	189	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	3	298	301	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	4	704	709	ノビちゃん					1	0	1	0
+Texts	T014_008-luu-anno.txt	5	1044	1050	ノ:ビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	6	1143	1146	あんた					1	0	0	1
+Texts	T014_008-luu-anno.txt	7	1418	1423	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	8	1435	1440	ノビちゃん					1	0	1	0
+Texts	T014_008-luu-anno.txt	9	1507	1510	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	10	1612	1617	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	11	1752	1755	ノー君					1	0	0	1
+Texts	T014_008-luu-anno.txt	12	1945	1948	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	13	2142	2144	ノビ					1	0	0	1
+Texts	T014_008-luu-anno.txt	14	2541	2544	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	15	3008	3013	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	16	3088	3093	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	17	3153	3158	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	18	3280	3285	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	19	3319	3322	あなた					1	0	1	0
+Texts	T014_008-luu-anno.txt	20	3790	3794	あ)たし					1	1	0	0
+Texts	T014_008-luu-anno.txt	21	4888	4893	ノーちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	22	4992	4997	ノビちゃん					1	0	1	0
+Texts	T014_008-luu-anno.txt	23	5016	5021	ノーちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	24	5322	5325	皆さん					1	0	1	0
+Texts	T014_008-luu-anno.txt	25	5395	5398	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	26	6706	6708	自分	一般論の話ともとらえられるが、「私の手」と解釈し、1stを付与した。				1	1	0	0
+Texts	T014_008-luu-anno.txt	27	6972	6977	澤井)さん					1	0	1	0
+Texts	T014_008-luu-anno.txt	28	7019	7022	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	29	7516	7519	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	32	8978	8983	ノーちゃん	ノーちゃんに言っているかは不明				1	0	1	0
+Texts	T014_008-luu-anno.txt	30	9016	9021	ノーちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	31	9058	9063	ノーちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	33	11166	11168	自分					1	1	0	0
+Texts	T014_008-luu-anno.txt	34	11273	11276	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	35	11331	11333	自分					1	1	0	0
+Texts	T014_008-luu-anno.txt	36	12693	12698	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	37	13471	13473	お前					1	0	1	0
+Texts	T014_008-luu-anno.txt	38	16345	16348	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	39	17705	17709	あ)たし					1	1	0	0
+Texts	T014_008-luu-anno.txt	40	17785	17788	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	41	18580	18583	あんた					1	0	0	1
+Texts	T014_008-luu-anno.txt	42	18716	18721	ノーちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	43	19752	19757	ノビちゃん					1	0	1	0
+Texts	T014_008-luu-anno.txt	44	19803	19806	あんた					1	0	0	1
+Texts	T014_008-luu-anno.txt	45	20009	20011	彩子					1	0	1	0
+Texts	T014_008-luu-anno.txt	46	20127	20129	お前					1	0	1	0
+Texts	T014_008-luu-anno.txt	47	20311	20314	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	48	21110	21113	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	49	21326	21331	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	50	21840	21845	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	51	21856	21859	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	52	22756	22761	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	53	23741	23744	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	54	24467	24470	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	55	24769	24772	ノビ君					1	0	0	1
+Texts	T014_008-luu-anno.txt	56	25388	25391	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	57	25778	25781	あたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	58	26339	26344	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	59	26595	26597	先生	02				1	0	0	1
+Texts	T014_008-luu-anno.txt	60	27115	27118	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	61	27359	27364	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	62	27671	27676	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	63	27808	27813	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	64	27911	27916	吉田)さん					1	0	1	0
+Texts	T014_008-luu-anno.txt	65	28985	28990	あたしたち					1	1	0	0
+Texts	T014_008-luu-anno.txt	66	29490	29500	ノー(K ク:ン|君					1	0	0	1
+Texts	T014_008-luu-anno.txt	67	29611	29616	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	68	29667	29672	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	69	30074	30077	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	70	30218	30221	わたし					1	1	0	0
+Texts	T014_008-luu-anno.txt	71	30614	30619	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	72	30975	30980	ノビちゃん					1	0	0	1
+Texts	T014_008-luu-anno.txt	73	31313	31318	吉田)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	74	31515	31520	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	75	31881	31885	あ:たし					1	1	0	0
+Texts	T014_008-luu-anno.txt	76	32423	32428	澤井)さん					1	0	0	1
+Texts	T014_008-luu-anno.txt	77	33358	33379	澤(L 井))(L)(R 澤井)(X シン					1	0	0	1
+Texts	T014_008-luu-anno.txt	78	33466	33474	澤井)(X シン					1	0	0	1
+Texts	T014_008-luu-anno.txt	79	33552	33555	ノビ君					1	0	0	1
+Texts	T014_008-luu-anno.txt	80	34419	34422	ムール					1	0	0	1
+Texts	T014_008-luu-anno.txt	81	34476	34479	ムール					1	0	0	1

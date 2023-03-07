@@ -1,0 +1,25 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T013_008-luu-anno.txt	1	86	90	おじさん	呼びかけかおじさんが「休もう」と言ったのか不明				1	0	0	1
+Texts	T013_008-luu-anno.txt	2	1595	1597	自分					1	1	0	0
+Texts	T013_008-luu-anno.txt	3	1953	1956	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	4	1989	1992	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	5	2371	2375	わ%たし					1	1	0	0
+Texts	T013_008-luu-anno.txt	6	2635	2641	おばあちゃん	03				1	0	1	0
+Texts	T013_008-luu-anno.txt	7	2829	2832	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	8	4092	4095	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	9	4115	4118	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	10	5533	5536	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	11	5664	5667	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	12	5911	5915	わ%たし					1	1	0	0
+Texts	T013_008-luu-anno.txt	13	5989	5991	二人					1	1	0	0
+Texts	T013_008-luu-anno.txt	14	6051	6053	わし					1	1	0	0
+Texts	T013_008-luu-anno.txt	15	6336	6339	わたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	16	6857	6859	自分					1	1	0	0
+Texts	T013_008-luu-anno.txt	17	7414	7418	お母さん	01　ただ、義母は由紀江の実の母なのか不明				1	0	1	0
+Texts	T013_008-luu-anno.txt	18	8017	8021	お母さん	01				1	0	0	1
+Texts	T013_008-luu-anno.txt	19	8552	8558	おばあちゃん	03				1	0	1	0
+Texts	T013_008-luu-anno.txt	20	9772	9775	あんた					1	0	0	1
+Texts	T013_008-luu-anno.txt	21	9802	9806	わ:たし					1	1	0	0
+Texts	T013_008-luu-anno.txt	22	9854	9857	あんた					1	0	0	1
+Texts	T013_008-luu-anno.txt	23	10263	10266	あたし					1	1	0	0
+Texts	T013_008-luu-anno.txt	24	10509	10512	わたし					1	1	0	0

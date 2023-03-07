@@ -1,0 +1,25 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K001_013-luu-anno.txt	1	560	561	俺					1	1	0	0
+Texts	K001_013-luu-anno.txt	2	933	935	自分					1	1	0	0
+Texts	K001_013-luu-anno.txt	3	1353	1354	俺					1	1	0	0
+Texts	K001_013-luu-anno.txt	4	3822	3824	俺ら					1	1	0	0
+Texts	K001_013-luu-anno.txt	5	4423	4424	俺					1	1	0	0
+Texts	K001_013-luu-anno.txt	6	5818	5823	萌)ちゃん					1	0	1	0
+Texts	K001_013-luu-anno.txt	7	6017	6020	あたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	8	6599	6602	あたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	9	6965	6966	俺					1	1	0	0
+Texts	K001_013-luu-anno.txt	10	7124	7125	俺					1	1	0	0
+Texts	K001_013-luu-anno.txt	11	11655	11656	俺					1	1	0	0
+Texts	K001_013-luu-anno.txt	12	13754	13759	あたしたち					1	1	0	0
+Texts	K001_013-luu-anno.txt	13	15169	15174	萌)ちゃん					1	0	0	1
+Texts	K001_013-luu-anno.txt	14	15194	15197	わたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	15	15849	15850	萌					1	0	1	0
+Texts	K001_013-luu-anno.txt	16	15890	15895	萌)ちゃん					1	0	1	0
+Texts	K001_013-luu-anno.txt	17	16247	16249	僕ら					1	1	0	0
+Texts	K001_013-luu-anno.txt	18	17542	17545	わたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	19	17766	17771	萌)ちゃん					1	0	1	0
+Texts	K001_013-luu-anno.txt	20	19303	19308	萌)ちゃん					1	0	0	1
+Texts	K001_013-luu-anno.txt	21	20045	20048	あたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	22	21296	21299	わたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	23	21856	21859	あたし					1	1	0	0
+Texts	K001_013-luu-anno.txt	24	23877	23880	あたし					1	1	0	0

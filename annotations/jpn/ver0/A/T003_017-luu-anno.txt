@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_017-luu-anno.txt	1	1469	1474	あたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	2	2778	2783	わたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	3	3036	3039	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	4	5684	5687	わたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	5	6688	6691	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	6	7173	7176	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	7	7468	7473	あたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	8	8776	8779	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	9	9446	9452	由美)ちゃん					1	0	1	0
+Texts	T003_017-luu-anno.txt	10	13795	13800	あたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	11	14693	14698	わたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	12	14872	14877	わたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	13	16451	16454	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	14	19997	20000	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	15	20461	20464	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	16	20616	20619	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	17	23278	23281	わたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	18	23450	23455	あたしたち					1	1	0	0
+Texts	T003_017-luu-anno.txt	19	23938	23941	あたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	20	24354	24357	わたし					1	1	0	0
+Texts	T003_017-luu-anno.txt	21	26999	27002	こちら	わたし、わたしたちの意味？				1	1	0	0
+Texts	T003_017-luu-anno.txt	22	27124	27129	わたしたち	引用（回想？）				1	1	0	0
+Texts	T003_017-luu-anno.txt	23	27146	27149	そちら	引用　＝あなた、あなたたち？				1	0	1	0

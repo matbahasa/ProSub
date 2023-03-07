@@ -1,0 +1,19 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K006_013-luu-anno.txt	1	403	407	海ちゃん					1	0	1	0
+Texts	K006_013-luu-anno.txt	2	1103	1107	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	3	1349	1350	海					1	0	0	1
+Texts	K006_013-luu-anno.txt	4	1462	1463	海					1	0	0	1
+Texts	K006_013-luu-anno.txt	5	1786	1790	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	6	1833	1837	海ちゃん					1	0	1	0
+Texts	K006_013-luu-anno.txt	7	1890	1894	海ちゃん					1	0	1	0
+Texts	K006_013-luu-anno.txt	8	1921	1925	海ちゃん					1	0	1	0
+Texts	K006_013-luu-anno.txt	9	2231	2235	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	10	2280	2281	海					1	0	0	1
+Texts	K006_013-luu-anno.txt	11	3484	3488	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	12	3573	3577	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	13	4058	4062	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	14	4710	4714	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	15	5611	5615	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	16	5885	5889	海ちゃん					1	0	0	1
+Texts	K006_013-luu-anno.txt	17	5909	5910	海					1	0	0	1
+Texts	K006_013-luu-anno.txt	18	6467	6471	海ちゃん					1	0	0	1

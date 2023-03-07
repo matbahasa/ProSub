@@ -1,0 +1,54 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K006_017-luu-anno.txt	32	3992	3994	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	48	4572	4575	先生)	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	1	6949	6952	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	49	7728	7733	小林)さん					1	0	1	0
+Texts	K006_017-luu-anno.txt	2	7750	7753	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	3	8165	8170	小林)さん					1	0	1	0
+Texts	K006_017-luu-anno.txt	4	8385	8388	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	5	9171	9174	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	28	12281	12284	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	6	14868	14871	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	7	14995	14998	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	8	15125	15128	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	9	15446	15450	わたし:					1	1	0	0
+Texts	K006_017-luu-anno.txt	10	15633	15636	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	29	16426	16428	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	11	16688	16691	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	12	17043	17046	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	13	17080	17083	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	14	18037	18040	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	30	20014	20016	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	15	21272	21275	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	16	21397	21400	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	17	25158	25161	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	18	25702	25705	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	19	26415	26419	お客さま					1	0	0	1
+Texts	K006_017-luu-anno.txt	20	26576	26579	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	50	27127	27129	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	21	27472	27475	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	31	27495	27497	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	22	28346	28349	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	23	28951	28956	矢沢っち)					1	0	1	0
+Texts	K006_017-luu-anno.txt	51	29044	29046	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	24	30763	30766	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	52	31348	31350	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	25	33588	33591	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	26	34876	34881	矢沢)さん					1	0	1	0
+Texts	K006_017-luu-anno.txt	27	34930	34933	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	53	35008	35010	先生	01				1	0	1	0
+Texts	K006_017-luu-anno.txt	33	37459	37462	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	34	39884	39887	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	35	40521	40524	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	36	40565	40568	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	38	41585	41587	自分					1	1	0	0
+Texts	K006_017-luu-anno.txt	37	41707	41709	自分					1	0	1	0
+Texts	K006_017-luu-anno.txt	39	41845	41848	わたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	40	41985	41990	小林)さん					1	0	1	0
+Texts	K006_017-luu-anno.txt	41	42135	42137	自分					1	0	1	0
+Texts	K006_017-luu-anno.txt	42	42228	42231	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	43	43329	43332	あたし					1	1	0	0
+Texts	K006_017-luu-anno.txt	44	43699	43704	小林)さん					1	0	1	0
+Texts	K006_017-luu-anno.txt	45	43799	43804	小林)さん					1	0	1	0
+Texts	K006_017-luu-anno.txt	46	44109	44112	あなた					1	0	1	0
+Texts	K006_017-luu-anno.txt	47	44232	44234	自分					1	1	0	0

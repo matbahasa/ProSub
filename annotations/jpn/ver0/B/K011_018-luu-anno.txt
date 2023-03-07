@@ -1,0 +1,17 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K011_018-luu-anno.txt	1	981	984	美佳子					1	0	1	0
+annotation	K011_018-luu-anno.txt	2	2125	2127	美佳					1	1	0	0
+annotation	K011_018-luu-anno.txt	3	2438	2440	香澄					1	0	1	0
+annotation	K011_018-luu-anno.txt	4	4703	4706	美佳子					1	1	0	0
+annotation	K011_018-luu-anno.txt	5	6403	6406	あたし					1	1	0	0
+annotation	K011_018-luu-anno.txt	6	6649	6652	美佳子					1	0	1	0
+annotation	K011_018-luu-anno.txt	7	6786	6788	香澄					1	0	1	0
+annotation	K011_018-luu-anno.txt	8	8282	8288	香澄)姉さん					1	0	1	0
+annotation	K011_018-luu-anno.txt	10	8661	8664	あたし					1	1	0	0
+annotation	K011_018-luu-anno.txt	9	8682	8685	あたし					1	1	0	0
+annotation	K011_018-luu-anno.txt	11	8908	8909	俺					1	1	0	0
+annotation	K011_018-luu-anno.txt	12	8969	8970	俺					1	1	0	0
+annotation	K011_018-luu-anno.txt	13	9578	9581	美佳子					1	0	1	0
+annotation	K011_018-luu-anno.txt	14	12376	12379	あたし					1	1	0	0
+annotation	K011_018-luu-anno.txt	15	12867	12871	美佳子)					1	1	0	0
+annotation	K011_018-luu-anno.txt	16	12930	12933	あたし					1	1	0	0

@@ -1,0 +1,41 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T020_013a-luu-anno.txt	1	84	88	さっぽん					1	0	1	0
+Texts	T020_013a-luu-anno.txt	2	218	222	さっぽん					1	0	1	0
+Texts	T020_013a-luu-anno.txt	6	928	931	みんな					1	0	1	0
+Texts	T020_013a-luu-anno.txt	3	1129	1131	お前					1	0	1	0
+Texts	T020_013a-luu-anno.txt	4	1504	1507	みんな					1	0	1	0
+Texts	T020_013a-luu-anno.txt	5	1550	1553	みんな					1	0	1	0
+Texts	T020_013a-luu-anno.txt	7	1676	1680	さっぽん					1	0	1	0
+Texts	T020_013a-luu-anno.txt	8	1695	1699	さっぽん					1	0	1	0
+Texts	T020_013a-luu-anno.txt	9	1750	1754	さっぽん					1	0	1	0
+Texts	T020_013a-luu-anno.txt	10	1813	1817	さっぽん					1	0	1	0
+Texts	T020_013a-luu-anno.txt	11	1961	1964	あんた					1	0	1	0
+Texts	T020_013a-luu-anno.txt	12	2630	2632	葉月					1	0	1	0
+Texts	T020_013a-luu-anno.txt	13	2672	2674	お前					1	0	1	0
+Texts	T020_013a-luu-anno.txt	14	2749	2751	葉月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	15	3192	3195	わたし					1	1	0	0
+Texts	T020_013a-luu-anno.txt	16	3220	3222	葉月					1	0	0	1
+Texts	T020_013a-luu-anno.txt	17	3260	3262	葉月					1	0	1	0
+Texts	T020_013a-luu-anno.txt	18	3686	3688	さつ					1	0	0	1
+Texts	T020_013a-luu-anno.txt	19	4256	4260	さっぽん					1	0	0	1
+Texts	T020_013a-luu-anno.txt	20	4291	4293	葉月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	21	4299	4301	葉月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	22	4307	4309	葉月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	23	4408	4410	パパ	01				1	0	1	0
+Texts	T020_013a-luu-anno.txt	24	4483	4485	葉月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	25	4565	4567	葉月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	26	4587	4590	あなた					1	0	1	0
+Texts	T020_013a-luu-anno.txt	27	4607	4609	皐月					1	0	1	0
+Texts	T020_013a-luu-anno.txt	28	4636	4638	皐月					1	0	0	1
+Texts	T020_013a-luu-anno.txt	29	4718	4720	パパ	01				1	0	1	0
+Texts	T020_013a-luu-anno.txt	30	4931	4934	みんな					1	0	1	0
+Texts	T020_013a-luu-anno.txt	31	5455	5458	あなた					1	0	1	0
+Texts	T020_013a-luu-anno.txt	32	5854	5856	皐月					1	1	0	0
+Texts	T020_013a-luu-anno.txt	33	5870	5873	おめえ					1	0	1	0
+Texts	T020_013a-luu-anno.txt	34	6096	6099	あたし					1	1	0	0
+Texts	T020_013a-luu-anno.txt	35	6138	6140	パパ	01				1	0	1	0
+Texts	T020_013a-luu-anno.txt	36	6374	6376	さつ					1	1	0	0
+Texts	T020_013a-luu-anno.txt	37	6394	6396	さつ					1	0	1	0
+Texts	T020_013a-luu-anno.txt	38	6659	6660	僕					1	1	0	0
+Texts	T020_013a-luu-anno.txt	39	6687	6689	パパ	01				1	0	1	0
+Texts	T020_013a-luu-anno.txt	40	6726	6728	パパ	01				1	0	1	0

@@ -1,0 +1,6 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T008_005c-luu-anno.txt	1	95	96	俺					1	1	0	0
+Texts	T008_005c-luu-anno.txt	2	1573	1575	自分					1	1	0	0
+Texts	T008_005c-luu-anno.txt	3	4260	4261	俺					1	1	0	0
+Texts	T008_005c-luu-anno.txt	4	6095	6096	俺					1	1	0	0
+Texts	T008_005c-luu-anno.txt	5	6173	6174	俺					1	1	0	0

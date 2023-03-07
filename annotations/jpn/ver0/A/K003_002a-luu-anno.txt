@@ -1,0 +1,22 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K003_002a-luu-anno.txt	1	125	127	うち					1	1	0	0
+Texts	K003_002a-luu-anno.txt	2	2045	2047	春菜					1	0	1	0
+Texts	K003_002a-luu-anno.txt	3	3613	3616	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	4	3916	3919	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	5	4174	4177	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	6	4321	4324	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	7	4617	4620	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	8	5063	5066	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	9	5244	5247	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	10	5427	5430	春菜)					1	0	1	0
+Texts	K003_002a-luu-anno.txt	11	6514	6517	わたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	12	6538	6541	わたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	13	6720	6723	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	14	7471	7474	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	15	7583	7586	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	16	7614	7617	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	17	8043	8046	春菜)					1	0	1	0
+Texts	K003_002a-luu-anno.txt	18	8449	8452	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	19	9371	9373	春菜					1	0	1	0
+Texts	K003_002a-luu-anno.txt	20	9700	9703	あたし					1	1	0	0
+Texts	K003_002a-luu-anno.txt	21	10000	10003	わたし					1	1	0	0

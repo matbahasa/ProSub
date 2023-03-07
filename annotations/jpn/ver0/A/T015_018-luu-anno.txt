@@ -1,0 +1,33 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T015_018-luu-anno.txt	1	108	110	親父	01 父親に向けて言っているかは不明				1	0	1	0
+Texts	T015_018-luu-anno.txt	2	556	559	あたし					1	1	0	0
+Texts	T015_018-luu-anno.txt	3	589	592	あなた					1	0	1	0
+Texts	T015_018-luu-anno.txt	4	1318	1320	翔太					1	0	1	0
+Texts	T015_018-luu-anno.txt	5	1334	1336	お父	03				1	1	0	0
+Texts	T015_018-luu-anno.txt	6	2724	2725	僕					1	1	0	0
+Texts	T015_018-luu-anno.txt	7	2865	2866	僕					1	1	0	0
+Texts	T015_018-luu-anno.txt	8	3796	3802	みさ)ちゃん					1	0	0	1
+Texts	T015_018-luu-anno.txt	9	5996	5997	翔					1	0	0	1
+Texts	T015_018-luu-anno.txt	10	6245	6250	お父さ:ん	03				1	0	0	1
+Texts	T015_018-luu-anno.txt	11	6276	6278	翔太					1	0	0	1
+Texts	T015_018-luu-anno.txt	12	6445	6447	みさ					1	1	0	0
+Texts	T015_018-luu-anno.txt	13	7473	7474	俺					1	1	0	0
+Texts	T015_018-luu-anno.txt	14	7475	7478	お%父	03				1	1	0	0
+Texts	T015_018-luu-anno.txt	15	9077	9079	みさ					1	0	1	0
+Texts	T015_018-luu-anno.txt	16	9827	9832	久子)さん					1	0	0	1
+Texts	T015_018-luu-anno.txt	17	10153	10155	みさ					1	0	0	1
+Texts	T015_018-luu-anno.txt	18	10797	10799	みさ					1	1	0	0
+Texts	T015_018-luu-anno.txt	19	12392	12395	あたし					1	1	0	0
+Texts	T015_018-luu-anno.txt	20	14060	14062	翔太					1	0	1	0
+Texts	T015_018-luu-anno.txt	21	14435	14437	翔太					1	0	1	0
+Texts	T015_018-luu-anno.txt	22	14524	14525	僕					1	1	0	0
+Texts	T015_018-luu-anno.txt	23	14526	14527	僕					1	1	0	0
+Texts	T015_018-luu-anno.txt	24	14545	14546	僕					1	1	0	0
+Texts	T015_018-luu-anno.txt	25	14904	14908	お母さん	03				1	1	0	0
+Texts	T015_018-luu-anno.txt	26	14950	14952	みさ					1	1	0	0
+Texts	T015_018-luu-anno.txt	27	14991	14993	お母	01				1	0	1	0
+Texts	T015_018-luu-anno.txt	28	15141	15144	お%母	03				1	1	0	0
+Texts	T015_018-luu-anno.txt	29	15843	15845	お母	03				1	1	0	0
+Texts	T015_018-luu-anno.txt	30	16990	16992	みさ					1	1	0	0
+Texts	T015_018-luu-anno.txt	31	17826	17828	みさ					1	0	1	0
+Texts	T015_018-luu-anno.txt	32	17886	17888	みさ					1	1	0	0

@@ -1,0 +1,5 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K011_019a-luu-anno.txt	1	455	459	美佳子:					1	0	0	1
+Texts	K011_019a-luu-anno.txt	2	547	550	美佳子					1	0	1	0
+Texts	K011_019a-luu-anno.txt	3	886	889	美佳子					1	0	0	1
+Texts	K011_019a-luu-anno.txt	4	1702	1705	美佳子					1	0	0	1

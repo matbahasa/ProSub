@@ -1,0 +1,58 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T020_025-luu-anno.txt	1	518	521	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	2	1142	1145	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	3	1691	1696	藤沢)先生					1	0	0	1
+Texts	T020_025-luu-anno.txt	4	1829	1835	槇原)く:ん					1	0	0	1
+Texts	T020_025-luu-anno.txt	5	1898	1899	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	6	5003	5008	槇原)先生					1	0	0	1
+Texts	T020_025-luu-anno.txt	7	5451	5452	俺					1	1	0	0
+Texts	T020_025-luu-anno.txt	8	6420	6422	自分					1	1	0	0
+Texts	T020_025-luu-anno.txt	9	6781	6784	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	10	6806	6809	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	11	8436	8439	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	12	8480	8483	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	13	9288	9290	我々					1	1	0	0
+Texts	T020_025-luu-anno.txt	14	9832	9835	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	15	9901	9906	藤沢)先生					1	0	1	0
+Texts	T020_025-luu-anno.txt	16	11740	11741	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	18	17351	17353	僕ら					1	1	0	0
+Texts	T020_025-luu-anno.txt	17	19274	19275	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	19	20038	20043	木暮)くん					1	0	1	0
+Texts	T020_025-luu-anno.txt	20	20123	20124	俺					1	1	0	0
+Texts	T020_025-luu-anno.txt	21	20150	20151	俺					1	1	0	0
+Texts	T020_025-luu-anno.txt	22	20336	20338	我々					1	1	0	0
+Texts	T020_025-luu-anno.txt	23	22673	22675	先生	01				1	0	0	1
+Texts	T020_025-luu-anno.txt	24	24409	24410	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	25	27891	27894	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	26	29788	29789	俺					1	1	0	0
+Texts	T020_025-luu-anno.txt	27	30429	30430	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	28	30482	30485	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	29	32580	32583	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	30	32803	32806	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	31	34370	34373	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	32	36048	36054	川)崎)先生	01				1	0	1	0
+Texts	T020_025-luu-anno.txt	34	37042	37045	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	33	37383	37384	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	35	37466	37467	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	36	39225	39227	我々					1	1	0	0
+Texts	T020_025-luu-anno.txt	37	40027	40029	我々					1	1	0	0
+Texts	T020_025-luu-anno.txt	38	40076	40081	木暮)くん					1	0	1	0
+Texts	T020_025-luu-anno.txt	39	40149	40151	我々					1	1	0	0
+Texts	T020_025-luu-anno.txt	40	41535	41536	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	41	44499	44500	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	42	45069	45071	僕ら					1	1	0	0
+Texts	T020_025-luu-anno.txt	43	49660	49665	木暮)くん					1	0	1	0
+Texts	T020_025-luu-anno.txt	44	57317	57322	川崎)先生	01				1	0	1	0
+Texts	T020_025-luu-anno.txt	45	57506	57518	川崎)(Y センセ|先生	01				1	0	1	0
+Texts	T020_025-luu-anno.txt	46	57669	57672	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	47	57852	57857	藤沢)先生	01				1	0	1	0
+Texts	T020_025-luu-anno.txt	48	58217	58218	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	49	58974	58977	わたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	50	59509	59512	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	51	59746	59751	藤沢)先生	01				1	0	1	0
+Texts	T020_025-luu-anno.txt	52	59922	59923	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	53	60736	60739	あたし					1	1	0	0
+Texts	T020_025-luu-anno.txt	54	61341	61342	俺					1	1	0	0
+Texts	T020_025-luu-anno.txt	55	61365	61366	僕					1	1	0	0
+Texts	T020_025-luu-anno.txt	56	61412	61414	我々					1	1	0	0
+Texts	T020_025-luu-anno.txt	57	61628	61630	我々					1	1	0	0

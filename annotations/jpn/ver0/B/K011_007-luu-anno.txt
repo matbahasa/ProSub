@@ -1,0 +1,23 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K011_007-luu-anno.txt	1	683	686	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	2	885	888	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	3	5908	5911	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	4	6107	6110	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	5	7529	7532	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	6	7887	7890	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	7	7979	7982	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	8	8632	8635	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	9	10110	10112	うち					1	1	0	0
+annotation	K011_007-luu-anno.txt	10	10120	10122	うち					1	1	0	0
+annotation	K011_007-luu-anno.txt	11	10139	10141	うち					1	1	0	0
+annotation	K011_007-luu-anno.txt	12	10222	10225	わたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	13	16220	16223	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	14	16907	16910	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	15	17756	17759	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	16	18062	18067	わたしたち					1	1	0	0
+annotation	K011_007-luu-anno.txt	17	18901	18904	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	18	24364	24367	わたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	19	26153	26156	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	20	26556	26559	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	21	27181	27184	あたし					1	1	0	0
+annotation	K011_007-luu-anno.txt	22	27459	27463	川原健斗					1	1	0	0

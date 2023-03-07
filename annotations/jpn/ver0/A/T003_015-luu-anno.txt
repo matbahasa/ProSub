@@ -1,0 +1,97 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_015-luu-anno.txt	9	778	779	婆	01 祖母？				1	0	0	1
+Texts	T003_015-luu-anno.txt	8	857	858	婆	01　祖母？				1	0	0	1
+Texts	T003_015-luu-anno.txt	1	998	1007	やっ)(W ク|君	ニックネーム？				1	1	0	0
+Texts	T003_015-luu-anno.txt	2	1775	1780	お姉ちゃん	由美のことなら03?				1	0	0	1
+Texts	T003_015-luu-anno.txt	3	2131	2142	やっ)(K ク:ン|君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	4	3289	3291	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	5	3718	3722	やっ)君	ニックネーム				1	0	0	1
+Texts	T003_015-luu-anno.txt	10	4223	4225	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	6	5437	5442	あんたたち					1	0	1	0
+Texts	T003_015-luu-anno.txt	7	5606	5610	お母さん	03?				1	1	0	0
+Texts	T003_015-luu-anno.txt	11	6540	6541	婆	01 祖母？				1	0	0	1
+Texts	T003_015-luu-anno.txt	12	7014	7018	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_015-luu-anno.txt	13	7717	7719	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	14	7830	7831	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	15	8137	8138	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	16	8175	8176	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	17	8590	8591	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	18	10715	10719	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_015-luu-anno.txt	19	10796	10800	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_015-luu-anno.txt	20	11779	11783	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_015-luu-anno.txt	21	12419	12421	パパ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	22	12838	12840	パパ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	23	14601	14603	ママ	03				1	0	1	0
+Texts	T003_015-luu-anno.txt	24	14685	14687	パパ	03				1	1	0	0
+Texts	T003_015-luu-anno.txt	25	14976	14978	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	26	15036	15038	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	27	15123	15125	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	28	15972	15974	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	29	16165	16167	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	30	16206	16208	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	31	16219	16221	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	32	16230	16232	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	33	16279	16283	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_015-luu-anno.txt	34	16689	16691	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	35	16706	16708	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	36	16889	16890	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	37	17076	17078	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	38	17172	17173	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	39	17212	17214	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	40	17243	17245	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	41	17288	17290	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	42	17328	17330	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	43	17477	17479	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	44	17489	17491	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	45	17501	17503	ママ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	46	18404	18406	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	47	18522	18525	ママ)	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	48	19747	19749	パパ	03				1	1	0	0
+Texts	T003_015-luu-anno.txt	49	20108	20112	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	50	20175	20179	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	51	20487	20488	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	52	20545	20547	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	53	20727	20730	あんた					1	0	1	0
+Texts	T003_015-luu-anno.txt	54	20772	20775	あんた					1	0	1	0
+Texts	T003_015-luu-anno.txt	55	20931	20933	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	56	20949	20950	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	57	21065	21069	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_015-luu-anno.txt	58	21609	21611	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	59	22041	22044	マ:マ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	60	22128	22130	パパ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	61	22148	22150	パパ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	62	22168	22170	パパ	03				1	1	0	0
+Texts	T003_015-luu-anno.txt	63	22311	22313	パパ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	64	23088	23093	あなたたち					1	0	1	0
+Texts	T003_015-luu-anno.txt	65	24735	24738	あたし					1	1	0	0
+Texts	T003_015-luu-anno.txt	66	25880	25882	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	67	26101	26105	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	68	26377	26381	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_015-luu-anno.txt	69	26408	26413	やっ))君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	70	26463	26467	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_015-luu-anno.txt	71	26915	26917	パパ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	72	26946	26950	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	73	26991	26995	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	74	27208	27218	や:っ)(W ク|君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	75	28349	28353	お父さん	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	76	28835	28839	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_015-luu-anno.txt	77	29351	29353	パパ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	78	29641	29643	パパ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	79	30430	30432	ママ	01				1	0	0	1
+Texts	T003_015-luu-anno.txt	80	30784	30788	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	81	30860	30864	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_015-luu-anno.txt	82	31089	31098	やっ)(W ク|君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	83	31549	31550	俺					1	1	0	0
+Texts	T003_015-luu-anno.txt	84	33122	33126	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	85	33955	33960	やっ))君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	86	34979	34981	パパ	01				1	0	1	0
+Texts	T003_015-luu-anno.txt	87	35011	35014	あなた					1	0	1	0
+Texts	T003_015-luu-anno.txt	88	35391	35395	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	89	35688	35692	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	90	37957	37961	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	91	38184	38188	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	92	38671	38675	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	93	38923	38924	拓					1	0	0	1
+Texts	T003_015-luu-anno.txt	94	39046	39047	拓					1	0	0	1
+Texts	T003_015-luu-anno.txt	95	39938	39942	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_015-luu-anno.txt	96	39954	39958	やっ)君	ニックネーム？				1	0	0	1

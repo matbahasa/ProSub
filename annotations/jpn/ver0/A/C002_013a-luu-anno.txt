@@ -1,0 +1,34 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C002_013a-luu-anno.txt	2	1292	1296	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	3	1423	1428	あたしたち					1	1	0	0
+Texts	C002_013a-luu-anno.txt	1	1708	1711	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	4	1802	1807	お母:さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	5	1877	1881	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	6	1896	1900	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	7	1930	1934	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	8	2281	2284	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	9	2393	2396	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	10	2509	2513	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	11	2521	2524	わたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	13	4248	4251	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	12	4284	4287	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	14	5000	5003	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	15	5108	5111	あんた					1	0	1	0
+Texts	C002_013a-luu-anno.txt	16	5125	5128	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	17	5228	5231	わたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	18	5590	5593	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	19	5690	5693	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	20	5701	5704	あんた					1	0	1	0
+Texts	C002_013a-luu-anno.txt	21	6400	6404	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	22	6471	6475	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	23	7301	7304	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	24	7542	7546	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	25	8637	8641	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	26	9392	9395	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	27	12655	12659	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	28	13032	13035	あたし					1	1	0	0
+Texts	C002_013a-luu-anno.txt	29	13152	13156	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	30	13474	13478	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	31	13922	13924	自分					1	1	0	0
+Texts	C002_013a-luu-anno.txt	32	13961	13965	お母さん	01				1	0	1	0
+Texts	C002_013a-luu-anno.txt	33	14147	14151	お母さん	01				1	0	1	0

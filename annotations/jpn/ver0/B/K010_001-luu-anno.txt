@@ -1,0 +1,100 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K010_001-luu-anno.txt	1	191	192	俺					1	1	0	0
+annotation	K010_001-luu-anno.txt	2	263	265	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	3	356	358	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	4	1911	1913	ママ	01				1	0	0	1
+annotation	K010_001-luu-anno.txt	5	1938	1940	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	6	3042	3044	紗矢					1	0	1	0
+annotation	K010_001-luu-anno.txt	7	3155	3157	ママ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	8	3484	3486	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	10	3650	3652	樫田					1	0	1	0
+annotation	K010_001-luu-anno.txt	9	3712	3714	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	11	3874	3876	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	12	3903	3907	わ:たし					1	1	0	0
+annotation	K010_001-luu-anno.txt	13	3966	3968	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	14	3999	4001	パパ	03				1	0	1	0
+annotation	K010_001-luu-anno.txt	15	4505	4510	紗矢)たち					1	1	0	0
+annotation	K010_001-luu-anno.txt	16	5545	5547	ママ	01				1	0	0	1
+annotation	K010_001-luu-anno.txt	17	5572	5574	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	18	5682	5685	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	19	5743	5746	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	20	5828	5830	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	21	5846	5848	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	23	6232	6234	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	22	6301	6303	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	24	6456	6459	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	25	6480	6483	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	26	6961	6963	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	27	6985	6987	紗矢					1	0	1	0
+annotation	K010_001-luu-anno.txt	28	7593	7595	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	29	7735	7737	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	30	7860	7862	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	31	8213	8215	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	32	8833	8835	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	33	8837	8839	ママ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	34	9174	9176	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	35	9372	9374	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	36	9710	9713	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	37	9894	9896	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	38	10280	10282	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	39	11287	11289	ママ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	40	11477	11479	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	41	11701	11703	パパ	03				1	0	1	0
+annotation	K010_001-luu-anno.txt	42	11841	11844	あたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	43	11897	11901	わたくし					1	1	0	0
+annotation	K010_001-luu-anno.txt	44	13644	13646	紗矢					1	0	1	0
+annotation	K010_001-luu-anno.txt	45	13958	13959	俺					1	1	0	0
+annotation	K010_001-luu-anno.txt	46	13991	13993	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	47	14083	14085	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	48	14236	14238	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	49	14363	14365	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	50	14924	14927	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	51	14999	15000	俺					1	1	0	0
+annotation	K010_001-luu-anno.txt	52	15031	15032	俺					1	1	0	0
+annotation	K010_001-luu-anno.txt	53	15959	15961	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	54	16022	16024	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	55	16049	16051	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	56	16867	16869	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	57	17166	17170	ママたち	01				1	1	0	0
+annotation	K010_001-luu-anno.txt	58	17287	17289	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	59	18945	18947	うち					1	1	0	0
+annotation	K010_001-luu-anno.txt	60	19323	19325	ママ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	61	20486	20491	あなたたち					1	0	1	0
+annotation	K010_001-luu-anno.txt	62	20778	20780	パパ	03				1	0	1	0
+annotation	K010_001-luu-anno.txt	63	21230	21231	俺					1	1	0	0
+annotation	K010_001-luu-anno.txt	64	21756	21758	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	65	22388	22391	わたし					1	1	0	0
+annotation	K010_001-luu-anno.txt	66	22751	22753	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	67	22923	22925	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	68	23022	23024	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	69	23092	23094	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	70	23877	23879	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	71	25921	25923	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	72	26284	26286	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	73	26342	26344	パパ	03				1	0	1	0
+annotation	K010_001-luu-anno.txt	74	26740	26742	パパ	01				1	0	1	0
+annotation	K010_001-luu-anno.txt	75	27258	27260	自分					1	1	0	0
+annotation	K010_001-luu-anno.txt	76	28551	28553	パパ	03				1	0	1	0
+annotation	K010_001-luu-anno.txt	77	28893	28895	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	78	29710	29713	紗矢)					1	1	0	0
+annotation	K010_001-luu-anno.txt	79	30187	30189	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	80	31257	31259	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	81	31347	31349	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	82	31427	31429	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	83	32116	32117	俺					1	1	0	0
+annotation	K010_001-luu-anno.txt	84	32302	32304	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	85	32434	32436	樫田					1	0	1	0
+annotation	K010_001-luu-anno.txt	86	32647	32649	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	87	32714	32716	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	88	33236	33238	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	89	33331	33333	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	90	33676	33678	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	91	33739	33741	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	92	33819	33821	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	93	33922	33924	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	94	33952	33954	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	96	34461	34463	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	95	34506	34508	紗矢					1	1	0	0
+annotation	K010_001-luu-anno.txt	97	34904	34906	お前					1	0	1	0
+annotation	K010_001-luu-anno.txt	98	34922	34925	かっし					1	0	1	0
+annotation	K010_001-luu-anno.txt	99	35527	35529	紗矢					1	1	0	0

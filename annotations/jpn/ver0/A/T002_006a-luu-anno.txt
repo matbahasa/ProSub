@@ -1,0 +1,11 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T002_006a-luu-anno.txt	1	2733	2736	あたし					1	1	0	0
+Texts	T002_006a-luu-anno.txt	2	2972	2975	あたし					1	1	0	0
+Texts	T002_006a-luu-anno.txt	3	3569	3572	あたし					1	1	0	0
+Texts	T002_006a-luu-anno.txt	4	5117	5122	直也)さん					1	0	0	1
+Texts	T002_006a-luu-anno.txt	5	5893	5896	あたし					1	1	0	0
+Texts	T002_006a-luu-anno.txt	6	6002	6007	直也)さん					1	0	1	0
+Texts	T002_006a-luu-anno.txt	7	9450	9451	俺					1	1	0	0
+Texts	T002_006a-luu-anno.txt	8	9683	9688	直也)さん					1	0	1	0
+Texts	T002_006a-luu-anno.txt	9	12688	12690	自分	再帰代名詞？				1	1	0	0
+Texts	T002_006a-luu-anno.txt	10	12720	12724	自分たち	再帰代名詞？				1	1	0	0

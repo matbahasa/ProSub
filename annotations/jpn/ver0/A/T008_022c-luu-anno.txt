@@ -1,0 +1,19 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T008_022c-luu-anno.txt	1	63	65	彩香					1	0	0	1
+Texts	T008_022c-luu-anno.txt	2	234	236	うち					1	1	0	0
+Texts	T008_022c-luu-anno.txt	3	248	251	わたし					1	1	0	0
+Texts	T008_022c-luu-anno.txt	4	737	739	うち					1	1	0	0
+Texts	T008_022c-luu-anno.txt	5	1386	1389	わたし					1	1	0	0
+Texts	T008_022c-luu-anno.txt	6	1431	1433	彩香					1	0	1	0
+Texts	T008_022c-luu-anno.txt	7	1461	1463	うち					1	1	0	0
+Texts	T008_022c-luu-anno.txt	8	1615	1617	うち					1	1	0	0
+Texts	T008_022c-luu-anno.txt	9	1858	1862	おじさん					1	1	0	0
+Texts	T008_022c-luu-anno.txt	10	1975	1979	おじさん					1	0	1	0
+Texts	T008_022c-luu-anno.txt	11	2247	2249	彩香					1	0	0	1
+Texts	T008_022c-luu-anno.txt	12	2577	2580	わたし					1	1	0	0
+Texts	T008_022c-luu-anno.txt	13	4026	4028	お前					1	0	1	0
+Texts	T008_022c-luu-anno.txt	14	5444	5448	おじさん					1	1	0	0
+Texts	T008_022c-luu-anno.txt	15	6100	6103	あたし					1	1	0	0
+Texts	T008_022c-luu-anno.txt	16	6500	6502	自分					1	1	0	0
+Texts	T008_022c-luu-anno.txt	17	6717	6719	彩香					1	0	1	0
+Texts	T008_022c-luu-anno.txt	18	7264	7266	自分					1	1	0	0

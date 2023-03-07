@@ -1,0 +1,70 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K010_016-luu-anno.txt	1	1212	1216	マッシュ					1	0	0	1
+Texts	K010_016-luu-anno.txt	2	1307	1309	パパ	01				1	0	0	1
+Texts	K010_016-luu-anno.txt	3	2115	2118	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	4	3692	3696	おめえ)					1	0	0	1
+Texts	K010_016-luu-anno.txt	5	3776	3778	お前					1	0	0	1
+Texts	K010_016-luu-anno.txt	6	3906	3908	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	7	4191	4193	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	8	4348	4351	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	9	4362	4364	お前	フィラー？				1	0	0	1
+Texts	K010_016-luu-anno.txt	10	4407	4417	お(K マ%エ:|前					1	0	0	1
+Texts	K010_016-luu-anno.txt	11	5061	5064	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	12	5593	5596	わたし					1	1	0	0
+Texts	K010_016-luu-anno.txt	13	6033	6036	わたし					1	1	0	0
+Texts	K010_016-luu-anno.txt	14	6792	6794	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	15	6846	6852	あなた)たち					1	0	1	0
+Texts	K010_016-luu-anno.txt	16	6877	6879	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	17	6887	6889	ママ	01				1	0	1	0
+Texts	K010_016-luu-anno.txt	18	6931	6933	ママ	01				1	0	1	0
+Texts	K010_016-luu-anno.txt	19	6959	6961	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	20	7844	7847	みんな	1st?				1	0	1	0
+Texts	K010_016-luu-anno.txt	21	8490	8493	紗矢)					1	1	0	0
+Texts	K010_016-luu-anno.txt	22	9043	9046	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	23	9162	9164	パパ	01				1	0	1	0
+Texts	K010_016-luu-anno.txt	24	9190	9192	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	25	9209	9211	お前	01　２nd or address(フィラー)?				1	0	0	1
+Texts	K010_016-luu-anno.txt	26	9212	9213	俺					1	1	0	0
+Texts	K010_016-luu-anno.txt	27	9242	9244	お前					1	0	0	1
+Texts	K010_016-luu-anno.txt	28	9314	9316	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	29	9396	9398	パパ	01				1	0	1	0
+Texts	K010_016-luu-anno.txt	30	11252	11254	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	31	13122	13125	あたし	引用				1	1	0	0
+Texts	K010_016-luu-anno.txt	32	13505	13508	あたし	引用				1	1	0	0
+Texts	K010_016-luu-anno.txt	33	17286	17287	僕	引用				1	1	0	0
+Texts	K010_016-luu-anno.txt	34	17315	17317	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	35	17395	17399	まっちゅ					1	0	0	1
+Texts	K010_016-luu-anno.txt	36	17807	17810	君たち					1	0	1	0
+Texts	K010_016-luu-anno.txt	37	18728	18730	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	38	19145	19147	お前					1	0	0	1
+Texts	K010_016-luu-anno.txt	39	19176	19179	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	40	19269	19272	あんた					1	0	0	1
+Texts	K010_016-luu-anno.txt	41	19307	19310	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	42	21309	21311	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	43	22703	22705	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	44	24074	24076	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	45	25139	25141	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	46	25228	25230	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	47	25328	25330	紗矢	引用				1	0	0	1
+Texts	K010_016-luu-anno.txt	48	25494	25500	紗矢)ちゃん	引用				1	0	0	1
+Texts	K010_016-luu-anno.txt	49	25671	25674	あたし					1	1	0	0
+Texts	K010_016-luu-anno.txt	50	25958	25960	お前					1	0	0	1
+Texts	K010_016-luu-anno.txt	51	26066	26068	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	52	26378	26380	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	53	26549	26554	紗矢)たち					1	1	0	0
+Texts	K010_016-luu-anno.txt	54	26630	26632	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	56	27031	27033	我々					1	1	0	0
+Texts	K010_016-luu-anno.txt	55	27092	27094	我々					1	1	0	0
+Texts	K010_016-luu-anno.txt	57	27157	27160	紗矢)					1	1	0	0
+Texts	K010_016-luu-anno.txt	58	28511	28513	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	59	28548	28550	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	60	28612	28615	おめえ					1	0	0	1
+Texts	K010_016-luu-anno.txt	61	28695	28697	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	62	28777	28780	おめえ					1	0	1	0
+Texts	K010_016-luu-anno.txt	63	28815	28817	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	64	29082	29085	あたし					1	1	0	0
+Texts	K010_016-luu-anno.txt	65	29558	29560	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	66	29621	29623	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	67	29724	29727	紗矢)					1	1	0	0
+Texts	K010_016-luu-anno.txt	68	29734	29736	紗矢					1	1	0	0
+Texts	K010_016-luu-anno.txt	69	29927	29931	わ:たし					1	1	0	0

@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K013_012-luu-anno.txt	1	7102	7105	あたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	2	7115	7121	とし)ちゃん					1	0	1	0
+Texts	K013_012-luu-anno.txt	3	7253	7255	お前	引用				1	0	1	0
+Texts	K013_012-luu-anno.txt	4	8052	8055	わたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	5	8502	8505	てめえ	例えとして				1	0	0	1
+Texts	K013_012-luu-anno.txt	6	11166	11168	お前					1	0	1	0
+Texts	K013_012-luu-anno.txt	7	12656	12659	わたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	8	16868	16869	俺					1	1	0	0
+Texts	K013_012-luu-anno.txt	9	18207	18210	わたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	10	20049	20052	わたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	11	21243	21247	あ:たし					1	1	0	0
+Texts	K013_012-luu-anno.txt	12	22802	22805	あんた					1	0	1	0
+Texts	K013_012-luu-anno.txt	13	22822	22825	あんた	引用				1	0	1	0
+Texts	K013_012-luu-anno.txt	14	23007	23008	俺					1	1	0	0
+Texts	K013_012-luu-anno.txt	15	23463	23466	あたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	16	23827	23830	わたし					1	1	0	0
+Texts	K013_012-luu-anno.txt	17	23994	23997	うちら					1	1	0	0
+Texts	K013_012-luu-anno.txt	18	24290	24293	うちら					1	1	0	0
+Texts	K013_012-luu-anno.txt	20	26682	26684	うち					1	1	0	0
+Texts	K013_012-luu-anno.txt	19	26712	26713	俺					1	1	0	0

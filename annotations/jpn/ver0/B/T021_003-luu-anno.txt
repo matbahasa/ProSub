@@ -1,0 +1,35 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T021_003-luu-anno.txt	1	604	605	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	21	695	700	お兄ちゃん	01				1	0	1	0
+Texts	T021_003-luu-anno.txt	4	2028	2033	船戸)さん					1	0	1	0
+Texts	T021_003-luu-anno.txt	3	2068	2071	わたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	2	2571	2572	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	5	2668	2669	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	6	2749	2752	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	7	3183	3186	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	8	4725	4726	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	9	6491	6494	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	10	6750	6751	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	11	6920	6921	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	12	7031	7032	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	13	7369	7370	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	14	7652	7655	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	15	7836	7837	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	16	8861	8864	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	17	9113	9114	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	20	9254	9259	お兄ちゃん	01				1	0	1	0
+Texts	T021_003-luu-anno.txt	18	9294	9297	わたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	19	9370	9371	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	22	9877	9880	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	23	11264	11268	兄ちゃん	01				1	0	1	0
+Texts	T021_003-luu-anno.txt	24	13252	13253	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	25	13337	13338	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	26	13939	13942	あなた					1	0	1	0
+Texts	T021_003-luu-anno.txt	34	14095	14096	僕					1	1	0	0
+Texts	T021_003-luu-anno.txt	27	15941	15944	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	28	16151	16154	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	29	16405	16408	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	30	16475	16476	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	31	16747	16750	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	32	16946	16949	わたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	33	17065	17066	僕					1	1	0	0

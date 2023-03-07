@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T007_016a-luu-anno.txt	1	57	60	わたし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	2	834	837	わたし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	3	1038	1043	鬼頭)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	4	1214	1219	きと)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	5	1703	1706	あたし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	6	1873	1878	きと)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	7	3266	3269	わたし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	8	3636	3640	わ%たし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	9	5596	5599	わたし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	10	6817	6822	鬼頭)さん					1	0	0	1
+Texts	T007_016a-luu-anno.txt	11	6822	6824	自分					1	0	1	0
+Texts	T007_016a-luu-anno.txt	12	6861	6863	自分					1	1	0	0
+Texts	T007_016a-luu-anno.txt	13	6921	6926	鬼頭)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	14	7843	7846	わたし					1	1	0	0
+Texts	T007_016a-luu-anno.txt	15	10297	10302	鬼頭)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	16	10508	10513	鬼頭)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	17	11526	11531	鬼頭)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	18	11592	11597	鬼頭)さん					1	0	1	0
+Texts	T007_016a-luu-anno.txt	19	11693	11695	塚田					1	1	0	0
+Texts	T007_016a-luu-anno.txt	20	13384	13387	わたし					1	1	0	0

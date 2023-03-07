@@ -1,0 +1,35 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K002_015-luu-anno.txt	1	68	72	お母さん	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	2	107	109	朔也					1	0	1	0
+Texts	K002_015-luu-anno.txt	3	404	406	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	4	724	729	あたしたち					1	1	0	0
+Texts	K002_015-luu-anno.txt	5	1467	1469	パパ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	6	1692	1693	俺					1	1	0	0
+Texts	K002_015-luu-anno.txt	7	3166	3168	ママ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	8	3280	3281	朔					1	0	1	0
+Texts	K002_015-luu-anno.txt	9	4344	4346	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	10	4383	4385	パパ	01				1	0	1	0
+Texts	K002_015-luu-anno.txt	30	4615	4617	ママ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	31	4847	4849	ママ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	11	4967	4968	朔					1	0	0	1
+Texts	K002_015-luu-anno.txt	12	5782	5784	朔也					1	0	1	0
+Texts	K002_015-luu-anno.txt	13	6427	6429	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	32	6671	6675	お母さん	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	14	6754	6756	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	15	6814	6818	お母さん	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	16	7147	7149	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	17	7186	7188	朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	18	8026	8028	朔也					1	0	1	0
+Texts	K002_015-luu-anno.txt	19	8063	8065	朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	34	9282	9284	自分					1	1	0	0
+Texts	K002_015-luu-anno.txt	33	9329	9332	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	20	9699	9701	朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	21	11383	11384	僕					1	1	0	0
+Texts	K002_015-luu-anno.txt	22	11549	11552	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	23	12598	12601	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	24	13830	13835	杉田)さん					1	0	1	0
+Texts	K002_015-luu-anno.txt	27	17040	17042	パパ	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	25	17084	17086	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	26	17097	17099	パパ	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	28	17540	17541	朔					1	0	0	1
+Texts	K002_015-luu-anno.txt	29	17639	17642	あたし					1	1	0	0

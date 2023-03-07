@@ -1,0 +1,25 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_018-luu-anno.txt	1	1299	1302	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	2	1753	1756	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	3	3715	3716	俺					1	1	0	0
+Texts	T009_018-luu-anno.txt	4	4065	4068	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	5	5433	5436	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	6	5518	5521	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	7	5853	5855	圭吾					1	0	1	0
+Texts	T009_018-luu-anno.txt	8	5862	5864	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	9	5953	5955	ママ	01				1	0	0	1
+Texts	T009_018-luu-anno.txt	10	6186	6189	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	11	6578	6581	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	12	6710	6713	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	13	7099	7102	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	14	7160	7163	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	15	7245	7247	圭吾					1	0	1	0
+Texts	T009_018-luu-anno.txt	16	7324	7327	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	17	7729	7732	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	18	8213	8216	みんな					1	0	1	0
+Texts	T009_018-luu-anno.txt	19	8234	8236	ママ	01				1	0	0	1
+Texts	T009_018-luu-anno.txt	20	8411	8413	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	21	8489	8491	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	22	8712	8714	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	23	9116	9118	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	24	9647	9649	ルリ					1	0	1	0

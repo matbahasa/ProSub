@@ -1,0 +1,29 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T001_008-luu-anno.txt	1	4014	4019	広瀬))君					1	0	1	0
+Texts	T001_008-luu-anno.txt	2	4042	4047	広瀬))君					1	0	1	0
+Texts	T001_008-luu-anno.txt	3	5008	5012	広瀬)君					1	0	1	0
+Texts	T001_008-luu-anno.txt	4	5987	5988	僕					1	1	0	0
+Texts	T001_008-luu-anno.txt	5	6352	6353	僕					1	1	0	0
+Texts	T001_008-luu-anno.txt	6	6627	6632	吉川)さん	引用				1	0	1	0
+Texts	T001_008-luu-anno.txt	7	7577	7583	吉川)さ:ん	引用				1	0	0	1
+Texts	T001_008-luu-anno.txt	8	7598	7604	吉川)さ:ん	引用				1	0	1	0
+Texts	T001_008-luu-anno.txt	9	7716	7717	俺	引用				1	1	0	0
+Texts	T001_008-luu-anno.txt	10	8462	8465	俺たち	引用				1	1	0	0
+Texts	T001_008-luu-anno.txt	11	8908	8911	俺たち	引用				1	1	0	0
+Texts	T001_008-luu-anno.txt	12	9157	9158	僕					1	1	0	0
+Texts	T001_008-luu-anno.txt	13	9330	9334	広瀬)君					1	0	1	0
+Texts	T001_008-luu-anno.txt	14	10077	10079	我々					1	1	0	0
+Texts	T001_008-luu-anno.txt	15	10214	10218	広瀬)君					1	0	1	0
+Texts	T001_008-luu-anno.txt	16	10238	10242	広瀬)君					1	0	1	0
+Texts	T001_008-luu-anno.txt	17	10294	10298	広瀬)君					1	0	0	1
+Texts	T001_008-luu-anno.txt	18	10373	10377	広瀬)君					1	0	1	0
+Texts	T001_008-luu-anno.txt	19	11207	11210	あたし					1	1	0	0
+Texts	T001_008-luu-anno.txt	20	11683	11684	僕					1	1	0	0
+Texts	T001_008-luu-anno.txt	24	11688	11693	吉川)閣下	あだ名？				1	0	1	0
+Texts	T001_008-luu-anno.txt	21	11889	11890	俺					1	1	0	0
+Texts	T001_008-luu-anno.txt	22	11948	11949	俺	引用				1	1	0	0
+Texts	T001_008-luu-anno.txt	23	12987	12990	わたし					1	1	0	0
+Texts	T001_008-luu-anno.txt	25	13112	13117	吉川)閣下	あだ名？				1	0	1	0
+Texts	T001_008-luu-anno.txt	26	13357	13361	広瀬)君					1	0	1	0
+Texts	T001_008-luu-anno.txt	27	13451	13452	僕					1	1	0	0
+Texts	T001_008-luu-anno.txt	28	14357	14360	わたし					1	1	0	0

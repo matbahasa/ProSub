@@ -1,0 +1,28 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K010_005a-luu-anno.txt	1	1290	1295	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	2	1340	1341	僕					1	1	0	0
+Texts	K010_005a-luu-anno.txt	3	1556	1561	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	4	1976	1977	俺					1	1	0	0
+Texts	K010_005a-luu-anno.txt	5	2717	2718	俺					1	1	0	0
+Texts	K010_005a-luu-anno.txt	6	2852	2857	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	7	2883	2884	俺					1	1	0	0
+Texts	K010_005a-luu-anno.txt	8	3360	3365	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	9	3437	3442	岸尾)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	10	5831	5836	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	11	6766	6771	岸尾)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	12	7571	7573	俺:					1	1	0	0
+Texts	K010_005a-luu-anno.txt	13	8118	8123	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	14	8144	8149	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	15	9394	9399	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	16	9720	9721	俺					1	1	0	0
+Texts	K010_005a-luu-anno.txt	17	10072	10077	岸尾)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	18	10095	10100	岸尾)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	19	10844	10849	岸尾)さん	引用				1	0	0	1
+Texts	K010_005a-luu-anno.txt	20	10925	10930	岸尾)さん	引用				1	0	1	0
+Texts	K010_005a-luu-anno.txt	21	11262	11267	岸尾)さん	引用				1	0	1	0
+Texts	K010_005a-luu-anno.txt	22	11523	11524	僕					1	1	0	0
+Texts	K010_005a-luu-anno.txt	23	12541	12546	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	24	12769	12774	岸尾)さん					1	0	0	1
+Texts	K010_005a-luu-anno.txt	25	12947	12948	俺					1	1	0	0
+Texts	K010_005a-luu-anno.txt	26	13074	13079	樫田)さん					1	0	1	0
+Texts	K010_005a-luu-anno.txt	27	13121	13122	俺					1	1	0	0

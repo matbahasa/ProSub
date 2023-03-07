@@ -1,0 +1,46 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T010_007-luu-anno.txt	1	124	127	ロペス					1	0	1	0
+Texts	T010_007-luu-anno.txt	2	753	758	わたしたち					1	1	0	0
+Texts	T010_007-luu-anno.txt	3	959	964	大槻)先生					1	1	0	0
+Texts	T010_007-luu-anno.txt	4	1565	1570	わたしたち					1	1	0	0
+Texts	T010_007-luu-anno.txt	5	1686	1698	大槻)(Y センセ|先生					1	1	0	0
+Texts	T010_007-luu-anno.txt	6	2332	2335	ロペス					1	0	0	1
+Texts	T010_007-luu-anno.txt	7	2661	2663	大槻					1	1	0	0
+Texts	T010_007-luu-anno.txt	8	5074	5075	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	9	5472	5473	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	10	5484	5487	ロペス					1	0	1	0
+Texts	T010_007-luu-anno.txt	11	6028	6029	俺					1	1	0	0
+Texts	T010_007-luu-anno.txt	12	6378	6383	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	13	6552	6553	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	14	6727	6732	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	15	6818	6823	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	16	6844	6846	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	17	7076	7078	先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	18	7324	7336	大槻)(Y センセ|先生	01				1	0	0	1
+Texts	T010_007-luu-anno.txt	19	7497	7499	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	20	7808	7811	ロペス					1	0	1	0
+Texts	T010_007-luu-anno.txt	21	8258	8260	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	22	8440	8442	先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	23	8551	8556	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	24	8609	8612	ロペス					1	1	0	0
+Texts	T010_007-luu-anno.txt	25	8673	8674	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	26	8930	8931	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	27	8932	8933	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	28	9093	9098	大槻)先生					1	1	0	0
+Texts	T010_007-luu-anno.txt	29	9113	9118	大槻)先生					1	1	0	0
+Texts	T010_007-luu-anno.txt	30	9337	9342	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	31	9538	9543	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	32	9639	9641	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	33	9912	9915	ロペス					1	0	1	0
+Texts	T010_007-luu-anno.txt	34	9948	9951	ロペス					1	0	1	0
+Texts	T010_007-luu-anno.txt	35	10142	10145	ロペス					1	0	1	0
+Texts	T010_007-luu-anno.txt	36	10264	10265	僕					1	1	0	0
+Texts	T010_007-luu-anno.txt	37	10404	10406	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	38	10989	10991	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	39	10993	10995	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	40	11039	11040	俺					1	1	0	0
+Texts	T010_007-luu-anno.txt	41	11237	11239	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	42	11455	11457	先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	43	12430	12432	自分					1	1	0	0
+Texts	T010_007-luu-anno.txt	44	12453	12458	大槻)先生	01				1	0	1	0
+Texts	T010_007-luu-anno.txt	45	12551	12563	大槻)(Y センセ|先生	01				1	0	0	1

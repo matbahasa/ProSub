@@ -1,0 +1,115 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T016_002-luu-anno.txt	1	126	128	ママ	01				1	0	0	1
+Texts	T016_002-luu-anno.txt	2	772	773	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	3	1368	1370	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	4	3491	3492	謙					1	0	0	1
+Texts	T016_002-luu-anno.txt	6	3843	3845	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	5	3886	3887	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	7	3938	3942	お母さん	03				1	1	0	0
+Texts	T016_002-luu-anno.txt	8	4000	4002	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	10	4400	4403	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	9	4412	4416	お母さん	03				1	1	0	0
+Texts	T016_002-luu-anno.txt	11	4427	4429	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	12	5195	5197	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	13	5251	5253	おら					1	1	0	0
+Texts	T016_002-luu-anno.txt	14	5349	5353	お母さん	03				1	1	0	0
+Texts	T016_002-luu-anno.txt	15	5569	5570	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	16	6134	6135	謙					1	0	0	1
+Texts	T016_002-luu-anno.txt	17	6908	6913	斎藤さ:ん					1	0	0	1
+Texts	T016_002-luu-anno.txt	18	7234	7236	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	19	7308	7311	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	20	7472	7474	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	21	7706	7707	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	22	7708	7709	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	23	7799	7803	お母さん	01				1	0	0	1
+Texts	T016_002-luu-anno.txt	24	8226	8227	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	25	8473	8475	俺ら					1	1	0	0
+Texts	T016_002-luu-anno.txt	26	8679	8683	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	27	8890	8893	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	28	8975	8980	わたしたち					1	1	0	0
+Texts	T016_002-luu-anno.txt	29	9330	9332	自分					1	1	0	0
+Texts	T016_002-luu-anno.txt	30	9554	9558	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	32	10716	10719	わたし					1	1	0	0
+Texts	T016_002-luu-anno.txt	31	11234	11236	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	33	11262	11264	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	34	11366	11369	あなた					1	0	1	0
+Texts	T016_002-luu-anno.txt	35	11587	11589	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	36	11685	11687	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	37	11788	11799	お)(W ト|父)さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	38	11839	11840	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	39	11848	11852	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	40	12042	12044	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	41	12579	12580	謙					1	0	0	1
+Texts	T016_002-luu-anno.txt	42	12867	12871	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	43	12943	12947	お父さん	03				1	1	0	0
+Texts	T016_002-luu-anno.txt	44	12965	12967	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	45	13284	13286	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	46	13321	13323	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	47	13395	13399	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	48	13466	13467	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	49	13639	13641	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	50	13642	13644	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	51	14170	14172	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	53	15030	15033	わたし					1	1	0	0
+Texts	T016_002-luu-anno.txt	54	15236	15240	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	55	15311	15313	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	56	15333	15334	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	59	15347	15351	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	57	15385	15386	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	58	15390	15391	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	60	15421	15425	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	52	15763	15767	お母さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	61	15778	15782	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	62	16273	16278	謙)ちゃん					1	0	1	0
+Texts	T016_002-luu-anno.txt	63	16309	16311	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	64	16589	16593	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	65	16623	16628	お%父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	66	16656	16658	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	67	16679	16681	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	68	16719	16721	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	69	16805	16809	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	70	16813	16817	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	71	16886	16888	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	72	16951	16953	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	73	16994	16995	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	74	17045	17048	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	75	17330	17331	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	76	17338	17339	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	77	17874	17876	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	78	17992	17995	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	79	18343	18344	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	80	18348	18349	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	81	18382	18387	ばっちゃん					1	0	0	1
+Texts	T016_002-luu-anno.txt	82	18867	18868	君					1	0	1	0
+Texts	T016_002-luu-anno.txt	83	20906	20908	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	84	21010	21014	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	85	21064	21066	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	86	21364	21366	貴様					1	0	1	0
+Texts	T016_002-luu-anno.txt	87	21386	21391	謙)ちゃん					1	0	0	1
+Texts	T016_002-luu-anno.txt	88	21512	21515	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	89	21825	21826	謙					1	0	0	1
+Texts	T016_002-luu-anno.txt	90	21885	21890	謙)ちゃん					1	0	0	1
+Texts	T016_002-luu-anno.txt	91	22028	22031	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	92	22096	22099	わたし					1	1	0	0
+Texts	T016_002-luu-anno.txt	93	22863	22865	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	94	23030	23032	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	95	23099	23100	謙					1	0	1	0
+Texts	T016_002-luu-anno.txt	96	23345	23349	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	97	23734	23740	理奈)ちゃん					1	0	1	0
+Texts	T016_002-luu-anno.txt	98	23824	23827	あなた					1	0	1	0
+Texts	T016_002-luu-anno.txt	99	23874	23880	理奈)ちゃん					1	0	1	0
+Texts	T016_002-luu-anno.txt	100	23965	23967	謙一					1	0	1	0
+Texts	T016_002-luu-anno.txt	101	24169	24170	俺					1	1	0	0
+Texts	T016_002-luu-anno.txt	102	24618	24621	わたし					1	1	0	0
+Texts	T016_002-luu-anno.txt	103	24757	24762	お)父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	104	24797	24801	お母さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	105	24817	24821	お母さん	03				1	1	0	0
+Texts	T016_002-luu-anno.txt	106	24899	24909	お(W ト|父)さん	03				1	1	0	0
+Texts	T016_002-luu-anno.txt	107	25284	25287	あんた					1	0	1	0
+Texts	T016_002-luu-anno.txt	108	25494	25498	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	109	26086	26088	君ら					1	0	1	0
+Texts	T016_002-luu-anno.txt	111	26404	26408	お父さん	01				1	0	1	0
+Texts	T016_002-luu-anno.txt	110	28046	28048	お前					1	0	1	0
+Texts	T016_002-luu-anno.txt	112	28108	28110	謙一					1	0	0	1
+Texts	T016_002-luu-anno.txt	113	28204	28209	謙)ちゃん					1	0	0	1
+Texts	T016_002-luu-anno.txt	114	28252	28257	謙)ちゃん					1	0	0	1

@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_017-luu-anno.txt	1	55	58	シュン					1	0	0	1
+Texts	T009_017-luu-anno.txt	2	710	712	ルリ					1	0	1	0
+Texts	T009_017-luu-anno.txt	3	1673	1675	お前					1	0	1	0
+Texts	T009_017-luu-anno.txt	4	1693	1695	お前					1	0	1	0
+Texts	T009_017-luu-anno.txt	5	1806	1809	あたし					1	1	0	0
+Texts	T009_017-luu-anno.txt	6	2050	2055	ルリ)さん					1	0	1	0
+Texts	T009_017-luu-anno.txt	7	2113	2116	シュン					1	0	1	0
+Texts	T009_017-luu-anno.txt	8	2161	2166	ルリ)さん					1	0	1	0
+Texts	T009_017-luu-anno.txt	9	2702	2705	シュン					1	0	0	1
+Texts	T009_017-luu-anno.txt	10	2869	2872	あたし					1	1	0	0
+Texts	T009_017-luu-anno.txt	11	3985	3986	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	12	3997	3999	自分					1	1	0	0
+Texts	T009_017-luu-anno.txt	13	4119	4120	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	14	4390	4392	ルリ					1	0	1	0
+Texts	T009_017-luu-anno.txt	15	4630	4632	俺ら					1	1	0	0
+Texts	T009_017-luu-anno.txt	16	4780	4782	ルリ					1	0	1	0
+Texts	T009_017-luu-anno.txt	17	4794	4795	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	18	4856	4859	わたし					1	1	0	0
+Texts	T009_017-luu-anno.txt	19	7951	7953	ルリ					1	0	1	0
+Texts	T009_017-luu-anno.txt	20	8501	8504	わたし					1	1	0	0
+Texts	T009_017-luu-anno.txt	21	8644	8645	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	22	8790	8798	シュン) ちゃん					1	0	1	0
+Texts	T009_017-luu-anno.txt	23	8932	8935	兄さん	02				1	0	1	0
+Texts	T009_017-luu-anno.txt	24	9155	9159	お兄さん	02				1	1	0	0
+Texts	T009_017-luu-anno.txt	25	9648	9650	ルリ					1	0	1	0
+Texts	T009_017-luu-anno.txt	26	9662	9663	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	27	10021	10024	姉さん	02				1	0	0	1
+Texts	T009_017-luu-anno.txt	28	10127	10129	ルリ					1	0	1	0
+Texts	T009_017-luu-anno.txt	29	10169	10172	シュン					1	0	0	1
+Texts	T009_017-luu-anno.txt	30	11002	11005	あたし					1	1	0	0
+Texts	T009_017-luu-anno.txt	31	13706	13709	シュン					1	0	1	0
+Texts	T009_017-luu-anno.txt	32	13743	13746	シュン					1	0	1	0
+Texts	T009_017-luu-anno.txt	33	13857	13858	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	34	13900	13906	シュン)さん					1	0	1	0
+Texts	T009_017-luu-anno.txt	35	13968	13969	俺					1	1	0	0
+Texts	T009_017-luu-anno.txt	36	14112	14115	あたし					1	1	0	0
+Texts	T009_017-luu-anno.txt	37	15792	15793	俺					1	1	0	0

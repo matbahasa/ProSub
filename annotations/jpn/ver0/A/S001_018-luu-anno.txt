@@ -1,0 +1,27 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S001_018-luu-anno.txt	1	80	85	園部)さん					1	0	1	0
+Texts	S001_018-luu-anno.txt	2	130	133	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	3	15549	15552	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	4	17207	17212	堀江)さん					1	0	1	0
+Texts	S001_018-luu-anno.txt	5	17671	17674	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	6	17867	17870	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	7	20650	20653	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	8	24580	24581	俺					1	1	0	0
+Texts	S001_018-luu-anno.txt	9	25058	25061	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	10	25417	25420	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	11	25423	25428	あたしたち					1	1	0	0
+Texts	S001_018-luu-anno.txt	12	25710	25713	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	13	26565	26568	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	14	27592	27595	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	15	27732	27735	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	16	27949	27954	堀江)さん					1	0	1	0
+Texts	S001_018-luu-anno.txt	17	28360	28363	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	18	28687	28692	堀江)さん	引用				1	0	0	1
+Texts	S001_018-luu-anno.txt	19	29685	29688	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	20	32548	32551	わたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	21	32705	32706	俺					1	1	0	0
+Texts	S001_018-luu-anno.txt	22	33552	33557	堀江)さん					1	0	0	1
+Texts	S001_018-luu-anno.txt	23	34290	34291	僕					1	1	0	0
+Texts	S001_018-luu-anno.txt	24	35825	35828	あたし	引用				1	1	0	0
+Texts	S001_018-luu-anno.txt	25	38231	38234	あたし					1	1	0	0
+Texts	S001_018-luu-anno.txt	26	39952	39957	わたしたち					1	1	0	0

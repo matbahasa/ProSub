@@ -1,0 +1,36 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T020_013b-luu-anno.txt	1	219	223	さっぽん					1	0	1	0
+Texts	T020_013b-luu-anno.txt	2	467	469	さつ					1	1	0	0
+Texts	T020_013b-luu-anno.txt	3	496	498	さつ					1	1	0	0
+Texts	T020_013b-luu-anno.txt	4	515	517	パパ	03				1	1	0	0
+Texts	T020_013b-luu-anno.txt	5	722	724	皐月					1	0	1	0
+Texts	T020_013b-luu-anno.txt	6	778	780	皐月					1	1	0	0
+Texts	T020_013b-luu-anno.txt	7	832	834	パパ	01				1	0	1	0
+Texts	T020_013b-luu-anno.txt	8	955	957	葉月					1	0	1	0
+Texts	T020_013b-luu-anno.txt	9	2125	2127	お前					1	0	1	0
+Texts	T020_013b-luu-anno.txt	10	2449	2451	さつ					1	0	0	1
+Texts	T020_013b-luu-anno.txt	11	2602	2603	君					1	0	1	0
+Texts	T020_013b-luu-anno.txt	12	2783	2785	皐月					1	1	0	0
+Texts	T020_013b-luu-anno.txt	13	2943	2945	パパ	03				1	1	0	0
+Texts	T020_013b-luu-anno.txt	14	2986	2989	みんな					1	0	1	0
+Texts	T020_013b-luu-anno.txt	16	3018	3023	陽)ちゃん					1	0	0	1
+Texts	T020_013b-luu-anno.txt	15	3088	3090	パパ	01				1	0	1	0
+Texts	T020_013b-luu-anno.txt	17	3527	3529	葉月					1	0	1	0
+Texts	T020_013b-luu-anno.txt	18	3680	3684	さっぽん					1	0	0	1
+Texts	T020_013b-luu-anno.txt	19	4009	4011	葉月					1	0	0	1
+Texts	T020_013b-luu-anno.txt	23	4129	4134	はー)さん					1	0	0	1
+Texts	T020_013b-luu-anno.txt	20	4198	4202	さっぽん					1	0	1	0
+Texts	T020_013b-luu-anno.txt	21	4376	4378	葉月					1	0	0	1
+Texts	T020_013b-luu-anno.txt	22	4631	4636	はー)さん					1	0	0	1
+Texts	T020_013b-luu-anno.txt	24	4769	4773	さっぽん					1	0	1	0
+Texts	T020_013b-luu-anno.txt	25	4876	4878	葉月					1	0	1	0
+Texts	T020_013b-luu-anno.txt	26	4904	4906	葉月					1	0	0	1
+Texts	T020_013b-luu-anno.txt	27	5075	5076	は					1	0	0	1
+Texts	T020_013b-luu-anno.txt	28	5143	5145	パパ	01				1	0	0	1
+Texts	T020_013b-luu-anno.txt	29	5482	5484	葉月					1	1	0	0
+Texts	T020_013b-luu-anno.txt	30	5966	5970	さっぽん					1	0	0	1
+Texts	T020_013b-luu-anno.txt	31	6054	6056	葉月					1	0	1	0
+Texts	T020_013b-luu-anno.txt	32	6169	6170	俺					1	1	0	0
+Texts	T020_013b-luu-anno.txt	33	6254	6255	俺					1	1	0	0
+Texts	T020_013b-luu-anno.txt	34	6406	6410	さっぽん					1	0	0	1
+Texts	T020_013b-luu-anno.txt	35	6470	6472	パパ	01				1	0	0	1

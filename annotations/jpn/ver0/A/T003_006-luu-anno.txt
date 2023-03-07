@@ -1,0 +1,36 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_006-luu-anno.txt	1	5160	5165	あなたたち					1	0	1	0
+Texts	T003_006-luu-anno.txt	2	7361	7362	俺					1	1	0	0
+Texts	T003_006-luu-anno.txt	3	10861	10867	おじいちゃん	01? 03?				1	0	0	0
+Texts	T003_006-luu-anno.txt	4	12313	12316	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	5	12322	12326	あ%たし					1	1	0	0
+Texts	T003_006-luu-anno.txt	6	14655	14659	お母さん	04? 03?				1	1	0	0
+Texts	T003_006-luu-anno.txt	7	15459	15463	お母さん	04? 03?				1	1	0	0
+Texts	T003_006-luu-anno.txt	8	16156	16159	わたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	9	17363	17366	あなた	引用				1	0	1	0
+Texts	T003_006-luu-anno.txt	10	18270	18274	あなた(	引用？　比喩？				1	0	1	0
+Texts	T003_006-luu-anno.txt	11	19429	19434	由美)さん					1	0	1	0
+Texts	T003_006-luu-anno.txt	12	20597	20601	お母さん	03?				1	0	1	0
+Texts	T003_006-luu-anno.txt	13	23091	23096	わたしたち					1	1	0	0
+Texts	T003_006-luu-anno.txt	14	25169	25172	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	15	25562	25566	お母さん	03?				1	1	0	0
+Texts	T003_006-luu-anno.txt	16	26175	26178	わたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	17	26707	26710	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	18	28148	28153	わたしたち					1	1	0	0
+Texts	T003_006-luu-anno.txt	19	28749	28752	わたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	20	31316	31319	わたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	21	31490	31494	わたくし					1	1	0	0
+Texts	T003_006-luu-anno.txt	22	32898	32901	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	23	32976	32979	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	24	34318	34321	あんた					1	0	1	0
+Texts	T003_006-luu-anno.txt	25	34507	34511	お母さん	03? 04?				1	1	0	0
+Texts	T003_006-luu-anno.txt	26	34886	34890	お客さま	引用（なりすまし）				1	0	0	1
+Texts	T003_006-luu-anno.txt	27	35099	35103	お客さま	引用（なりすまし）				1	0	0	1
+Texts	T003_006-luu-anno.txt	28	35444	35447	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	29	35688	35691	わたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	30	35759	35762	わたし	引用？				1	1	0	0
+Texts	T003_006-luu-anno.txt	31	38428	38431	僕たち					1	1	0	0
+Texts	T003_006-luu-anno.txt	32	38759	38762	栄子)	引用　2nd?				1	0	1	0
+Texts	T003_006-luu-anno.txt	33	38981	38984	あたし					1	1	0	0
+Texts	T003_006-luu-anno.txt	34	39035	39042	坂本和子)さん	引用				1	0	0	1
+Texts	T003_006-luu-anno.txt	35	39248	39250	栄子	引用				1	0	0	1

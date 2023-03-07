@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T021_010a-luu-anno.txt	21	613	615	ママ	04				1	0	1	0
+Texts	T021_010a-luu-anno.txt	1	2944	2946	宗哲					1	0	0	1
+Texts	T021_010a-luu-anno.txt	2	3014	3016	宗哲					1	0	0	1
+Texts	T021_010a-luu-anno.txt	3	3159	3161	宗哲					1	0	1	0
+Texts	T021_010a-luu-anno.txt	4	3522	3525	母さん	01				1	0	0	1
+Texts	T021_010a-luu-anno.txt	5	3947	3950	わたし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	6	4103	4108	進治)さん					1	0	1	0
+Texts	T021_010a-luu-anno.txt	22	4248	4250	ママ	03				1	0	1	0
+Texts	T021_010a-luu-anno.txt	23	4269	4274	岩木)さん					1	0	0	1
+Texts	T021_010a-luu-anno.txt	8	4432	4434	パパ	03				1	0	0	1
+Texts	T021_010a-luu-anno.txt	7	4461	4464	あたし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	9	4881	4884	あたし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	10	5250	5255	進治)くん					1	0	0	1
+Texts	T021_010a-luu-anno.txt	11	5289	5291	パパ	03				1	0	1	0
+Texts	T021_010a-luu-anno.txt	12	6731	6734	わたし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	13	7696	7701	あなたたち					1	0	1	0
+Texts	T021_010a-luu-anno.txt	14	7718	7720	わし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	15	7878	7881	みんな					1	0	1	0
+Texts	T021_010a-luu-anno.txt	16	8081	8083	わし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	17	8384	8386	わし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	18	8433	8435	わし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	19	8560	8562	わし					1	1	0	0
+Texts	T021_010a-luu-anno.txt	20	9803	9805	お前					1	0	1	0

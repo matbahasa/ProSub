@@ -1,0 +1,81 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T011_015-luu-anno.txt	1	36	38	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	2	89	92	パ:パ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	3	290	292	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	4	472	473	俺					1	1	0	0
+Texts	T011_015-luu-anno.txt	5	558	559	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	6	682	684	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	7	907	910	みんな					1	0	0	1
+Texts	T011_015-luu-anno.txt	8	1054	1056	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	9	1293	1296	パ:パ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	10	1425	1427	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	11	1495	1497	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	12	1894	1896	ママ	03				1	1	0	0
+Texts	T011_015-luu-anno.txt	13	2156	2158	ママ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	14	2187	2189	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	15	2196	2198	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	16	2271	2273	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	17	2336	2338	ママ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	18	2398	2400	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	19	2610	2612	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	20	2755	2757	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	21	2820	2825	きっ)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	22	2878	2881	パ:パ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	23	2989	2992	パ:パ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	24	3517	3520	みんな					1	0	1	0
+Texts	T011_015-luu-anno.txt	25	3529	3532	みんな					1	0	1	0
+Texts	T011_015-luu-anno.txt	26	3540	3543	みんな					1	0	1	0
+Texts	T011_015-luu-anno.txt	27	3558	3561	みんな					1	0	1	0
+Texts	T011_015-luu-anno.txt	28	3621	3623	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	29	3864	3869	きっ)くん					1	0	1	0
+Texts	T011_015-luu-anno.txt	30	3922	3924	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	31	4254	4256	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	32	4295	4297	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	33	4411	4416	きっ)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	34	4457	4462	きっ)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	35	4641	4643	ママ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	36	4763	4764	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	37	5122	5123	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	38	5150	5151	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	39	5169	5174	清隆)くん					1	0	1	0
+Texts	T011_015-luu-anno.txt	40	5238	5243	清隆)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	41	5356	5357	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	42	5473	5474	俺					1	1	0	0
+Texts	T011_015-luu-anno.txt	43	6219	6220	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	44	6264	6265	僕					1	1	0	0
+Texts	T011_015-luu-anno.txt	46	6648	6650	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	45	6680	6681	君					1	0	1	0
+Texts	T011_015-luu-anno.txt	48	7326	7328	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	49	7337	7339	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	47	7353	7355	お前					1	0	1	0
+Texts	T011_015-luu-anno.txt	50	7522	7524	ママ	03				1	1	0	0
+Texts	T011_015-luu-anno.txt	51	7680	7681	俺					1	1	0	0
+Texts	T011_015-luu-anno.txt	52	7941	7943	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	53	8641	8643	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	54	8913	8915	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	55	8998	9000	ママ	03				1	1	0	0
+Texts	T011_015-luu-anno.txt	56	9428	9430	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	57	9439	9441	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	58	10143	10146	お前ら					1	0	1	0
+Texts	T011_015-luu-anno.txt	59	10242	10244	翔真					1	0	1	0
+Texts	T011_015-luu-anno.txt	60	10376	10381	きっ)くん					1	0	1	0
+Texts	T011_015-luu-anno.txt	61	10409	10410	俺					1	1	0	0
+Texts	T011_015-luu-anno.txt	62	10454	10456	清隆					1	0	1	0
+Texts	T011_015-luu-anno.txt	63	10565	10567	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	64	11094	11099	きっ)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	65	11535	11537	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	66	11564	11566	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	67	12672	12674	ママ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	68	12989	12991	翔真					1	0	0	1
+Texts	T011_015-luu-anno.txt	69	13064	13066	ママ	03				1	1	0	0
+Texts	T011_015-luu-anno.txt	70	13670	13673	みんな					1	0	1	0
+Texts	T011_015-luu-anno.txt	71	13741	13744	あんた					1	0	1	0
+Texts	T011_015-luu-anno.txt	72	14130	14132	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	73	14168	14170	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	74	14180	14181	俺					1	1	0	0
+Texts	T011_015-luu-anno.txt	75	14208	14210	パパ	01				1	0	1	0
+Texts	T011_015-luu-anno.txt	76	14519	14521	パパ	01				1	0	0	1
+Texts	T011_015-luu-anno.txt	77	15091	15096	きっ)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	78	15248	15253	きっ)くん					1	0	0	1
+Texts	T011_015-luu-anno.txt	79	15542	15547	きっ)くん					1	0	1	0
+Texts	T011_015-luu-anno.txt	80	15715	15717	ママ	03				1	1	0	0

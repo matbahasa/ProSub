@@ -1,0 +1,20 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K011_016a-luu-anno.txt	1	1659	1662	あんた	フィラー？				1	0	0	1
+Texts	K011_016a-luu-anno.txt	2	2016	2020	おばさん	1stの可能性あり。　03				1	1	0	0
+Texts	K011_016a-luu-anno.txt	3	2107	2111	あ:んた	フィラー				1	0	0	1
+Texts	K011_016a-luu-anno.txt	4	2263	2266	あんた	フィラー				1	0	0	1
+Texts	K011_016a-luu-anno.txt	5	3086	3089	わたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	6	6700	6703	あたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	7	8346	8349	あたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	8	9885	9888	あたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	9	9974	9977	わたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	10	10423	10426	わたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	11	14694	14701	おばあちゃん(	01				1	0	1	0
+Texts	K011_016a-luu-anno.txt	13	15399	15402	沙知代					1	1	0	0
+Texts	K011_016a-luu-anno.txt	12	15415	15418	あんた	フィラー				1	0	0	1
+Texts	K011_016a-luu-anno.txt	14	17485	17488	あたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	15	18690	18694	おばさん	誰に向かって言っているか不明　01? 03?				1	0	0	1
+Texts	K011_016a-luu-anno.txt	16	20045	20049	おばさん	誰に向かって言っているか不明　01? 03?				1	1	0	0
+Texts	K011_016a-luu-anno.txt	17	20894	20897	あたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	18	23272	23275	あたし					1	1	0	0
+Texts	K011_016a-luu-anno.txt	19	23700	23703	わたし					1	1	0	0

@@ -1,0 +1,15 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K011_016a-luu-anno.txt	1	1659	1662	あんた					1	0	1	0
+annotation	K011_016a-luu-anno.txt	2	2263	2266	あんた					1	0	1	0
+annotation	K011_016a-luu-anno.txt	3	3086	3089	わたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	4	4810	4812	うち					1	1	0	0
+annotation	K011_016a-luu-anno.txt	5	6700	6703	あたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	6	8346	8349	あたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	7	8683	8685	自分					1	1	0	0
+annotation	K011_016a-luu-anno.txt	8	9885	9888	あたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	9	9974	9977	わたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	10	10423	10426	わたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	11	17485	17488	あたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	12	20894	20897	あたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	13	23272	23275	あたし					1	1	0	0
+annotation	K011_016a-luu-anno.txt	14	26550	26552	志村					1	1	0	0

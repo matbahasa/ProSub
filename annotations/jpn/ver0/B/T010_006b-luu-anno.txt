@@ -1,0 +1,33 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T010_006b-luu-anno.txt	1	368	372	とっ)君					1	0	1	0
+Texts	T010_006b-luu-anno.txt	2	406	410	とっ)君					1	0	1	0
+Texts	T010_006b-luu-anno.txt	3	431	435	とっ)君					1	0	1	0
+Texts	T010_006b-luu-anno.txt	5	747	750	みんな					1	0	1	0
+Texts	T010_006b-luu-anno.txt	4	761	762	俺					1	1	0	0
+Texts	T010_006b-luu-anno.txt	6	776	777	准					1	0	1	0
+Texts	T010_006b-luu-anno.txt	7	796	798	そう					1	0	0	1
+Texts	T010_006b-luu-anno.txt	8	936	937	俺					1	1	0	0
+Texts	T010_006b-luu-anno.txt	9	1050	1053	徹)君					1	0	0	1
+Texts	T010_006b-luu-anno.txt	10	1100	1101	徹					1	0	0	1
+Texts	T010_006b-luu-anno.txt	11	1350	1353	徹)君					1	0	1	0
+Texts	T010_006b-luu-anno.txt	12	1505	1509	とっ)君					1	0	1	0
+Texts	T010_006b-luu-anno.txt	13	1894	1897	准)君					1	0	0	1
+Texts	T010_006b-luu-anno.txt	14	2206	2208	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	16	2390	2394	母ちゃん	01				1	0	0	1
+Texts	T010_006b-luu-anno.txt	15	2488	2491	わたし					1	1	0	0
+Texts	T010_006b-luu-anno.txt	17	2704	2705	俺					1	1	0	0
+Texts	T010_006b-luu-anno.txt	18	2827	2831	白井)君					1	0	1	0
+Texts	T010_006b-luu-anno.txt	19	2968	2970	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	20	2983	2985	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	21	3332	3334	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	23	3421	3426	お母ちゃん	01				1	0	0	1
+Texts	T010_006b-luu-anno.txt	22	3465	3467	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	24	3553	3557	母ちゃん	01				1	0	0	1
+Texts	T010_006b-luu-anno.txt	25	4194	4196	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	26	4245	4247	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	27	4324	4326	お前					1	0	1	0
+Texts	T010_006b-luu-anno.txt	28	4477	4478	准					1	0	1	0
+Texts	T010_006b-luu-anno.txt	29	4572	4576	とっ)君					1	0	0	1
+Texts	T010_006b-luu-anno.txt	30	4652	4658	そう)ちゃん					1	0	1	0
+Texts	T010_006b-luu-anno.txt	31	4689	4695	そう)ちゃん					1	0	1	0
+Texts	T010_006b-luu-anno.txt	32	4946	4950	父ちゃん	01				1	0	0	1

@@ -1,0 +1,77 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T011_014-luu-anno.txt	1	1108	1109	僕					1	0	1	0
+Texts	T011_014-luu-anno.txt	2	4403	4404	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	3	4405	4407	俺ら					1	1	0	0
+Texts	T011_014-luu-anno.txt	4	4559	4562	こっち					1	1	0	0
+Texts	T011_014-luu-anno.txt	5	4575	4578	こっち					1	1	0	0
+Texts	T011_014-luu-anno.txt	6	4644	4645	良					1	0	1	0
+Texts	T011_014-luu-anno.txt	7	6544	6547	わたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	8	7548	7554	麻里)ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	9	7740	7742	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	10	8230	8232	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	11	8237	8239	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	12	8246	8255	麻里)(U ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	13	8551	8553	うち					1	1	0	0
+Texts	T011_014-luu-anno.txt	14	8670	8672	うち					1	1	0	0
+Texts	T011_014-luu-anno.txt	15	9069	9075	麻里)ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	16	9192	9198	麻里)ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	17	9316	9317	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	18	9832	9835	みんな					1	0	0	1
+Texts	T011_014-luu-anno.txt	19	9919	9924	きっ)くん					1	0	0	1
+Texts	T011_014-luu-anno.txt	20	10030	10031	君					1	0	1	0
+Texts	T011_014-luu-anno.txt	21	10113	10117	翔)くん					1	0	0	1
+Texts	T011_014-luu-anno.txt	22	10490	10491	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	23	10876	10877	僕					1	1	0	0
+Texts	T011_014-luu-anno.txt	24	11073	11079	瑠花)ちゃん					1	0	1	0
+Texts	T011_014-luu-anno.txt	25	11221	11223	悠人					1	0	1	0
+Texts	T011_014-luu-anno.txt	31	11255	11257	悠人					1	0	1	0
+Texts	T011_014-luu-anno.txt	32	11324	11327	みんな					1	1	0	0
+Texts	T011_014-luu-anno.txt	26	11401	11403	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	27	11408	11410	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	28	11415	11417	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	29	11422	11424	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	30	11429	11431	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	33	11571	11574	みんな					1	1	0	0
+Texts	T011_014-luu-anno.txt	34	11584	11587	みんな					1	1	0	0
+Texts	T011_014-luu-anno.txt	35	11760	11764	おじさん	02				1	1	0	0
+Texts	T011_014-luu-anno.txt	36	11812	11814	おら					1	1	0	0
+Texts	T011_014-luu-anno.txt	37	11858	11862	おじさん	02				1	1	0	0
+Texts	T011_014-luu-anno.txt	38	12074	12075	僕					1	1	0	0
+Texts	T011_014-luu-anno.txt	39	12492	12495	あんた					1	0	0	1
+Texts	T011_014-luu-anno.txt	40	13255	13261	瑠花)ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	41	15132	15137	きっ)くん					1	0	1	0
+Texts	T011_014-luu-anno.txt	42	15524	15527	保護者					1	0	1	0
+Texts	T011_014-luu-anno.txt	43	15951	15953	お前					1	0	0	1
+Texts	T011_014-luu-anno.txt	44	15972	15974	自分					1	0	1	0
+Texts	T011_014-luu-anno.txt	45	16099	16101	お前					1	0	0	1
+Texts	T011_014-luu-anno.txt	46	17099	17100	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	47	17102	17103	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	48	17187	17188	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	49	18030	18031	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	50	19469	19475	瑠花)ちゃん					1	0	1	0
+Texts	T011_014-luu-anno.txt	51	19728	19739	あんた(W ンチ|たち					1	0	1	0
+Texts	T011_014-luu-anno.txt	52	19887	19891	お母さん					1	0	0	1
+Texts	T011_014-luu-anno.txt	53	23960	23963	あたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	54	24755	24756	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	55	24936	24937	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	56	25290	25293	あたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	57	26638	26644	瑠花)ちゃん					1	0	1	0
+Texts	T011_014-luu-anno.txt	58	28940	28943	あたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	59	28954	28955	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	60	30358	30359	俺					1	1	0	0
+Texts	T011_014-luu-anno.txt	61	31071	31074	あたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	62	31225	31227	瑠花					1	0	0	1
+Texts	T011_014-luu-anno.txt	63	31317	31319	清隆					1	0	1	0
+Texts	T011_014-luu-anno.txt	64	32288	32290	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	65	32295	32297	悠人					1	0	0	1
+Texts	T011_014-luu-anno.txt	66	32566	32569	あなた					1	0	0	1
+Texts	T011_014-luu-anno.txt	67	33934	33939	きっ)くん					1	0	1	0
+Texts	T011_014-luu-anno.txt	68	34533	34539	瑠花)ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	69	34689	34691	瑠花					1	0	0	1
+Texts	T011_014-luu-anno.txt	70	35520	35524	おじさん	02				1	1	0	0
+Texts	T011_014-luu-anno.txt	71	36028	36031	あたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	72	36416	36420	お母さま	03				1	0	0	1
+Texts	T011_014-luu-anno.txt	73	37720	37726	瑠花)ちゃん					1	0	0	1
+Texts	T011_014-luu-anno.txt	74	38038	38040	英子					1	0	1	0
+Texts	T011_014-luu-anno.txt	75	38332	38335	わたし					1	1	0	0
+Texts	T011_014-luu-anno.txt	76	39896	39897	俺					1	1	0	0

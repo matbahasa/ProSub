@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T021_015-luu-anno.txt	1	328	331	あなた					1	0	1	0
+Texts	T021_015-luu-anno.txt	2	892	895	あたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	4	2347	2350	そっち					1	0	1	0
+Texts	T021_015-luu-anno.txt	3	2368	2371	あんた					1	0	1	0
+Texts	T021_015-luu-anno.txt	5	3043	3046	あんた					1	0	1	0
+Texts	T021_015-luu-anno.txt	6	3553	3556	あんた					1	0	1	0
+Texts	T021_015-luu-anno.txt	7	3710	3713	あんた					1	0	1	0
+Texts	T021_015-luu-anno.txt	8	3715	3718	あたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	9	3787	3790	あんた					1	0	1	0
+Texts	T021_015-luu-anno.txt	10	4608	4614	季世恵)さん					1	0	1	0
+Texts	T021_015-luu-anno.txt	11	5029	5035	季世恵)さん					1	0	1	0
+Texts	T021_015-luu-anno.txt	12	5409	5412	あたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	13	6398	6401	わたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	14	6614	6617	あたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	15	7122	7135	お(Y シュート|姑)さん	03				1	1	0	0
+Texts	T021_015-luu-anno.txt	16	7849	7852	わたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	17	8120	8123	わたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	18	8194	8197	わたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	19	9384	9387	あたし					1	1	0	0
+Texts	T021_015-luu-anno.txt	20	10289	10292	わたし					1	1	0	0

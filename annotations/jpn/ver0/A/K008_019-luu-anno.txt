@@ -1,0 +1,12 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K008_019-luu-anno.txt	1	207	209	パパ	01				1	0	1	0
+Texts	K008_019-luu-anno.txt	2	252	253	俺					1	1	0	0
+Texts	K008_019-luu-anno.txt	3	479	483	お母さん	01				1	0	1	0
+Texts	K008_019-luu-anno.txt	4	533	536	わたし					1	1	0	0
+Texts	K008_019-luu-anno.txt	5	1719	1721	道子					1	0	1	0
+Texts	K008_019-luu-anno.txt	6	7686	7688	パパ	03				1	0	1	0
+Texts	K008_019-luu-anno.txt	7	7700	7702	パパ	03				1	0	1	0
+Texts	K008_019-luu-anno.txt	8	7758	7761	わたし					1	1	0	0
+Texts	K008_019-luu-anno.txt	9	9019	9022	あたし					1	1	0	0
+Texts	K008_019-luu-anno.txt	10	10618	10620	久美					1	0	1	0
+Texts	K008_019-luu-anno.txt	11	10822	10823	俺					1	1	0	0

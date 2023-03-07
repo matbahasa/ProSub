@@ -1,0 +1,33 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	S002_011-luu-anno.txt	1	405	406	君					1	0	1	0
+annotation	S002_011-luu-anno.txt	2	466	467	俺					1	1	0	0
+annotation	S002_011-luu-anno.txt	3	1184	1185	俺					1	1	0	0
+annotation	S002_011-luu-anno.txt	4	2758	2759	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	5	2798	2799	君	歌詞				1	0	1	0
+annotation	S002_011-luu-anno.txt	6	2800	2801	君	歌詞				1	0	1	0
+annotation	S002_011-luu-anno.txt	7	3287	3292	健一)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	8	3377	3382	健一)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	9	3487	3488	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	10	3594	3599	健一)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	11	3688	3690	お前					1	0	1	0
+annotation	S002_011-luu-anno.txt	12	3691	3693	お前					1	0	1	0
+annotation	S002_011-luu-anno.txt	13	3774	3779	健一)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	14	4002	4005	あなた					1	0	1	0
+annotation	S002_011-luu-anno.txt	15	4051	4054	わたし					1	1	0	0
+annotation	S002_011-luu-anno.txt	16	4069	4072	わたし					1	1	0	0
+annotation	S002_011-luu-anno.txt	17	4141	4144	お前ら					1	0	1	0
+annotation	S002_011-luu-anno.txt	18	4171	4174	わたし					1	1	0	0
+annotation	S002_011-luu-anno.txt	19	4796	4801	健一)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	20	4957	4958	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	21	5025	5026	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	22	5028	5029	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	23	5031	5032	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	24	5313	5314	俺					1	1	0	0
+annotation	S002_011-luu-anno.txt	25	6010	6016	ぐっち)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	26	6020	6026	ぐっち)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	27	6694	6695	俺					1	1	0	0
+annotation	S002_011-luu-anno.txt	28	7023	7029	ぐっち)さん					1	0	1	0
+annotation	S002_011-luu-anno.txt	29	9430	9431	君					1	0	1	0
+annotation	S002_011-luu-anno.txt	30	9536	9538	神沢					1	1	0	0
+annotation	S002_011-luu-anno.txt	31	9762	9763	僕					1	1	0	0
+annotation	S002_011-luu-anno.txt	32	9812	9813	俺					1	1	0	0

@@ -1,0 +1,13 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K013_003-luu-anno.txt	1	510	515	おばあさま	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	2	3214	3219	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	3	4734	4739	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	4	5018	5020	先生	引用　01				1	0	0	1
+Texts	K013_003-luu-anno.txt	5	6534	6539	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	6	11503	11508	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	7	20611	20613	雪)					1	1	0	0
+Texts	K013_003-luu-anno.txt	8	21546	21547	雪					1	0	1	0
+Texts	K013_003-luu-anno.txt	9	28075	28080	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	10	36745	36750	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	1	0	0
+Texts	K013_003-luu-anno.txt	11	43606	43609	あたし					1	1	0	0
+Texts	K013_003-luu-anno.txt	14	43765	43770	おばあさん	祖母が雪江と鞠江の実祖母なら03 違うなら04				1	0	1	0

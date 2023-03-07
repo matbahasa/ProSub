@@ -1,0 +1,65 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_020-luu-anno.txt	1	372	375	あたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	2	848	851	皆さん					1	0	1	0
+Texts	T009_020-luu-anno.txt	3	953	957	お母さん	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	4	1704	1707	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	5	1830	1833	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	6	2309	2311	ルリ					1	1	0	0
+Texts	T009_020-luu-anno.txt	7	2425	2427	ママ	02				1	1	0	0
+Texts	T009_020-luu-anno.txt	8	2608	2612	お母さん	02				1	0	0	1
+Texts	T009_020-luu-anno.txt	9	2822	2826	お父さん	03				1	0	0	1
+Texts	T009_020-luu-anno.txt	10	3140	3146	おばあちゃん	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	11	3163	3167	お父さん	02				1	0	0	1
+Texts	T009_020-luu-anno.txt	12	3202	3205	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	13	3502	3503	君					1	0	1	0
+Texts	T009_020-luu-anno.txt	14	3550	3552	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	15	3579	3581	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	16	4968	4970	ママ	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	17	5168	5172	お父さん	02				1	0	0	1
+Texts	T009_020-luu-anno.txt	18	5293	5295	ママ	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	19	5455	5457	ママ	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	20	5686	5690	お母さん	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	21	6198	6202	お母さん	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	22	6261	6267	おばあちゃん	02				1	0	0	1
+Texts	T009_020-luu-anno.txt	23	6277	6284	おばあちゃ:ん	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	24	6562	6566	お母さん	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	25	6711	6717	ルリ)ちゃん					1	0	0	1
+Texts	T009_020-luu-anno.txt	26	6855	6859	お父さま	02				1	0	1	0
+Texts	T009_020-luu-anno.txt	27	7164	7166	ルリ					1	0	1	0
+Texts	T009_020-luu-anno.txt	28	7467	7468	僕					1	1	0	0
+Texts	T009_020-luu-anno.txt	29	7846	7847	僕					1	1	0	0
+Texts	T009_020-luu-anno.txt	30	7964	7970	おばあちゃん	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	31	7991	7997	おばあちゃん	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	32	8219	8221	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	33	9080	9084	お母さん	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	34	9812	9814	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	35	9869	9871	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	36	9872	9875	あんた					1	0	1	0
+Texts	T009_020-luu-anno.txt	37	9964	9966	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	38	10369	10372	あたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	39	10473	10475	ルリ					1	0	1	0
+Texts	T009_020-luu-anno.txt	40	10794	10797	あなた					1	0	0	1
+Texts	T009_020-luu-anno.txt	41	11721	11722	俺					1	1	0	0
+Texts	T009_020-luu-anno.txt	42	11727	11728	俺					1	1	0	0
+Texts	T009_020-luu-anno.txt	43	12125	12128	あたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	44	13197	13200	あたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	45	13236	13238	自分					1	1	0	0
+Texts	T009_020-luu-anno.txt	46	13731	13733	ママ	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	47	13802	13808	ルリ)ちゃん					1	0	0	1
+Texts	T009_020-luu-anno.txt	48	13870	13872	ママ	01				1	0	1	0
+Texts	T009_020-luu-anno.txt	49	17372	17376	お母さん	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	50	17473	17475	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	51	20771	20773	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	52	21223	21227	お母さん	017				1	0	0	1
+Texts	T009_020-luu-anno.txt	53	22605	22608	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	54	29077	29081	お父さん	01				1	0	0	1
+Texts	T009_020-luu-anno.txt	55	29653	29656	皆さん					1	0	0	1
+Texts	T009_020-luu-anno.txt	56	30219	30222	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	57	31712	31716	お父さん	03				1	1	0	0
+Texts	T009_020-luu-anno.txt	58	31927	31931	わ:たし					1	1	0	0
+Texts	T009_020-luu-anno.txt	59	32508	32511	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	60	32534	32536	ルリ					1	0	1	0
+Texts	T009_020-luu-anno.txt	61	33253	33256	わたし					1	1	0	0
+Texts	T009_020-luu-anno.txt	62	33897	33899	コタ					1	0	0	1
+Texts	T009_020-luu-anno.txt	63	33993	33999	ルリ)ちゃん					1	0	0	1
+Texts	T009_020-luu-anno.txt	64	34902	34904	ママ	01				1	0	0	1

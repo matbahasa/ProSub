@@ -1,0 +1,25 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T020_004-luu-anno.txt	1	253	254	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	2	1624	1626	我々					1	1	0	0
+Texts	T020_004-luu-anno.txt	3	1947	1949	自分					1	1	0	0
+Texts	T020_004-luu-anno.txt	4	2979	2980	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	5	3237	3249	木暮)(Y センセ|先生	01				1	0	1	0
+Texts	T020_004-luu-anno.txt	6	3276	3277	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	7	3743	3746	皆さん					1	0	1	0
+Texts	T020_004-luu-anno.txt	8	3882	3886	木暮)君					1	0	1	0
+Texts	T020_004-luu-anno.txt	9	4036	4041	槇原)先生	01				1	0	0	1
+Texts	T020_004-luu-anno.txt	10	4841	4842	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	11	7523	7526	こっち					1	1	0	0
+Texts	T020_004-luu-anno.txt	12	7933	7934	俺					1	1	0	0
+Texts	T020_004-luu-anno.txt	13	8047	8050	わたし					1	1	0	0
+Texts	T020_004-luu-anno.txt	14	8497	8498	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	15	9547	9549	うち					1	1	0	0
+Texts	T020_004-luu-anno.txt	16	10801	10802	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	17	10855	10867	七原)(Y センセ|先生	01				1	0	1	0
+Texts	T020_004-luu-anno.txt	18	10916	10917	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	19	11613	11616	俺っち					1	1	0	0
+Texts	T020_004-luu-anno.txt	20	11667	11670	君たち					1	0	1	0
+Texts	T020_004-luu-anno.txt	21	12026	12029	君たち					1	0	1	0
+Texts	T020_004-luu-anno.txt	22	12520	12521	僕					1	1	0	0
+Texts	T020_004-luu-anno.txt	23	12624	12626	先生	01				1	0	0	1
+Texts	T020_004-luu-anno.txt	24	13314	13317	皆さん					1	0	0	1

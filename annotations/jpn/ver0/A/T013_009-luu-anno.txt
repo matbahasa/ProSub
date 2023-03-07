@@ -1,0 +1,11 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T013_009-luu-anno.txt	1	390	396	おばあちゃん	03				1	0	1	0
+Texts	T013_009-luu-anno.txt	2	2477	2480	わたし					1	1	0	0
+Texts	T013_009-luu-anno.txt	3	2598	2601	わたし					1	1	0	0
+Texts	T013_009-luu-anno.txt	4	2814	2815	俺					1	1	0	0
+Texts	T013_009-luu-anno.txt	5	4000	4003	あたし					1	1	0	0
+Texts	T013_009-luu-anno.txt	6	5287	5289	自分					1	1	0	0
+Texts	T013_009-luu-anno.txt	7	5314	5318	お父さん	03				1	0	1	0
+Texts	T013_009-luu-anno.txt	8	6002	6007	おばちゃん	「おばちゃん」が家族構造を表す言葉なのか不明				1	0	1	0
+Texts	T013_009-luu-anno.txt	9	6271	6275	わたしら					1	1	0	0
+Texts	T013_009-luu-anno.txt	10	7387	7390	あんた					1	0	1	0

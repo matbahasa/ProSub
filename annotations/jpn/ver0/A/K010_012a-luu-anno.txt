@@ -1,0 +1,9 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K010_012a-luu-anno.txt	1	372	373	僕					1	1	0	0
+Texts	K010_012a-luu-anno.txt	3	516	519	お前ら	引用				1	0	1	0
+Texts	K010_012a-luu-anno.txt	4	542	543	僕					1	1	0	0
+Texts	K010_012a-luu-anno.txt	5	2034	2035	俺					1	1	0	0
+Texts	K010_012a-luu-anno.txt	6	4362	4363	俺					1	1	0	0
+Texts	K010_012a-luu-anno.txt	7	4838	4840	お前	心の中で思ったこと？				1	0	0	1
+Texts	K010_012a-luu-anno.txt	8	5182	5183	俺					1	1	0	0
+Texts	K010_012a-luu-anno.txt	9	5688	5689	俺					1	1	0	0

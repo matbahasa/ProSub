@@ -1,0 +1,9 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C002_008-luu-anno.txt	1	141	144	あなた					1	0	1	0
+Texts	C002_008-luu-anno.txt	2	1635	1637	パパ	03(夫)				1	0	1	0
+Texts	C002_008-luu-anno.txt	3	1778	1781	あたし					1	1	0	0
+Texts	C002_008-luu-anno.txt	4	1801	1803	パパ	03(夫)				1	0	1	0
+Texts	C002_008-luu-anno.txt	5	1992	1995	あたし					1	1	0	0
+Texts	C002_008-luu-anno.txt	7	5123	5129	まー)ちゃん					1	0	1	0
+Texts	C002_008-luu-anno.txt	8	7397	7399	自分					1	1	0	0
+Texts	C002_008-luu-anno.txt	6	10850	10852	お前	本人がいないところで。				1	0	0	1

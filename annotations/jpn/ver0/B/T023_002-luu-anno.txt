@@ -1,0 +1,44 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T023_002-luu-anno.txt	12	7151	7155	お父さん	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	11	7681	7687	拓司))さん					1	0	0	1
+Texts	T023_002-luu-anno.txt	1	8456	8459	あなた					1	0	1	0
+Texts	T023_002-luu-anno.txt	2	8794	8809	お(W イ|(U 姉))ちゃん	01				1	0	0	1
+Texts	T023_002-luu-anno.txt	3	10948	10949	僕					1	1	0	0
+Texts	T023_002-luu-anno.txt	7	12301	12307	さく)ちゃん					1	0	1	0
+Texts	T023_002-luu-anno.txt	4	12991	12992	僕					1	1	0	0
+Texts	T023_002-luu-anno.txt	5	13457	13462	お姉ちゃん	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	6	13526	13529	あたし					1	1	0	0
+Texts	T023_002-luu-anno.txt	13	14175	14179	お母さん	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	14	14198	14200	うち					1	1	0	0
+Texts	T023_002-luu-anno.txt	8	14390	14391	我					1	1	0	0
+Texts	T023_002-luu-anno.txt	15	14718	14722	お母さん	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	16	15286	15290	お母さん	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	9	16701	16706	わたしたち					1	1	0	0
+Texts	T023_002-luu-anno.txt	10	17118	17123	わたしたち					1	1	0	0
+Texts	T023_002-luu-anno.txt	17	19408	19409	僕					1	1	0	0
+Texts	T023_002-luu-anno.txt	18	19653	19654	君					1	0	1	0
+Texts	T023_002-luu-anno.txt	19	21362	21367	わたしたち					1	1	0	0
+Texts	T023_002-luu-anno.txt	20	23111	23113	パパ	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	21	23277	23281	お母さん	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	22	23308	23312	お父さん	01				1	0	0	1
+Texts	T023_002-luu-anno.txt	23	23932	23933	僕					1	1	0	0
+Texts	T023_002-luu-anno.txt	24	25110	25111	僕					1	1	0	0
+Texts	T023_002-luu-anno.txt	25	26238	26242	お父さん	01				1	0	0	1
+Texts	T023_002-luu-anno.txt	26	28121	28127	さく)ちゃん					1	0	0	1
+Texts	T023_002-luu-anno.txt	27	28620	28626	さく)ちゃん					1	0	0	1
+Texts	T023_002-luu-anno.txt	28	28649	28651	パパ	01				1	0	1	0
+Texts	T023_002-luu-anno.txt	29	28732	28735	みんな					1	0	1	0
+Texts	T023_002-luu-anno.txt	30	28895	28901	さく)ちゃん					1	0	0	1
+Texts	T023_002-luu-anno.txt	31	30938	30941	わたし					1	1	0	0
+Texts	T023_002-luu-anno.txt	32	31201	31207	さく)ちゃん					1	0	0	1
+Texts	T023_002-luu-anno.txt	33	31449	31453	お父さん	03				1	0	1	0
+Texts	T023_002-luu-anno.txt	34	32814	32815	君					1	0	1	0
+Texts	T023_002-luu-anno.txt	35	33135	33139	お父さん	01				1	0	0	1
+Texts	T023_002-luu-anno.txt	36	34082	34088	さく)ちゃん					1	0	0	1
+Texts	T023_002-luu-anno.txt	39	35496	35502	お父さんたち	03				1	0	1	0
+Texts	T023_002-luu-anno.txt	40	35669	35673	お父さん	03				1	0	1	0
+Texts	T023_002-luu-anno.txt	37	35851	35856	拓司)さん					1	0	1	0
+Texts	T023_002-luu-anno.txt	38	35979	35980	僕					1	1	0	0
+Texts	T023_002-luu-anno.txt	41	37112	37118	さく)ちゃん					1	0	0	1
+Texts	T023_002-luu-anno.txt	42	37153	37160	さく)ちゃ:ん					1	0	0	1
+Texts	T023_002-luu-anno.txt	43	39731	39736	拓司)さん					1	0	1	0

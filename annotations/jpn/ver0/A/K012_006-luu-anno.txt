@@ -1,0 +1,17 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K012_006-luu-anno.txt	1	574	580	竹))ちゃん					1	0	0	1
+Texts	K012_006-luu-anno.txt	2	754	756	パパ	03				1	1	0	0
+Texts	K012_006-luu-anno.txt	3	883	885	パパ	03				1	1	0	0
+Texts	K012_006-luu-anno.txt	4	1818	1825	竹))ちゃ:ん					1	0	0	1
+Texts	K012_006-luu-anno.txt	5	1834	1836	パパ	03				1	1	0	0
+Texts	K012_006-luu-anno.txt	6	2610	2615	竹)ちゃん	01				1	1	0	0
+Texts	K012_006-luu-anno.txt	7	3104	3110	竹))ちゃん					1	0	1	0
+Texts	K012_006-luu-anno.txt	8	3932	3937	竹)ちゃん					1	1	0	0
+Texts	K012_006-luu-anno.txt	9	4146	4151	竹)ちゃん					1	1	0	0
+Texts	K012_006-luu-anno.txt	10	5893	5898	竹)ちゃん					1	1	0	0
+Texts	K012_006-luu-anno.txt	11	5962	5964	パパ	01				1	0	1	0
+Texts	K012_006-luu-anno.txt	12	6004	6006	パパ	03				1	1	0	0
+Texts	K012_006-luu-anno.txt	13	6216	6221	竹)ちゃん					1	0	1	0
+Texts	K012_006-luu-anno.txt	14	7852	7854	パパ	直接引用ならアノテーションしない、間接引用なら03				1	0	1	0
+Texts	K012_006-luu-anno.txt	15	8451	8458	竹))ちゃ:ん					1	0	0	1
+Texts	K012_006-luu-anno.txt	16	8986	8991	竹)ちゃん					1	0	0	1

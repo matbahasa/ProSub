@@ -1,0 +1,15 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T014_005c-luu-anno.txt	1	40	45	ノビちゃん					1	0	1	0
+Texts	T014_005c-luu-anno.txt	2	864	869	ノビちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	3	944	949	ノビちゃん					1	0	1	0
+Texts	T014_005c-luu-anno.txt	4	1726	1731	ノビちゃん	犬に対して言っているかは不明				1	0	1	0
+Texts	T014_005c-luu-anno.txt	5	3246	3248	うち					1	1	0	0
+Texts	T014_005c-luu-anno.txt	6	3437	3442	ノビちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	7	3514	3521	ノンノンちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	8	3683	3688	ノビちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	9	3718	3723	ノビちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	10	4090	4095	ノンちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	11	4405	4408	わたし					1	1	0	0
+Texts	T014_005c-luu-anno.txt	12	5254	5259	晴)ちゃん					1	0	0	1
+Texts	T014_005c-luu-anno.txt	13	5416	5418	先生	01　医師は「先生」であるといえるため				1	0	0	1
+Texts	T014_005c-luu-anno.txt	14	6734	6739	ノビちゃん					1	0	0	1

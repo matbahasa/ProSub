@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_018-luu-anno.txt	1	1299	1302	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	2	1317	1319	お前					1	0	0	1
+Texts	T009_018-luu-anno.txt	3	1429	1431	コタ					1	0	0	1
+Texts	T009_018-luu-anno.txt	4	1753	1756	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	5	2014	2016	コタ					1	0	0	1
+Texts	T009_018-luu-anno.txt	6	2594	2595	君					1	0	1	0
+Texts	T009_018-luu-anno.txt	7	3715	3716	俺					1	1	0	0
+Texts	T009_018-luu-anno.txt	8	4065	4068	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	9	5433	5436	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	10	5518	5521	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	11	5798	5802	コタロウ					1	0	0	1
+Texts	T009_018-luu-anno.txt	12	5853	5858	圭吾)太郎					1	0	1	0
+Texts	T009_018-luu-anno.txt	13	5862	5867	ルリ)太郎					1	0	1	0
+Texts	T009_018-luu-anno.txt	14	5953	5955	ママ	01				1	0	0	1
+Texts	T009_018-luu-anno.txt	15	6186	6189	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	16	6578	6581	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	17	6629	6632	みんな					1	1	0	0
+Texts	T009_018-luu-anno.txt	18	6710	6713	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	19	7099	7102	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	20	7160	7163	わたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	21	7245	7247	圭吾					1	0	1	0
+Texts	T009_018-luu-anno.txt	22	7324	7327	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	23	7642	7646	コタロウ					1	0	0	1
+Texts	T009_018-luu-anno.txt	24	7657	7661	コタロウ					1	0	0	1
+Texts	T009_018-luu-anno.txt	25	7729	7732	あたし					1	1	0	0
+Texts	T009_018-luu-anno.txt	26	7918	7922	コタロウ					1	0	0	1
+Texts	T009_018-luu-anno.txt	27	8108	8110	パパ	01				1	0	0	1
+Texts	T009_018-luu-anno.txt	28	8177	8179	コタ					1	0	0	1
+Texts	T009_018-luu-anno.txt	29	8180	8182	コタ					1	0	0	1
+Texts	T009_018-luu-anno.txt	30	8183	8185	コタ					1	0	0	1
+Texts	T009_018-luu-anno.txt	31	8234	8236	ママ	01				1	0	0	1
+Texts	T009_018-luu-anno.txt	32	8411	8413	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	33	8489	8491	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	34	8712	8714	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	35	9116	9118	ルリ					1	0	0	1
+Texts	T009_018-luu-anno.txt	36	9647	9649	ルリ					1	0	1	0
+Texts	T009_018-luu-anno.txt	37	9796	9800	コタロウ					1	0	0	1

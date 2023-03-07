@@ -1,0 +1,116 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	T003_015-luu-anno.txt	1	891	893	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	2	2131	2142	やっ)(K ク:ン|君					1	0	1	0
+annotation	T003_015-luu-anno.txt	3	3289	3291	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	4	3718	3722	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	5	4223	4225	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	6	5437	5442	あんたたち					1	0	1	0
+annotation	T003_015-luu-anno.txt	7	5606	5610	お母さん	01、03				1	1	0	0
+annotation	T003_015-luu-anno.txt	8	6033	6036	拓)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	9	6537	6541	ババ|婆	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	10	7014	7018	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	11	7606	7608	パパ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	12	7643	7645	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	13	7717	7719	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	14	7730	7732	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	15	7830	7831	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	16	8137	8138	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	17	8175	8176	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	18	8590	8591	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	19	10715	10719	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	21	10796	10800	やっ)君					1	1	0	0
+annotation	T003_015-luu-anno.txt	20	10885	10887	拓人					1	0	1	0
+annotation	T003_015-luu-anno.txt	22	10914	10918	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	23	11030	11032	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	24	11779	11783	やっ)君					1	1	0	0
+annotation	T003_015-luu-anno.txt	25	12419	12421	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	26	12769	12773	たっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	27	12838	12840	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	28	14601	14603	ママ	03				1	0	1	0
+annotation	T003_015-luu-anno.txt	29	14685	14687	パパ	01、03				1	1	0	0
+annotation	T003_015-luu-anno.txt	30	14929	14933	やっ)君					1	1	0	0
+annotation	T003_015-luu-anno.txt	31	14976	14978	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	32	15036	15038	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	33	15123	15125	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	34	15972	15974	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	35	16165	16167	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	36	16206	16208	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	37	16219	16221	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	38	16230	16232	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	39	16279	16283	やっ)君					1	1	0	0
+annotation	T003_015-luu-anno.txt	40	16689	16691	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	41	16889	16890	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	44	17076	17078	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	42	17172	17173	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	43	17212	17214	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	45	17243	17245	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	46	17288	17290	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	47	17328	17330	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	48	17477	17479	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	49	17489	17491	ママ	01				1	1	0	0
+annotation	T003_015-luu-anno.txt	50	17501	17503	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	51	18255	18257	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	52	18404	18406	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	53	18522	18524	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	54	18535	18537	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	55	19346	19348	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	56	19374	19376	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	57	19389	19393	やっ)君					1	1	0	0
+annotation	T003_015-luu-anno.txt	58	20108	20112	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	59	20175	20179	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	60	20487	20488	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	61	20545	20547	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	62	20727	20730	あんた					1	0	1	0
+annotation	T003_015-luu-anno.txt	63	20772	20775	あんた					1	0	1	0
+annotation	T003_015-luu-anno.txt	64	20931	20933	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	65	20949	20950	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	66	21065	21069	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	67	21253	21255	ママ	01、03				1	1	0	0
+annotation	T003_015-luu-anno.txt	68	21609	21611	ママ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	69	22041	22044	マ:マ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	70	22128	22130	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	71	22148	22150	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	72	22168	22170	パパ	01、03				1	1	0	0
+annotation	T003_015-luu-anno.txt	73	22311	22313	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	74	23088	23093	あなたたち					1	0	1	0
+annotation	T003_015-luu-anno.txt	75	23940	23942	パパ	01、03				1	1	0	0
+annotation	T003_015-luu-anno.txt	76	24600	24602	拓人					1	0	1	0
+annotation	T003_015-luu-anno.txt	77	24735	24738	あたし					1	1	0	0
+annotation	T003_015-luu-anno.txt	78	24779	24783	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	79	25112	25114	うち					1	1	0	0
+annotation	T003_015-luu-anno.txt	80	25880	25882	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	81	26101	26105	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	82	26377	26381	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	83	26408	26413	やっ))君					1	0	1	0
+annotation	T003_015-luu-anno.txt	84	26463	26467	やっ)君					1	1	0	0
+annotation	T003_015-luu-anno.txt	85	26733	26736	拓)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	86	26915	26917	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	87	26946	26950	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	88	26991	26995	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	89	27208	27218	や:っ)(W ク|君					1	0	1	0
+annotation	T003_015-luu-anno.txt	90	27578	27580	パパ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	91	28835	28839	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	92	29063	29064	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	93	29351	29353	パパ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	94	29641	29643	パパ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	95	30430	30432	ママ	01				1	0	0	1
+annotation	T003_015-luu-anno.txt	96	30784	30788	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	97	30860	30864	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	98	31089	31098	やっ)(W ク|君					1	0	1	0
+annotation	T003_015-luu-anno.txt	99	31283	31287	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	100	31549	31550	俺					1	1	0	0
+annotation	T003_015-luu-anno.txt	101	32106	32108	拓人					1	0	1	0
+annotation	T003_015-luu-anno.txt	102	33122	33126	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	103	33833	33837	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	104	34979	34981	パパ	01				1	0	1	0
+annotation	T003_015-luu-anno.txt	105	35011	35014	あなた					1	0	1	0
+annotation	T003_015-luu-anno.txt	106	35391	35395	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	107	35688	35692	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	108	37957	37961	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	109	38184	38188	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	110	38671	38675	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	111	38923	38924	拓					1	0	1	0
+annotation	T003_015-luu-anno.txt	112	39046	39047	拓					1	0	1	0
+annotation	T003_015-luu-anno.txt	113	39771	39775	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	114	39938	39942	やっ)君					1	0	1	0
+annotation	T003_015-luu-anno.txt	115	39954	39958	やっ)君					1	0	1	0

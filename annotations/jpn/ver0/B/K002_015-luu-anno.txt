@@ -1,0 +1,46 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K002_015-luu-anno.txt	1	68	72	お母さん	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	2	107	109	朔也					1	0	1	0
+Texts	K002_015-luu-anno.txt	3	404	406	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	4	724	729	あたしたち					1	1	0	0
+Texts	K002_015-luu-anno.txt	5	1467	1469	パパ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	6	1692	1693	俺					1	1	0	0
+Texts	K002_015-luu-anno.txt	7	3009	3013	杉田朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	8	3166	3168	ママ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	9	3280	3281	朔					1	0	1	0
+Texts	K002_015-luu-anno.txt	10	4344	4346	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	11	4383	4385	パパ	01				1	0	1	0
+Texts	K002_015-luu-anno.txt	12	4615	4617	ママ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	13	4847	4849	ママ	01				1	0	0	1
+Texts	K002_015-luu-anno.txt	14	4967	4968	朔					1	0	0	1
+Texts	K002_015-luu-anno.txt	15	5782	5784	朔也					1	0	1	0
+Texts	K002_015-luu-anno.txt	16	6427	6429	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	17	6671	6675	お母さん	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	18	6754	6756	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	19	6814	6818	お母さん	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	20	7147	7149	朔也					1	0	0	1
+Texts	K002_015-luu-anno.txt	21	7186	7188	朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	22	8026	8028	朔也					1	0	1	0
+Texts	K002_015-luu-anno.txt	23	8063	8065	朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	43	9282	9284	自分					1	0	1	0
+Texts	K002_015-luu-anno.txt	24	9329	9332	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	25	9699	9701	朔也					1	1	0	0
+Texts	K002_015-luu-anno.txt	26	10293	10295	杉田					1	1	0	0
+Texts	K002_015-luu-anno.txt	27	11383	11384	僕					1	1	0	0
+Texts	K002_015-luu-anno.txt	28	11539	11544	あたしたち					1	1	0	0
+Texts	K002_015-luu-anno.txt	29	11549	11552	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	30	12354	12356	三上					1	0	1	0
+Texts	K002_015-luu-anno.txt	31	12530	12536	早苗))さん					1	0	1	0
+Texts	K002_015-luu-anno.txt	32	12598	12601	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	33	13830	13835	杉田)さん					1	0	1	0
+Texts	K002_015-luu-anno.txt	44	14045	14047	三上					1	0	1	0
+Texts	K002_015-luu-anno.txt	34	15160	15162	三上					1	0	1	0
+Texts	K002_015-luu-anno.txt	45	16532	16535	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	35	17040	17042	パパ	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	36	17097	17099	パパ	01				1	1	0	0
+Texts	K002_015-luu-anno.txt	37	17152	17154	パパ	01				1	0	1	0
+Texts	K002_015-luu-anno.txt	38	17188	17190	パパ	01				1	0	1	0
+Texts	K002_015-luu-anno.txt	39	17639	17642	あたし					1	1	0	0
+Texts	K002_015-luu-anno.txt	40	18605	18607	三上					1	0	1	0
+Texts	K002_015-luu-anno.txt	41	18941	18943	三上					1	0	1	0
+Texts	K002_015-luu-anno.txt	42	19019	19021	三上					1	0	1	0

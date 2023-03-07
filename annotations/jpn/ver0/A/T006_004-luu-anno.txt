@@ -1,0 +1,76 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T006_004-luu-anno.txt	1	360	361	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	2	393	395	我ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	3	402	404	我ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	4	560	561	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	5	1455	1458	先生方	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	6	1526	1528	先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	7	3766	3767	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	8	4626	4627	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	9	8323	8324	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	10	9096	9098	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	11	10982	10984	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	12	11567	11569	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	13	11847	11852	青木)くん					1	0	0	1
+Texts	T006_004-luu-anno.txt	14	12095	12096	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	15	13448	13449	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	16	13601	13602	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	17	13676	13677	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	18	14455	14456	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	19	14709	14711	先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	20	14791	14793	先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	21	14809	14810	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	22	15197	15199	先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	23	16576	16577	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	24	18518	18519	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	25	18791	18792	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	26	18961	18963	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	27	19049	19051	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	28	19119	19121	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	29	20453	20454	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	30	20762	20763	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	31	20956	20957	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	32	21145	21146	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	33	21819	21821	自分					1	1	0	0
+Texts	T006_004-luu-anno.txt	34	22298	22299	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	35	22823	22828	尾形)さん					1	0	1	0
+Texts	T006_004-luu-anno.txt	36	23084	23085	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	37	23150	23151	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	38	26435	26436	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	39	27726	27731	関本)先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	40	28556	28567	関本)(W セン|先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	41	28790	28795	関本)先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	42	29086	29087	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	43	30919	30920	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	44	31777	31789	杉山)(Y センセ|先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	45	32307	32308	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	46	32900	32905	関本)先生					1	0	1	0
+Texts	T006_004-luu-anno.txt	47	33061	33064	あたし					1	1	0	0
+Texts	T006_004-luu-anno.txt	48	33284	33285	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	49	33482	33487	尾形)さん					1	0	1	0
+Texts	T006_004-luu-anno.txt	50	33520	33521	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	51	35529	35532	わたし					1	1	0	0
+Texts	T006_004-luu-anno.txt	52	36101	36102	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	53	36138	36141	皆さん					1	0	1	0
+Texts	T006_004-luu-anno.txt	54	36636	36638	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	55	37619	37620	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	56	40800	40801	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	57	41585	41586	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	58	42152	42153	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	59	42716	42721	尾形)さん					1	0	1	0
+Texts	T006_004-luu-anno.txt	60	45031	45032	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	61	47910	47912	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	62	48229	48230	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	63	50837	50841	自分たち					1	1	0	0
+Texts	T006_004-luu-anno.txt	64	51660	51663	わたし					1	1	0	0
+Texts	T006_004-luu-anno.txt	65	51959	51961	うち					1	1	0	0
+Texts	T006_004-luu-anno.txt	66	52423	52424	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	67	52959	52960	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	68	53399	53400	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	69	53973	53974	僕					1	1	0	0
+Texts	T006_004-luu-anno.txt	70	54847	54854	僕(D ガ)ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	71	55702	55704	我々					1	1	0	0
+Texts	T006_004-luu-anno.txt	72	56358	56360	僕ら					1	1	0	0
+Texts	T006_004-luu-anno.txt	73	57017	57022	関本)先生	01				1	0	1	0
+Texts	T006_004-luu-anno.txt	74	59035	59036	俺					1	1	0	0
+Texts	T006_004-luu-anno.txt	75	59093	59094	僕					1	1	0	0

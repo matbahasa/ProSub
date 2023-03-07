@@ -1,0 +1,33 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K005_006-luu-anno.txt	6	41	47	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	1	179	182	あたし					1	1	0	0
+annotation	K005_006-luu-anno.txt	7	594	600	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	10	1541	1547	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	2	1591	1595	わたくし					1	1	0	0
+annotation	K005_006-luu-anno.txt	11	2243	2249	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	3	2298	2301	あたし					1	1	0	0
+annotation	K005_006-luu-anno.txt	4	2867	2870	わたし					1	1	0	0
+annotation	K005_006-luu-anno.txt	12	2884	2890	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	13	2974	2980	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	14	3157	3163	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	15	4368	4374	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	16	4658	4664	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	17	5010	5016	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	8	5520	5523	あたし					1	1	0	0
+annotation	K005_006-luu-anno.txt	9	5697	5701	わたくし					1	1	0	0
+annotation	K005_006-luu-anno.txt	18	7130	7136	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	19	8087	8090	あたし					1	1	0	0
+annotation	K005_006-luu-anno.txt	20	8286	8292	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	21	8311	8317	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	22	8383	8389	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	23	8723	8729	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	24	10365	10371	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	25	10995	11001	おばあちゃん	01				1	1	0	0
+annotation	K005_006-luu-anno.txt	26	12087	12093	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	5	12955	12958	あんた					1	1	0	0
+annotation	K005_006-luu-anno.txt	27	14648	14654	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	28	15380	15386	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	29	15408	15414	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	30	15460	15463	あたし					1	1	0	0
+annotation	K005_006-luu-anno.txt	31	15970	15976	おばあちゃん	01				1	0	1	0
+annotation	K005_006-luu-anno.txt	32	16538	16544	おばあちゃん	01				1	0	1	0

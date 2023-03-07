@@ -1,0 +1,20 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K010_003a-luu-anno.txt	1	40	42	早瀬					1	1	0	0
+annotation	K010_003a-luu-anno.txt	2	78	80	樫田					1	1	0	0
+annotation	K010_003a-luu-anno.txt	3	1340	1345	早瀬)さん					1	0	1	0
+annotation	K010_003a-luu-anno.txt	4	1679	1684	早瀬)さん					1	0	1	0
+annotation	K010_003a-luu-anno.txt	5	4749	4750	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	6	5523	5524	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	7	5737	5742	早瀬)さん					1	0	1	0
+annotation	K010_003a-luu-anno.txt	8	6128	6129	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	9	6533	6538	早瀬)さん					1	0	1	0
+annotation	K010_003a-luu-anno.txt	10	6560	6561	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	11	9920	9922	うち					1	1	0	0
+annotation	K010_003a-luu-anno.txt	12	9927	9929	うち					1	1	0	0
+annotation	K010_003a-luu-anno.txt	13	10450	10451	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	14	10455	10460	早瀬)さん					1	0	1	0
+annotation	K010_003a-luu-anno.txt	15	11017	11019	我々					1	1	0	0
+annotation	K010_003a-luu-anno.txt	16	11369	11375	かっ)ちゃん					1	0	1	0
+annotation	K010_003a-luu-anno.txt	18	11477	11478	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	17	11544	11545	俺					1	1	0	0
+annotation	K010_003a-luu-anno.txt	19	11549	11550	俺					1	1	0	0

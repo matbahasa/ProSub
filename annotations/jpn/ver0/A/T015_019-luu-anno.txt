@@ -1,0 +1,43 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T015_019-luu-anno.txt	1	41	42	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	2	208	209	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	3	631	633	我々					1	1	0	0
+Texts	T015_019-luu-anno.txt	4	821	823	雅士					1	0	1	0
+Texts	T015_019-luu-anno.txt	5	2284	2286	雅士					1	0	1	0
+Texts	T015_019-luu-anno.txt	6	2669	2670	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	7	3274	3276	我々					1	1	0	0
+Texts	T015_019-luu-anno.txt	8	3367	3368	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	10	4591	4593	雅士					1	0	1	0
+Texts	T015_019-luu-anno.txt	9	4658	4659	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	11	4714	4715	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	12	8887	8888	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	13	9910	9911	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	14	9920	9921	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	15	10101	10106	小川)さん					1	0	1	0
+Texts	T015_019-luu-anno.txt	16	10195	10196	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	17	10357	10358	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	18	11300	11301	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	19	12220	12221	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	20	12667	12669	うち					1	1	0	0
+Texts	T015_019-luu-anno.txt	21	12969	12970	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	22	13239	13240	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	23	14023	14028	ばあちゃん	03				1	1	0	0
+Texts	T015_019-luu-anno.txt	24	15229	15231	雅士					1	0	1	0
+Texts	T015_019-luu-anno.txt	25	15483	15484	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	26	15680	15685	ばあちゃん	03				1	1	0	0
+Texts	T015_019-luu-anno.txt	27	15815	15816	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	28	15848	15849	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	29	15900	15901	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	30	15905	15906	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	31	15916	15921	ばあちゃん	03				1	1	0	0
+Texts	T015_019-luu-anno.txt	32	15926	15931	じいちゃん	03				1	0	1	0
+Texts	T015_019-luu-anno.txt	33	16677	16679	お前					1	0	1	0
+Texts	T015_019-luu-anno.txt	34	16725	16727	親父	01				1	0	1	0
+Texts	T015_019-luu-anno.txt	35	16792	16793	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	36	17125	17130	ばあちゃん	03				1	1	0	0
+Texts	T015_019-luu-anno.txt	37	18272	18273	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	38	18647	18648	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	39	19239	19244	小川)さん					1	0	0	1
+Texts	T015_019-luu-anno.txt	40	21241	21242	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	41	21332	21333	俺					1	1	0	0
+Texts	T015_019-luu-anno.txt	42	22571	22573	親父	01				1	0	0	1

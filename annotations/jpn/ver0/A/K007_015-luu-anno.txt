@@ -1,0 +1,17 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K007_015-luu-anno.txt	1	5121	5122	俺					1	1	0	0
+Texts	K007_015-luu-anno.txt	2	11890	11893	わたし					1	1	0	0
+Texts	K007_015-luu-anno.txt	3	11938	11939	僕					1	1	0	0
+Texts	K007_015-luu-anno.txt	4	12059	12064	弘樹)くん	文脈より2ndの可能性が高い				1	0	1	0
+Texts	K007_015-luu-anno.txt	5	13295	13296	俺					1	1	0	0
+Texts	K007_015-luu-anno.txt	6	13795	13798	わたし					1	1	0	0
+Texts	K007_015-luu-anno.txt	7	18360	18363	わたし					1	1	0	0
+Texts	K007_015-luu-anno.txt	8	19817	19820	わたし					1	1	0	0
+Texts	K007_015-luu-anno.txt	9	25233	25238	弘樹)くん	文脈から2ndの可能性が高い				1	0	1	0
+Texts	K007_015-luu-anno.txt	10	25276	25279	わたし					1	1	0	0
+Texts	K007_015-luu-anno.txt	11	25409	25410	俺					1	1	0	0
+Texts	K007_015-luu-anno.txt	12	25466	25467	君					1	0	1	0
+Texts	K007_015-luu-anno.txt	13	25816	25821	弘樹)くん	文脈から2ndの可能性が高い				1	0	0	1
+Texts	K007_015-luu-anno.txt	14	25981	25982	俺					1	1	0	0
+Texts	K007_015-luu-anno.txt	15	26638	26641	わたし					1	1	0	0
+Texts	K007_015-luu-anno.txt	16	26921	26927	花梨)さ:ん					1	0	0	1

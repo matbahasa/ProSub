@@ -1,0 +1,90 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_002-luu-anno.txt	1	168	170	拓人					1	0	1	0
+Texts	T003_002-luu-anno.txt	2	331	333	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	3	355	357	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	4	927	930	たく)	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	5	1361	1362	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	6	1432	1434	パパ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	7	1463	1465	パパ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	8	1503	1507	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	9	1581	1585	やっ)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	10	2306	2309	あなた					1	0	1	0
+Texts	T003_002-luu-anno.txt	11	2346	2350	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	12	2437	2441	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	13	2795	2799	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	14	4045	4049	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_002-luu-anno.txt	15	4070	4072	ママ	03				1	1	0	0
+Texts	T003_002-luu-anno.txt	16	4093	4095	ママ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	17	4193	4196	あなた					1	0	1	0
+Texts	T003_002-luu-anno.txt	18	4208	4209	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	19	4710	4712	ママ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	20	4798	4800	ママ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	21	4971	4975	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	22	7271	7275	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	23	7321	7325	やっ)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	24	7344	7348	やっ)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	25	7368	7370	パパ	03				1	1	0	0
+Texts	T003_002-luu-anno.txt	26	7395	7399	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	27	7420	7424	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_002-luu-anno.txt	28	7648	7650	ママ	03				1	0	0	1
+Texts	T003_002-luu-anno.txt	29	7679	7683	たく)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	30	8232	8236	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	31	8394	8398	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	32	8919	8923	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_002-luu-anno.txt	33	8957	8961	たく)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	34	9031	9035	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	35	9057	9061	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	36	9601	9605	たく)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	37	9910	9912	ママ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	38	10372	10376	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	39	10454	10456	ママ	01				1	0	1	0
+Texts	T003_002-luu-anno.txt	40	10474	10478	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	41	10501	10505	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	42	12368	12369	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	43	12903	12907	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	44	12927	12931	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_002-luu-anno.txt	45	13161	13165	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_002-luu-anno.txt	46	13202	13212	やっ)(W クー|君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	47	13595	13599	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	48	14009	14013	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	49	14385	14389	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	50	14815	14817	お前					1	0	0	1
+Texts	T003_002-luu-anno.txt	51	16149	16151	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	52	16237	16239	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	53	16275	16279	ママたち	03				1	1	0	0
+Texts	T003_002-luu-anno.txt	54	16415	16419	うちたち					1	1	0	0
+Texts	T003_002-luu-anno.txt	55	16706	16710	うちたち					1	1	0	0
+Texts	T003_002-luu-anno.txt	56	18111	18115	たく)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	57	18496	18500	たく)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	58	18828	18830	ママ	03				1	1	0	0
+Texts	T003_002-luu-anno.txt	59	19485	19487	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	60	19964	19968	たく)君					1	0	0	1
+Texts	T003_002-luu-anno.txt	61	19987	19990	あんた					1	0	1	0
+Texts	T003_002-luu-anno.txt	62	20076	20078	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	63	20721	20723	ママ	01				1	0	0	1
+Texts	T003_002-luu-anno.txt	64	20912	20916	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	65	21435	21439	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	66	21508	21512	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	67	21612	21616	たく)君					1	0	1	0
+Texts	T003_002-luu-anno.txt	68	21688	21692	たく)君	2nd?				1	0	0	1
+Texts	T003_002-luu-anno.txt	69	24012	24016	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	70	24071	24075	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	71	24299	24301	たく					1	0	0	1
+Texts	T003_002-luu-anno.txt	72	24918	24922	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	73	24941	24945	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	74	25084	25085	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	75	25308	25310	たく					1	0	0	1
+Texts	T003_002-luu-anno.txt	76	26008	26012	やっ)君	ニックネーム？				1	0	1	0
+Texts	T003_002-luu-anno.txt	77	26103	26104	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	78	26119	26120	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	79	26226	26227	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	80	26248	26252	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	81	26388	26392	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	82	26762	26763	俺					1	1	0	0
+Texts	T003_002-luu-anno.txt	83	27089	27093	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	84	27308	27312	やっ)君	フィラー？				1	0	0	1
+Texts	T003_002-luu-anno.txt	85	27933	27937	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	86	28039	28043	平川)君	誰？　他称？　自称？				1	0	1	0
+Texts	T003_002-luu-anno.txt	87	28259	28263	やっ)君	ニックネーム？				1	1	0	0
+Texts	T003_002-luu-anno.txt	88	29037	29041	やっ)君	ニックネーム？				1	0	0	1
+Texts	T003_002-luu-anno.txt	89	29634	29635	俺					1	1	0	0

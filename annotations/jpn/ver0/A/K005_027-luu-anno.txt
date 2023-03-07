@@ -1,0 +1,55 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K005_027-luu-anno.txt	1	488	491	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	2	876	879	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	3	1308	1311	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	4	1538	1541	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	5	2203	2206	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	6	3338	3341	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	7	7938	7943	お姉さ:ん	01の可能性が高い				1	0	0	1
+Texts	K005_027-luu-anno.txt	8	8009	8012	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	9	8282	8285	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	10	8519	8522	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	11	8974	8975	僕					1	1	0	0
+Texts	K005_027-luu-anno.txt	12	9181	9184	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	14	12859	12862	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	15	13647	13650	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	16	15950	15953	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	17	16344	16347	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	18	16392	16395	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	19	20044	20047	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	20	23937	23940	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	21	24171	24174	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	22	24484	24487	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	23	25054	25057	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	24	26407	26410	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	25	29426	29428	お前					1	0	1	0
+Texts	K005_027-luu-anno.txt	26	31032	31035	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	27	31219	31222	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	28	31225	31228	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	29	31256	31259	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	30	31580	31583	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	31	32382	32385	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	32	35243	35247	あ:たし					1	1	0	0
+Texts	K005_027-luu-anno.txt	33	35570	35576	みー)ちゃん					1	0	0	1
+Texts	K005_027-luu-anno.txt	34	35683	35686	あなた					1	0	1	0
+Texts	K005_027-luu-anno.txt	35	35863	35867	お姉さん	01の可能性が高い				1	0	0	1
+Texts	K005_027-luu-anno.txt	37	36990	36993	わたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	38	39907	39913	みー)ちゃん					1	0	0	1
+Texts	K005_027-luu-anno.txt	39	39915	39925	お(W カ|母)さん	03				1	1	0	0
+Texts	K005_027-luu-anno.txt	40	40236	40243	みー)ちゃ:ん					1	0	0	1
+Texts	K005_027-luu-anno.txt	41	40272	40278	みー)ちゃん					1	0	1	0
+Texts	K005_027-luu-anno.txt	43	40826	40832	みー)ちゃん					1	0	0	1
+Texts	K005_027-luu-anno.txt	44	40899	40902	あんた					1	0	1	0
+Texts	K005_027-luu-anno.txt	45	40909	40912	あんた					1	0	1	0
+Texts	K005_027-luu-anno.txt	46	40928	40932	お母さん	03				1	1	0	0
+Texts	K005_027-luu-anno.txt	47	41494	41497	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	48	45187	45190	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	49	45585	45588	わたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	50	46507	46510	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	51	48277	48281	わ)たし					1	1	0	0
+Texts	K005_027-luu-anno.txt	52	48344	48347	あたし					1	1	0	0
+Texts	K005_027-luu-anno.txt	53	48574	48580	みー)ちゃん					1	0	0	1
+Texts	K005_027-luu-anno.txt	55	48618	48620	社長	あだ名				1	0	0	1
+Texts	K005_027-luu-anno.txt	54	48665	48674	みー)(L ちゃん					1	0	0	1
+Texts	K005_027-luu-anno.txt	56	48715	48718	社長:	あだな				1	0	0	1
+Texts	K005_027-luu-anno.txt	57	49002	49009	みー)ちゃ:ん					1	0	0	1

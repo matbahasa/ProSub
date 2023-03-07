@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T017_004-luu-anno.txt	1	84	87	わたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	2	574	577	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	3	985	986	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	4	1410	1411	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	5	1437	1438	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	6	1740	1743	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	7	1825	1831	岡崎)さ:ん					1	0	0	1
+Texts	T017_004-luu-anno.txt	8	1864	1867	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	9	2410	2413	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	10	3268	3273	あたしたち					1	1	0	0
+Texts	T017_004-luu-anno.txt	11	4113	4114	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	12	4183	4184	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	13	6878	6881	わたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	14	7130	7131	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	15	7538	7543	岡崎)さん					1	0	1	0
+Texts	T017_004-luu-anno.txt	16	8881	8884	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	17	10026	10027	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	18	10064	10067	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	19	10150	10153	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	20	10198	10201	あたし					1	1	0	0
+Texts	T017_004-luu-anno.txt	21	11388	11389	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	22	12838	12839	僕					1	1	0	0
+Texts	T017_004-luu-anno.txt	23	13961	13963	うち					1	1	0	0

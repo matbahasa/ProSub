@@ -1,0 +1,31 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K009_006-luu-anno.txt	1	1151	1153	お前					1	0	1	0
+Texts	K009_006-luu-anno.txt	2	1808	1814	おばあちゃん	03?				1	0	0	1
+Texts	K009_006-luu-anno.txt	3	2267	2268	我					1	1	0	0
+Texts	K009_006-luu-anno.txt	4	2271	2272	我					1	1	0	0
+Texts	K009_006-luu-anno.txt	5	2436	2442	おばちゃ:ん	03?				1	0	0	1
+Texts	K009_006-luu-anno.txt	6	3006	3009	わたし					1	1	0	0
+Texts	K009_006-luu-anno.txt	7	4469	4470	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	8	5824	5826	お宅	引用				1	0	1	0
+Texts	K009_006-luu-anno.txt	9	6966	6967	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	10	10094	10096	自分	引用				1	1	0	0
+Texts	K009_006-luu-anno.txt	11	10287	10288	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	12	14507	14510	わたし					1	1	0	0
+Texts	K009_006-luu-anno.txt	13	15780	15783	わたし					1	1	0	0
+Texts	K009_006-luu-anno.txt	14	16212	16213	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	15	17289	17292	わたし					1	1	0	0
+Texts	K009_006-luu-anno.txt	16	17928	17929	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	17	18550	18551	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	18	19288	19290	お前	フィラー？				1	0	0	1
+Texts	K009_006-luu-anno.txt	19	19766	19767	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	20	23944	23947	わたし					1	1	0	0
+Texts	K009_006-luu-anno.txt	21	24119	24120	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	22	24542	24549	美乃梨)ちゃん					1	0	1	0
+Texts	K009_006-luu-anno.txt	23	24766	24769	おめえ					1	0	1	0
+Texts	K009_006-luu-anno.txt	24	24862	24865	あたし					1	1	0	0
+Texts	K009_006-luu-anno.txt	25	25467	25470	おめえ					1	0	1	0
+Texts	K009_006-luu-anno.txt	26	25814	25817	おめえ					1	0	1	0
+Texts	K009_006-luu-anno.txt	27	25825	25828	わし)					1	1	0	0
+Texts	K009_006-luu-anno.txt	28	26254	26255	俺					1	1	0	0
+Texts	K009_006-luu-anno.txt	29	26751	26755	おじさん	03?				1	0	1	0
+Texts	K009_006-luu-anno.txt	30	28460	28461	俺					1	1	0	0

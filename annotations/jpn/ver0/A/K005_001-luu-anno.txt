@@ -1,0 +1,4 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K005_001-luu-anno.txt	1	4837	4842	あたしたち					1	1	0	0
+Texts	K005_001-luu-anno.txt	2	9180	9182	ママ	01				1	0	1	0
+Texts	K005_001-luu-anno.txt	3	16839	16842	あたし					1	1	0	0

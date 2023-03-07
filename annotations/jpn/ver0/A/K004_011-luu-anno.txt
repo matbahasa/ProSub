@@ -1,0 +1,76 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K004_011-luu-anno.txt	1	54	60	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	2	85	89	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	3	304	309	謙三郎)君					1	0	0	1
+Texts	K004_011-luu-anno.txt	4	706	708	けん					1	0	1	0
+Texts	K004_011-luu-anno.txt	5	1706	1712	けん)ちゃん					1	1	0	0
+Texts	K004_011-luu-anno.txt	6	2584	2591	お母(U さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	7	2683	2689	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	8	2703	2707	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	9	2832	2836	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	10	2893	2897	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	11	3672	3676	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	12	3953	3958	お母さ:ん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	13	4002	4007	お母さ:ん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	14	4054	4059	お母さ:ん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	15	4272	4278	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	16	4555	4558	君たち					1	0	1	0
+Texts	K004_011-luu-anno.txt	17	4828	4831	あなた					1	0	1	0
+Texts	K004_011-luu-anno.txt	18	4848	4852	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	19	5133	5134	君					1	0	1	0
+Texts	K004_011-luu-anno.txt	20	5200	5204	ヨシオ君					1	0	0	1
+Texts	K004_011-luu-anno.txt	21	5264	5268	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	22	5350	5354	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	23	5693	5697	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	24	5943	5949	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	25	5972	5976	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	26	5999	6000	俺					1	1	0	0
+Texts	K004_011-luu-anno.txt	27	7175	7179	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	28	7617	7623	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	29	7627	7633	けん)ちゃん					1	0	0	0
+Texts	K004_011-luu-anno.txt	30	8184	8185	君					1	0	1	0
+Texts	K004_011-luu-anno.txt	31	9637	9638	俺					1	1	0	0
+Texts	K004_011-luu-anno.txt	32	9678	9684	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	33	9820	9826	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	34	9981	9987	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	35	10921	10927	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	36	12046	12052	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	37	12190	12192	けん					1	0	1	0
+Texts	K004_011-luu-anno.txt	38	12610	12616	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	39	12887	12893	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	40	13135	13138	てめえ					1	0	0	1
+Texts	K004_011-luu-anno.txt	41	13177	13181	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	42	13314	13318	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	43	13352	13356	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	44	13621	13627	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	45	13739	13745	けん)ちゃん					1	1	0	0
+Texts	K004_011-luu-anno.txt	46	14624	14630	けん)ちゃん					1	1	0	0
+Texts	K004_011-luu-anno.txt	47	14807	14812	お母さ:ん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	48	16074	16078	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	49	16872	16876	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	50	17560	17563	君たち					1	0	1	0
+Texts	K004_011-luu-anno.txt	51	18029	18033	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	52	19528	19534	けん)ちゃん					1	0	1	0
+Texts	K004_011-luu-anno.txt	53	20687	20693	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	54	20956	20962	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	55	22170	22173	謙三郎					1	0	0	1
+Texts	K004_011-luu-anno.txt	56	22328	22332	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	57	22466	22470	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	58	23153	23156	母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	59	23840	23844	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	60	24021	24022	君					1	0	1	0
+Texts	K004_011-luu-anno.txt	61	24247	24248	君					1	0	1	0
+Texts	K004_011-luu-anno.txt	62	24632	24634	けん					1	1	0	0
+Texts	K004_011-luu-anno.txt	63	24974	24975	君					1	0	1	0
+Texts	K004_011-luu-anno.txt	64	24976	24980	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	65	25065	25066	僕					1	1	0	0
+Texts	K004_011-luu-anno.txt	66	25563	25567	お母さん	01				1	1	0	0
+Texts	K004_011-luu-anno.txt	67	25668	25675	謙三郎)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	68	25938	25942	お母さん	01				1	0	1	0
+Texts	K004_011-luu-anno.txt	69	26281	26287	けん)ちゃん					1	0	0	1
+Texts	K004_011-luu-anno.txt	70	26662	26666	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	71	27074	27078	お母さん	01				1	0	0	1
+Texts	K004_011-luu-anno.txt	73	28031	28032	皆					1	0	0	1
+Texts	K004_011-luu-anno.txt	74	28038	28044	そこのあなた					1	0	0	1
+Texts	K004_011-luu-anno.txt	72	28041	28044	あなた			74		1	0	0	1
+Texts	K004_011-luu-anno.txt	75	29576	29582	けん)ちゃん					1	1	0	0

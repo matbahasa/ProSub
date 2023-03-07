@@ -1,0 +1,26 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T016_004a-luu-anno.txt	1	580	585	慎吾)さん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	2	1058	1064	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	3	1322	1328	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	4	1479	1485	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	5	1559	1565	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	6	2474	2475	謙					1	0	1	0
+Texts	T016_004a-luu-anno.txt	7	2536	2537	謙					1	0	1	0
+Texts	T016_004a-luu-anno.txt	8	2827	2828	俺					1	1	0	0
+Texts	T016_004a-luu-anno.txt	9	2977	2983	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	10	2998	3003	謙)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	11	3385	3391	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	12	3635	3636	俺					1	1	0	0
+Texts	T016_004a-luu-anno.txt	13	3985	3986	俺					1	1	0	0
+Texts	T016_004a-luu-anno.txt	14	4569	4573	お母さん	01				1	0	0	1
+Texts	T016_004a-luu-anno.txt	15	5052	5057	謙)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	16	5138	5144	里奈)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	17	6102	6105	あたし					1	1	0	0
+Texts	T016_004a-luu-anno.txt	18	6633	6635	謙一					1	0	0	1
+Texts	T016_004a-luu-anno.txt	19	6811	6815	お母さん	01				1	0	0	1
+Texts	T016_004a-luu-anno.txt	20	7284	7287	理奈子					1	0	1	0
+Texts	T016_004a-luu-anno.txt	21	8088	8093	謙)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	22	8110	8116	てっ)ちゃん					1	0	0	1
+Texts	T016_004a-luu-anno.txt	23	8235	8237	鉄朗					1	0	0	1
+Texts	T016_004a-luu-anno.txt	24	9032	9037	慎吾)さん					1	0	1	0
+Texts	T016_004a-luu-anno.txt	25	9337	9343	てっ)ちゃん					1	0	0	1

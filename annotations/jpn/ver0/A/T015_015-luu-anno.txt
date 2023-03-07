@@ -1,0 +1,39 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T015_015-luu-anno.txt	1	365	370	金田)さん					1	0	1	0
+Texts	T015_015-luu-anno.txt	2	2318	2319	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	3	2407	2409	渋谷					1	0	1	0
+Texts	T015_015-luu-anno.txt	4	2414	2416	渋谷					1	0	1	0
+Texts	T015_015-luu-anno.txt	5	2464	2466	渋谷					1	0	1	0
+Texts	T015_015-luu-anno.txt	6	3294	3296	お前					1	0	0	1
+Texts	T015_015-luu-anno.txt	7	4113	4116	わたし					1	1	0	0
+Texts	T015_015-luu-anno.txt	8	4705	4706	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	9	4922	4924	うち					1	1	0	0
+Texts	T015_015-luu-anno.txt	10	6289	6290	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	11	8311	8313	渋谷	ここに登場する渋谷か、地区の渋谷か不明				1	0	1	0
+Texts	T015_015-luu-anno.txt	12	8583	8584	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	13	11095	11097	我々					1	1	0	0
+Texts	T015_015-luu-anno.txt	14	11410	11412	俺ら					1	1	0	0
+Texts	T015_015-luu-anno.txt	15	11535	11538	うちら					1	1	0	0
+Texts	T015_015-luu-anno.txt	16	11633	11636	こっち					1	1	0	0
+Texts	T015_015-luu-anno.txt	17	12109	12111	我々					1	1	0	0
+Texts	T015_015-luu-anno.txt	18	12244	12246	我々					1	1	0	0
+Texts	T015_015-luu-anno.txt	19	12283	12287	自分たち					1	1	0	0
+Texts	T015_015-luu-anno.txt	20	12343	12347	自分たち					1	1	0	0
+Texts	T015_015-luu-anno.txt	21	14472	14473	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	22	14545	14546	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	23	14694	14699	雅士)さん					1	0	1	0
+Texts	T015_015-luu-anno.txt	24	14732	14733	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	25	14743	14744	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	26	14765	14768	あたし					1	1	0	0
+Texts	T015_015-luu-anno.txt	27	14797	14802	雅士)さん					1	0	1	0
+Texts	T015_015-luu-anno.txt	28	14865	14866	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	29	14936	14937	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	30	15004	15009	しぶやっち					1	0	1	0
+Texts	T015_015-luu-anno.txt	31	16775	16778	みんな					1	1	0	0
+Texts	T015_015-luu-anno.txt	32	18080	18086	力))ちゃん	井口の下の名前だと思われる				1	0	1	0
+Texts	T015_015-luu-anno.txt	33	18279	18280	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	34	18328	18335	力))ちゃ:ん					1	0	1	0
+Texts	T015_015-luu-anno.txt	35	18674	18675	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	36	18695	18696	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	37	19234	19235	俺					1	1	0	0
+Texts	T015_015-luu-anno.txt	38	20130	20136	金田)さ:ん					1	0	0	1

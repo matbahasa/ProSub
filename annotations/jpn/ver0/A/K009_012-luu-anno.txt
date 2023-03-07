@@ -1,0 +1,40 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K009_012-luu-anno.txt	1	549	552	わたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	2	1457	1460	こっち					1	1	0	0
+Texts	K009_012-luu-anno.txt	3	1974	1980	雅代)ちゃん					1	0	1	0
+Texts	K009_012-luu-anno.txt	4	2058	2061	わたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	5	2455	2458	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	6	2766	2769	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	7	3716	3718	自分					1	1	0	0
+Texts	K009_012-luu-anno.txt	8	5023	5026	わたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	10	7565	7572	紀世子)ちゃん					1	0	1	0
+Texts	K009_012-luu-anno.txt	11	8228	8231	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	12	9824	9827	わたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	13	10099	10102	あんた					1	0	1	0
+Texts	K009_012-luu-anno.txt	14	14315	14321	雅代)ちゃん					1	0	1	0
+Texts	K009_012-luu-anno.txt	15	16183	16186	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	16	17317	17320	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	17	17341	17345	あたし)					1	0	0	0
+Texts	K009_012-luu-anno.txt	18	17360	17363	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	19	18156	18159	わたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	20	18234	18237	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	21	21182	21185	俺たち	引用				1	1	0	0
+Texts	K009_012-luu-anno.txt	22	21620	21623	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	23	24548	24552	お前たち	引用？				1	0	1	0
+Texts	K009_012-luu-anno.txt	24	24609	24612	君たち	引用				1	0	1	0
+Texts	K009_012-luu-anno.txt	25	30201	30204	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	26	30570	30572	雅代	２nd?他称?				1	0	1	0
+Texts	K009_012-luu-anno.txt	27	30934	30940	雅代)ちゃん					1	0	1	0
+Texts	K009_012-luu-anno.txt	28	36993	36995	お前					1	0	1	0
+Texts	K009_012-luu-anno.txt	29	41787	41788	俺					1	1	0	0
+Texts	K009_012-luu-anno.txt	30	42631	42632	俺					1	1	0	0
+Texts	K009_012-luu-anno.txt	31	42951	42954	わたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	32	43951	43954	美乃梨	２nd?他称?				1	0	1	0
+Texts	K009_012-luu-anno.txt	33	48187	48190	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	34	48343	48346	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	35	49175	49178	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	36	53181	53184	あたし					1	1	0	0
+Texts	K009_012-luu-anno.txt	37	54153	54155	お前	引用				1	0	0	1
+Texts	K009_012-luu-anno.txt	38	55090	55092	雅代					1	0	1	0
+Texts	K009_012-luu-anno.txt	39	58857	58861	お母さん	？				1	0	0	0
+Texts	K009_012-luu-anno.txt	40	59348	59351	美乃梨					1	0	1	0

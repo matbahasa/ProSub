@@ -1,0 +1,22 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K011_004-luu-anno.txt	1	1356	1357	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	2	3436	3439	みんな	1st?				1	0	1	0
+Texts	K011_004-luu-anno.txt	3	3471	3472	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	4	4287	4289	健斗					1	0	1	0
+Texts	K011_004-luu-anno.txt	5	6781	6783	健斗					1	0	1	0
+Texts	K011_004-luu-anno.txt	6	10337	10339	健斗	一人称が健斗？				1	1	0	0
+Texts	K011_004-luu-anno.txt	7	11002	11004	駿介					1	0	1	0
+Texts	K011_004-luu-anno.txt	8	11465	11467	健斗					1	0	1	0
+Texts	K011_004-luu-anno.txt	9	12044	12046	駿介					1	0	1	0
+Texts	K011_004-luu-anno.txt	10	12302	12305	皆さん					1	0	0	1
+Texts	K011_004-luu-anno.txt	11	13829	13832	奥さん	引用,02				1	0	0	1
+Texts	K011_004-luu-anno.txt	12	14916	14919	皆さん					1	0	0	1
+Texts	K011_004-luu-anno.txt	13	15063	15064	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	14	15084	15085	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	15	15204	15205	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	16	16717	16718	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	17	17145	17146	俺					1	1	0	0
+Texts	K011_004-luu-anno.txt	18	18730	18733	奥さん	引用,02				1	0	0	1
+Texts	K011_004-luu-anno.txt	19	19605	19608	皆さん					1	0	0	1
+Texts	K011_004-luu-anno.txt	20	22626	22629	健斗)					1	0	1	0
+Texts	K011_004-luu-anno.txt	21	24764	24765	俺					1	1	0	0

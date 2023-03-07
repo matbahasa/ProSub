@@ -1,0 +1,28 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K004_013-luu-anno.txt	1	1248	1251	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	2	1623	1626	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	12	1844	1847	わたし	絵本のタイトル				1	1	0	0
+Texts	K004_013-luu-anno.txt	13	1871	1874	わたし	絵本のタイトル				1	1	0	0
+Texts	K004_013-luu-anno.txt	3	2343	2346	あなた					1	0	1	0
+Texts	K004_013-luu-anno.txt	5	9560	9563	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	6	15811	15814	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	7	15902	15905	わたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	8	16232	16235	わたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	9	16313	16316	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	4	17610	17613	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	35	17711	17718	佐和))ちゃん					1	0	1	0
+Texts	K004_013-luu-anno.txt	10	20063	20066	あなた					1	0	1	0
+Texts	K004_013-luu-anno.txt	11	20546	20549	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	14	24428	24431	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	15	25679	25683	わたくし					1	1	0	0
+Texts	K004_013-luu-anno.txt	16	25736	25740	わたくし					1	1	0	0
+Texts	K004_013-luu-anno.txt	17	27890	27893	わたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	18	28728	28731	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	19	29350	29353	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	20	31752	31755	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	21	32975	32978	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	27	34873	34876	わたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	28	35106	35109	わたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	29	35329	35332	あたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	31	37407	37410	わたし					1	1	0	0
+Texts	K004_013-luu-anno.txt	32	37934	37937	皆さん					1	0	1	0

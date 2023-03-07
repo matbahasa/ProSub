@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K003_014-luu-anno.txt	1	439	441	うち					1	1	0	0
+Texts	K003_014-luu-anno.txt	2	963	969	しー)ちゃん					1	0	1	0
+Texts	K003_014-luu-anno.txt	3	1110	1112	ママ	01				1	0	0	1
+Texts	K003_014-luu-anno.txt	4	1508	1510	パパ	01				1	0	1	0
+Texts	K003_014-luu-anno.txt	5	1596	1598	パパ	01				1	0	1	0
+Texts	K003_014-luu-anno.txt	6	2724	2726	お前					1	0	1	0
+Texts	K003_014-luu-anno.txt	7	2910	2911	俺					1	1	0	0
+Texts	K003_014-luu-anno.txt	8	4115	4118	あたし					1	1	0	0
+Texts	K003_014-luu-anno.txt	9	6611	6614	うちら					1	1	0	0
+Texts	K003_014-luu-anno.txt	10	7363	7365	ママ	01				1	0	1	0
+Texts	K003_014-luu-anno.txt	11	7422	7424	ママ	01				1	1	0	0
+Texts	K003_014-luu-anno.txt	12	7619	7621	ママ	01				1	0	1	0
+Texts	K003_014-luu-anno.txt	13	9316	9319	うちら					1	1	0	0
+Texts	K003_014-luu-anno.txt	14	9325	9328	うちら					1	1	0	0
+Texts	K003_014-luu-anno.txt	15	9330	9332	うち					1	1	0	0
+Texts	K003_014-luu-anno.txt	16	10365	10367	うち					1	1	0	0
+Texts	K003_014-luu-anno.txt	17	10954	10956	うち					1	1	0	0
+Texts	K003_014-luu-anno.txt	18	11804	11806	うち					1	1	0	0
+Texts	K003_014-luu-anno.txt	19	11849	11851	うち					1	1	0	0
+Texts	K003_014-luu-anno.txt	20	15191	15193	ママ	01				1	0	0	1

@@ -1,0 +1,26 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T022_013c-luu-anno.txt	2	444	445	晁					1	0	1	0
+Texts	T022_013c-luu-anno.txt	1	485	486	俺					1	1	0	0
+Texts	T022_013c-luu-anno.txt	3	723	724	俺					1	1	0	0
+Texts	T022_013c-luu-anno.txt	4	1091	1092	僕					1	1	0	0
+Texts	T022_013c-luu-anno.txt	5	3010	3013	治之丞					1	0	1	0
+Texts	T022_013c-luu-anno.txt	6	3055	3057	お前					1	0	1	0
+Texts	T022_013c-luu-anno.txt	7	4310	4316	じょう)さん					1	0	1	0
+Texts	T022_013c-luu-anno.txt	8	4351	4357	ひで)ちゃん					1	0	1	0
+Texts	T022_013c-luu-anno.txt	9	4361	4367	ひで)ちゃん					1	0	1	0
+Texts	T022_013c-luu-anno.txt	10	4396	4402	じょう)さん					1	0	1	0
+Texts	T022_013c-luu-anno.txt	11	4486	4492	じょう)さん					1	0	1	0
+Texts	T022_013c-luu-anno.txt	12	4496	4498	雪室					1	0	1	0
+Texts	T022_013c-luu-anno.txt	13	4585	4590	あなたたち					1	0	1	0
+Texts	T022_013c-luu-anno.txt	14	4710	4711	俺					1	1	0	0
+Texts	T022_013c-luu-anno.txt	15	5199	5202	わたし					1	1	0	0
+Texts	T022_013c-luu-anno.txt	16	7489	7495	じょう)さん					1	0	0	1
+Texts	T022_013c-luu-anno.txt	17	7543	7546	あなた					1	0	1	0
+Texts	T022_013c-luu-anno.txt	18	7578	7584	じょう)さん					1	0	0	1
+Texts	T022_013c-luu-anno.txt	19	7629	7632	わたし					1	1	0	0
+Texts	T022_013c-luu-anno.txt	20	8793	8799	じょう)さん					1	0	0	1
+Texts	T022_013c-luu-anno.txt	21	8838	8844	じょう)さん					1	0	0	1
+Texts	T022_013c-luu-anno.txt	22	8932	8935	治之丞					1	0	1	0
+Texts	T022_013c-luu-anno.txt	23	8946	8947	俺					1	1	0	0
+Texts	T022_013c-luu-anno.txt	24	9148	9150	雪室					1	0	1	0
+Texts	T022_013c-luu-anno.txt	25	9155	9161	じょう)さん					1	0	1	0

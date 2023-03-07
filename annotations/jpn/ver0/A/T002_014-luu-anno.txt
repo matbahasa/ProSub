@@ -1,0 +1,29 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T002_014-luu-anno.txt	1	149	152	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	2	1375	1378	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	3	1493	1496	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	4	1781	1784	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	5	2309	2312	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	6	2746	2749	うちら					1	1	0	0
+Texts	T002_014-luu-anno.txt	7	2907	2910	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	8	3060	3062	自分					1	1	0	0
+Texts	T002_014-luu-anno.txt	9	3120	3123	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	10	3506	3508	自分					1	1	0	0
+Texts	T002_014-luu-anno.txt	11	4313	4316	わたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	12	4394	4397	あたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	13	5714	5716	チヒ					1	0	1	0
+Texts	T002_014-luu-anno.txt	14	5755	5756	俺					1	1	0	0
+Texts	T002_014-luu-anno.txt	15	5838	5841	あたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	16	6009	6012	あたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	17	6224	6229	綾音)さん	address?				1	0	1	0
+Texts	T002_014-luu-anno.txt	18	6389	6391	チヒ					1	0	1	0
+Texts	T002_014-luu-anno.txt	19	6518	6520	チヒ					1	0	1	0
+Texts	T002_014-luu-anno.txt	20	6630	6636	直也))さん					1	0	1	0
+Texts	T002_014-luu-anno.txt	21	6719	6721	チヒ					1	0	0	1
+Texts	T002_014-luu-anno.txt	22	6964	6970	直也))さん					1	0	1	0
+Texts	T002_014-luu-anno.txt	23	7584	7587	あたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	24	8997	8999	自分					1	1	0	0
+Texts	T002_014-luu-anno.txt	25	9068	9070	自分	？				1	0	1	0
+Texts	T002_014-luu-anno.txt	26	9591	9593	チヒ					1	0	0	1
+Texts	T002_014-luu-anno.txt	27	9886	9889	あたし					1	1	0	0
+Texts	T002_014-luu-anno.txt	28	10691	10693	チヒ					1	0	0	1

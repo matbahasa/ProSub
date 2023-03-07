@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	S002_009-luu-anno.txt	1	350	353	わたし					1	1	0	0
+annotation	S002_009-luu-anno.txt	2	3261	3262	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	3	3476	3477	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	4	4220	4226	ぐっち)さん					1	0	1	0
+annotation	S002_009-luu-anno.txt	5	4835	4836	君					1	0	1	0
+annotation	S002_009-luu-anno.txt	6	4890	4891	僕					1	1	0	0
+annotation	S002_009-luu-anno.txt	7	7306	7307	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	9	7945	7946	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	8	8265	8266	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	10	9410	9412	お前					1	0	1	0
+annotation	S002_009-luu-anno.txt	11	10046	10047	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	13	10097	10100	君たち					1	0	1	0
+annotation	S002_009-luu-anno.txt	12	10142	10143	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	14	10231	10237	ぐっち)先生					1	0	1	0
+annotation	S002_009-luu-anno.txt	15	10347	10353	ぐっち)先生					1	0	1	0
+annotation	S002_009-luu-anno.txt	16	10698	10700	吾輩	本のタイトル				1	1	0	0
+annotation	S002_009-luu-anno.txt	17	11110	11113	わたし					1	1	0	0
+annotation	S002_009-luu-anno.txt	18	14011	14012	俺					1	1	0	0
+annotation	S002_009-luu-anno.txt	19	14592	14593	君					1	0	1	0
+annotation	S002_009-luu-anno.txt	20	14771	14772	俺					1	1	0	0

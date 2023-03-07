@@ -1,0 +1,91 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	S001_017-luu-anno.txt	1	243	244	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	2	633	634	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	3	722	725	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	4	1848	1849	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	5	2372	2375	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	6	2848	2849	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	7	4277	4278	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	8	4922	4927	静香)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	9	5004	5009	静香)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	10	5170	5174	戸倉栄子					1	1	0	0
+annotation	S001_017-luu-anno.txt	11	5189	5205	戸倉)?(0.785)(R 栄子					1	0	1	0
+annotation	S001_017-luu-anno.txt	12	5234	5236	栄子					1	1	0	0
+annotation	S001_017-luu-anno.txt	21	5307	5318	マシ))(R (D ス					1	0	0	1
+annotation	S001_017-luu-anno.txt	13	5344	5348	真下将太					1	1	0	0
+annotation	S001_017-luu-anno.txt	14	5363	5367	真下将太					1	0	1	0
+annotation	S001_017-luu-anno.txt	15	5394	5396	真下					1	0	1	0
+annotation	S001_017-luu-anno.txt	16	5410	5414	能勢美春					1	1	0	0
+annotation	S001_017-luu-anno.txt	17	5429	5436	能勢美春)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	18	5460	5461	健					1	1	0	0
+annotation	S001_017-luu-anno.txt	19	5486	5488	翔子					1	0	1	0
+annotation	S001_017-luu-anno.txt	20	5507	5509	翔子					1	1	0	0
+annotation	S001_017-luu-anno.txt	22	5547	5552	翔子)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	23	6098	6105	翔:子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	24	7465	7468	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	25	7862	7868	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	26	8684	8689	栄子)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	27	10567	10573	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	28	11636	11640	あたしら					1	1	0	0
+annotation	S001_017-luu-anno.txt	29	12162	12168	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	32	12643	12646	皆さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	30	12670	12671	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	31	12690	12696	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	33	14994	14996	能勢					1	0	1	0
+annotation	S001_017-luu-anno.txt	34	17129	17134	翔子)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	35	17179	17186	翔)子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	36	17435	17438	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	37	17756	17759	健)君					1	0	1	0
+annotation	S001_017-luu-anno.txt	38	17952	17953	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	39	18210	18211	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	40	18514	18517	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	41	19837	19842	美春)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	42	19886	19892	美春)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	43	20085	20089	健)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	44	20131	20132	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	45	21061	21065	健)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	46	21579	21585	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	47	21695	21701	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	48	22695	22700	戸倉)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	49	22763	22768	戸倉)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	50	23351	23357	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	51	24297	24302	静香)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	52	25247	25252	戸倉)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	53	25416	25419	健)君					1	0	1	0
+annotation	S001_017-luu-anno.txt	54	25589	25594	能勢)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	55	25703	25708	戸倉)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	56	26238	26241	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	57	27257	27269	真下)(Y センセ|先生					1	0	1	0
+annotation	S001_017-luu-anno.txt	58	27661	27674	翔+(0.112)子)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	59	27700	27706	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	60	29551	29555	健)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	61	29903	29909	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	62	30108	30111	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	63	30174	30175	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	64	30776	30780	わ)たし					1	1	0	0
+annotation	S001_017-luu-anno.txt	65	31297	31303	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	66	32506	32507	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	67	32759	32766	健)(U さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	68	32960	32963	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	69	34918	34922	健)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	70	35191	35192	僕					1	1	0	0
+annotation	S001_017-luu-anno.txt	71	36153	36158	栄子)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	72	37859	37862	あなた					1	0	1	0
+annotation	S001_017-luu-anno.txt	73	38254	38260	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	74	38663	38666	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	78	38753	38759	美春)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	75	38815	38827	真下)(Y センセ|先生					1	0	1	0
+annotation	S001_017-luu-anno.txt	76	38844	38856	真下)(Y センセ|先生					1	0	1	0
+annotation	S001_017-luu-anno.txt	77	38873	38881	真下)(U 先生					1	0	1	0
+annotation	S001_017-luu-anno.txt	80	39808	39811	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	79	39842	39847	真下)先生					1	0	1	0
+annotation	S001_017-luu-anno.txt	81	39936	39941	栄子)さん					1	0	1	0
+annotation	S001_017-luu-anno.txt	82	40432	40435	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	83	41972	41975	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	84	42167	42170	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	85	43205	43208	わたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	86	43492	43495	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	87	43507	43510	あたし					1	1	0	0
+annotation	S001_017-luu-anno.txt	88	45280	45286	翔子)ちゃん					1	0	1	0
+annotation	S001_017-luu-anno.txt	89	45688	45689	俺					1	1	0	0
+annotation	S001_017-luu-anno.txt	90	45737	45740	わたし					1	1	0	0

@@ -1,0 +1,74 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T018_005-luu-anno.txt	1	598	601	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	2	678	681	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	3	712	717	根本)先生	01				1	0	1	0
+Texts	T018_005-luu-anno.txt	4	1163	1165	先生	01				1	0	0	1
+Texts	T018_005-luu-anno.txt	5	1191	1193	先生	01				1	0	0	1
+Texts	T018_005-luu-anno.txt	6	1804	1805	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	7	2142	2143	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	8	2213	2218	楊:)くん					1	0	1	0
+Texts	T018_005-luu-anno.txt	9	2420	2421	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	10	2446	2447	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	11	2476	2479	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	12	2686	2687	俺					1	1	0	0
+Texts	T018_005-luu-anno.txt	13	3065	3066	君					1	0	1	0
+Texts	T018_005-luu-anno.txt	14	3113	3116	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	15	3580	3582	自分					1	1	0	0
+Texts	T018_005-luu-anno.txt	16	3696	3699	あなた					1	0	1	0
+Texts	T018_005-luu-anno.txt	17	3847	3855	根本)(D セン	01				1	0	0	1
+Texts	T018_005-luu-anno.txt	18	3936	3938	自分					1	1	0	0
+Texts	T018_005-luu-anno.txt	19	6052	6055	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	20	6205	6208	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	21	6298	6301	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	22	6401	6405	楊)くん					1	0	1	0
+Texts	T018_005-luu-anno.txt	23	6535	6537	自分					1	1	0	0
+Texts	T018_005-luu-anno.txt	24	7035	7037	先生	01				1	0	0	1
+Texts	T018_005-luu-anno.txt	25	7855	7858	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	26	8244	8245	我					1	1	0	0
+Texts	T018_005-luu-anno.txt	27	8424	8427	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	28	9061	9064	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	29	9225	9226	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	30	9368	9371	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	31	9548	9551	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	32	10204	10207	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	34	10270	10271	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	33	10273	10274	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	35	10422	10425	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	36	10458	10461	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	37	10638	10641	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	38	10722	10725	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	39	10896	10899	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	40	11092	11096	わたくし					1	1	0	0
+Texts	T018_005-luu-anno.txt	41	11160	11161	俺					1	1	0	0
+Texts	T018_005-luu-anno.txt	42	11711	11715	わたくし					1	1	0	0
+Texts	T018_005-luu-anno.txt	43	11869	11873	わたくし					1	1	0	0
+Texts	T018_005-luu-anno.txt	44	12101	12105	わたくし					1	1	0	0
+Texts	T018_005-luu-anno.txt	45	12555	12559	わたくし					1	1	0	0
+Texts	T018_005-luu-anno.txt	46	14454	14457	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	47	15203	15207	わたくし					1	1	0	0
+Texts	T018_005-luu-anno.txt	48	16319	16320	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	49	21539	21540	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	50	21739	21743	楊)くん					1	0	0	1
+Texts	T018_005-luu-anno.txt	51	22256	22258	お前					1	0	1	0
+Texts	T018_005-luu-anno.txt	52	23856	23859	お前ら					1	0	1	0
+Texts	T018_005-luu-anno.txt	53	25066	25067	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	54	25322	25323	我					1	1	0	0
+Texts	T018_005-luu-anno.txt	55	25414	25415	我					1	1	0	0
+Texts	T018_005-luu-anno.txt	56	25468	25471	わたし					1	1	0	0
+Texts	T018_005-luu-anno.txt	57	25537	25540	あなた					1	0	1	0
+Texts	T018_005-luu-anno.txt	58	25919	25920	我					1	1	0	0
+Texts	T018_005-luu-anno.txt	59	26579	26581	お前					1	0	1	0
+Texts	T018_005-luu-anno.txt	60	27137	27139	お前					1	0	1	0
+Texts	T018_005-luu-anno.txt	61	27875	27877	お前					1	0	1	0
+Texts	T018_005-luu-anno.txt	62	27898	27899	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	63	27993	27994	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	64	29024	29025	俺					1	1	0	0
+Texts	T018_005-luu-anno.txt	65	29735	29736	俺					1	1	0	0
+Texts	T018_005-luu-anno.txt	66	30595	30597	お前					1	0	1	0
+Texts	T018_005-luu-anno.txt	67	31126	31127	僕					1	1	0	0
+Texts	T018_005-luu-anno.txt	68	32876	32880	楊)くん					1	0	1	0
+Texts	T018_005-luu-anno.txt	69	33974	33978	楊)くん					1	0	0	1
+Texts	T018_005-luu-anno.txt	70	34095	34098	あなた					1	0	1	0
+Texts	T018_005-luu-anno.txt	71	34197	34200	あなた					1	0	1	0
+Texts	T018_005-luu-anno.txt	72	35563	35568	楊))くん					1	0	1	0
+Texts	T018_005-luu-anno.txt	73	36413	36414	僕					1	1	0	0

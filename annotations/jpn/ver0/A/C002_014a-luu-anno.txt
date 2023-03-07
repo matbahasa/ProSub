@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C002_014a-luu-anno.txt	1	495	498	あなた					1	0	1	0
+Texts	C002_014a-luu-anno.txt	2	953	956	あなた					1	0	1	0
+Texts	C002_014a-luu-anno.txt	16	1068	1074	琴代)ちゃん					1	0	1	0
+Texts	C002_014a-luu-anno.txt	3	1507	1512	わたしたち					1	1	0	0
+Texts	C002_014a-luu-anno.txt	4	1734	1739	わたしたち					1	1	0	0
+Texts	C002_014a-luu-anno.txt	5	1805	1808	あたし					1	1	0	0
+Texts	C002_014a-luu-anno.txt	19	3221	3226	まし)さん					1	0	1	0
+Texts	C002_014a-luu-anno.txt	6	3743	3746	わたし					1	1	0	0
+Texts	C002_014a-luu-anno.txt	7	3954	3956	自分					1	1	0	0
+Texts	C002_014a-luu-anno.txt	8	4107	4110	わたし					1	1	0	0
+Texts	C002_014a-luu-anno.txt	17	4117	4122	琴代)さん					1	0	1	0
+Texts	C002_014a-luu-anno.txt	9	4412	4416	母ちゃん	01				1	0	1	0
+Texts	C002_014a-luu-anno.txt	10	4427	4428	俺					1	1	0	0
+Texts	C002_014a-luu-anno.txt	11	5397	5398	俺					1	1	0	0
+Texts	C002_014a-luu-anno.txt	12	5949	5952	あたし					1	1	0	0
+Texts	C002_014a-luu-anno.txt	13	6151	6154	わたし					1	1	0	0
+Texts	C002_014a-luu-anno.txt	14	7218	7222	母ちゃん	01				1	1	0	0
+Texts	C002_014a-luu-anno.txt	15	7384	7389	琴代)さん					1	0	1	0
+Texts	C002_014a-luu-anno.txt	18	7703	7706	こっち					1	1	0	0
+Texts	C002_014a-luu-anno.txt	20	7781	7783	二人					1	0	1	0

@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K005_021a-luu-anno.txt	1	122	127	敦志)くん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	2	292	295	あたし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	3	422	428	理恵子)さん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	4	744	746	敦志					1	0	1	0
+annotation	K005_021a-luu-anno.txt	5	1889	1893	わ:たし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	6	2203	2205	自分					1	1	0	0
+annotation	K005_021a-luu-anno.txt	8	3719	3725	矢恵)ちゃん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	7	3965	3968	わたし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	9	4227	4232	敦志)くん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	10	4293	4298	敦志)くん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	11	4325	4327	敦志					1	0	1	0
+annotation	K005_021a-luu-anno.txt	12	4588	4591	わたし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	13	5654	5657	わたし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	14	6004	6009	敦志)くん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	15	6020	6022	うち					1	1	0	0
+annotation	K005_021a-luu-anno.txt	16	6102	6108	理恵子)さん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	17	6240	6246	理恵子)さん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	18	6334	6337	わたし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	19	6575	6578	わたし					1	1	0	0
+annotation	K005_021a-luu-anno.txt	20	6601	6607	理恵子)さん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	21	6871	6877	矢恵)ちゃん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	22	6898	6903	敦志)くん					1	0	1	0
+annotation	K005_021a-luu-anno.txt	23	6978	6980	うち					1	1	0	0

@@ -1,0 +1,45 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T002_015-luu-anno.txt	1	93	94	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	2	162	165	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	3	503	508	原田)くん					1	0	1	0
+Texts	T002_015-luu-anno.txt	4	1003	1004	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	5	1321	1322	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	6	4877	4878	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	7	5495	5500	原田)くん					1	0	1	0
+Texts	T002_015-luu-anno.txt	8	7110	7111	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	9	8210	8211	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	10	9462	9463	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	11	10159	10160	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	12	10330	10333	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	13	12626	12629	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	14	15371	15374	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	15	15416	15419	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	16	15686	15689	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	17	16613	16616	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	18	17618	17621	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	19	18911	18912	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	20	20223	20226	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	21	20250	20255	原田)くん					1	0	1	0
+Texts	T002_015-luu-anno.txt	22	20630	20633	由美子	引用				1	0	1	0
+Texts	T002_015-luu-anno.txt	23	21488	21489	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	24	22169	22172	わたし	引用				1	1	0	0
+Texts	T002_015-luu-anno.txt	25	22477	22478	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	26	23310	23311	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	27	23806	23807	俺					1	1	0	0
+Texts	T002_015-luu-anno.txt	28	24352	24353	僕					1	1	0	0
+Texts	T002_015-luu-anno.txt	29	24902	24905	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	30	26609	26614	原田)くん					1	0	1	0
+Texts	T002_015-luu-anno.txt	31	26668	26671	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	32	27296	27299	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	33	28532	28535	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	34	28602	28605	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	35	28609	28611	自分					1	1	0	0
+Texts	T002_015-luu-anno.txt	36	28817	28822	原田)くん					1	0	1	0
+Texts	T002_015-luu-anno.txt	37	30993	30998	わたしたち	引用				1	1	0	0
+Texts	T002_015-luu-anno.txt	38	33867	33870	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	39	34509	34512	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	40	35172	35175	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	41	36519	36522	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	42	37123	37126	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	43	37577	37580	あたし					1	1	0	0
+Texts	T002_015-luu-anno.txt	44	37935	37938	あたし					1	1	0	0

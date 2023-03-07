@@ -1,0 +1,35 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+annotation	K006_021-luu-anno.txt	1	128	133	広子)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	2	1099	1102	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	3	1631	1634	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	4	1933	1936	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	5	10540	10543	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	6	13624	13625	僕					1	1	0	0
+annotation	K006_021-luu-anno.txt	7	14019	14021	先生	01				1	0	1	0
+annotation	K006_021-luu-anno.txt	8	15406	15409	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	9	15855	15857	先生	01				1	0	1	0
+annotation	K006_021-luu-anno.txt	10	22169	22174	軽部)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	11	27198	27203	広子)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	12	28579	28584	軽部)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	13	28721	28722	僕					1	1	0	0
+annotation	K006_021-luu-anno.txt	14	29010	29011	俺					1	1	0	0
+annotation	K006_021-luu-anno.txt	15	30535	30538	わたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	16	32602	32605	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	17	33875	33876	僕					1	1	0	0
+annotation	K006_021-luu-anno.txt	18	33877	33881	わたくし					1	1	0	0
+annotation	K006_021-luu-anno.txt	19	35111	35115	わたくし					1	1	0	0
+annotation	K006_021-luu-anno.txt	20	35728	35730	先生	01				1	0	1	0
+annotation	K006_021-luu-anno.txt	21	35761	35764	わたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	22	36038	36043	広子)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	23	40780	40782	うち					1	1	0	0
+annotation	K006_021-luu-anno.txt	24	41124	41127	わたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	25	42988	42990	先生	01				1	0	1	0
+annotation	K006_021-luu-anno.txt	26	47013	47016	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	27	47130	47133	わたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	28	47676	47679	わたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	29	47736	47739	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	30	47867	47872	広子)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	31	48005	48008	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	32	48678	48683	広子)さん					1	0	1	0
+annotation	K006_021-luu-anno.txt	33	48756	48759	あたし					1	1	0	0
+annotation	K006_021-luu-anno.txt	34	49030	49033	あたし					1	1	0	0

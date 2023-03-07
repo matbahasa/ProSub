@@ -1,0 +1,35 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T020_012-luu-anno.txt	1	1336	1338	パパ	01				1	0	0	1
+Texts	T020_012-luu-anno.txt	2	2352	2354	葉月					1	1	0	0
+Texts	T020_012-luu-anno.txt	3	2411	2413	葉月					1	1	0	0
+Texts	T020_012-luu-anno.txt	4	2475	2477	葉月					1	0	1	0
+Texts	T020_012-luu-anno.txt	5	2512	2513	俺					1	1	0	0
+Texts	T020_012-luu-anno.txt	6	3383	3385	葉月					1	0	0	1
+Texts	T020_012-luu-anno.txt	7	3653	3655	葉月					1	0	0	1
+Texts	T020_012-luu-anno.txt	10	3762	3764	さつ					1	0	1	0
+Texts	T020_012-luu-anno.txt	8	3812	3814	皐月					1	0	1	0
+Texts	T020_012-luu-anno.txt	11	3977	3979	さつ					1	0	0	1
+Texts	T020_012-luu-anno.txt	12	4011	4013	さつ					1	0	0	1
+Texts	T020_012-luu-anno.txt	9	4036	4038	お前					1	0	1	0
+Texts	T020_012-luu-anno.txt	13	5250	5254	さっぽん					1	0	1	0
+Texts	T020_012-luu-anno.txt	14	5504	5506	葉月					1	0	1	0
+Texts	T020_012-luu-anno.txt	17	6103	6107	さっぽん					1	0	0	1
+Texts	T020_012-luu-anno.txt	18	6324	6328	さっぽん					1	0	1	0
+Texts	T020_012-luu-anno.txt	19	6362	6363	俺					1	1	0	0
+Texts	T020_012-luu-anno.txt	20	6433	6435	葉月					1	1	0	0
+Texts	T020_012-luu-anno.txt	21	7734	7738	さっぽん					1	0	0	1
+Texts	T020_012-luu-anno.txt	22	7875	7877	パパ	03				1	1	0	0
+Texts	T020_012-luu-anno.txt	23	7982	7984	お前					1	0	1	0
+Texts	T020_012-luu-anno.txt	24	8879	8881	パパ	03				1	1	0	0
+Texts	T020_012-luu-anno.txt	25	9330	9332	葉月					1	0	1	0
+Texts	T020_012-luu-anno.txt	26	9674	9676	皐月					1	0	1	0
+Texts	T020_012-luu-anno.txt	27	9853	9857	さっぽん					1	0	0	1
+Texts	T020_012-luu-anno.txt	28	10918	10921	母さん	01				1	0	0	1
+Texts	T020_012-luu-anno.txt	29	11389	11393	さっぽん					1	0	0	1
+Texts	T020_012-luu-anno.txt	30	11443	11445	葉月					1	0	0	1
+Texts	T020_012-luu-anno.txt	31	11459	11463	さっぽん					1	0	0	1
+Texts	T020_012-luu-anno.txt	32	11670	11674	さっぽん					1	0	0	1
+Texts	T020_012-luu-anno.txt	33	11935	11937	パパ	01				1	0	0	1
+Texts	T020_012-luu-anno.txt	34	12445	12447	葉月					1	0	1	0
+Texts	T020_012-luu-anno.txt	35	12740	12742	お前					1	0	1	0
+Texts	T020_012-luu-anno.txt	36	12962	12966	さっぽん					1	0	0	1

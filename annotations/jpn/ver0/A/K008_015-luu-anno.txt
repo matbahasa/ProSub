@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K008_015-luu-anno.txt	1	553	556	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	2	1074	1077	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	3	1223	1226	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	4	2805	2808	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	5	2855	2858	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	6	5144	5147	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	7	5384	5387	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	8	6150	6153	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	9	9189	9191	お前	引用				1	0	1	0
+Texts	K008_015-luu-anno.txt	10	11493	11494	俺	引用				1	1	0	0
+Texts	K008_015-luu-anno.txt	11	12064	12069	道枝)さん					1	0	1	0
+Texts	K008_015-luu-anno.txt	12	14920	14922	自分					1	1	0	0
+Texts	K008_015-luu-anno.txt	13	18587	18590	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	14	21010	21013	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	15	21052	21055	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	16	21252	21255	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	17	31901	31904	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	18	39052	39055	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	19	39445	39449	あたし)					1	1	0	0
+Texts	K008_015-luu-anno.txt	20	39627	39630	あたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	21	41969	41972	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	22	45181	45184	わたし					1	1	0	0
+Texts	K008_015-luu-anno.txt	23	45960	45963	あたし					1	1	0	0

@@ -1,0 +1,67 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S001_004-luu-anno.txt	1	200	206	翔子)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	2	251	257	なな)ちゃん					1	0	1	0
+Texts	S001_004-luu-anno.txt	3	605	608	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	4	774	779	大柴)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	5	2871	2878	さや))ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	6	3189	3190	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	7	5824	5831	ななえ)ちゃん					1	0	1	0
+Texts	S001_004-luu-anno.txt	8	6369	6377	大柴)(U さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	9	7248	7251	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	10	7556	7557	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	11	7937	7940	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	12	8443	8446	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	13	8725	8730	大柴)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	14	8925	8928	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	15	9252	9253	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	16	9983	9986	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	17	10493	10496	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	18	11250	11253	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	19	12263	12266	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	20	12601	12604	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	21	13122	13125	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	22	13497	13500	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	23	14255	14258	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	24	14502	14505	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	25	14778	14785	ななえ)ちゃん					1	0	1	0
+Texts	S001_004-luu-anno.txt	26	14864	14867	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	27	14886	14897	ななえ)(L ちゃ:ん					1	0	0	1
+Texts	S001_004-luu-anno.txt	28	16597	16604	なえ)ちゃ:ん					1	0	0	1
+Texts	S001_004-luu-anno.txt	29	16793	16798	健)さん)					1	0	0	1
+Texts	S001_004-luu-anno.txt	30	18521	18527	さや)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	31	20163	20164	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	32	20374	20379	大柴)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	33	21815	21818	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	34	21953	21960	なえ))ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	35	22413	22418	大柴)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	36	22527	22530	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	37	22873	22879	さや)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	38	25054	25060	小沢)さ:ん					1	0	1	0
+Texts	S001_004-luu-anno.txt	39	25331	25336	小沢)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	40	26831	26837	さや)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	41	27678	27684	さや)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	42	28509	28512	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	44	28586	28592	翔子)ちゃん					1	0	1	0
+Texts	S001_004-luu-anno.txt	43	28637	28643	さや)ちゃん					1	0	1	0
+Texts	S001_004-luu-anno.txt	45	29385	29388	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	46	29421	29426	わたしたち					1	1	0	0
+Texts	S001_004-luu-anno.txt	47	29513	29518	園部)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	48	29832	29835	みっち					1	0	0	1
+Texts	S001_004-luu-anno.txt	49	30790	30793	わたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	50	33130	33133	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	51	34578	34583	大柴)さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	52	35254	35257	あたし					1	1	0	0
+Texts	S001_004-luu-anno.txt	53	36107	36114	ななえ)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	54	36319	36325	大柴))さん					1	0	0	1
+Texts	S001_004-luu-anno.txt	55	36502	36506	高柳)君	誰？				1	0	0	0
+Texts	S001_004-luu-anno.txt	56	36819	36826	ななえ)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	57	37224	37225	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	58	37548	37549	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	59	37881	37883	大柴					1	0	1	0
+Texts	S001_004-luu-anno.txt	60	37969	37970	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	61	38786	38792	さや)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	62	41859	41860	俺					1	1	0	0
+Texts	S001_004-luu-anno.txt	63	41943	41946	みんな	私たちという意味？　or　私たちみんなが、なら付与しない				1	1	0	0
+Texts	S001_004-luu-anno.txt	64	44056	44059	みんな	あなたたちという意味？　あなたたちみんな、なら付与しない				1	0	1	0
+Texts	S001_004-luu-anno.txt	65	44442	44448	翔子)ちゃん					1	0	0	1
+Texts	S001_004-luu-anno.txt	66	45799	45802	あたし					1	1	0	0

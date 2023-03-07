@@ -1,0 +1,27 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T019_004-luu-anno.txt	7	242	244	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	1	599	602	あたし					1	1	0	0
+Texts	T019_004-luu-anno.txt	8	841	843	麗央					1	0	0	1
+Texts	T019_004-luu-anno.txt	2	2119	2121	晴哉					1	0	1	0
+Texts	T019_004-luu-anno.txt	3	2200	2202	お前					1	0	1	0
+Texts	T019_004-luu-anno.txt	9	2980	2982	麗央					1	0	0	1
+Texts	T019_004-luu-anno.txt	10	2994	2996	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	11	3062	3064	麗央					1	0	0	1
+Texts	T019_004-luu-anno.txt	4	3438	3441	うちら					1	1	0	0
+Texts	T019_004-luu-anno.txt	12	4200	4202	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	13	4211	4213	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	14	4582	4584	麗央					1	0	0	1
+Texts	T019_004-luu-anno.txt	6	4716	4720	麗央)君					1	0	1	0
+Texts	T019_004-luu-anno.txt	15	6586	6588	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	16	8026	8028	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	17	8088	8090	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	18	8493	8495	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	19	8561	8563	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	20	9024	9026	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	21	9167	9169	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	22	9361	9364	わたし					1	1	0	0
+Texts	T019_004-luu-anno.txt	23	10496	10498	瑠可					1	0	1	0
+Texts	T019_004-luu-anno.txt	24	10961	10963	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	25	11004	11006	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	26	11093	11095	麗央					1	0	1	0
+Texts	T019_004-luu-anno.txt	27	11429	11431	麗央					1	0	0	1

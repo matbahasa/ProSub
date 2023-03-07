@@ -1,0 +1,15 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T002_019-luu-anno.txt	1	441	444	あたし					1	1	0	0
+Texts	T002_019-luu-anno.txt	2	1474	1475	俺					1	1	0	0
+Texts	T002_019-luu-anno.txt	3	3671	3674	わたし	引用（例え）				1	1	0	0
+Texts	T002_019-luu-anno.txt	4	3926	3930	原やん)	直也のこと？				1	0	1	0
+Texts	T002_019-luu-anno.txt	6	6725	6728	こっち	私たちという意味？				1	1	0	0
+Texts	T002_019-luu-anno.txt	5	6876	6878	俺ら					1	1	0	0
+Texts	T002_019-luu-anno.txt	7	7099	7100	俺					1	1	0	0
+Texts	T002_019-luu-anno.txt	8	8176	8177	僕					1	1	0	0
+Texts	T002_019-luu-anno.txt	9	9475	9476	俺					1	1	0	0
+Texts	T002_019-luu-anno.txt	10	10346	10347	俺					1	1	0	0
+Texts	T002_019-luu-anno.txt	11	11599	11600	俺					1	1	0	0
+Texts	T002_019-luu-anno.txt	12	15039	15042	あたし					1	1	0	0
+Texts	T002_019-luu-anno.txt	13	15400	15401	俺					1	1	0	0
+Texts	T002_019-luu-anno.txt	14	15634	15637	あたし					1	1	0	0

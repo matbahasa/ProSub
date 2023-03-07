@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T006_008a-luu-anno.txt	1	315	321	おが)ちゃん					1	0	1	0
+Texts	T006_008a-luu-anno.txt	2	661	667	おが)ちゃん					1	0	1	0
+Texts	T006_008a-luu-anno.txt	3	1319	1321	尾形					1	0	1	0
+Texts	T006_008a-luu-anno.txt	4	2745	2746	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	5	3451	3452	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	6	4421	4423	お前					1	0	1	0
+Texts	T006_008a-luu-anno.txt	7	5134	5138	浜田悠人					1	0	1	0
+Texts	T006_008a-luu-anno.txt	8	6849	6850	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	9	7790	7791	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	10	7904	7907	俺たち					1	1	0	0
+Texts	T006_008a-luu-anno.txt	11	8323	8327	お母さん	02				1	0	0	1
+Texts	T006_008a-luu-anno.txt	12	8912	8914	浜田					1	0	1	0
+Texts	T006_008a-luu-anno.txt	13	9025	9026	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	14	9591	9593	浜田					1	0	0	1
+Texts	T006_008a-luu-anno.txt	15	11605	11611	古賀)ちゃん					1	0	0	1
+Texts	T006_008a-luu-anno.txt	16	13987	13992	浜田)さん					1	0	1	0
+Texts	T006_008a-luu-anno.txt	17	15068	15072	お父さん	02				1	0	0	1
+Texts	T006_008a-luu-anno.txt	18	15681	15682	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	19	16754	16757	俺たち					1	1	0	0
+Texts	T006_008a-luu-anno.txt	20	16902	16904	俺ら					1	0	0	0
+Texts	T006_008a-luu-anno.txt	21	16978	16979	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	37	18405	18408	浜っぺ					1	0	1	0
+Texts	T006_008a-luu-anno.txt	22	20017	20018	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	23	22197	22202	浜田)さん					1	0	0	1
+Texts	T006_008a-luu-anno.txt	24	22900	22902	自分					1	1	0	0
+Texts	T006_008a-luu-anno.txt	25	22982	22983	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	26	24841	24842	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	27	24968	24969	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	28	25927	25928	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	29	26028	26029	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	30	26588	26590	お前					1	0	1	0
+Texts	T006_008a-luu-anno.txt	31	26597	26599	お前					1	0	1	0
+Texts	T006_008a-luu-anno.txt	32	27503	27506	浜っぺ					1	0	0	1
+Texts	T006_008a-luu-anno.txt	33	27816	27817	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	34	28944	28947	浜っぺ					1	0	1	0
+Texts	T006_008a-luu-anno.txt	35	29107	29108	俺					1	1	0	0
+Texts	T006_008a-luu-anno.txt	36	29285	29286	俺					1	1	0	0

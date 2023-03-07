@@ -1,0 +1,129 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K013_011-luu-anno.txt	1	145	147	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	2	175	181	なな)ちゃん					1	0	0	1
+Texts	K013_011-luu-anno.txt	3	595	597	ママ	01				1	0	0	1
+Texts	K013_011-luu-anno.txt	4	919	922	みんな					1	0	0	1
+Texts	K013_011-luu-anno.txt	5	949	952	皆さん					1	0	0	1
+Texts	K013_011-luu-anno.txt	6	953	956	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	7	2674	2676	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	8	3615	3617	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	9	4201	4203	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	10	4226	4228	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	11	4742	4744	雪)					1	1	0	0
+Texts	K013_011-luu-anno.txt	12	4782	4784	雪)					1	0	1	0
+Texts	K013_011-luu-anno.txt	13	6096	6097	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	14	6997	6998	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	15	7289	7291	まり					1	0	0	1
+Texts	K013_011-luu-anno.txt	16	8009	8010	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	17	8150	8151	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	18	8549	8551	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	19	9244	9246	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	20	9706	9707	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	21	10047	10049	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	22	10101	10103	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	23	10205	10206	雪					1	0	0	1
+Texts	K013_011-luu-anno.txt	24	10262	10263	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	25	10300	10302	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	26	10524	10526	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	27	10689	10691	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	28	10994	10997	わたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	29	11538	11550	なな)(W ヤン|ちゃん					1	0	1	0
+Texts	K013_011-luu-anno.txt	30	12427	12429	ママ	01				1	0	0	1
+Texts	K013_011-luu-anno.txt	31	14698	14703	まり)たち					1	1	0	0
+Texts	K013_011-luu-anno.txt	32	15040	15042	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	33	15825	15827	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	34	16193	16195	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	35	16506	16509	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	36	16584	16587	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	37	17544	17545	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	38	19423	19424	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	39	19468	19469	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	40	22125	22126	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	41	24810	24813	みんな					1	0	1	0
+Texts	K013_011-luu-anno.txt	42	24964	24970	なな)ちゃん					1	0	1	0
+Texts	K013_011-luu-anno.txt	43	25040	25041	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	44	25072	25074	ママ	01				1	0	0	1
+Texts	K013_011-luu-anno.txt	45	25119	25121	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	46	25151	25153	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	47	25170	25172	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	48	25319	25321	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	49	25429	25431	ママ	01				1	0	0	1
+Texts	K013_011-luu-anno.txt	50	25722	25725	わたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	51	25759	25762	みんな					1	0	1	0
+Texts	K013_011-luu-anno.txt	52	26265	26266	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	53	28706	28712	なな)ちゃん					1	0	1	0
+Texts	K013_011-luu-anno.txt	54	29204	29206	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	55	29951	29953	まり					1	0	0	1
+Texts	K013_011-luu-anno.txt	56	30248	30252	奈々恵)					1	0	0	1
+Texts	K013_011-luu-anno.txt	57	30266	30267	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	58	30863	30865	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	59	31823	31824	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	60	35158	35160	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	61	35365	35366	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	62	35422	35423	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	63	35442	35443	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	64	35835	35836	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	65	36091	36092	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	66	36573	36575	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	67	36618	36621	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	68	36919	36920	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	69	42711	42713	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	70	44468	44469	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	71	45103	45106	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	72	45237	45239	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	73	45321	45323	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	74	45418	45420	なな					1	0	1	0
+Texts	K013_011-luu-anno.txt	75	45489	45497	なな)(W ヤン					1	0	1	0
+Texts	K013_011-luu-anno.txt	76	47138	47141	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	77	48573	48575	まり					1	0	0	1
+Texts	K013_011-luu-anno.txt	78	50537	50539	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	79	50859	50861	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	80	51036	51038	ママ	01				1	0	0	1
+Texts	K013_011-luu-anno.txt	81	51479	51480	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	82	52032	52033	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	83	53681	53683	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	84	55948	55951	まり)					1	1	0	0
+Texts	K013_011-luu-anno.txt	85	56267	56269	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	86	57034	57041	なな)ちゃ:ん					1	0	1	0
+Texts	K013_011-luu-anno.txt	87	57509	57511	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	88	58752	58753	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	89	58960	58963	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	90	59518	59520	ママ					1	0	1	0
+Texts	K013_011-luu-anno.txt	91	59524	59526	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	92	59531	59532	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	93	60037	60039	ママ	03				1	1	0	0
+Texts	K013_011-luu-anno.txt	94	61127	61129	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	95	62572	62574	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	96	63161	63163	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	97	64475	64478	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	98	65314	65316	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	99	65355	65357	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	100	65427	65430	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	102	65485	65487	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	101	65521	65523	ママ	01				1	0	1	0
+Texts	K013_011-luu-anno.txt	103	65728	65731	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	104	65877	65878	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	105	67960	67962	ママ	引用　01				1	0	1	0
+Texts	K013_011-luu-anno.txt	106	70126	70131	まり)たち					1	1	0	0
+Texts	K013_011-luu-anno.txt	107	73409	73412	ま:り					1	0	0	1
+Texts	K013_011-luu-anno.txt	108	73708	73710	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	109	73793	73799	なな)ちゃん					1	0	1	0
+Texts	K013_011-luu-anno.txt	110	73818	73824	なな)ちゃん					1	0	1	0
+Texts	K013_011-luu-anno.txt	111	74871	74874	あたし					1	1	0	0
+Texts	K013_011-luu-anno.txt	112	75021	75022	雪					1	0	1	0
+Texts	K013_011-luu-anno.txt	113	75045	75046	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	114	75254	75255	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	115	75411	75413	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	116	75502	75511	まり)(U たち)					1	1	0	0
+Texts	K013_011-luu-anno.txt	117	75584	75586	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	118	75764	75766	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	119	76287	76288	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	120	76453	76454	雪					1	0	0	1
+Texts	K013_011-luu-anno.txt	121	76666	76668	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	122	77287	77288	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	123	77749	77752	まり:					1	1	0	0
+Texts	K013_011-luu-anno.txt	124	78274	78276	まり					1	1	0	0
+Texts	K013_011-luu-anno.txt	125	78328	78330	ママ	01				1	0	0	1
+Texts	K013_011-luu-anno.txt	126	78496	78497	雪					1	1	0	0
+Texts	K013_011-luu-anno.txt	127	78610	78612	まり					1	0	1	0
+Texts	K013_011-luu-anno.txt	128	79341	79342	雪					1	1	0	0

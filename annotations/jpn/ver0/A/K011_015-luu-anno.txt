@@ -1,0 +1,70 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K011_015-luu-anno.txt	1	60	62	駿介					1	0	0	1
+Texts	K011_015-luu-anno.txt	2	75	78	お)前					1	0	0	1
+Texts	K011_015-luu-anno.txt	3	1536	1537	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	4	2137	2138	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	5	2148	2149	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	6	2157	2158	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	7	2446	2448	お前					1	0	1	0
+Texts	K011_015-luu-anno.txt	8	2501	2504	あんた					1	0	1	0
+Texts	K011_015-luu-anno.txt	9	4582	4585	俺たち					1	1	0	0
+Texts	K011_015-luu-anno.txt	10	4725	4726	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	11	5571	5572	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	12	7712	7713	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	13	7852	7856	母ちゃん	実母の発言によるものだとしたら1stで03				1	1	0	0
+Texts	K011_015-luu-anno.txt	14	7950	7954	母ちゃん	実母の発言によるものだとしたら1stで03				1	1	0	0
+Texts	K011_015-luu-anno.txt	15	8377	8378	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	16	9693	9694	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	17	11234	11237	俺たち					1	1	0	0
+Texts	K011_015-luu-anno.txt	18	11764	11765	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	19	11807	11808	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	20	13363	13364	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	21	13568	13571	俺たち					1	1	0	0
+Texts	K011_015-luu-anno.txt	22	13602	13605	俺たち					1	1	0	0
+Texts	K011_015-luu-anno.txt	23	13635	13636	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	24	16427	16429	駿介					1	0	1	0
+Texts	K011_015-luu-anno.txt	25	16659	16662	あたし					1	1	0	0
+Texts	K011_015-luu-anno.txt	26	16968	16969	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	27	17097	17098	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	28	17515	17516	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	29	19167	19168	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	30	19572	19574	駿介					1	0	1	0
+Texts	K011_015-luu-anno.txt	31	21289	21291	お前					1	0	1	0
+Texts	K011_015-luu-anno.txt	32	23318	23319	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	33	24639	24640	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	34	25664	25665	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	35	25681	25682	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	36	26843	26846	こいつ	他称？address?				1	0	0	1
+Texts	K011_015-luu-anno.txt	37	27770	27771	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	38	27906	27907	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	39	28044	28045	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	40	28052	28053	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	41	28299	28300	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	42	29607	29608	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	43	33039	33041	駿介					1	0	1	0
+Texts	K011_015-luu-anno.txt	44	33067	33068	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	45	36252	36253	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	46	38753	38754	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	47	45911	45914	わたし					1	1	0	0
+Texts	K011_015-luu-anno.txt	48	47396	47397	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	49	48041	48042	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	50	51996	51997	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	51	52028	52029	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	52	52379	52384	あたしたち					1	1	0	0
+Texts	K011_015-luu-anno.txt	53	53083	53085	先生	引用				1	0	0	1
+Texts	K011_015-luu-anno.txt	54	53086	53088	先生	引用				1	0	0	0
+Texts	K011_015-luu-anno.txt	55	53089	53091	先生	引用				1	0	0	1
+Texts	K011_015-luu-anno.txt	56	53101	53103	先生	引用				1	0	1	0
+Texts	K011_015-luu-anno.txt	57	53476	53478	先生	引用				1	0	0	1
+Texts	K011_015-luu-anno.txt	58	53480	53482	先生	引用				1	0	1	0
+Texts	K011_015-luu-anno.txt	59	59368	59369	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	60	59372	59373	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	61	60058	60059	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	62	62094	62096	お前					1	0	0	1
+Texts	K011_015-luu-anno.txt	63	62895	62896	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	64	63154	63155	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	65	63379	63380	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	66	63603	63604	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	67	65912	65913	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	68	66160	66161	俺					1	1	0	0
+Texts	K011_015-luu-anno.txt	69	66359	66360	俺					1	1	0	0

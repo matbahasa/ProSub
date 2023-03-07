@@ -1,0 +1,33 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T017_005c-luu-anno.txt	1	101	106	土田)さん					1	0	1	0
+Texts	T017_005c-luu-anno.txt	2	194	196	クニ					1	0	1	0
+Texts	T017_005c-luu-anno.txt	4	230	232	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	3	269	271	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	5	428	431	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	6	458	460	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	7	549	551	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	8	701	703	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	9	742	747	あ:た:し					1	1	0	0
+Texts	T017_005c-luu-anno.txt	10	970	972	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	11	1040	1043	おたく					1	0	1	0
+Texts	T017_005c-luu-anno.txt	12	1380	1382	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	13	1636	1638	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	14	3378	3381	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	15	3637	3640	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	22	4413	4415	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	16	4663	4665	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	17	4997	5000	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	18	5864	5867	俺たち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	19	6585	6588	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	20	6733	6735	うち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	21	7132	7135	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	23	8470	8472	ムー	「ムー」を北村であると仮定				1	0	1	0
+Texts	T017_005c-luu-anno.txt	24	12818	12821	みんな					1	0	1	0
+Texts	T017_005c-luu-anno.txt	25	14848	14851	わたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	26	16741	16744	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	27	18128	18131	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	28	19102	19105	あたし					1	1	0	0
+Texts	T017_005c-luu-anno.txt	30	20260	20263	みんな	「みんな」が「私たちみんながグループサウンズを聴いていた」という意味なのか、「その頃の曲はみんなグループサウンズだった」という意味なのか不明				1	1	0	0
+Texts	T017_005c-luu-anno.txt	29	20276	20281	わたしたち					1	1	0	0
+Texts	T017_005c-luu-anno.txt	31	21272	21274	ムー					1	0	0	1
+Texts	T017_005c-luu-anno.txt	32	21316	21319	あたし					1	1	0	0

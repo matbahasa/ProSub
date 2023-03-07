@@ -1,0 +1,25 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C001_007-luu-anno.txt	1	95	98	あなた					1	0	1	0
+Texts	C001_007-luu-anno.txt	2	150	153	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	22	614	619	お)父さん	03				1	0	1	0
+Texts	C001_007-luu-anno.txt	3	646	649	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	4	1593	1596	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	5	3106	3109	わたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	21	3121	3123	玲子					1	0	1	0
+Texts	C001_007-luu-anno.txt	6	5785	5788	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	7	9381	9387	あたし)たち					1	1	0	0
+Texts	C001_007-luu-anno.txt	8	9603	9607	お父さん	01				1	0	0	1
+Texts	C001_007-luu-anno.txt	9	11446	11449	あんた					1	0	1	0
+Texts	C001_007-luu-anno.txt	10	12577	12579	ママ	ママ01				1	0	0	1
+Texts	C001_007-luu-anno.txt	23	12581	12582	僕	ドラマのタイトル				1	1	0	0
+Texts	C001_007-luu-anno.txt	11	13344	13347	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	24	13546	13550	わ%たし					1	1	0	0
+Texts	C001_007-luu-anno.txt	12	14674	14678	お父さん	01				1	0	1	0
+Texts	C001_007-luu-anno.txt	13	15083	15086	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	19	16572	16575	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	14	16857	16860	あたし					1	1	0	0
+Texts	C001_007-luu-anno.txt	20	17823	17827	お父さん					1	0	1	0
+Texts	C001_007-luu-anno.txt	15	17951	17956	玲)ちゃん					1	0	0	1
+Texts	C001_007-luu-anno.txt	16	18529	18532	あなた					1	0	1	0
+Texts	C001_007-luu-anno.txt	17	18950	18952	玲子					1	0	1	0
+Texts	C001_007-luu-anno.txt	18	23283	23286	わたし					1	1	0	0

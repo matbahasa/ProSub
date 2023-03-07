@@ -1,0 +1,52 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T019_016-luu-anno.txt	2	40	42	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	1	52	54	パパ	03				1	1	0	0
+Texts	T019_016-luu-anno.txt	3	1197	1199	お前					1	0	0	1
+Texts	T019_016-luu-anno.txt	4	1276	1278	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	5	1592	1598	くーちゃ:ん					1	0	0	1
+Texts	T019_016-luu-anno.txt	6	1599	1604	くーちゃん					1	0	0	1
+Texts	T019_016-luu-anno.txt	7	1984	1986	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	8	2034	2036	おら					1	1	0	0
+Texts	T019_016-luu-anno.txt	9	2079	2081	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	10	2174	2176	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	11	2645	2646	君					1	0	1	0
+Texts	T019_016-luu-anno.txt	12	2991	2993	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	13	3971	3973	晴哉					1	0	0	1
+Texts	T019_016-luu-anno.txt	14	3993	3995	晴哉					1	0	0	1
+Texts	T019_016-luu-anno.txt	15	4157	4159	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	16	4169	4171	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	17	4181	4186	くーちゃん					1	0	0	1
+Texts	T019_016-luu-anno.txt	18	4516	4518	パパ	01				1	0	0	1
+Texts	T019_016-luu-anno.txt	19	8393	8394	君					1	0	0	1
+Texts	T019_016-luu-anno.txt	20	8395	8396	君					1	0	0	1
+Texts	T019_016-luu-anno.txt	21	8406	8407	君					1	0	0	1
+Texts	T019_016-luu-anno.txt	22	8408	8409	君					1	0	0	1
+Texts	T019_016-luu-anno.txt	23	8419	8420	君					1	0	0	1
+Texts	T019_016-luu-anno.txt	24	8430	8431	君					1	0	0	1
+Texts	T019_016-luu-anno.txt	25	8576	8578	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	26	8596	8598	おら					1	1	0	0
+Texts	T019_016-luu-anno.txt	27	8629	8631	おら					1	1	0	0
+Texts	T019_016-luu-anno.txt	28	8659	8661	おら					1	1	0	0
+Texts	T019_016-luu-anno.txt	29	8687	8689	おら					1	1	0	0
+Texts	T019_016-luu-anno.txt	30	8706	8711	くーちゃん					1	0	0	1
+Texts	T019_016-luu-anno.txt	31	10413	10415	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	32	10493	10498	くーちゃん					1	0	0	1
+Texts	T019_016-luu-anno.txt	33	10508	10510	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	34	10993	10995	パパ	03				1	1	0	0
+Texts	T019_016-luu-anno.txt	35	11694	11696	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	36	11741	11743	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	37	11838	11843	晴)ちゃん					1	0	1	0
+Texts	T019_016-luu-anno.txt	38	12094	12096	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	39	12384	12386	晴哉					1	0	0	1
+Texts	T019_016-luu-anno.txt	40	12961	12967	くーちゃんめ					1	0	0	1
+Texts	T019_016-luu-anno.txt	41	13953	13958	くーちゃん					1	0	0	1
+Texts	T019_016-luu-anno.txt	42	14075	14077	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	43	14531	14533	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	44	14764	14766	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	45	15574	15576	くー					1	0	0	1
+Texts	T019_016-luu-anno.txt	46	15691	15693	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	47	15698	15700	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	48	15884	15886	パパ	01				1	0	0	1
+Texts	T019_016-luu-anno.txt	49	16049	16051	パパ	01				1	0	0	1
+Texts	T019_016-luu-anno.txt	50	18584	18586	晴哉					1	0	1	0
+Texts	T019_016-luu-anno.txt	51	18955	18961	晴)ちゃ:ん					1	0	0	1

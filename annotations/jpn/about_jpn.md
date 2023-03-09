@@ -12,12 +12,11 @@
     999,855.867,858.194,IC03_さとし,こっち(D ライ) スーパーと言えばライフだと思ってたけど:。
 
 - アノテーション用に整形した形式（`会話ID-luu-anno.txt`）  
-`発話ID[TAB]話者名[TAB]発話`
+`発話ID [TAB] 話者名 [TAB] 発話`
 
-    999[TAB]さとし[TAB]こっち(D ライ) スーパーと言えばライフだと思ってたけど:。
+    999 [TAB] さとし [TAB] こっち(D ライ) スーパーと言えばライフだと思ってたけど:。
 
-- 2つのファイルの統合を簡単に行うには[ETA: Easy Text Annotator](https://github.com/matbahasa/ETA)が便利です。
+- アノテーションファイルと整形した転記テキストのファイルの統合を簡単に行うには[ETA: Easy Text Annotator](https://github.com/matbahasa/ETA)が便利です。
 
 ## 謝辞
 日本語データのアノテーション作業はJSPS科研費「代名詞代用・呼びかけ表現の通言語学的研究」（課題番号[JP20H01255](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H01255/)）および国立国語研究所共同利用型共同研究(C)の助成を受けて行いました。
-

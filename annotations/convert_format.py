@@ -60,6 +60,8 @@ def ETA2doccano(summary):
                     words = items[-7].split(";")
 #                    print(words)
                     for w in words:
+                        if "【" in w: #exclude comments
+                            w = w[:w.index("【")]
                         s = text.index(w)
                         e = s + len(w)
                         if labels:
@@ -70,6 +72,8 @@ def ETA2doccano(summary):
                     words = items[-5].split(";")
 #                    print(words)
                     for w in words:
+                        if "【" in w: #exclude comments
+                            w = w[:w.index("【")]
                         s = text.index(w)
                         e = s + len(w)
                         if labels:
@@ -80,6 +84,8 @@ def ETA2doccano(summary):
                     words = items[-3].split(";")
 #                    print(words)
                     for w in words:
+                        if "【" in w: #exclude comments
+                            w = w[:w.index("【")]
                         s = text.index(w)
                         e = s + len(w)
                         if labels:
@@ -95,11 +101,11 @@ def ETA2doccano(summary):
             print(j, file=out)
 
 if __name__ == "__main__":
-    #jsonl to UAM
-    f = "./tha/data_tha-prosub.jsonl"
-    filename = "data_tha.txt"
-    doccano2UAM(f, filename)
+#    #jsonl to UAM
+#    f = "./tha/data_tha-prosub.jsonl"
+#    filename = "data_tha.txt"
+#    doccano2UAM(f, filename)
 
-    #ETA to jsonl
+    ETA to jsonl
     f = "./jpn/data_jpn-summary.txt"
     ETA2doccano(f)

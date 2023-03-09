@@ -5,7 +5,7 @@ files = glob.glob("transcript/*-luu.csv")
 
 for f in files:
     with open(f, "r", encoding="cp932") as fh:
-        out_file = "annotation/"+f[11:-4]+"-anno.tsv"
+        out_file = "annotation/"+f[11:-4]+"-anno.txt"
         with open(out_file, "w", encoding="utf-8") as out:
             for l in csv.reader(fh):
                 if l[0]=="luuID":

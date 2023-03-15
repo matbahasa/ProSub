@@ -1,2 +1,0 @@
-Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
-SARW001_番号付け_0915	SARW1800000037-form.txt	1	1176	1182	송성환입니다					1	1	0	0

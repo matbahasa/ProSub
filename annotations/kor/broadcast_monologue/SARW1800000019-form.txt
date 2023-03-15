@@ -1,4 +1,0 @@
-Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
-SARW001_番号付け_0915	SARW1800000019-form.txt	1	523	525	우리					1	1	0	0
-SARW001_番号付け_0915	SARW1800000019-form.txt	2	726	727	내	なりすまし				1	1	0	0
-SARW001_番号付け_0915	SARW1800000019-form.txt	3	1471	1477	이윤녕입니다					1	1	0	0

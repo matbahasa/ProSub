@@ -1,0 +1,16 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	3rd	address	1st.family	1st.fictional-family	2nd.family	2nd.fictional-family	3rd.family	3rd.fictional-family	1st.proper-name	2nd.proper-name	3rd.proper-name	1st.modified-np	2nd.modified-np	3rd.modified-np	1st.quantifier	2nd.quantifier	3rd.quantifier	1st.education	2nd.education	3rd.education	1st.position	2nd.position	3rd.position	1st.service	2nd.service	3rd.service	1st.relationship	2nd.relationship	3rd.relationship	1st.anaphor	2nd.anaphor	3rd.anaphor	1st.age	2nd.age	3rd.age	1st.demonstrative	2nd.demonstrative	3rd.demonstrative
+Texts	2002_11	1	0	0						1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	2	570	578	မြကြာဖြူ					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	3	619	626	ကိုဒေါန					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	4	657	666	ကျွန်တော်					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	5	1092	1101	ကျွန်တော်					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	6	1102	1110	မြကြာဖြူ					1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	7	1171	1177	ဆရာကြီ					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	8	1263	1272	ကျွန်တော်					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	9	1273	1281	မြကြာဖြူ					1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	10	1425	1429	ရှင်					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	11	1589	1595	ကျွန်မ					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	12	1814	1820	ကျွန်မ					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	13	2043	2050	ကိုဒေါန					1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	14	2555	2562	ကိုဒေါန					1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	2002_11	15	2789	2793	တို့					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

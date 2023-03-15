@@ -15,4 +15,4 @@
 |  7 | []() | Indonesian | CC BY 4.0 | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/ind) |
 |  8 | []() | Thai | open |forthcoming |
 |  9 | []() | Vietnamese | open |forthcoming |
-| 10 | []() | Burmese | open |forthcoming |
+| 10 | []() | Burmese | open | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/myn) |

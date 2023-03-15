@@ -1,0 +1,3 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+SARW001_番号付け_0915	SARW1800000004-form.txt	1	743	749	코리아이버슨					1	0	0	1
+SARW001_番号付け_0915	SARW1800000004-form.txt	2	757	760	당신은					1	0	1	0

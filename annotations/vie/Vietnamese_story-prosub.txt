@@ -1,0 +1,1525 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	Vietnamese_story.txt	41861	180	184	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41864	295	298	con					1	1	0	0
+Texts	Vietnamese_story.txt	41869	487	491	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41870	602	605	con					1	1	0	0
+Texts	Vietnamese_story.txt	41871	651	655	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41871	668	672	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41872	713	717	thầy					1	0	1	0
+Texts	Vietnamese_story.txt	41872	719	722	con					1	1	0	0
+Texts	Vietnamese_story.txt	41872	773	777	mình					1	1	0	0
+Texts	Vietnamese_story.txt	41873	874	878	mình					1	1	0	0
+Texts	Vietnamese_story.txt	41873	958	962	mình					1	1	0	0
+Texts	Vietnamese_story.txt	41875	1185	1189	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41875	1303	1307	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41876	1463	1467	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41877	1504	1507	con					1	1	0	0
+Texts	Vietnamese_story.txt	41877	1534	1537	con					1	1	0	0
+Texts	Vietnamese_story.txt	41878	1550	1553	con					1	1	0	0
+Texts	Vietnamese_story.txt	41878	1577	1580	con					1	1	0	0
+Texts	Vietnamese_story.txt	41878	1589	1592	con					1	1	0	0
+Texts	Vietnamese_story.txt	41878	1610	1613	con					1	1	0	0
+Texts	Vietnamese_story.txt	41878	1645	1648	con					1	1	0	0
+Texts	Vietnamese_story.txt	41878	1663	1666	con					1	1	0	0
+Texts	Vietnamese_story.txt	41879	1704	1707	con					1	1	0	0
+Texts	Vietnamese_story.txt	41879	1742	1745	con					1	1	0	0
+Texts	Vietnamese_story.txt	41879	1772	1775	con					1	1	0	0
+Texts	Vietnamese_story.txt	41879	1787	1790	con					1	1	0	0
+Texts	Vietnamese_story.txt	41880	1795	1799	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41880	1827	1831	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41881	1891	1895	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41882	1923	1926	con					1	1	0	0
+Texts	Vietnamese_story.txt	41885	2154	2167	cháu Xuân đây					1	0	1	0
+Texts	Vietnamese_story.txt	41885	2271	2280	cháu Xuân					1	0	1	0
+Texts	Vietnamese_story.txt	41885	2317	2321	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41889	2501	2505	cháu					1	0	0	1
+Texts	Vietnamese_story.txt	41889	2501	2505	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41890	2559	2562	con					1	1	0	0
+Texts	Vietnamese_story.txt	41892	2603	2607	Xuân					1	0	0	1
+Texts	Vietnamese_story.txt	41892	2603	2607	Xuân					1	0	1	0
+Texts	Vietnamese_story.txt	41892	2609	2613	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41892	2631	2635	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41892	2660	2664	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41892	2675	2679	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41892	2702	2706	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41892	2726	2730	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41893	2801	2805	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41893	2839	2843	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41893	2915	2919	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41893	2934	2938	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41895	3000	3003	con					1	1	0	0
+Texts	Vietnamese_story.txt	41897	3080	3083	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41897	3101	3104	con					1	1	0	0
+Texts	Vietnamese_story.txt	41897	3116	3119	con					1	1	0	0
+Texts	Vietnamese_story.txt	41898	3150	3154	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41898	3188	3192	Thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41898	3206	3210	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41898	3212	3216	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41899	3250	3254	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41900	3316	3320	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41900	3397	3401	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41900	3412	3416	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41900	3436	3440	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41902	3515	3519	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41904	3666	3670	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41904	3681	3685	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41905	3736	3739	con					1	1	0	0
+Texts	Vietnamese_story.txt	41905	3769	3772	con					1	1	0	0
+Texts	Vietnamese_story.txt	41905	3796	3799	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41906	3845	3849	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41906	3883	3887	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41906	3923	3927	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41906	3944	3948	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41906	3956	3960	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41906	3975	3979	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41906	3985	3989	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41907	4048	4057	Cúc Hương					1	0	0	1
+Texts	Vietnamese_story.txt	41907	4048	4057	Cúc Hương					1	0	1	0
+Texts	Vietnamese_story.txt	41907	4059	4063	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	41907	4128	4132	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41907	4149	4153	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	41909	4420	4422	Cô					1	0	1	0
+Texts	Vietnamese_story.txt	41909	4471	4473	cô					1	0	1	0
+Texts	Vietnamese_story.txt	41911	4512	4515	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41911	4520	4522	em					1	1	0	0
+Texts	Vietnamese_story.txt	41911	4590	4593	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41914	4684	4686	Cô					1	0	1	0
+Texts	Vietnamese_story.txt	41915	4719	4722	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41915	4735	4738	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41915	4743	4745	em					1	1	0	0
+Texts	Vietnamese_story.txt	41916	4755	4758	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41917	4771	4773	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41917	4790	4793	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41917	4811	4813	em					1	1	0	0
+Texts	Vietnamese_story.txt	41917	4831	4833	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41917	4854	4857	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41917	4862	4864	em					1	1	0	0
+Texts	Vietnamese_story.txt	41918	4965	4967	em					1	0	1	0
+Texts	Vietnamese_story.txt	41919	4980	4983	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41919	5011	5013	em					1	1	0	0
+Texts	Vietnamese_story.txt	41920	5142	5145	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41921	5173	5176	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41922	5243	5245	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41922	5272	5274	em					1	1	0	0
+Texts	Vietnamese_story.txt	41922	5302	5305	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41922	5333	5336	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41922	5350	5352	em					1	1	0	0
+Texts	Vietnamese_story.txt	41924	5424	5427	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41925	5510	5513	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41925	5546	5549	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41926	5560	5562	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41926	5582	5585	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41928	5626	5628	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41928	5634	5637	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41930	5697	5699	em					1	1	0	0
+Texts	Vietnamese_story.txt	41930	5709	5711	em					1	1	0	0
+Texts	Vietnamese_story.txt	41930	5755	5757	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41930	5808	5810	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41931	5868	5870	em					1	1	0	0
+Texts	Vietnamese_story.txt	41931	5895	5897	em					1	1	0	0
+Texts	Vietnamese_story.txt	41931	5917	5919	em					1	1	0	0
+Texts	Vietnamese_story.txt	41931	5929	5931	em					1	1	0	0
+Texts	Vietnamese_story.txt	41931	5956	5959	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41932	6014	6016	em					1	1	0	0
+Texts	Vietnamese_story.txt	41934	6107	6109	Em					1	0	1	0
+Texts	Vietnamese_story.txt	41936	6160	6162	Em					1	0	1	0
+Texts	Vietnamese_story.txt	41937	6198	6201	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41939	6253	6256	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41940	6325	6328	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41941	6346	6350	mình					1	1	0	0
+Texts	Vietnamese_story.txt	41941	6378	6381	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41941	6400	6403	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41941	6439	6442	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41942	6474	6477	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41942	6495	6498	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	41943	6625	6628	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41943	6650	6652	em					1	1	0	0
+Texts	Vietnamese_story.txt	41946	6818	6821	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41946	6826	6828	má					1	0	1	0
+Texts	Vietnamese_story.txt	41946	6838	6841	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41946	6849	6852	con					1	1	0	0
+Texts	Vietnamese_story.txt	41946	6892	6895	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41947	6939	6942	Con					1	0	1	0
+Texts	Vietnamese_story.txt	41947	6986	6989	con					1	0	1	0
+Texts	Vietnamese_story.txt	41948	7083	7085	má					1	0	1	0
+Texts	Vietnamese_story.txt	41948	7083	7086	má 					1	0	0	1
+Texts	Vietnamese_story.txt	41949	7132	7135	con					1	0	1	0
+Texts	Vietnamese_story.txt	41950	7154	7157	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41951	7188	7191	con					1	0	0	1
+Texts	Vietnamese_story.txt	41951	7188	7191	con					1	0	1	0
+Texts	Vietnamese_story.txt	41953	7274	7277	con					1	1	0	0
+Texts	Vietnamese_story.txt	41953	7298	7301	con					1	1	0	0
+Texts	Vietnamese_story.txt	41953	7319	7322	con					1	1	0	0
+Texts	Vietnamese_story.txt	41953	7324	7326	má					1	0	1	0
+Texts	Vietnamese_story.txt	41953	7345	7348	con					1	1	0	0
+Texts	Vietnamese_story.txt	41953	7357	7359	má					1	0	1	0
+Texts	Vietnamese_story.txt	41953	7366	7368	má					1	0	1	0
+Texts	Vietnamese_story.txt	41953	7377	7379	má					1	0	1	0
+Texts	Vietnamese_story.txt	41953	7396	7398	má					1	0	1	0
+Texts	Vietnamese_story.txt	41953	7414	7416	má					1	0	0	1
+Texts	Vietnamese_story.txt	41953	7414	7416	má					1	0	1	0
+Texts	Vietnamese_story.txt	41954	7421	7423	Má					1	1	0	0
+Texts	Vietnamese_story.txt	41954	7437	7440	con					1	0	1	0
+Texts	Vietnamese_story.txt	41954	7451	7453	má					1	1	0	0
+Texts	Vietnamese_story.txt	41954	7463	7465	má					1	1	0	0
+Texts	Vietnamese_story.txt	41955	7481	7483	Má					1	0	1	0
+Texts	Vietnamese_story.txt	41956	7630	7633	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41956	7637	7640	con					1	1	0	0
+Texts	Vietnamese_story.txt	41956	7673	7675	má					1	0	1	0
+Texts	Vietnamese_story.txt	41957	7743	7745	má					1	1	0	0
+Texts	Vietnamese_story.txt	41957	7750	7752	má					1	1	0	0
+Texts	Vietnamese_story.txt	41957	7771	7774	con					1	0	1	0
+Texts	Vietnamese_story.txt	41957	7789	7791	má					1	1	0	0
+Texts	Vietnamese_story.txt	41957	7806	7808	má					1	1	0	0
+Texts	Vietnamese_story.txt	41958	7830	7833	con					1	0	1	0
+Texts	Vietnamese_story.txt	41958	7885	7887	má					1	1	0	0
+Texts	Vietnamese_story.txt	41958	7895	7897	má					1	1	0	0
+Texts	Vietnamese_story.txt	41959	7915	7918	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41959	7924	7927	con					1	1	0	0
+Texts	Vietnamese_story.txt	41959	7949	7952	con					1	1	0	0
+Texts	Vietnamese_story.txt	41959	7965	7967	má					1	0	1	0
+Texts	Vietnamese_story.txt	41960	7980	7983	Con					1	0	1	0
+Texts	Vietnamese_story.txt	41960	7999	8002	con					1	0	1	0
+Texts	Vietnamese_story.txt	41961	8041	8044	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8050	8053	con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8063	8066	con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8068	8071	Con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8090	8093	con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8115	8118	con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8133	8136	con					1	1	0	0
+Texts	Vietnamese_story.txt	41961	8166	8169	con					1	1	0	0
+Texts	Vietnamese_story.txt	41962	8229	8232	con					1	0	1	0
+Texts	Vietnamese_story.txt	41962	8257	8259	má					1	1	0	0
+Texts	Vietnamese_story.txt	41963	8414	8422	anh Xuân					1	0	1	0
+Texts	Vietnamese_story.txt	41964	8473	8475	em					1	0	1	0
+Texts	Vietnamese_story.txt	41964	8497	8500	chị					1	1	0	0
+Texts	Vietnamese_story.txt	41965	8596	8603	chị Hai					1	0	0	1
+Texts	Vietnamese_story.txt	41965	8596	8603	chị Hai					1	0	1	0
+Texts	Vietnamese_story.txt	41967	8693	8696	Chị					1	0	1	0
+Texts	Vietnamese_story.txt	41968	8771	8774	chị					1	1	0	0
+Texts	Vietnamese_story.txt	41972	8974	8977	Chị					1	1	0	0
+Texts	Vietnamese_story.txt	41974	9187	9195	Anh Xuân					1	0	0	1
+Texts	Vietnamese_story.txt	41974	9187	9195	Anh Xuân					1	0	1	0
+Texts	Vietnamese_story.txt	41974	9197	9200	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41974	9216	9218	em					1	1	0	0
+Texts	Vietnamese_story.txt	41976	9365	9368	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41976	9392	9395	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41977	9412	9415	Qua					1	1	0	0
+Texts	Vietnamese_story.txt	41978	9464	9467	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41981	9600	9603	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41981	9624	9627	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41981	9636	9638	em					1	1	0	0
+Texts	Vietnamese_story.txt	41981	9662	9664	em					1	1	0	0
+Texts	Vietnamese_story.txt	41981	9685	9688	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41982	9732	9735	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41982	9742	9745	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41982	9782	9785	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41982	9804	9807	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41982	9825	9827	em					1	0	1	0
+Texts	Vietnamese_story.txt	41983	9837	9839	Em					1	1	0	0
+Texts	Vietnamese_story.txt	41983	9879	9881	em					1	1	0	0
+Texts	Vietnamese_story.txt	41983	9898	9901	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41984	9927	9930	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41984	9955	9957	em					1	0	1	0
+Texts	Vietnamese_story.txt	41985	10004	10007	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41985	10044	10046	em					1	1	0	0
+Texts	Vietnamese_story.txt	41985	10087	10090	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41985	10099	10101	em					1	1	0	0
+Texts	Vietnamese_story.txt	41985	10107	10110	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41985	10116	10118	em					1	1	0	0
+Texts	Vietnamese_story.txt	41985	10134	10137	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41985	10152	10154	em					1	1	0	0
+Texts	Vietnamese_story.txt	41989	10421	10424	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41989	10438	10441	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41989	10456	10458	em					1	1	0	0
+Texts	Vietnamese_story.txt	41989	10465	10468	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41989	10479	10481	em					1	1	0	0
+Texts	Vietnamese_story.txt	41989	10483	10486	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41989	10496	10498	em					1	1	0	0
+Texts	Vietnamese_story.txt	41989	10513	10516	anh					1	0	1	0
+Texts	Vietnamese_story.txt	41991	10583	10586	Qua					1	1	0	0
+Texts	Vietnamese_story.txt	41991	10616	10618	em					1	0	0	1
+Texts	Vietnamese_story.txt	41991	10616	10618	em					1	0	1	0
+Texts	Vietnamese_story.txt	41993	10657	10660	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41993	10668	10671	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41993	10686	10689	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41994	10761	10764	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41994	10780	10783	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41994	10788	10791	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41994	10805	10808	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41994	10832	10835	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41995	10893	10896	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41995	10915	10917	em					1	0	1	0
+Texts	Vietnamese_story.txt	41995	10919	10922	Qua					1	1	0	0
+Texts	Vietnamese_story.txt	41995	10938	10941	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41995	10958	10961	qua					1	1	0	0
+Texts	Vietnamese_story.txt	41996	11028	11031	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	41996	11043	11045	em					1	1	0	0
+Texts	Vietnamese_story.txt	41998	11163	11166	Con					1	0	1	0
+Texts	Vietnamese_story.txt	41999	11230	11233	con					1	1	0	0
+Texts	Vietnamese_story.txt	41999	11293	11296	con					1	1	0	0
+Texts	Vietnamese_story.txt	42000	11329	11332	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42000	11355	11357	má					1	0	0	1
+Texts	Vietnamese_story.txt	42000	11355	11357	má					1	0	1	0
+Texts	Vietnamese_story.txt	42002	11403	11406	con					1	1	0	0
+Texts	Vietnamese_story.txt	42003	11424	11427	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42004	11474	11477	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42004	11503	11506	con					1	1	0	0
+Texts	Vietnamese_story.txt	42004	11525	11528	con					1	1	0	0
+Texts	Vietnamese_story.txt	42005	11549	11552	con					1	1	0	0
+Texts	Vietnamese_story.txt	42005	11563	11566	con					1	1	0	0
+Texts	Vietnamese_story.txt	42005	11583	11587	mình					1	1	0	0
+Texts	Vietnamese_story.txt	42005	11629	11632	con					1	1	0	0
+Texts	Vietnamese_story.txt	42005	11659	11662	con					1	1	0	0
+Texts	Vietnamese_story.txt	42006	11698	11701	con					1	1	0	0
+Texts	Vietnamese_story.txt	42006	11720	11723	con					1	1	0	0
+Texts	Vietnamese_story.txt	42009	11897	11900	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42010	11929	11932	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42011	12039	12042	con					1	1	0	0
+Texts	Vietnamese_story.txt	42012	12083	12086	con					1	1	0	0
+Texts	Vietnamese_story.txt	42013	12156	12159	con					1	1	0	0
+Texts	Vietnamese_story.txt	42016	12362	12365	con					1	1	0	0
+Texts	Vietnamese_story.txt	42016	12397	12400	con					1	1	0	0
+Texts	Vietnamese_story.txt	42016	12412	12414	má					1	0	1	0
+Texts	Vietnamese_story.txt	42017	12467	12470	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42017	12486	12488	má					1	1	0	0
+Texts	Vietnamese_story.txt	42017	12490	12493	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42018	12529	12531	Má					1	1	0	0
+Texts	Vietnamese_story.txt	42018	12539	12541	má					1	1	0	0
+Texts	Vietnamese_story.txt	42018	12597	12600	con					1	0	1	0
+Texts	Vietnamese_story.txt	42018	12609	12611	má					1	1	0	0
+Texts	Vietnamese_story.txt	42018	12622	12624	má					1	1	0	0
+Texts	Vietnamese_story.txt	42018	12636	12638	má					1	1	0	0
+Texts	Vietnamese_story.txt	42019	12651	12654	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42019	12660	12663	con					1	1	0	0
+Texts	Vietnamese_story.txt	42019	12682	12684	má					1	0	1	0
+Texts	Vietnamese_story.txt	42019	12703	12706	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42019	12720	12722	má					1	0	1	0
+Texts	Vietnamese_story.txt	42021	12884	12887	con					1	0	1	0
+Texts	Vietnamese_story.txt	42027	13072	13074	má					1	0	1	0
+Texts	Vietnamese_story.txt	42027	13099	13101	má					1	0	0	1
+Texts	Vietnamese_story.txt	42027	13099	13101	má					1	0	1	0
+Texts	Vietnamese_story.txt	42028	13109	13111	má					1	1	0	0
+Texts	Vietnamese_story.txt	42028	13128	13131	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42028	13155	13158	con					1	0	0	1
+Texts	Vietnamese_story.txt	42028	13155	13158	con					1	0	1	0
+Texts	Vietnamese_story.txt	42030	13201	13204	con					1	0	1	0
+Texts	Vietnamese_story.txt	42035	13350	13353	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42035	13375	13377	má					1	0	1	0
+Texts	Vietnamese_story.txt	42036	13426	13428	má					1	0	1	0
+Texts	Vietnamese_story.txt	42038	13485	13488	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42039	13538	13541	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42039	13559	13561	má					1	0	1	0
+Texts	Vietnamese_story.txt	42039	13566	13569	con					1	1	0	0
+Texts	Vietnamese_story.txt	42040	13594	13597	con					1	1	0	0
+Texts	Vietnamese_story.txt	42041	13639	13642	con					1	0	1	0
+Texts	Vietnamese_story.txt	42042	13673	13676	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42043	13731	13733	Má					1	1	0	0
+Texts	Vietnamese_story.txt	42043	13768	13771	con					1	0	1	0
+Texts	Vietnamese_story.txt	42043	13818	13820	má					1	1	0	0
+Texts	Vietnamese_story.txt	42044	13841	13843	Má					1	1	0	0
+Texts	Vietnamese_story.txt	42044	13861	13863	Má					1	1	0	0
+Texts	Vietnamese_story.txt	42044	13880	13883	con					1	0	1	0
+Texts	Vietnamese_story.txt	42044	13911	13913	má					1	1	0	0
+Texts	Vietnamese_story.txt	42045	13952	13954	má					1	1	0	0
+Texts	Vietnamese_story.txt	42046	14051	14054	con					1	0	1	0
+Texts	Vietnamese_story.txt	42046	14088	14090	má					1	1	0	0
+Texts	Vietnamese_story.txt	42046	14096	14099	con					1	0	1	0
+Texts	Vietnamese_story.txt	42047	14124	14127	con					1	0	1	0
+Texts	Vietnamese_story.txt	42047	14146	14149	con					1	0	1	0
+Texts	Vietnamese_story.txt	42047	14180	14182	má					1	1	0	0
+Texts	Vietnamese_story.txt	42049	14297	14300	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42049	14308	14311	con					1	0	1	0
+Texts	Vietnamese_story.txt	42049	14337	14340	con					1	0	0	1
+Texts	Vietnamese_story.txt	42049	14337	14340	con					1	0	1	0
+Texts	Vietnamese_story.txt	42052	14416	14418	Em					1	0	1	0
+Texts	Vietnamese_story.txt	42053	14468	14471	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42054	14496	14498	em					1	0	1	0
+Texts	Vietnamese_story.txt	42054	14541	14544	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42055	14569	14571	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42055	14618	14625	chị Hai					1	0	0	1
+Texts	Vietnamese_story.txt	42055	14618	14625	chị Hai					1	0	1	0
+Texts	Vietnamese_story.txt	42056	14653	14655	em					1	0	1	0
+Texts	Vietnamese_story.txt	42056	14684	14686	em					1	0	1	0
+Texts	Vietnamese_story.txt	42058	14763	14765	em					1	0	1	0
+Texts	Vietnamese_story.txt	42058	14801	14804	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42058	14810	14813	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42060	14935	14937	má					1	0	1	0
+Texts	Vietnamese_story.txt	42061	14981	14983	Má					1	1	0	0
+Texts	Vietnamese_story.txt	42061	14989	14992	con					1	0	1	0
+Texts	Vietnamese_story.txt	42061	15022	15024	má					1	1	0	0
+Texts	Vietnamese_story.txt	42061	15029	15031	má					1	1	0	0
+Texts	Vietnamese_story.txt	42061	15045	15048	con					1	0	1	0
+Texts	Vietnamese_story.txt	42062	15065	15067	Má					1	0	1	0
+Texts	Vietnamese_story.txt	42062	15075	15078	con					1	1	0	0
+Texts	Vietnamese_story.txt	42062	15100	15102	má					1	0	1	0
+Texts	Vietnamese_story.txt	42062	15115	15118	con					1	1	0	0
+Texts	Vietnamese_story.txt	42070	15567	15569	em					1	0	0	1
+Texts	Vietnamese_story.txt	42070	15567	15569	em					1	0	1	0
+Texts	Vietnamese_story.txt	42071	15652	15655	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42071	15661	15663	em					1	1	0	0
+Texts	Vietnamese_story.txt	42074	15852	15855	Chị					1	0	1	0
+Texts	Vietnamese_story.txt	42074	15883	15885	em					1	1	0	0
+Texts	Vietnamese_story.txt	42088	17125	17128	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42090	17294	17297	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42091	17339	17342	Chị					1	1	0	0
+Texts	Vietnamese_story.txt	42091	17352	17355	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42092	17379	17382	Chị					1	0	1	0
+Texts	Vietnamese_story.txt	42092	17392	17395	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42093	17452	17455	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42093	17473	17476	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42093	17489	17491	em					1	0	1	0
+Texts	Vietnamese_story.txt	42097	17951	17953	mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42097	17951	17953	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42097	17955	17958	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42098	18012	18015	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42109	18757	18760	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42112	18980	18982	Mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42112	18980	18982	Mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42112	18986	18988	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42118	19365	19368	Anh					1	0	0	1
+Texts	Vietnamese_story.txt	42118	19365	19368	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42119	19374	19380	Nhà ta					1	1	0	0
+Texts	Vietnamese_story.txt	42120	19419	19421	em					1	1	0	0
+Texts	Vietnamese_story.txt	42122	19498	19500	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42122	19513	19516	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42122	19537	19547	chúng mình					1	1	0	0
+Texts	Vietnamese_story.txt	42123	19579	19582	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42123	19601	19603	em					1	1	0	0
+Texts	Vietnamese_story.txt	42124	19629	19632	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42124	19643	19645	em					1	1	0	0
+Texts	Vietnamese_story.txt	42124	19654	19657	anh					1	0	0	1
+Texts	Vietnamese_story.txt	42124	19654	19657	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42125	19672	19675	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42126	19687	19690	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42127	19719	19722	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42127	19780	19783	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42130	19930	19933	Yên					1	0	1	0
+Texts	Vietnamese_story.txt	42132	20005	20013	Người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42133	20050	20057	Chị Yên					1	0	1	0
+Texts	Vietnamese_story.txt	42133	20066	20073	chị Yên					1	0	0	1
+Texts	Vietnamese_story.txt	42133	20066	20073	chị Yên					1	0	1	0
+Texts	Vietnamese_story.txt	42141	20639	20642	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42142	20696	20698	Em					1	0	1	0
+Texts	Vietnamese_story.txt	42142	20706	20709	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42143	20735	20742	Chị Yên					1	0	1	0
+Texts	Vietnamese_story.txt	42143	20759	20766	chị Yên					1	0	1	0
+Texts	Vietnamese_story.txt	42145	20838	20841	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42145	20847	20850	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42145	20858	20861	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42147	20982	20985	Chị					1	1	0	0
+Texts	Vietnamese_story.txt	42147	21011	21013	Em					1	0	1	0
+Texts	Vietnamese_story.txt	42147	21026	21029	chị					1	1	0	0
+Texts	Vietnamese_story.txt	42153	21404	21407	Cậu					1	0	0	1
+Texts	Vietnamese_story.txt	42153	21404	21407	Cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42153	21409	21412	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42158	21771	21774	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42158	21785	21788	Cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42159	21840	21844	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42159	21853	21856	cậu					1	1	0	0
+Texts	Vietnamese_story.txt	42160	21907	21910	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42160	21923	21926	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42169	22501	22504	Chú					1	0	1	0
+Texts	Vietnamese_story.txt	42169	22509	22519	chúng cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42169	22529	22532	chú					1	0	0	1
+Texts	Vietnamese_story.txt	42169	22529	22532	chú					1	0	1	0
+Texts	Vietnamese_story.txt	42172	22660	22667	hai đứa					1	0	1	0
+Texts	Vietnamese_story.txt	42176	22932	22936	mình					1	1	0	0
+Texts	Vietnamese_story.txt	42178	23098	23101	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42178	23106	23108	em					1	1	0	0
+Texts	Vietnamese_story.txt	42180	23184	23187	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42180	23192	23195	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42193	24504	24507	anh					1	0	0	1
+Texts	Vietnamese_story.txt	42193	24504	24507	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42199	25126	25128	mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42199	25126	25128	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42200	25204	25207	chú					1	0	0	1
+Texts	Vietnamese_story.txt	42200	25204	25207	chú					1	0	1	0
+Texts	Vietnamese_story.txt	42205	25530	25533	chị					1	0	0	1
+Texts	Vietnamese_story.txt	42205	25530	25533	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42207	25668	25672	Cháu					1	0	0	1
+Texts	Vietnamese_story.txt	42207	25668	25672	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42209	25818	25822	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42210	25855	25859	Cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42210	25884	25888	cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42213	26091	26094	Chú					1	0	1	0
+Texts	Vietnamese_story.txt	42213	26110	26114	cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42213	26132	26136	cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42215	26279	26282	Anh					1	0	0	1
+Texts	Vietnamese_story.txt	42215	26279	26282	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42217	26342	26344	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42218	26417	26420	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42219	26464	26470	Nhà ta					1	1	0	0
+Texts	Vietnamese_story.txt	42223	26788	26790	mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42223	26788	26790	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42229	27236	27239	Chú					1	0	1	0
+Texts	Vietnamese_story.txt	42229	27251	27254	chú					1	0	0	1
+Texts	Vietnamese_story.txt	42229	27251	27254	chú					1	0	1	0
+Texts	Vietnamese_story.txt	42229	27260	27263	chú					1	0	1	0
+Texts	Vietnamese_story.txt	42229	27273	27277	cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42235	27779	27782	chú					1	0	1	0
+Texts	Vietnamese_story.txt	42237	27941	27944	Chị					1	0	1	0
+Texts	Vietnamese_story.txt	42237	27977	27980	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42238	28007	28010	Chú					1	0	1	0
+Texts	Vietnamese_story.txt	42241	28346	28349	chú					1	0	0	1
+Texts	Vietnamese_story.txt	42241	28346	28349	chú					1	0	1	0
+Texts	Vietnamese_story.txt	42245	28648	28652	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42246	28690	28694	cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42255	29405	29408	Chị					1	0	1	0
+Texts	Vietnamese_story.txt	42255	29420	29428	Các cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42255	29459	29462	chú					1	1	0	0
+Texts	Vietnamese_story.txt	42255	29469	29472	chú					1	1	0	0
+Texts	Vietnamese_story.txt	42261	29910	29913	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42261	29918	29921	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42263	30040	30050	chúng mình					1	1	0	0
+Texts	Vietnamese_story.txt	42267	30293	30295	Ba					1	1	0	0
+Texts	Vietnamese_story.txt	42267	30325	30328	con					1	0	1	0
+Texts	Vietnamese_story.txt	42267	30330	30332	Ba					1	1	0	0
+Texts	Vietnamese_story.txt	42269	30447	30450	con					1	1	0	0
+Texts	Vietnamese_story.txt	42269	30465	30467	ba					1	0	0	1
+Texts	Vietnamese_story.txt	42269	30465	30467	ba					1	0	1	0
+Texts	Vietnamese_story.txt	42270	30478	30480	ba					1	0	1	0
+Texts	Vietnamese_story.txt	42270	30506	30509	con					1	1	0	0
+Texts	Vietnamese_story.txt	42271	30573	30576	con					1	0	1	0
+Texts	Vietnamese_story.txt	42271	30613	30620	các con					1	0	1	0
+Texts	Vietnamese_story.txt	42271	30659	30661	ba					1	1	0	0
+Texts	Vietnamese_story.txt	42274	30777	30780	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42278	30972	30974	Bé					1	0	1	0
+Texts	Vietnamese_story.txt	42278	31020	31023	anh					1	1	0	0
+Texts	Vietnamese_story.txt	42280	31105	31116	Anh em mình					1	1	0	0
+Texts	Vietnamese_story.txt	42286	31557	31560	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42286	31581	31583	em					1	1	0	0
+Texts	Vietnamese_story.txt	42287	31596	31598	em					1	0	1	0
+Texts	Vietnamese_story.txt	42293	32094	32097	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42293	32113	32116	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42295	32258	32261	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42295	32275	32278	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42296	32408	32411	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42299	32634	32637	con					1	1	0	0
+Texts	Vietnamese_story.txt	42301	32795	32798	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42301	32809	32812	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42303	32919	32921	mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42303	32919	32921	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42303	32940	32943	con					1	1	0	0
+Texts	Vietnamese_story.txt	42309	33337	33340	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42309	33342	33345	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42309	33385	33388	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42317	33955	33957	em					1	0	1	0
+Texts	Vietnamese_story.txt	42319	34176	34178	em					1	1	0	0
+Texts	Vietnamese_story.txt	42320	34204	34206	em					1	0	1	0
+Texts	Vietnamese_story.txt	42321	34245	34248	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42321	34260	34262	em					1	1	0	0
+Texts	Vietnamese_story.txt	42321	34268	34271	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42321	34298	34301	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42321	34307	34309	em					1	1	0	0
+Texts	Vietnamese_story.txt	42321	34319	34322	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42321	34340	34348	chúng ta					1	1	0	0
+Texts	Vietnamese_story.txt	42322	34408	34411	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42322	34436	34438	em					1	1	0	0
+Texts	Vietnamese_story.txt	42323	34517	34520	anh					1	1	0	0
+Texts	Vietnamese_story.txt	42323	34529	34532	anh					1	1	0	0
+Texts	Vietnamese_story.txt	42324	34560	34562	em					1	0	1	0
+Texts	Vietnamese_story.txt	42324	34568	34570	em					1	0	1	0
+Texts	Vietnamese_story.txt	42325	34585	34588	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42325	34610	34612	em					1	1	0	0
+Texts	Vietnamese_story.txt	42325	34621	34623	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42325	34628	34631	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42325	34636	34638	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42325	34651	34653	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42325	34674	34676	em					1	1	0	0
+Texts	Vietnamese_story.txt	42325	34689	34696	các anh					1	0	1	0
+Texts	Vietnamese_story.txt	42326	34729	34731	em					1	0	1	0
+Texts	Vietnamese_story.txt	42326	34742	34744	em					1	0	1	0
+Texts	Vietnamese_story.txt	42326	34789	34791	em					1	0	1	0
+Texts	Vietnamese_story.txt	42327	34850	34852	em					1	1	0	0
+Texts	Vietnamese_story.txt	42327	34864	34866	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42327	34880	34883	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42327	34897	34899	em					1	1	0	0
+Texts	Vietnamese_story.txt	42328	34924	34926	Em					1	0	1	0
+Texts	Vietnamese_story.txt	42329	34938	34940	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42329	34979	34981	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42330	35028	35031	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42331	35119	35121	em					1	0	1	0
+Texts	Vietnamese_story.txt	42332	35136	35138	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42332	35146	35148	em					1	1	0	0
+Texts	Vietnamese_story.txt	42333	35168	35170	Em					1	1	0	0
+Texts	Vietnamese_story.txt	42333	35199	35202	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42333	35211	35214	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42333	35259	35262	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42333	35273	35275	em					1	1	0	0
+Texts	Vietnamese_story.txt	42335	35348	35351	Anh					1	1	0	0
+Texts	Vietnamese_story.txt	42335	35362	35364	em					1	0	0	1
+Texts	Vietnamese_story.txt	42335	35362	35364	em					1	0	1	0
+Texts	Vietnamese_story.txt	42336	35429	35432	anh					1	0	0	1
+Texts	Vietnamese_story.txt	42336	35429	35432	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42336	35441	35443	em					1	1	0	0
+Texts	Vietnamese_story.txt	42338	35526	35528	Em					1	0	0	1
+Texts	Vietnamese_story.txt	42338	35526	35528	Em					1	0	1	0
+Texts	Vietnamese_story.txt	42338	35532	35534	em					1	0	1	0
+Texts	Vietnamese_story.txt	42342	35789	35793	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42342	35789	35793	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42342	35795	35798	con					1	1	0	0
+Texts	Vietnamese_story.txt	42347	36266	36275	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42347	36293	36300	các con					1	0	0	1
+Texts	Vietnamese_story.txt	42347	36293	36300	các con					1	0	1	0
+Texts	Vietnamese_story.txt	42349	36390	36399	Chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42349	36403	36406	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42350	36440	36444	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42350	36440	36444	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42350	36469	36473	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42353	36604	36607	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42353	36612	36621	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42355	36792	36800	Quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42355	36820	36829	chúng con					1	1	0	0
+Texts	Vietnamese_story.txt	42356	36894	36903	Các người					1	0	1	0
+Texts	Vietnamese_story.txt	42357	36998	37002	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42357	36998	37002	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42360	37296	37299	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42360	37335	37338	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42363	37483	37491	người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42365	37624	37638	các bà già kia					1	0	0	1
+Texts	Vietnamese_story.txt	42365	37624	37638	các bà già kia					1	0	1	0
+Texts	Vietnamese_story.txt	42367	37812	37821	Chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42367	37848	37857	Chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42367	37866	37869	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42369	37981	37985	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42369	37981	37985	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42369	37987	37990	con					1	1	0	0
+Texts	Vietnamese_story.txt	42370	38115	38118	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42370	38123	38132	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42372	38345	38349	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42372	38345	38349	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42372	38351	38355	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42372	38391	38394	con					1	1	0	0
+Texts	Vietnamese_story.txt	42373	38409	38412	con					1	0	1	0
+Texts	Vietnamese_story.txt	42373	38421	38429	quan lớn					1	1	0	0
+Texts	Vietnamese_story.txt	42373	38455	38459	quan					1	1	0	0
+Texts	Vietnamese_story.txt	42375	38592	38595	con					1	1	0	0
+Texts	Vietnamese_story.txt	42376	38634	38638	quan					1	1	0	0
+Texts	Vietnamese_story.txt	42378	38806	38809	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42379	38833	38837	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42379	38833	38837	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42379	38850	38854	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42380	38892	38895	con					1	0	1	0
+Texts	Vietnamese_story.txt	42380	38916	38918	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42381	38943	38946	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42381	38965	38969	quan					1	1	0	0
+Texts	Vietnamese_story.txt	42381	38997	38999	Ta					1	1	0	0
+Texts	Vietnamese_story.txt	42383	39071	39074	con					1	0	1	0
+Texts	Vietnamese_story.txt	42385	39190	39194	quan					1	1	0	0
+Texts	Vietnamese_story.txt	42385	39208	39211	con					1	0	1	0
+Texts	Vietnamese_story.txt	42386	39273	39276	con					1	0	1	0
+Texts	Vietnamese_story.txt	42387	39319	39322	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42387	39327	39335	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42387	39344	39352	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42388	39369	39372	con					1	0	1	0
+Texts	Vietnamese_story.txt	42390	39485	39489	quan					1	0	0	1
+Texts	Vietnamese_story.txt	42390	39485	39489	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42390	39491	39495	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42390	39500	39503	con					1	1	0	0
+Texts	Vietnamese_story.txt	42391	39542	39545	con					1	0	1	0
+Texts	Vietnamese_story.txt	42391	39597	39601	quan					1	1	0	0
+Texts	Vietnamese_story.txt	42392	39662	39665	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42392	39670	39673	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42392	39675	39678	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42392	39685	39688	con					1	1	0	0
+Texts	Vietnamese_story.txt	42393	39722	39725	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42394	39766	39769	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42394	39771	39774	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42394	39796	39799	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42395	39813	39817	quan					1	1	0	0
+Texts	Vietnamese_story.txt	42398	39898	39907	làng nước					1	0	0	1
+Texts	Vietnamese_story.txt	42398	39898	39907	làng nước					1	0	1	0
+Texts	Vietnamese_story.txt	42399	39919	39922	con					1	0	1	0
+Texts	Vietnamese_story.txt	42400	40030	40036	cha mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42400	40030	40036	cha mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42400	40044	40050	cha mẹ					1	0	0	1
+Texts	Vietnamese_story.txt	42400	40044	40050	cha mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	42404	40261	40270	làng nước					1	0	0	1
+Texts	Vietnamese_story.txt	42404	40261	40270	làng nước					1	0	1	0
+Texts	Vietnamese_story.txt	42404	40278	40287	làng nước					1	0	0	1
+Texts	Vietnamese_story.txt	42404	40278	40287	làng nước					1	0	1	0
+Texts	Vietnamese_story.txt	42414	40890	40893	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42421	41401	41407	các cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42421	41415	41418	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42421	41492	41498	các cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42421	41546	41552	cụ nào					1	0	1	0
+Texts	Vietnamese_story.txt	42424	42020	42036	bốn cụ chánh phó					1	0	1	0
+Texts	Vietnamese_story.txt	42424	42077	42080	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42426	42200	42203	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42426	42329	42332	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42428	42600	42610	ông Trương					1	0	0	1
+Texts	Vietnamese_story.txt	42428	42600	42610	ông Trương					1	0	1	0
+Texts	Vietnamese_story.txt	42430	42678	42681	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42432	42869	42873	Mình					1	1	0	0
+Texts	Vietnamese_story.txt	42435	43094	43097	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42436	43123	43126	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42436	43131	43134	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42437	43273	43279	các cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42437	43273	43279	các cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42438	43282	43284	Ta					1	1	0	0
+Texts	Vietnamese_story.txt	42439	43338	43340	Ta					1	1	0	0
+Texts	Vietnamese_story.txt	42442	43600	43602	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42444	43805	43812	các ông					1	0	1	0
+Texts	Vietnamese_story.txt	42446	44046	44048	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42446	44061	44076	thằng chánh này					1	1	0	0
+Texts	Vietnamese_story.txt	42446	44089	44100	cả làng này					1	0	1	0
+Texts	Vietnamese_story.txt	42446	44106	44121	thằng chánh này					1	1	0	0
+Texts	Vietnamese_story.txt	42446	44170	44185	thằng chánh này					1	1	0	0
+Texts	Vietnamese_story.txt	42448	44384	44390	các cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42450	44511	44519	cụ chánh					1	0	0	1
+Texts	Vietnamese_story.txt	42450	44511	44519	cụ chánh					1	0	1	0
+Texts	Vietnamese_story.txt	42450	44525	44527	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42451	44572	44574	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42452	44712	44722	ông Trương					1	0	1	0
+Texts	Vietnamese_story.txt	42454	44901	44904	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42456	45037	45043	bác đồ					1	0	0	1
+Texts	Vietnamese_story.txt	42456	45037	45043	bác đồ					1	0	1	0
+Texts	Vietnamese_story.txt	42457	45115	45118	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42459	45260	45263	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42459	45268	45271	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42459	45273	45276	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42459	45290	45293	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42460	45308	45311	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42461	45379	45382	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42461	45413	45416	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42462	45456	45459	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42462	45477	45480	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42464	45584	45587	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42464	45592	45603	con gái già					1	0	1	0
+Texts	Vietnamese_story.txt	42464	45605	45616	Con gái già					1	0	1	0
+Texts	Vietnamese_story.txt	42464	45658	45661	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42466	45748	45749	u					1	0	0	1
+Texts	Vietnamese_story.txt	42466	45748	45749	u					1	0	1	0
+Texts	Vietnamese_story.txt	42466	45775	45776	u					1	0	1	0
+Texts	Vietnamese_story.txt	42469	46000	46009	thằng này					1	1	0	0
+Texts	Vietnamese_story.txt	42470	46069	46077	người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42470	46098	46106	người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42473	46302	46305	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42479	46901	46911	chúng mình					1	1	0	0
+Texts	Vietnamese_story.txt	42480	46968	46971	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42481	47075	47078	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42482	47166	47169	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42483	47191	47194	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42484	47289	47292	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42486	47415	47418	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42487	47449	47452	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42487	47488	47491	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42488	47509	47512	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42489	47571	47574	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42489	47584	47587	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42490	47610	47613	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42490	47626	47629	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42491	47677	47684	hai ông					1	0	0	1
+Texts	Vietnamese_story.txt	42491	47677	47684	hai ông					1	0	1	0
+Texts	Vietnamese_story.txt	42492	47689	47692	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42495	47956	47959	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42496	48002	48005	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42497	48033	48036	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42497	48048	48051	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42498	48135	48138	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42499	48188	48191	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42499	48208	48211	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42499	48236	48239	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42501	48322	48328	các cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42501	48322	48328	các cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42503	48514	48517	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42503	48527	48534	các ông					1	0	1	0
+Texts	Vietnamese_story.txt	42504	48648	48652	ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42506	48692	48695	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42508	48753	48756	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42510	48807	48810	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42511	48894	48898	ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42512	48917	48920	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42515	49111	49114	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42515	49169	49173	ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42516	49178	49187	Chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42518	49293	49302	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42521	49507	49511	ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42522	49557	49560	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42523	49624	49628	ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42523	49646	49654	chúng ta					1	1	0	0
+Texts	Vietnamese_story.txt	42525	49845	49847	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42530	50101	50117	các thày lý dịch					1	0	1	0
+Texts	Vietnamese_story.txt	42531	50272	50279	bọn này					1	0	1	0
+Texts	Vietnamese_story.txt	42532	50341	50344	con					1	1	0	0
+Texts	Vietnamese_story.txt	42534	50494	50502	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42534	50494	50502	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42535	50531	50533	Lệ					1	0	0	1
+Texts	Vietnamese_story.txt	42535	50531	50533	Lệ					1	0	1	0
+Texts	Vietnamese_story.txt	42536	50586	50594	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42536	50586	50594	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42536	50598	50607	Chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42536	50637	50640	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42536	50650	50654	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42537	50686	50694	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42537	50700	50703	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42537	50727	50730	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42537	50745	50753	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42537	50778	50782	ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42537	50801	50804	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42538	50819	50826	Các chị					1	0	0	1
+Texts	Vietnamese_story.txt	42538	50819	50826	Các chị					1	0	1	0
+Texts	Vietnamese_story.txt	42540	51041	51051	hai bà lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42540	51041	51051	hai bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42541	51156	51158	em					1	0	1	0
+Texts	Vietnamese_story.txt	42545	51480	51489	chúng mày					1	0	0	1
+Texts	Vietnamese_story.txt	42545	51480	51489	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42547	51583	51591	Chúng ta					1	1	0	0
+Texts	Vietnamese_story.txt	42547	51603	51610	các chị					1	0	0	1
+Texts	Vietnamese_story.txt	42547	51603	51610	các chị					1	0	1	0
+Texts	Vietnamese_story.txt	42549	51760	51763	cậu					1	0	0	1
+Texts	Vietnamese_story.txt	42549	51760	51763	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42549	51767	51770	Cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42550	51804	51810	các cô					1	0	1	0
+Texts	Vietnamese_story.txt	42551	51847	51850	cậu					1	0	0	1
+Texts	Vietnamese_story.txt	42551	51847	51850	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42553	51998	52004	cậu tú					1	0	1	0
+Texts	Vietnamese_story.txt	42555	52107	52109	Cô					1	0	1	0
+Texts	Vietnamese_story.txt	42555	52113	52116	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42555	52151	52154	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42556	52178	52181	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42559	52311	52314	anh					1	0	0	1
+Texts	Vietnamese_story.txt	42559	52311	52314	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42559	52322	52325	Anh					1	0	0	1
+Texts	Vietnamese_story.txt	42559	52322	52325	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42559	52329	52333	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	42559	52343	52346	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42559	52352	52355	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42560	52416	52419	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42561	52451	52454	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42561	52479	52482	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42562	52491	52494	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42563	52535	52538	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42563	52550	52553	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42563	52583	52586	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42563	52615	52618	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42564	52658	52661	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42564	52663	52666	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42566	52776	52779	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42567	52842	52845	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42567	52874	52877	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42569	52995	52998	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42571	53101	53104	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42572	53193	53196	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42572	53208	53211	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42573	53238	53241	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42573	53299	53302	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42574	53317	53320	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42574	53354	53357	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42575	53374	53377	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42575	53386	53389	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42575	53421	53424	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42575	53441	53444	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42576	53486	53489	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42577	53531	53534	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42577	53555	53558	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42578	53592	53595	ông					1	0	0	1
+Texts	Vietnamese_story.txt	42578	53592	53595	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42578	53626	53629	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42579	53655	53658	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42580	53702	53705	ông					1	0	0	1
+Texts	Vietnamese_story.txt	42580	53702	53705	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42580	53707	53710	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42580	53718	53721	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42580	53739	53742	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42581	53758	53761	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42581	53770	53773	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42581	53797	53800	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42582	53831	53834	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42582	53841	53844	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42582	53849	53852	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42582	53866	53869	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42582	53884	53887	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42583	53902	53905	ông					1	0	0	1
+Texts	Vietnamese_story.txt	42583	53902	53905	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42583	53911	53914	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42583	53919	53922	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42583	53929	53932	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42583	53938	53941	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42584	53960	53963	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42584	53980	53983	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42585	54105	54109	quan					1	0	1	0
+Texts	Vietnamese_story.txt	42587	54235	54241	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42587	54235	54241	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42589	54302	54310	ông Nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42589	54312	54315	Ông					1	0	1	0
+Texts	Vietnamese_story.txt	42589	54325	54328	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42590	54353	54361	Ông nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42590	54374	54377	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42591	54453	54461	Ông Nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42591	54476	54479	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42592	54526	54534	Ông Nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42593	54586	54589	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42593	54603	54609	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42593	54626	54632	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42594	54648	54656	ông Nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42594	54672	54675	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42595	54697	54703	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42595	54718	54727	chúng con					1	1	0	0
+Texts	Vietnamese_story.txt	42595	54733	54739	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42595	54789	54792	con					1	1	0	0
+Texts	Vietnamese_story.txt	42595	54829	54835	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42597	54938	54941	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42598	54996	54999	bồi					1	0	0	1
+Texts	Vietnamese_story.txt	42598	54996	54999	bồi					1	0	1	0
+Texts	Vietnamese_story.txt	42598	55068	55071	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42599	55098	55101	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42599	55114	55117	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42599	55130	55133	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42599	55169	55172	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42600	55253	55259	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42600	55253	55259	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42601	55343	55346	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42601	55356	55364	ông nghị					1	0	0	1
+Texts	Vietnamese_story.txt	42601	55356	55364	ông nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42602	55372	55375	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42602	55425	55428	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42602	55440	55443	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42603	55494	55500	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42603	55494	55500	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42604	55556	55564	ông nghị					1	0	0	1
+Texts	Vietnamese_story.txt	42604	55556	55564	ông nghị					1	0	1	0
+Texts	Vietnamese_story.txt	42604	55669	55675	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42607	55817	55823	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42607	55885	55891	Cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42608	55932	55935	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42609	55978	55984	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42611	56185	56191	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42611	56185	56191	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42612	56213	56221	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42612	56213	56221	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42612	56223	56231	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42613	56277	56283	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42613	56277	56283	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42613	56285	56294	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42613	56304	56310	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42614	56342	56350	Quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42615	56473	56481	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42616	56502	56506	Lính					1	0	0	1
+Texts	Vietnamese_story.txt	42616	56502	56506	Lính					1	0	1	0
+Texts	Vietnamese_story.txt	42616	56523	56526	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42618	56645	56651	Cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42618	56680	56683	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42618	56713	56719	Cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42618	56747	56750	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42620	56851	56857	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42621	56932	56940	Quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42622	57119	57125	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42624	57169	57172	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42624	57177	57185	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42624	57235	57237	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42625	57265	57271	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42625	57284	57287	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42628	57491	57499	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42628	57563	57571	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42630	57645	57651	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42630	57653	57656	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42630	57716	57719	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42631	57760	57763	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42631	57806	57809	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42633	57929	57937	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42633	57942	57945	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42636	58199	58202	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42637	58246	58254	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42637	58280	58283	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42638	58301	58304	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42641	58400	58406	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42641	58426	58432	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42641	58426	58432	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42642	58452	58460	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42642	58452	58460	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42644	58535	58543	anh Xuân					1	0	0	1
+Texts	Vietnamese_story.txt	42644	58535	58543	anh Xuân					1	0	1	0
+Texts	Vietnamese_story.txt	42644	58596	58599	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42647	58837	58840	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42647	58846	58848	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42647	58846	58848	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42650	58988	58994	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42650	58988	58994	cụ lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42650	58988	58994	cụ lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42650	59002	59005	ông					1	0	0	1
+Texts	Vietnamese_story.txt	42650	59002	59005	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42650	59011	59013	bà					1	0	0	1
+Texts	Vietnamese_story.txt	42650	59011	59013	bà					1	0	1	0
+Texts	Vietnamese_story.txt	42652	59149	59152	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42654	59219	59222	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42654	59239	59242	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42654	59268	59271	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42654	59302	59305	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42654	59323	59326	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42655	59341	59347	bà lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42655	59341	59347	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42655	59351	59355	cháu					1	1	0	0
+Texts	Vietnamese_story.txt	42655	59364	59370	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42658	59505	59508	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42660	59740	59748	hai ngài					1	0	1	0
+Texts	Vietnamese_story.txt	42663	60024	60035	ông đây này					1	1	0	0
+Texts	Vietnamese_story.txt	42665	60102	60110	Người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42665	60115	60119	mình					1	0	1	0
+Texts	Vietnamese_story.txt	42665	60129	60137	Người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42667	60306	60317	thầy min đơ					1	0	0	1
+Texts	Vietnamese_story.txt	42667	60306	60317	thầy min đơ					1	0	1	0
+Texts	Vietnamese_story.txt	42667	60318	60322	thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42669	60473	60481	Chúng ta					1	1	0	0
+Texts	Vietnamese_story.txt	42670	60544	60552	chúng ta					1	1	0	0
+Texts	Vietnamese_story.txt	42672	60627	60629	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42672	60651	60653	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42673	60658	60662	Thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42674	60756	60758	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42675	60784	60786	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42676	60819	60823	Thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42679	61166	61168	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42681	61310	61314	thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42682	61350	61354	Thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42683	61501	61504	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42683	61527	61530	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42684	61659	61662	Anh					1	0	0	1
+Texts	Vietnamese_story.txt	42684	61659	61662	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42685	61701	61709	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42685	61701	61709	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42685	61719	61722	con					1	1	0	0
+Texts	Vietnamese_story.txt	42686	61761	61764	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42687	61797	61800	con					1	1	0	0
+Texts	Vietnamese_story.txt	42688	61838	61841	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42689	61992	61999	Anh này					1	0	0	1
+Texts	Vietnamese_story.txt	42689	61992	61999	Anh này					1	0	1	0
+Texts	Vietnamese_story.txt	42690	62070	62073	con					1	1	0	0
+Texts	Vietnamese_story.txt	42690	62127	62130	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42692	62226	62234	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42692	62226	62234	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42692	62242	62245	con					1	1	0	0
+Texts	Vietnamese_story.txt	42693	62340	62348	quan lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42693	62340	62348	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42693	62368	62371	con					1	1	0	0
+Texts	Vietnamese_story.txt	42693	62406	62409	con					1	1	0	0
+Texts	Vietnamese_story.txt	42696	62546	62549	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42696	62625	62628	con					1	1	0	0
+Texts	Vietnamese_story.txt	42696	62642	62650	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42696	62666	62674	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42696	62682	62685	con					1	1	0	0
+Texts	Vietnamese_story.txt	42698	62792	62800	quan lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42699	62989	62992	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42699	62994	62997	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42700	63096	63105	người kia					1	0	0	1
+Texts	Vietnamese_story.txt	42700	63096	63105	người kia					1	0	1	0
+Texts	Vietnamese_story.txt	42702	63234	63236	Bà					1	0	1	0
+Texts	Vietnamese_story.txt	42702	63246	63255	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42703	63274	63277	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42703	63326	63328	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42704	63387	63389	bà					1	0	1	0
+Texts	Vietnamese_story.txt	42706	63475	63481	bà lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42706	63475	63481	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42706	63487	63493	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42706	63505	63508	con					1	1	0	0
+Texts	Vietnamese_story.txt	42707	63534	63543	Chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42707	63557	63560	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42707	63562	63565	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42707	63576	63579	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42707	63589	63592	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42709	63696	63698	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42709	63714	63717	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42709	63726	63728	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42711	63769	63771	bà					1	0	0	1
+Texts	Vietnamese_story.txt	42711	63769	63771	bà					1	0	1	0
+Texts	Vietnamese_story.txt	42712	63831	63834	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42714	63976	63985	quý khách					1	0	1	0
+Texts	Vietnamese_story.txt	42718	64245	64251	Chị ba					1	0	0	1
+Texts	Vietnamese_story.txt	42718	64245	64251	Chị ba					1	0	1	0
+Texts	Vietnamese_story.txt	42718	64257	64260	chị					1	0	1	0
+Texts	Vietnamese_story.txt	42721	64399	64402	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42721	64408	64411	Cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42721	64416	64418	me					1	1	0	0
+Texts	Vietnamese_story.txt	42721	64426	64428	Me					1	1	0	0
+Texts	Vietnamese_story.txt	42721	64460	64463	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42723	64737	64739	Em					1	0	1	0
+Texts	Vietnamese_story.txt	42724	64757	64759	me					1	1	0	0
+Texts	Vietnamese_story.txt	42724	64768	64771	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42724	64777	64779	Me					1	1	0	0
+Texts	Vietnamese_story.txt	42724	64785	64788	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42725	64886	64892	Chị ba					1	0	0	1
+Texts	Vietnamese_story.txt	42725	64886	64892	Chị ba					1	0	1	0
+Texts	Vietnamese_story.txt	42726	64918	64921	Cậu					1	1	0	0
+Texts	Vietnamese_story.txt	42726	64933	64936	Cậu					1	1	0	0
+Texts	Vietnamese_story.txt	42727	64948	64954	Chị ba					1	0	0	1
+Texts	Vietnamese_story.txt	42727	64948	64954	Chị ba					1	0	1	0
+Texts	Vietnamese_story.txt	42728	65031	65040	Các người					1	0	1	0
+Texts	Vietnamese_story.txt	42728	65054	65057	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42731	65156	65160	Thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42735	65257	65260	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42736	65280	65286	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42737	65332	65335	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42738	65369	65375	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42739	65549	65552	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42739	65571	65574	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42740	65597	65600	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42741	65649	65652	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42741	65685	65688	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42742	65810	65812	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42743	65840	65846	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42744	65882	65884	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42745	65912	65914	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42745	65937	65939	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42745	65970	65973	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42746	65980	65986	Chị ba					1	0	0	1
+Texts	Vietnamese_story.txt	42746	65980	65986	Chị ba					1	0	1	0
+Texts	Vietnamese_story.txt	42746	66020	66023	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42746	66061	66064	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42747	66093	66099	bà lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42747	66093	66099	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42747	66109	66118	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42749	66197	66204	Anh này					1	0	0	1
+Texts	Vietnamese_story.txt	42749	66197	66204	Anh này					1	0	1	0
+Texts	Vietnamese_story.txt	42749	66206	66209	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42749	66218	66221	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42749	66236	66239	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42751	66307	66313	bà lớn					1	0	0	1
+Texts	Vietnamese_story.txt	42751	66307	66313	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42751	66328	66334	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42751	66339	66348	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42752	66374	66377	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42753	66432	66435	con					1	1	0	0
+Texts	Vietnamese_story.txt	42754	66450	66453	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42754	66472	66475	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42754	66477	66480	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42756	66572	66575	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42757	66601	66604	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42758	66652	66655	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42760	66726	66729	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42760	66738	66741	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42760	66746	66749	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42761	66787	66796	Chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42761	66805	66811	bà lớn					1	0	1	0
+Texts	Vietnamese_story.txt	42762	66834	66837	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42762	66883	66886	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42763	66984	66987	con					1	1	0	0
+Texts	Vietnamese_story.txt	42764	67028	67031	con					1	1	0	0
+Texts	Vietnamese_story.txt	42764	67047	67050	con					1	1	0	0
+Texts	Vietnamese_story.txt	42765	67083	67086	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42766	67101	67104	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42766	67108	67111	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42767	67139	67142	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42768	67164	67167	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42768	67268	67271	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42769	67306	67309	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42771	67373	67376	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42772	67468	67471	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42772	67493	67496	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42774	67588	67591	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42783	68358	68360	Dì					1	0	1	0
+Texts	Vietnamese_story.txt	42786	68598	68601	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42787	68635	68639	mình					1	0	0	1
+Texts	Vietnamese_story.txt	42787	68635	68639	mình					1	0	1	0
+Texts	Vietnamese_story.txt	42790	68803	68806	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42790	68822	68824	dì					1	0	1	0
+Texts	Vietnamese_story.txt	42792	68919	68928	làng nước					1	0	1	0
+Texts	Vietnamese_story.txt	42792	68937	68940	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42792	68951	68960	làng nước					1	0	1	0
+Texts	Vietnamese_story.txt	42793	68996	68999	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42793	69028	69031	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42793	69037	69046	làng nước					1	0	1	0
+Texts	Vietnamese_story.txt	42799	69410	69416	Các bà					1	0	1	0
+Texts	Vietnamese_story.txt	42801	69521	69528	các ông					1	0	1	0
+Texts	Vietnamese_story.txt	42801	69530	69536	các bà					1	0	1	0
+Texts	Vietnamese_story.txt	42802	69676	69683	Anh Chí					1	0	0	1
+Texts	Vietnamese_story.txt	42802	69676	69683	Anh Chí					1	0	1	0
+Texts	Vietnamese_story.txt	42802	69692	69695	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42803	69746	69749	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42803	69779	69782	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42804	69800	69803	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42805	69874	69881	anh này					1	0	1	0
+Texts	Vietnamese_story.txt	42805	69905	69908	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42805	69912	69915	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42805	69991	69994	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42807	70103	70105	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42809	70268	70271	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42809	70295	70297	Ta					1	1	0	0
+Texts	Vietnamese_story.txt	42811	70513	70521	Lý Cường					1	0	0	1
+Texts	Vietnamese_story.txt	42811	70513	70521	Lý Cường					1	0	1	0
+Texts	Vietnamese_story.txt	42811	70531	70534	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42813	70680	70683	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42813	70697	70700	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42813	70735	70738	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42814	70799	70802	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42815	70908	70911	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42816	70957	70960	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42816	70974	70977	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42817	71050	71053	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42819	71175	71183	anh Binh					1	0	0	1
+Texts	Vietnamese_story.txt	42819	71175	71183	anh Binh					1	0	1	0
+Texts	Vietnamese_story.txt	42819	71198	71201	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42821	71318	71321	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42821	71347	71350	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42828	71880	71883	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42828	71899	71906	nhà mày					1	0	1	0
+Texts	Vietnamese_story.txt	42828	71920	71923	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42828	71938	71941	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42831	72214	72221	nhà mày					1	0	1	0
+Texts	Vietnamese_story.txt	42831	72236	72239	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42831	72248	72251	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42831	72259	72266	nhà mày					1	0	1	0
+Texts	Vietnamese_story.txt	42832	72273	72276	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42832	72283	72286	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42832	72296	72299	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42832	72320	72323	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42833	72360	72363	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42833	72376	72379	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42833	72410	72413	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42833	72424	72427	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42834	72482	72492	Chúng cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42835	72569	72572	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42835	72578	72585	Nhà mày					1	0	1	0
+Texts	Vietnamese_story.txt	42838	72893	72900	Anh Chí					1	0	1	0
+Texts	Vietnamese_story.txt	42839	72933	72935	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42839	72933	72935	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42839	72943	72945	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42839	72943	72945	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42839	72949	72952	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42839	72961	72963	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42839	72971	72973	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42840	72993	72995	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42840	72993	72995	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42840	73004	73006	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42840	73020	73023	con					1	1	0	0
+Texts	Vietnamese_story.txt	42840	73060	73063	con					1	1	0	0
+Texts	Vietnamese_story.txt	42841	73237	73239	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42841	73237	73239	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42841	73257	73259	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42841	73261	73263	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42841	73272	73275	con					1	1	0	0
+Texts	Vietnamese_story.txt	42843	73364	73371	Anh này					1	0	1	0
+Texts	Vietnamese_story.txt	42845	73491	73494	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42845	73503	73505	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42845	73510	73513	con					1	1	0	0
+Texts	Vietnamese_story.txt	42845	73559	73561	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42847	73694	73696	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42847	73694	73696	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42847	73712	73715	con					1	1	0	0
+Texts	Vietnamese_story.txt	42847	73748	73750	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42847	73755	73758	con					1	1	0	0
+Texts	Vietnamese_story.txt	42849	73879	73882	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42849	73903	73910	anh Chí					1	0	0	1
+Texts	Vietnamese_story.txt	42849	73903	73910	anh Chí					1	0	1	0
+Texts	Vietnamese_story.txt	42849	73914	73917	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42850	73971	73974	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42850	73994	73997	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42850	74019	74022	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42854	74412	74420	Chí Phèo					1	0	0	1
+Texts	Vietnamese_story.txt	42854	74412	74420	Chí Phèo					1	0	1	0
+Texts	Vietnamese_story.txt	42854	74449	74452	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42855	74575	74583	người ta					1	1	0	0
+Texts	Vietnamese_story.txt	42856	74631	74634	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42857	74725	74728	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42858	74787	74790	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42858	74801	74804	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42859	74871	74874	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42860	74900	74903	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42861	74967	74970	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42861	74979	74982	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42862	75048	75051	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42865	75292	75295	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42865	75301	75304	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42865	75320	75323	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42867	75475	75478	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	42869	75649	75657	cậu Vàng					1	0	1	0
+Texts	Vietnamese_story.txt	42869	75670	75678	Cậu Vàng					1	0	1	0
+Texts	Vietnamese_story.txt	42869	75683	75686	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42870	75699	75702	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42870	75721	75724	Ông					1	1	0	0
+Texts	Vietnamese_story.txt	42870	75728	75736	cậu Vàng					1	0	1	0
+Texts	Vietnamese_story.txt	42870	75737	75740	ông					1	1	0	0
+Texts	Vietnamese_story.txt	42873	75861	75869	ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42873	75861	75869	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42873	75873	75876	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42873	75946	75954	ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42873	75946	75954	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42874	76051	76054	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42876	76166	76174	ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42876	76166	76174	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42877	76181	76183	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42883	76555	76563	Ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42883	76555	76563	Ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42883	76595	76598	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42884	76637	76640	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42886	76913	76921	Ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42886	76913	76921	Ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42886	76975	76978	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42886	76997	77000	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42886	77014	77017	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42887	77110	77113	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42887	77179	77182	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42888	77216	77218	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42889	77303	77305	Ta					1	1	0	0
+Texts	Vietnamese_story.txt	42890	77400	77408	Ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42890	77448	77450	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42890	77546	77549	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42891	77617	77619	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42891	77617	77619	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42891	77623	77625	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42891	77632	77635	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42892	77712	77714	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42894	77892	77894	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42894	77921	77924	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42894	77987	77999	ông con mình					1	1	0	0
+Texts	Vietnamese_story.txt	42894	78054	78062	Ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42896	78235	78237	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42896	78254	78257	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42897	78303	78311	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42898	78411	78413	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42898	78433	78436	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42899	78472	78475	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42899	78489	78492	ông					1	0	1	0
+Texts	Vietnamese_story.txt	42900	78521	78523	cụ					1	0	0	1
+Texts	Vietnamese_story.txt	42900	78521	78523	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42901	78528	78536	Ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42901	78540	78543	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42902	78584	78586	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42903	78607	78615	ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42903	78607	78615	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42906	78694	78696	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42906	78712	78714	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42906	78750	78752	Cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42906	78799	78807	ông giáo					1	0	0	1
+Texts	Vietnamese_story.txt	42906	78799	78807	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42907	78891	78894	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42908	79009	79012	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42908	79029	79032	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42908	79037	79045	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42908	79047	79055	Ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42908	79073	79076	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42908	79108	79116	ông giáo					1	0	1	0
+Texts	Vietnamese_story.txt	42908	79124	79127	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42910	79218	79220	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42910	79240	79243	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42910	79251	79253	cụ					1	0	1	0
+Texts	Vietnamese_story.txt	42911	79298	79301	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42912	79328	79330	Bu					1	0	0	1
+Texts	Vietnamese_story.txt	42912	79328	79330	Bu					1	0	1	0
+Texts	Vietnamese_story.txt	42912	79334	79337	con					1	1	0	0
+Texts	Vietnamese_story.txt	42916	79662	79665	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42916	79716	79718	bu					1	1	0	0
+Texts	Vietnamese_story.txt	42916	79751	79753	bu					1	1	0	0
+Texts	Vietnamese_story.txt	42918	79838	79840	bu					1	0	0	1
+Texts	Vietnamese_story.txt	42918	79838	79840	bu					1	0	1	0
+Texts	Vietnamese_story.txt	42920	79981	79990	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42920	80003	80012	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42922	80265	80268	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42924	80572	80574	bu					1	0	0	1
+Texts	Vietnamese_story.txt	42924	80572	80574	bu					1	0	1	0
+Texts	Vietnamese_story.txt	42924	80576	80578	Bu					1	0	1	0
+Texts	Vietnamese_story.txt	42925	80735	80738	con					1	0	0	1
+Texts	Vietnamese_story.txt	42925	80735	80738	con					1	0	1	0
+Texts	Vietnamese_story.txt	42926	80770	80772	Bé					1	0	0	1
+Texts	Vietnamese_story.txt	42926	80770	80772	Bé					1	0	1	0
+Texts	Vietnamese_story.txt	42926	80782	80784	bu					1	1	0	0
+Texts	Vietnamese_story.txt	42931	81169	81171	bu					1	0	0	1
+Texts	Vietnamese_story.txt	42931	81169	81171	bu					1	0	1	0
+Texts	Vietnamese_story.txt	42934	81323	81326	Con					1	1	0	0
+Texts	Vietnamese_story.txt	42934	81368	81370	bu					1	0	1	0
+Texts	Vietnamese_story.txt	42936	81518	81521	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42940	81787	81789	bu					1	1	0	0
+Texts	Vietnamese_story.txt	42940	81798	81800	bu					1	1	0	0
+Texts	Vietnamese_story.txt	42945	82155	82159	thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42946	82186	82189	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42948	82298	82301	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42948	82354	82359	bu em					1	0	1	0
+Texts	Vietnamese_story.txt	42949	82449	82459	mẹ con tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42951	82629	82632	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42953	82695	82698	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42954	82821	82824	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42955	82883	82888	Bu em					1	0	1	0
+Texts	Vietnamese_story.txt	42955	82898	82901	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42956	83004	83007	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42956	83014	83021	thầy em					1	0	1	0
+Texts	Vietnamese_story.txt	42958	83126	83129	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42958	83152	83154	bu					1	1	0	0
+Texts	Vietnamese_story.txt	42959	83217	83220	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42959	83333	83336	con					1	0	0	1
+Texts	Vietnamese_story.txt	42959	83333	83336	con					1	0	1	0
+Texts	Vietnamese_story.txt	42962	83510	83514	Thầy					1	0	1	0
+Texts	Vietnamese_story.txt	42962	83522	83525	con					1	1	0	0
+Texts	Vietnamese_story.txt	42963	83540	83550	mẹ con mày					1	0	1	0
+Texts	Vietnamese_story.txt	42965	83687	83690	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42966	83718	83721	Con					1	0	1	0
+Texts	Vietnamese_story.txt	42966	83733	83737	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	42966	83784	83788	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	42967	83880	83884	thầy					1	1	0	0
+Texts	Vietnamese_story.txt	42969	84089	84092	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42970	84135	84137	bà					1	0	0	1
+Texts	Vietnamese_story.txt	42970	84135	84137	bà					1	0	1	0
+Texts	Vietnamese_story.txt	42970	84142	84145	con					1	1	0	0
+Texts	Vietnamese_story.txt	42971	84180	84183	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42971	84198	84201	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42971	84230	84233	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42971	84238	84241	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42974	84568	84571	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42974	84631	84634	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42975	84672	84676	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42975	84716	84720	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42975	84733	84737	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42975	84742	84746	cháu					1	0	1	0
+Texts	Vietnamese_story.txt	42975	84754	84756	dì					1	1	0	0
+Texts	Vietnamese_story.txt	42975	84758	84760	Dì					1	1	0	0
+Texts	Vietnamese_story.txt	42979	85030	85033	anh					1	0	1	0
+Texts	Vietnamese_story.txt	42979	85052	85055	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42980	85147	85150	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42980	85174	85177	tao					1	1	0	0
+Texts	Vietnamese_story.txt	42980	85188	85191	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42980	85203	85211	Chúng ta					1	1	0	0
+Texts	Vietnamese_story.txt	42980	85232	85243	Cả ba thằng					1	1	0	0
+Texts	Vietnamese_story.txt	42988	85974	85983	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42988	85994	85996	Tớ					1	1	0	0
+Texts	Vietnamese_story.txt	42989	86028	86031	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	42989	86039	86048	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	42990	86108	86110	Tớ					1	1	0	0
+Texts	Vietnamese_story.txt	42990	86127	86136	Chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	42991	86203	86206	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	42991	86228	86231	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	42993	86354	86364	Chúng mình					1	1	0	0
+Texts	Vietnamese_story.txt	42996	86462	86464	ta					1	1	0	0
+Texts	Vietnamese_story.txt	42997	86507	86517	chúng mình					1	1	0	0
+Texts	Vietnamese_story.txt	42998	86596	86599	mày					1	0	1	0
+Texts	Vietnamese_story.txt	42999	86630	86633	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43001	86690	86693	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43002	86768	86771	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43002	86802	86805	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43003	86885	86888	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43003	86894	86903	chúng tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43014	87915	87918	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43014	87944	87946	Cô					1	0	1	0
+Texts	Vietnamese_story.txt	43016	88148	88150	em					1	1	0	0
+Texts	Vietnamese_story.txt	43016	88169	88171	Em					1	1	0	0
+Texts	Vietnamese_story.txt	43020	88564	88567	Tri					1	0	1	0
+Texts	Vietnamese_story.txt	43021	88618	88621	Tri					1	0	0	1
+Texts	Vietnamese_story.txt	43021	88618	88621	Tri					1	0	1	0
+Texts	Vietnamese_story.txt	43021	88652	88655	Tri					1	0	1	0
+Texts	Vietnamese_story.txt	43021	88689	88692	Tri					1	0	1	0
+Texts	Vietnamese_story.txt	43021	88700	88703	Tri					1	0	1	0
+Texts	Vietnamese_story.txt	43022	88732	88735	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43032	89604	89609	Cô Tư					1	0	0	1
+Texts	Vietnamese_story.txt	43032	89604	89609	Cô Tư					1	0	1	0
+Texts	Vietnamese_story.txt	43032	89618	89621	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43032	89651	89653	cô					1	0	1	0
+Texts	Vietnamese_story.txt	43032	89664	89667	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43035	89884	89889	Cô Tư					1	0	0	1
+Texts	Vietnamese_story.txt	43035	89884	89889	Cô Tư					1	0	1	0
+Texts	Vietnamese_story.txt	43037	89925	89928	anh					1	0	0	1
+Texts	Vietnamese_story.txt	43037	89925	89928	anh					1	0	1	0
+Texts	Vietnamese_story.txt	43040	90127	90132	Ăn Ba					1	0	1	0
+Texts	Vietnamese_story.txt	43042	90213	90219	Ăn Bảy					1	0	0	1
+Texts	Vietnamese_story.txt	43042	90213	90219	Ăn Bảy					1	0	1	0
+Texts	Vietnamese_story.txt	43042	90221	90227	ăn Bảy					1	0	0	1
+Texts	Vietnamese_story.txt	43042	90221	90227	ăn Bảy					1	0	1	0
+Texts	Vietnamese_story.txt	43042	90259	90262	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43055	91200	91202	em					1	0	1	0
+Texts	Vietnamese_story.txt	43061	91692	91694	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	43062	91715	91717	Mẹ					1	1	0	0
+Texts	Vietnamese_story.txt	43063	91781	91783	Mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	43064	91828	91830	Mẹ					1	1	0	0
+Texts	Vietnamese_story.txt	43066	91955	91958	Con					1	1	0	0
+Texts	Vietnamese_story.txt	43066	91975	91978	con					1	1	0	0
+Texts	Vietnamese_story.txt	43066	91988	91991	con					1	1	0	0
+Texts	Vietnamese_story.txt	43066	91996	91998	mẹ					1	0	1	0
+Texts	Vietnamese_story.txt	43066	92011	92014	con					1	1	0	0
+Texts	Vietnamese_story.txt	43066	92024	92027	con					1	1	0	0
+Texts	Vietnamese_story.txt	43068	92123	92126	Con					1	1	0	0
+Texts	Vietnamese_story.txt	43071	92457	92460	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	43071	92485	92488	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43073	92574	92582	Người ta					1	1	0	0
+Texts	Vietnamese_story.txt	43073	92603	92611	người ta					1	1	0	0
+Texts	Vietnamese_story.txt	43074	92629	92632	anh					1	0	1	0
+Texts	Vietnamese_story.txt	43076	92670	92673	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	43076	92689	92692	Anh					1	0	1	0
+Texts	Vietnamese_story.txt	43077	92718	92722	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43078	92788	92791	Đây					1	1	0	0
+Texts	Vietnamese_story.txt	43081	93031	93034	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43082	93067	93073	Cậu cả					1	0	1	0
+Texts	Vietnamese_story.txt	43083	93127	93130	Kha					1	0	1	0
+Texts	Vietnamese_story.txt	43084	93183	93186	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43085	93274	93277	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43087	93371	93374	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43087	93384	93387	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	43087	93396	93399	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43087	93401	93404	Cậu					1	0	1	0
+Texts	Vietnamese_story.txt	43087	93427	93430	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43087	93441	93444	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43087	93480	93483	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43087	93505	93508	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43090	93676	93679	Kha					1	1	0	0
+Texts	Vietnamese_story.txt	43091	93708	93711	Tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43095	93988	93992	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	43097	94133	94136	Cậu					1	1	0	0
+Texts	Vietnamese_story.txt	43097	94157	94161	Cháu					1	0	1	0
+Texts	Vietnamese_story.txt	43102	94648	94651	tôi					1	1	0	0
+Texts	Vietnamese_story.txt	43103	94712	94716	thầy					1	0	0	1
+Texts	Vietnamese_story.txt	43103	94712	94716	thầy					1	0	1	0
+Texts	Vietnamese_story.txt	43105	94784	94790	Em Thi					1	0	0	1
+Texts	Vietnamese_story.txt	43105	94784	94790	Em Thi					1	0	1	0
+Texts	Vietnamese_story.txt	43105	94792	94798	Em Thi					1	0	0	1
+Texts	Vietnamese_story.txt	43105	94792	94798	Em Thi					1	0	1	0
+Texts	Vietnamese_story.txt	43105	94800	94807	Anh Lưu					1	1	0	0
+Texts	Vietnamese_story.txt	43105	94818	94824	em Thi					1	0	0	1
+Texts	Vietnamese_story.txt	43105	94818	94824	em Thi					1	0	1	0
+Texts	Vietnamese_story.txt	43107	94978	94980	ta					1	1	0	0
+Texts	Vietnamese_story.txt	43108	95037	95040	con					1	0	1	0
+Texts	Vietnamese_story.txt	43108	95055	95063	Nhà mình					1	1	0	0
+Texts	Vietnamese_story.txt	43109	95118	95121	con					1	1	0	0
+Texts	Vietnamese_story.txt	43110	95183	95187	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43110	95224	95227	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43111	95274	95283	chúng con					1	1	0	0
+Texts	Vietnamese_story.txt	43112	95305	95308	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	43113	95371	95380	Chúng con					1	1	0	0
+Texts	Vietnamese_story.txt	43115	95519	95522	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	43115	95564	95567	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43116	95658	95661	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43117	95676	95679	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43117	95684	95687	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43118	95765	95768	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	43118	95797	95800	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43119	95930	95933	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43120	96002	96006	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43120	96049	96053	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43120	96098	96101	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43121	96163	96166	con					1	1	0	0
+Texts	Vietnamese_story.txt	43121	96207	96210	con					1	1	0	0
+Texts	Vietnamese_story.txt	43122	96264	96267	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43123	96366	96370	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43124	96398	96402	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43124	96437	96441	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43125	96490	96494	mình					1	1	0	0
+Texts	Vietnamese_story.txt	43126	96497	96500	Tao					1	1	0	0
+Texts	Vietnamese_story.txt	43126	96509	96512	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43126	96546	96549	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43126	96551	96554	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43128	96646	96653	Cái Nhi					1	0	0	1
+Texts	Vietnamese_story.txt	43128	96646	96653	Cái Nhi					1	0	1	0
+Texts	Vietnamese_story.txt	43129	96674	96677	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43130	96686	96689	Nhi					1	0	0	1
+Texts	Vietnamese_story.txt	43130	96686	96689	Nhi					1	0	1	0
+Texts	Vietnamese_story.txt	43130	96691	96694	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	43130	96715	96718	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43131	96755	96758	ông					1	1	0	0
+Texts	Vietnamese_story.txt	43132	96789	96792	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	43132	96812	96815	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43132	96824	96827	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43133	96877	96880	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43133	96887	96890	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43133	96899	96902	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43134	96911	96914	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43134	96920	96923	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43134	96948	96951	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43134	96953	96956	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43134	96977	96980	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43135	97005	97008	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43135	97024	97027	Mày					1	0	1	0
+Texts	Vietnamese_story.txt	43135	97035	97038	tao					1	1	0	0
+Texts	Vietnamese_story.txt	43138	97262	97265	cậu					1	0	0	1
+Texts	Vietnamese_story.txt	43138	97262	97265	cậu					1	0	1	0
+Texts	Vietnamese_story.txt	43142	97454	97457	Con					1	1	0	0
+Texts	Vietnamese_story.txt	43142	97472	97474	mợ					1	0	1	0
+Texts	Vietnamese_story.txt	43142	97476	97479	con					1	1	0	0
+Texts	Vietnamese_story.txt	43142	97499	97502	con					1	1	0	0
+Texts	Vietnamese_story.txt	43144	97658	97667	chúng mày					1	0	1	0
+Texts	Vietnamese_story.txt	43146	97818	97820	Bà					1	1	0	0
+Texts	Vietnamese_story.txt	43146	97832	97835	mày					1	0	1	0
+Texts	Vietnamese_story.txt	43146	97862	97864	bà					1	1	0	0

@@ -1,0 +1,1469 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	Vietnamese_film_2.txt	45369	33	35	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45369	33	35	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45369	37	39	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45369	58	60	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45369	58	60	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45370	72	86	Đồng chí Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	45370	72	86	Đồng chí Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45370	88	91	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45371	140	142	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45371	140	142	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45371	144	146	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45371	160	162	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45371	184	187	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45371	201	203	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45372	222	230	con Khuê					1	0	1	0
+Texts	Vietnamese_film_2.txt	45374	295	298	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45375	328	331	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45375	349	351	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45375	356	358	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45375	356	358	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45375	400	402	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45375	400	402	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45376	422	425	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45377	458	461	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45377	482	485	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45377	499	501	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45379	703	705	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45379	703	705	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45380	765	767	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45381	813	816	ba 					1	0	1	0
+Texts	Vietnamese_film_2.txt	45381	887	889	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45384	1073	1075	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45385	1200	1202	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45385	1254	1256	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45386	1322	1332	Anh Hoàng 					1	0	0	1
+Texts	Vietnamese_film_2.txt	45386	1322	1332	Anh Hoàng 					1	0	1	0
+Texts	Vietnamese_film_2.txt	45387	1346	1348	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45387	1346	1348	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45387	1350	1352	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45387	1376	1378	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45388	1406	1408	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45388	1416	1419	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45388	1424	1426	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45389	1489	1491	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45389	1516	1518	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45389	1516	1518	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45393	1789	1793	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45393	1789	1793	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45395	2056	2060	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45395	2056	2060	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45397	2371	2375	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45398	2414	2417	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45400	2553	2556	chú					1	0	0	1
+Texts	Vietnamese_film_2.txt	45400	2553	2556	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45400	2558	2562	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45400	2600	2604	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45400	2618	2621	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45401	2643	2646	chú					1	1	0	0
+Texts	Vietnamese_film_2.txt	45401	2662	2666	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45401	2671	2674	chú					1	1	0	0
+Texts	Vietnamese_film_2.txt	45402	2755	2759	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45402	2763	2766	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45403	2885	2888	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45403	2930	2934	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45405	3068	3070	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45406	3117	3121	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45406	3117	3121	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45407	3198	3200	Em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45407	3248	3256	chúng ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45409	3368	3370	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45409	3368	3370	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45410	3398	3401	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45415	3645	3649	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45415	3653	3655	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45416	3676	3680	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45416	3676	3680	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45418	3878	3884	Các em					1	0	0	1
+Texts	Vietnamese_film_2.txt	45418	3878	3884	Các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45418	3920	3924	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45418	3933	3945	lớp chúng ta					1	0	1	0
+Texts	Vietnamese_film_2.txt	45419	3948	3952	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45419	4027	4033	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45420	4036	4040	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45421	4239	4247	chúng ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45422	4258	4262	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45422	4280	4286	Các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45423	4363	4367	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45423	4375	4377	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45425	4477	4484	Cô y tá					1	0	0	1
+Texts	Vietnamese_film_2.txt	45425	4477	4484	Cô y tá					1	0	1	0
+Texts	Vietnamese_film_2.txt	45427	4605	4609	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45427	4627	4631	thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45429	4746	4749	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45429	4761	4765	thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45430	4792	4795	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45430	4807	4811	thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45430	4853	4856	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45431	4902	4905	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45431	4923	4926	Chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	45432	4973	4977	thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45434	5135	5137	Má					1	0	0	1
+Texts	Vietnamese_film_2.txt	45434	5135	5137	Má					1	0	1	0
+Texts	Vietnamese_film_2.txt	45434	5139	5141	Má					1	0	1	0
+Texts	Vietnamese_film_2.txt	45435	5163	5165	Má					1	1	0	0
+Texts	Vietnamese_film_2.txt	45435	5190	5193	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45436	5238	5241	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45437	5252	5256	Thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45437	5266	5269	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45439	5395	5398	Đạt					1	0	0	1
+Texts	Vietnamese_film_2.txt	45439	5395	5398	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45439	5400	5404	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45440	5489	5492	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45442	5590	5599	bác Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	45442	5590	5599	bác Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45443	5660	5677	Cái thằng nhỏ này					1	0	1	0
+Texts	Vietnamese_film_2.txt	45443	5679	5682	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45443	5732	5735	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45443	5740	5743	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45444	5764	5767	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45444	5773	5776	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45445	5838	5841	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45445	5889	5893	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45446	5931	5934	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45448	6260	6262	ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45452	6402	6405	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45453	6449	6452	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45453	6477	6481	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45454	6535	6539	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45454	6549	6552	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45454	6565	6569	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45455	6615	6619	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45455	6651	6654	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45456	6691	6698	hai bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45456	6717	6721	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45456	6731	6735	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45457	6764	6768	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45457	6778	6782	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45457	6816	6827	má con cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45457	6832	6839	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45457	6909	6920	má con cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45458	6926	6930	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45458	6935	6939	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45458	6964	6971	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45459	7020	7023	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45459	7039	7043	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45460	7064	7066	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45460	7102	7105	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45461	7118	7120	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45461	7118	7120	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45461	7122	7125	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45461	7157	7159	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45462	7167	7169	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45463	7231	7233	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45463	7231	7233	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45463	7330	7332	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45463	7351	7353	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45465	7484	7486	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45466	7532	7538	nhà ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45467	7563	7565	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45467	7570	7576	nhà ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45468	7625	7631	nhà ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45468	7635	7638	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45469	7696	7698	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45470	7758	7761	con					1	0	0	1
+Texts	Vietnamese_film_2.txt	45470	7758	7761	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45471	7826	7828	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45471	7830	7832	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45473	7990	7994	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45473	7990	7994	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45474	8023	8029	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45475	8054	8062	chúng em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45475	8154	8162	chúng em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45475	8172	8176	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45476	8200	8202	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45476	8256	8258	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45477	8402	8404	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45479	8568	8570	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45480	8627	8631	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45480	8696	8702	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45481	8729	8733	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45481	8729	8733	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45481	8739	8743	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45481	8758	8762	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45482	8799	8803	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45482	8817	8823	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45482	8850	8854	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45483	8903	8907	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45483	8947	8951	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45483	8966	8970	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45483	8966	8970	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45484	9001	9005	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45485	9108	9110	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45485	9121	9125	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45486	9216	9218	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45487	9271	9275	Thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45487	9271	9275	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45488	9363	9365	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45488	9387	9389	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45489	9443	9445	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45490	9529	9533	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45492	9633	9635	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45492	9640	9644	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45493	9705	9709	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45493	9705	9709	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45494	9757	9761	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45495	9792	9796	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45495	9792	9796	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45495	9821	9825	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45496	9852	9856	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45496	9877	9879	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45496	9904	9908	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45497	9993	9997	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45499	10081	10085	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45499	10081	10085	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45500	10138	10142	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45502	10224	10228	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45503	10305	10309	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45503	10355	10359	thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45504	10395	10397	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45504	10452	10456	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45504	10458	10462	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45505	10506	10510	Việt					1	0	0	1
+Texts	Vietnamese_film_2.txt	45505	10506	10510	Việt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45505	10520	10522	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45505	10614	10616	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45506	10645	10647	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45506	10681	10683	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45507	10764	10766	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45507	10776	10780	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45508	10868	10876	Chúng em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45508	10898	10902	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45508	10898	10902	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45510	11051	11055	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45510	11066	11070	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45510	11066	11070	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45511	11093	11097	Thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45511	11105	11111	bọn em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45512	11153	11157	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45512	11181	11185	Việt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45512	11187	11191	Thầy					1	1	0	0
+Texts	Vietnamese_film_2.txt	45512	11205	11209	Việt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45513	11262	11268	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45514	11305	11308	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45515	11344	11352	thầy trò					1	1	0	0
+Texts	Vietnamese_film_2.txt	45516	11429	11435	mẹ con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45517	11499	11501	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45517	11499	11501	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45521	11742	11746	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45522	11768	11771	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45524	11906	11914	người ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45526	12071	12076	ba má					1	0	1	0
+Texts	Vietnamese_film_2.txt	45527	12149	12151	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45527	12156	12159	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45527	12173	12175	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45528	12238	12241	Anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	45528	12249	12251	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45529	12292	12302	con Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45529	12317	12322	Ba má					1	1	0	0
+Texts	Vietnamese_film_2.txt	45531	12434	12443	Thím Miên					1	0	0	1
+Texts	Vietnamese_film_2.txt	45531	12434	12443	Thím Miên					1	0	1	0
+Texts	Vietnamese_film_2.txt	45531	12448	12451	Đạt					1	0	0	1
+Texts	Vietnamese_film_2.txt	45531	12448	12451	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45532	12463	12470	Hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45535	12601	12605	thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45536	12705	12708	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45537	12810	12813	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	45539	12930	12934	Thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45540	12987	12994	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45540	13007	13009	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45541	13035	13039	Thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	45543	13201	13204	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45544	13262	13264	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45544	13266	13269	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45544	13274	13276	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45544	13280	13282	má					1	0	1	0
+Texts	Vietnamese_film_2.txt	45545	13334	13341	các bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45545	13343	13349	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45546	13413	13417	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45546	13413	13417	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45546	13481	13497	thầy Hiệu trưởng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45547	13513	13519	Bà con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45547	13529	13533	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45548	13594	13597	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45548	13605	13615	thầy Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45549	13643	13646	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45549	13683	13687	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45550	13804	13807	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45550	13812	13815	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	45551	13888	13892	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45552	14008	14012	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45552	14093	14101	các thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45553	14179	14182	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45553	14215	14225	thầy Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45554	14228	14231	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45554	14254	14263	thím Miên					1	0	1	0
+Texts	Vietnamese_film_2.txt	45555	14276	14279	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45559	14574	14576	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45566	15062	15065	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45566	15099	15103	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45567	15204	15208	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45568	15359	15363	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45569	15385	15388	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45569	15411	15414	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45569	15432	15436	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45570	15528	15532	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45570	15555	15558	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45571	15585	15588	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45573	15693	15707	anh Công an xã					1	0	0	1
+Texts	Vietnamese_film_2.txt	45573	15693	15707	anh Công an xã					1	0	1	0
+Texts	Vietnamese_film_2.txt	45574	15769	15776	bọn tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45575	15875	15881	bà con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45575	15883	15886	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45576	15910	15924	anh cán bộ trẻ					1	0	0	1
+Texts	Vietnamese_film_2.txt	45576	15910	15924	anh cán bộ trẻ					1	0	1	0
+Texts	Vietnamese_film_2.txt	45578	16099	16101	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45578	16110	16118	chị Miên					1	0	1	0
+Texts	Vietnamese_film_2.txt	45578	16128	16138	thầy Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45578	16147	16149	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45580	16220	16224	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45580	16220	16224	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45581	16376	16381	xã ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45583	16506	16511	xã ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45584	16595	16597	ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45586	16707	16717	thầy Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45586	16756	16760	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45587	16904	16907	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45588	16973	16976	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45588	17053	17056	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45588	17074	17077	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45589	17102	17105	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45589	17163	17166	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45592	17447	17451	thầy					1	0	0	1
+Texts	Vietnamese_film_2.txt	45592	17447	17451	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45592	17458	17464	bà con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45592	17491	17497	bọn em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45593	17567	17569	ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45594	17731	17733	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45594	17739	17743	thầy					1	0	1	0
+Texts	Vietnamese_film_2.txt	45594	17793	17800	các bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45594	17802	17808	các cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	45594	17836	17840	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45595	17893	17899	cán bộ					1	0	1	0
+Texts	Vietnamese_film_2.txt	45595	17912	17915	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45595	17956	17959	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45596	17982	17985	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45597	18096	18098	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45597	18096	18098	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45597	18100	18103	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45597	18105	18108	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45598	18138	18141	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45600	18301	18310	Chúng mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45602	18460	18463	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45603	18632	18638	đại ca					1	0	1	0
+Texts	Vietnamese_film_2.txt	45604	18713	18716	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45604	18747	18751	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45605	18796	18802	anh Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45605	18818	18821	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45606	18844	18847	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45606	18883	18886	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45607	18946	18952	anh Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45607	18961	18967	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45607	18969	18972	Anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	45607	18999	19007	bọn mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45608	19055	19059	Mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45608	19130	19136	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45608	19150	19156	anh Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45609	19170	19172	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45609	19202	19204	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45610	19246	19255	Thằng này					1	0	1	0
+Texts	Vietnamese_film_2.txt	45611	19320	19322	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45611	19373	19375	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45612	19418	19421	anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	45612	19426	19435	chúng mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45614	19604	19610	anh Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45614	19622	19628	các em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45616	19746	19752	Phương					1	0	0	1
+Texts	Vietnamese_film_2.txt	45616	19746	19752	Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45616	19754	19760	Phương					1	0	0	1
+Texts	Vietnamese_film_2.txt	45616	19754	19760	Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45617	19778	19781	Đạt					1	0	0	1
+Texts	Vietnamese_film_2.txt	45617	19778	19781	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45620	19885	19891	Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45621	19917	19920	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45621	19951	19955	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45621	19960	19964	Mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45623	20078	20086	người ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45625	20171	20180	Thằng Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45626	20203	20207	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45626	20213	20216	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45628	20259	20263	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45629	20295	20299	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45630	20357	20360	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45631	20397	20401	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45631	20421	20428	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45633	20574	20578	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45633	20588	20592	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45633	20610	20613	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45636	20739	20743	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45637	20831	20835	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45637	20892	20895	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45638	21023	21027	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45639	21062	21066	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45639	21084	21087	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45640	21143	21147	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45640	21202	21206	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45641	21239	21243	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45641	21257	21261	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45641	21279	21282	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45642	21333	21340	bọn bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45642	21377	21380	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45643	21443	21451	Các cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45645	21603	21607	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45646	21636	21640	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45646	21675	21679	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45648	21776	21780	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45649	21840	21843	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45649	21845	21848	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45650	21910	21914	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45651	21941	21944	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45652	21991	21999	các cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45652	22055	22059	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45653	22118	22122	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45653	22145	22149	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45653	22195	22199	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45654	22234	22237	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45658	22560	22562	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45658	22560	22562	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45658	22572	22575	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45658	22581	22583	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45658	22596	22598	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45660	22719	22721	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45660	22719	22721	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45662	22792	22794	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45662	22792	22794	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45662	22805	22807	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45663	22863	22865	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45664	22914	22916	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45664	22914	22916	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45665	22939	22942	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45665	22962	22965	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45668	23178	23181	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45669	23253	23256	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45669	23299	23302	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45670	23337	23340	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45670	23343	23345	Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45670	23364	23366	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45670	23370	23373	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45671	23405	23407	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45671	23405	23407	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45671	23409	23411	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45671	23448	23450	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45671	23486	23489	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45671	23498	23501	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45671	23571	23574	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45671	23582	23584	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45671	23591	23594	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45673	23682	23684	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45673	23707	23710	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45674	23769	23776	hai đứa					1	0	1	0
+Texts	Vietnamese_film_2.txt	45677	23922	23924	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45678	23984	23986	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45678	24016	24019	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45679	24038	24040	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45679	24038	24040	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45680	24049	24052	Thụ					1	0	0	1
+Texts	Vietnamese_film_2.txt	45680	24049	24052	Thụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	45680	24063	24065	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45680	24071	24074	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45681	24135	24138	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45682	24262	24264	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45682	24262	24264	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45683	24273	24276	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45683	24283	24285	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45683	24294	24296	Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45683	24326	24329	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45684	24389	24391	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45684	24422	24425	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45685	24460	24462	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45685	24479	24481	Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45685	24499	24502	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45686	24581	24583	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45686	24596	24599	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45686	24628	24631	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45688	24747	24750	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45689	24891	24893	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45690	24964	24967	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45691	24983	24986	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45693	25030	25032	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45693	25030	25032	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45693	25034	25037	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45693	25072	25074	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45694	25166	25169	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45695	25188	25191	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45695	25234	25236	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45695	25255	25258	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45697	25369	25371	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45699	25480	25482	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45700	25570	25573	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45701	25611	25613	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45701	25611	25613	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45701	25627	25630	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45703	25693	25695	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45703	25693	25695	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45703	25707	25709	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45703	25736	25739	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45704	25752	25755	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45704	25761	25763	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45705	25796	25798	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45705	25796	25798	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45705	25808	25819	ba con mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45705	25852	25855	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45706	25895	25898	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45706	25911	25913	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45706	25952	25954	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45708	26087	26089	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45710	26186	26189	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45710	26210	26212	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45711	26248	26251	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45712	26324	26326	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45712	26337	26347	má con con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45712	26361	26363	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45715	26506	26508	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45715	26506	26508	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45715	26558	26560	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45717	26702	26704	Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45717	26723	26725	Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45718	26754	26756	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45718	26821	26823	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45718	26821	26823	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45719	26826	26828	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45720	26928	26930	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45722	27076	27079	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45725	27328	27331	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45727	27397	27404	Cô Khuê					1	0	1	0
+Texts	Vietnamese_film_2.txt	45727	27415	27418	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45728	27483	27486	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45729	27527	27529	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45729	27539	27542	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45729	27568	27571	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45730	27630	27632	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45730	27630	27632	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45730	27634	27636	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45730	27645	27648	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45732	27724	27727	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45732	27751	27753	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45734	27833	27841	Bọn mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45735	27955	27961	Anh Tư					1	0	0	1
+Texts	Vietnamese_film_2.txt	45735	27955	27961	Anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	45735	27972	27980	chúng ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45736	28021	28024	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45736	28044	28047	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45736	28057	28060	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45738	28195	28198	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45739	28242	28248	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	45740	28338	28341	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45741	28386	28392	Anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	45741	28415	28418	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45741	28466	28469	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45742	28529	28532	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45747	28849	28852	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45748	28876	28879	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45749	28906	28915	Chúng mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45751	28980	28983	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45752	28996	28999	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45752	29001	29004	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45754	29105	29108	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45754	29110	29113	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45756	29215	29221	Anh Tư					1	0	0	1
+Texts	Vietnamese_film_2.txt	45756	29215	29221	Anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	45756	29270	29274	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45756	29279	29285	anh Tư					1	0	0	1
+Texts	Vietnamese_film_2.txt	45756	29279	29285	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	45760	29500	29504	Soạn					1	0	0	1
+Texts	Vietnamese_film_2.txt	45760	29500	29504	Soạn					1	0	1	0
+Texts	Vietnamese_film_2.txt	45760	29506	29509	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45760	29518	29522	Soạn					1	0	0	1
+Texts	Vietnamese_film_2.txt	45760	29518	29522	Soạn					1	0	1	0
+Texts	Vietnamese_film_2.txt	45763	29811	29814	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45763	29822	29825	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45763	29852	29855	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45765	29954	29957	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45767	30021	30024	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45771	30157	30161	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45772	30290	30292	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45772	30311	30314	anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	45772	30332	30335	Anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	45773	30403	30406	anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	45776	30517	30520	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45777	30574	30576	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	45778	30624	30627	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45780	30728	30734	Phương					1	0	0	1
+Texts	Vietnamese_film_2.txt	45780	30728	30734	Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45780	30736	30742	Phương					1	0	0	1
+Texts	Vietnamese_film_2.txt	45780	30736	30742	Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45783	30815	30824	Thằng Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45783	30844	30848	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45785	30909	30912	Đạt					1	0	0	1
+Texts	Vietnamese_film_2.txt	45785	30909	30912	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45786	30984	30993	Bác Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	45786	30984	30993	Bác Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45787	31055	31063	các cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45788	31104	31114	chúng cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45789	31196	31199	Đạt					1	0	0	1
+Texts	Vietnamese_film_2.txt	45789	31196	31199	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	45789	31201	31205	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45789	31217	31221	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45790	31254	31258	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45790	31285	31289	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45793	31441	31450	Bác Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	45793	31441	31450	Bác Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	45793	31452	31456	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45793	31462	31465	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45794	31500	31504	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45794	31510	31513	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45794	31566	31569	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45796	31627	31630	Bác					1	0	0	1
+Texts	Vietnamese_film_2.txt	45796	31627	31630	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45796	31632	31636	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45796	31641	31648	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45796	31653	31656	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	45796	31667	31671	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45796	31700	31704	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45796	31706	31713	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45797	31754	31758	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45797	31784	31788	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45797	31797	31804	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45797	31813	31817	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45800	31944	31963	Cựu chiến binh Phúc					1	0	1	0
+Texts	Vietnamese_film_2.txt	45801	32002	32026	Ông Chủ tịch Mặt trận xã					1	0	1	0
+Texts	Vietnamese_film_2.txt	45802	32092	32095	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45802	32106	32109	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45802	32119	32122	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45803	32190	32193	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45806	32460	32463	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45809	32678	32681	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45810	32759	32767	bác Vườn					1	0	1	0
+Texts	Vietnamese_film_2.txt	45810	32772	32774	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45811	32828	32831	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45812	32945	32948	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45813	33046	33049	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45813	33054	33067	đồng chí Phúc					1	0	1	0
+Texts	Vietnamese_film_2.txt	45814	33076	33079	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45814	33084	33086	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45814	33099	33101	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45815	33154	33159	xã ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	45815	33253	33256	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45816	33272	33275	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45816	33285	33287	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45816	33333	33335	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45817	33363	33366	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45817	33380	33383	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45818	33488	33491	bác					1	0	0	1
+Texts	Vietnamese_film_2.txt	45818	33488	33491	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45818	33493	33495	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45818	33528	33530	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45818	33564	33566	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45818	33570	33572	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45819	33585	33588	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45819	33599	33602	Chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45823	33758	33761	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45823	33783	33786	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45824	33806	33823	Chủ tịch Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	45826	33970	33977	ông nội					1	0	1	0
+Texts	Vietnamese_film_2.txt	45828	34096	34098	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45828	34108	34117	thầy lang					1	0	1	0
+Texts	Vietnamese_film_2.txt	45831	34262	34265	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45834	34474	34476	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45834	34474	34476	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45836	34667	34670	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45838	34831	34834	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45840	35013	35015	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45840	35013	35015	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45840	35020	35022	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45843	35105	35108	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45846	35237	35240	bác					1	0	0	1
+Texts	Vietnamese_film_2.txt	45846	35237	35240	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45847	35250	35254	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45847	35275	35278	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45849	35304	35308	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45850	35345	35349	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45852	35467	35471	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45857	35638	35641	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45857	35708	35712	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45858	35729	35732	Bác					1	0	0	1
+Texts	Vietnamese_film_2.txt	45858	35729	35732	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45858	35738	35741	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45858	35781	35784	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45861	35870	35873	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45861	35883	35887	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45862	35945	35949	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45863	35976	35980	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45864	36059	36063	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45865	36114	36118	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45866	36182	36186	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45866	36215	36218	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45867	36233	36237	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45868	36330	36334	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45869	36360	36364	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45870	36386	36390	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45870	36408	36411	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45871	36487	36491	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45871	36493	36497	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45872	36516	36520	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45873	36563	36566	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45874	36612	36615	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	45875	36658	36661	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45875	36674	36678	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45875	36693	36697	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45876	36731	36735	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45876	36737	36740	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45877	36832	36836	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45880	36938	36942	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45880	36970	36974	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45881	37020	37024	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45882	37048	37052	cháu					1	0	0	1
+Texts	Vietnamese_film_2.txt	45882	37048	37052	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45882	37057	37061	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45883	37116	37119	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45883	37134	37138	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45883	37150	37154	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45884	37244	37248	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45887	37430	37434	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45888	37466	37470	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45890	37620	37624	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45899	37914	37918	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45901	38084	38087	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45902	38209	38212	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45906	38559	38561	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45906	38559	38561	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45907	38567	38570	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45907	38585	38587	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45907	38615	38619	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45907	38643	38645	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45908	38680	38683	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45909	38839	38843	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	45910	38887	38890	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45911	38963	38965	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45911	38963	38965	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45912	38974	38977	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45912	39050	39053	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45912	39068	39071	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45913	39116	39118	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45913	39116	39118	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45914	39193	39196	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45915	39222	39226	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45915	39232	39240	bác Vườn					1	0	1	0
+Texts	Vietnamese_film_2.txt	45915	39246	39268	hai ông Cựu chiến binh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45916	39306	39309	Con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45916	39353	39355	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45917	39382	39385	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45918	39398	39413	Cán bộ Mặt trận					1	1	0	0
+Texts	Vietnamese_film_2.txt	45920	39564	39568	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45921	39581	39585	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45923	39650	39659	thầy lang					1	0	1	0
+Texts	Vietnamese_film_2.txt	45923	39674	39678	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45924	39767	39771	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45924	39805	39809	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45924	39847	39851	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	45925	39936	39938	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45926	39979	39994	cán bộ Mặt trận					1	1	0	0
+Texts	Vietnamese_film_2.txt	45926	40014	40017	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45927	40057	40060	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45927	40068	40076	đồng chí					1	0	1	0
+Texts	Vietnamese_film_2.txt	45927	40129	40137	đồng chí					1	0	1	0
+Texts	Vietnamese_film_2.txt	45927	40159	40167	đồng chí					1	0	1	0
+Texts	Vietnamese_film_2.txt	45928	40189	40192	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45928	40204	40212	đồng chí					1	0	1	0
+Texts	Vietnamese_film_2.txt	45929	40269	40272	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45930	40372	40384	cán bộ huyện					1	0	1	0
+Texts	Vietnamese_film_2.txt	45930	40415	40426	Mặt trận xã					1	1	0	0
+Texts	Vietnamese_film_2.txt	45932	40507	40510	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	45933	40518	40521	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45935	40766	40769	Anh					1	0	0	1
+Texts	Vietnamese_film_2.txt	45935	40766	40769	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45936	40819	40825	Phương					1	0	0	1
+Texts	Vietnamese_film_2.txt	45936	40819	40825	Phương					1	0	1	0
+Texts	Vietnamese_film_2.txt	45936	40839	40842	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45937	40916	40920	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45937	40947	40951	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	45937	40956	40963	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45940	41133	41137	Mình					1	0	1	0
+Texts	Vietnamese_film_2.txt	45941	41289	41292	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45945	41544	41546	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45945	41584	41586	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	45945	41584	41586	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45945	41588	41590	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45946	41612	41614	Ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45946	41616	41618	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45947	41650	41652	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45948	41689	41692	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45948	41699	41702	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45948	41713	41716	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	45949	41782	41785	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45949	41798	41800	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45951	41915	41917	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45951	41959	41962	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45952	42026	42029	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45952	42045	42048	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45953	42106	42117	Cái con này					1	0	1	0
+Texts	Vietnamese_film_2.txt	45954	42132	42135	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	45954	42175	42177	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	45958	42407	42410	bác					1	0	0	1
+Texts	Vietnamese_film_2.txt	45958	42407	42410	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45959	42419	42422	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45960	42441	42444	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45962	42559	42566	ông già					1	0	1	0
+Texts	Vietnamese_film_2.txt	45962	42568	42571	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45962	42583	42586	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45963	42607	42610	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45963	42627	42630	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45964	42647	42650	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45965	42677	42680	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45965	42685	42688	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45965	42720	42723	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45966	42740	42743	tui					1	0	1	0
+Texts	Vietnamese_film_2.txt	45966	42778	42781	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45966	42787	42794	ông già					1	0	1	0
+Texts	Vietnamese_film_2.txt	45967	42836	42839	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45967	42871	42874	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45968	42905	42908	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45968	42918	42921	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45968	42961	42964	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45970	43024	43027	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45971	43108	43111	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45971	43151	43154	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45972	43203	43206	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45972	43208	43211	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45972	43225	43228	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45973	43237	43240	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45973	43248	43251	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45973	43279	43282	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45973	43291	43294	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45975	43365	43368	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45975	43378	43381	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45975	43391	43394	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45975	43416	43419	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45976	43478	43481	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45976	43505	43508	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45977	43577	43580	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45978	43643	43646	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45979	43687	43690	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	45979	43715	43718	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45980	43726	43729	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45981	43795	43798	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	45981	43836	43839	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45982	43870	43873	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45983	43972	43975	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	45985	44080	44089	Thằng Thụ					1	0	0	1
+Texts	Vietnamese_film_2.txt	45985	44080	44089	Thằng Thụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	45985	44091	44094	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	45985	44125	44127	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	45985	44133	44136	con					1	0	0	1
+Texts	Vietnamese_film_2.txt	45985	44133	44136	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	45987	44282	44284	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45988	44354	44356	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	45989	44377	44379	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45989	44415	44417	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45989	44447	44459	bác Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	45990	44466	44469	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	45990	44489	44491	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45990	44503	44505	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45990	44509	44511	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45991	44567	44573	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	45991	44625	44627	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	45992	44639	44642	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	45992	44654	44660	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	45993	44747	44759	Bác Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	45993	44784	44786	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45993	44804	44806	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45994	44880	44881	c					1	0	1	0
+Texts	Vietnamese_film_2.txt	45995	44943	44945	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	45998	45170	45172	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	45999	45193	45195	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	45999	45206	45208	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46000	45260	45262	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46000	45284	45286	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46000	45305	45307	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46000	45334	45336	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46002	45425	45427	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46002	45539	45541	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46002	45554	45556	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46003	45596	45604	bác Vườn					1	0	1	0
+Texts	Vietnamese_film_2.txt	46003	45625	45628	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46004	45665	45668	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46009	45978	45981	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46010	46001	46004	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46011	46091	46094	Bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46013	46281	46284	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46017	46488	46494	Tư Sỏi					1	0	0	1
+Texts	Vietnamese_film_2.txt	46017	46488	46494	Tư Sỏi					1	0	1	0
+Texts	Vietnamese_film_2.txt	46017	46504	46510	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46018	46531	46541	Thằng Soạn					1	0	1	0
+Texts	Vietnamese_film_2.txt	46018	46584	46587	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46023	46783	46789	Anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46024	46818	46821	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46024	46828	46831	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46025	46850	46856	Anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46025	46882	46885	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46028	47016	47019	Cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46028	47071	47075	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46029	47113	47119	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46030	47245	47248	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46030	47298	47301	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46030	47306	47309	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46031	47312	47315	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46031	47339	47342	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46032	47408	47414	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46033	47517	47520	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46034	47560	47563	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46034	47626	47629	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46034	47679	47682	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46036	47738	47741	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46039	47874	47877	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46040	47974	47977	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46042	48043	48046	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46044	48139	48142	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46046	48292	48295	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46048	48354	48357	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46048	48367	48370	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46049	48453	48460	ông nội					1	0	1	0
+Texts	Vietnamese_film_2.txt	46050	48496	48499	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46051	48564	48567	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46053	48734	48743	Cái thằng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46054	48775	48781	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46056	48860	48863	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46056	48905	48908	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46057	48928	48937	Cái thằng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46057	48939	48942	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46057	48948	48951	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46057	48964	48967	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46057	48991	48994	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46057	49021	49031	chúng mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46058	49055	49058	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46058	49069	49072	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46058	49076	49079	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46059	49114	49117	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46059	49126	49132	anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46060	49147	49150	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46060	49165	49168	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46060	49183	49186	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46061	49251	49254	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46062	49296	49299	anh					1	0	0	1
+Texts	Vietnamese_film_2.txt	46062	49296	49299	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46065	49462	49468	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46065	49495	49498	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46065	49525	49527	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46065	49544	49547	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46065	49566	49568	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46066	49580	49583	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46066	49597	49600	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46066	49613	49616	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46066	49693	49696	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46067	49721	49724	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46067	49734	49737	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46067	49765	49769	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46068	49843	49846	bác					1	0	0	1
+Texts	Vietnamese_film_2.txt	46068	49843	49846	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46068	49850	49852	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46070	49994	49997	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46071	50117	50119	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46072	50185	50188	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46072	50203	50205	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46072	50237	50239	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46073	50290	50293	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46073	50308	50311	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46073	50343	50345	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46075	50403	50405	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46076	50494	50497	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46076	50499	50501	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46076	50530	50534	mình					1	0	1	0
+Texts	Vietnamese_film_2.txt	46077	50568	50571	bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46077	50577	50580	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46080	50754	50757	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46080	50778	50793	Cán bộ Mặt trận					1	1	0	0
+Texts	Vietnamese_film_2.txt	46081	50830	50841	Năm béo tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46082	50867	50875	Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	46082	50881	50884	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46082	50901	50909	Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	46082	50951	50966	con Năm béo này					1	1	0	0
+Texts	Vietnamese_film_2.txt	46084	51080	51083	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46086	51238	51240	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46086	51275	51277	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46087	51315	51318	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46088	51406	51409	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46089	51501	51504	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46091	51610	51613	Cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46099	52027	52030	Sếp					1	0	1	0
+Texts	Vietnamese_film_2.txt	46099	52044	52046	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46102	52278	52284	Anh Tư					1	0	1	0
+Texts	Vietnamese_film_2.txt	46103	52347	52350	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46105	52447	52450	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46106	52486	52489	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46106	52494	52501	ông Thế					1	0	1	0
+Texts	Vietnamese_film_2.txt	46107	52532	52535	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46109	52741	52744	cha					1	0	1	0
+Texts	Vietnamese_film_2.txt	46110	52823	52826	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46110	52831	52834	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46110	52899	52902	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46110	52919	52922	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46113	53077	53086	quý khách					1	0	1	0
+Texts	Vietnamese_film_2.txt	46114	53099	53111	chị chủ quán					1	0	1	0
+Texts	Vietnamese_film_2.txt	46116	53198	53201	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46123	53633	53644	Cái anh này					1	0	1	0
+Texts	Vietnamese_film_2.txt	46123	53670	53673	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46124	53737	53743	Bà chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46124	53752	53755	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46126	53853	53856	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46126	53885	53888	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46128	53985	53988	sếp					1	0	1	0
+Texts	Vietnamese_film_2.txt	46129	54002	54005	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46130	54041	54044	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46133	54196	54203	đại gia					1	0	1	0
+Texts	Vietnamese_film_2.txt	46133	54209	54216	đại gia					1	0	1	0
+Texts	Vietnamese_film_2.txt	46133	54226	54229	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46134	54244	54247	Cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46141	54566	54569	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46141	54580	54584	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46141	54628	54632	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46142	54718	54721	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46143	54752	54755	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46144	54814	54817	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46147	54926	54929	chú					1	0	0	1
+Texts	Vietnamese_film_2.txt	46147	54926	54929	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46147	54941	54945	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46147	55011	55014	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46148	55041	55044	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46149	55092	55095	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46150	55238	55241	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46151	55276	55279	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46152	55371	55374	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46153	55427	55434	đại gia					1	0	1	0
+Texts	Vietnamese_film_2.txt	46154	55475	55478	Cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46155	55509	55512	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46155	55534	55537	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46156	55625	55628	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46156	55633	55636	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46157	55643	55649	bà chủ					1	0	0	1
+Texts	Vietnamese_film_2.txt	46157	55643	55649	bà chủ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46157	55681	55684	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46158	55735	55738	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46158	55743	55746	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46160	55850	55853	Chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46160	55890	55893	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46163	56059	56062	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46163	56068	56071	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46164	56130	56133	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46165	56192	56195	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46166	56239	56242	Chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46169	56410	56413	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46169	56455	56458	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46169	56471	56474	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46170	56495	56499	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46171	56517	56520	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46171	56608	56611	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46171	56616	56619	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46172	56655	56658	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46173	56683	56687	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46175	56735	56739	Khuê					1	0	0	1
+Texts	Vietnamese_film_2.txt	46175	56735	56739	Khuê					1	0	1	0
+Texts	Vietnamese_film_2.txt	46176	56772	56780	Anh Thái					1	0	1	0
+Texts	Vietnamese_film_2.txt	46176	56791	56794	Chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46176	56799	56801	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46177	56822	56824	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46178	56869	56872	anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46178	56888	56890	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46179	56941	56944	Anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46179	56995	56999	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46180	57031	57034	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46181	57140	57143	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46182	57228	57234	quý cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46183	57252	57256	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46183	57262	57265	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46183	57273	57277	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46184	57408	57416	bọn cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46185	57469	57472	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46185	57490	57492	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46186	57521	57524	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46186	57552	57555	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46186	57578	57580	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46186	57585	57593	cậu Thái					1	0	1	0
+Texts	Vietnamese_film_2.txt	46187	57615	57623	Chúng ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	46188	57677	57680	Chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46189	57714	57724	cái bố này					1	0	1	0
+Texts	Vietnamese_film_2.txt	46189	57776	57778	ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	46191	57833	57835	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46195	58033	58036	chú					1	0	0	1
+Texts	Vietnamese_film_2.txt	46195	58033	58036	chú					1	0	1	0
+Texts	Vietnamese_film_2.txt	46198	58230	58233	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46198	58265	58269	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46198	58274	58278	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46198	58323	58325	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46198	58343	58345	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46201	58516	58519	con					1	0	0	1
+Texts	Vietnamese_film_2.txt	46201	58516	58519	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46202	58563	58565	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46203	58601	58603	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	46203	58630	58633	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46203	58657	58659	ba					1	1	0	0
+Texts	Vietnamese_film_2.txt	46204	58696	58698	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46204	58736	58739	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46204	58756	58758	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46205	58781	58783	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46205	58806	58809	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46206	58878	58881	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46206	58886	58888	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46208	58939	58941	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46208	58939	58941	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46208	58947	58949	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46208	58976	58978	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46208	58976	58978	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46210	59066	59068	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46210	59066	59068	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46212	59208	59211	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46215	59393	59395	mụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46215	59412	59414	Mụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46217	59491	59494	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46217	59530	59533	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46218	59553	59556	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46219	59669	59672	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46220	59705	59708	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46220	59739	59742	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46221	59884	59887	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46221	59892	59895	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46223	60025	60028	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46223	60050	60053	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46223	60126	60129	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46223	60191	60194	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46223	60224	60228	mình					1	0	1	0
+Texts	Vietnamese_film_2.txt	46224	60275	60278	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46224	60311	60314	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46225	60389	60392	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46225	60401	60403	mụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46225	60457	60460	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46225	60477	60480	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46225	60521	60524	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46226	60584	60586	mụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46226	60615	60618	tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46226	60626	60628	mụ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46228	60707	60710	Tài					1	0	0	1
+Texts	Vietnamese_film_2.txt	46228	60707	60710	Tài					1	0	1	0
+Texts	Vietnamese_film_2.txt	46228	60715	60718	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46228	60741	60743	má					1	1	0	0
+Texts	Vietnamese_film_2.txt	46228	60747	60750	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46232	60991	60993	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46236	61302	61306	mình					1	0	1	0
+Texts	Vietnamese_film_2.txt	46237	61327	61329	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46237	61331	61333	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46238	61354	61356	Em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46239	61467	61469	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46239	61488	61491	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46242	61646	61648	Em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46242	61717	61719	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46242	61728	61731	anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46243	61833	61835	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46245	61908	61911	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46246	62030	62032	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46248	62081	62083	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46248	62081	62083	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46248	62097	62099	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46249	62141	62144	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	46249	62179	62186	hai bác					1	0	1	0
+Texts	Vietnamese_film_2.txt	46251	62212	62214	Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46251	62212	62214	Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46251	62219	62222	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46253	62332	62335	Đạt					1	0	0	1
+Texts	Vietnamese_film_2.txt	46253	62332	62335	Đạt					1	0	1	0
+Texts	Vietnamese_film_2.txt	46253	62337	62340	bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	46253	62355	62359	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46254	62399	62403	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46254	62442	62446	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46255	62483	62485	ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46255	62483	62485	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46256	62522	62526	cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46258	62617	62620	anh					1	0	0	1
+Texts	Vietnamese_film_2.txt	46258	62617	62620	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46258	62622	62625	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46259	62644	62647	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46260	62705	62708	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46261	62736	62739	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46262	62752	62755	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46263	62767	62781	Đồng chí Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46263	62767	62781	Đồng chí Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46263	62783	62792	Anh Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46263	62783	62792	Anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46263	62812	62814	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46264	62831	62835	Phúc					1	0	1	0
+Texts	Vietnamese_film_2.txt	46264	62837	62841	Phúc					1	0	1	0
+Texts	Vietnamese_film_2.txt	46265	62867	62869	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46266	62913	62916	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46266	62918	62921	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46267	62939	62941	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46267	62966	62969	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46267	62974	62983	Anh Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46267	62974	62983	Anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46268	62995	63009	Đồng chí Hoàng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46268	62995	63009	Đồng chí Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46271	63214	63220	Cô Năm					1	0	0	1
+Texts	Vietnamese_film_2.txt	46271	63214	63220	Cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46271	63225	63231	Cô Năm					1	0	0	1
+Texts	Vietnamese_film_2.txt	46271	63225	63231	Cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46271	63233	63235	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46271	63248	63251	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46273	63338	63340	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46273	63370	63373	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46274	63392	63395	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46274	63405	63408	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46274	63417	63420	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46276	63577	63580	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46276	63589	63592	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46277	63677	63683	Cô Năm					1	0	0	1
+Texts	Vietnamese_film_2.txt	46277	63677	63683	Cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46277	63696	63699	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46277	63721	63724	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46277	63738	63740	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46278	63764	63767	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46279	63833	63836	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46280	63949	63952	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46280	63965	63968	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46281	63997	64003	cô Năm					1	0	0	1
+Texts	Vietnamese_film_2.txt	46281	63997	64003	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46282	64015	64024	Mấy người					1	0	1	0
+Texts	Vietnamese_film_2.txt	46282	64046	64055	mấy người					1	0	1	0
+Texts	Vietnamese_film_2.txt	46282	64079	64082	tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46283	64094	64097	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46283	64117	64126	mấy người					1	0	1	0
+Texts	Vietnamese_film_2.txt	46283	64128	64131	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46283	64178	64187	mấy người					1	0	1	0
+Texts	Vietnamese_film_2.txt	46284	64210	64213	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46285	64303	64309	Cô Năm					1	0	0	1
+Texts	Vietnamese_film_2.txt	46285	64303	64309	Cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46285	64311	64313	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46285	64319	64322	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46285	64388	64390	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46285	64396	64399	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46286	64501	64503	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46286	64539	64541	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46288	64590	64593	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46288	64614	64617	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46289	64665	64668	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46289	64689	64691	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46290	64818	64824	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46290	64919	64922	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46291	64941	64953	ông Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	46291	64962	64965	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46294	65098	65101	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46294	65117	65119	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46294	65176	65179	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46294	65201	65203	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46295	65240	65243	Tui					1	1	0	0
+Texts	Vietnamese_film_2.txt	46295	65313	65316	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46296	65351	65354	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46296	65369	65371	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46297	65444	65450	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46297	65473	65475	Cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46302	65904	65912	bác Vườn					1	0	0	1
+Texts	Vietnamese_film_2.txt	46302	65904	65912	bác Vườn					1	0	1	0
+Texts	Vietnamese_film_2.txt	46303	66009	66015	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46305	66077	66083	cô Năm					1	0	1	0
+Texts	Vietnamese_film_2.txt	46305	66090	66092	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46306	66159	66171	bác Mặt trận					1	0	1	0
+Texts	Vietnamese_film_2.txt	46308	66293	66304	anh em mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46309	66325	66328	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46309	66334	66349	Tiểu đội trưởng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46309	66360	66363	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46309	66369	66377	các cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46309	66414	66421	anh chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46311	66550	66553	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46311	66559	66567	các cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46311	66569	66572	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46312	66595	66610	Tiểu đội trưởng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46312	66595	66610	Tiểu đội trưởng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46312	66617	66620	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46312	66636	66639	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46312	66695	66704	anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46313	66763	66766	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46313	66797	66801	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46313	66813	66816	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46313	66896	66899	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46314	66909	66913	Mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46314	66957	66961	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46314	67031	67035	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46315	67084	67088	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46315	67107	67110	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46316	67195	67198	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46318	67404	67407	chị					1	0	0	1
+Texts	Vietnamese_film_2.txt	46318	67404	67407	chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46319	67415	67430	tiểu đội trưởng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46319	67415	67430	tiểu đội trưởng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46319	67440	67443	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46319	67457	67460	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46319	67526	67529	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46320	67567	67570	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46321	67623	67627	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46322	67689	67692	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46323	67717	67721	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46324	67834	67837	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46325	67924	67928	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46327	68011	68015	Phúc					1	0	1	0
+Texts	Vietnamese_film_2.txt	46328	68053	68068	Tiểu đội trưởng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46328	68053	68068	Tiểu đội trưởng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46330	68140	68146	Chú Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46330	68140	68146	Chú Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46330	68151	68157	Chú Ba					1	0	0	1
+Texts	Vietnamese_film_2.txt	46330	68151	68157	Chú Ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46332	68197	68201	Thím					1	0	0	1
+Texts	Vietnamese_film_2.txt	46332	68197	68201	Thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	46333	68261	68265	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46334	68302	68306	Thím					1	0	0	1
+Texts	Vietnamese_film_2.txt	46334	68302	68306	Thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	46334	68314	68318	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46336	68459	68463	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46336	68469	68473	thím					1	0	1	0
+Texts	Vietnamese_film_2.txt	46338	68575	68579	Cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46338	68585	68592	ông Tám					1	0	1	0
+Texts	Vietnamese_film_2.txt	46339	68633	68636	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46340	68645	68648	Ông					1	0	0	1
+Texts	Vietnamese_film_2.txt	46340	68645	68648	Ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46340	68670	68673	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46340	68685	68689	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46341	68723	68726	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46342	68816	68820	cháu					1	1	0	0
+Texts	Vietnamese_film_2.txt	46342	68826	68829	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46343	68845	68852	con nhỏ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46346	69080	69083	ông					1	0	1	0
+Texts	Vietnamese_film_2.txt	46348	69309	69312	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46348	69314	69324	Anh em tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46350	69373	69376	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46354	69624	69633	Anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46356	69714	69717	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46357	69923	69932	Anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46358	70062	70066	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46359	70233	70248	anh em chúng ta					1	1	0	0
+Texts	Vietnamese_film_2.txt	46363	70415	70419	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46363	70421	70425	Cháu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46364	70455	70458	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46364	70460	70463	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46366	70508	70511	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46367	70527	70536	Cái thằng					1	0	0	1
+Texts	Vietnamese_film_2.txt	46367	70527	70536	Cái thằng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46367	70538	70541	Bác					1	1	0	0
+Texts	Vietnamese_film_2.txt	46372	70745	70747	Má					1	0	1	0
+Texts	Vietnamese_film_2.txt	46372	70749	70752	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46373	70796	70799	Mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46373	70808	70811	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46374	70856	70859	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46374	70890	70899	Anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46379	71111	71120	Anh Hoàng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46381	71339	71350	anh em mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46383	71479	71482	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46384	71630	71634	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46385	71707	71710	anh					1	0	0	1
+Texts	Vietnamese_film_2.txt	46385	71707	71710	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46390	72145	72147	Má					1	0	0	1
+Texts	Vietnamese_film_2.txt	46390	72145	72147	Má					1	0	1	0
+Texts	Vietnamese_film_2.txt	46392	72193	72195	ba					1	0	1	0
+Texts	Vietnamese_film_2.txt	46394	72223	72226	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46395	72326	72328	má					1	0	0	1
+Texts	Vietnamese_film_2.txt	46395	72326	72328	má					1	0	1	0
+Texts	Vietnamese_film_2.txt	46397	72427	72430	Con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46398	72491	72494	con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46399	72532	72535	con					1	1	0	0
+Texts	Vietnamese_film_2.txt	46402	72693	72696	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46403	72776	72779	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46403	72789	72793	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46404	72855	72858	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46406	72979	72983	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46409	73100	73103	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46413	73300	73303	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46415	73453	73456	Cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46415	73476	73480	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46415	73509	73512	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46416	73607	73610	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46418	73704	73708	Mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46423	74072	74076	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46424	74093	74096	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46424	74107	74110	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46425	74141	74144	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46425	74158	74162	mình					1	1	0	0
+Texts	Vietnamese_film_2.txt	46426	74192	74195	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46426	74215	74218	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46427	74254	74257	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46427	74288	74290	tớ					1	1	0	0
+Texts	Vietnamese_film_2.txt	46427	74301	74304	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46429	74501	74516	Tiểu đội trưởng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46429	74521	74524	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46429	74536	74539	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46430	74555	74558	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46430	74575	74578	anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46430	74592	74599	Các cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46436	75112	75124	bác sĩ Phùng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46436	75126	75129	Anh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46436	75155	75157	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46437	75182	75186	Lanh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46437	75188	75191	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46439	75266	75269	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46440	75299	75305	bác sĩ					1	0	1	0
+Texts	Vietnamese_film_2.txt	46440	75356	75365	anh Phùng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46441	75404	75407	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46441	75459	75462	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46441	75482	75491	y sĩ Lanh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46442	75524	75536	bác sĩ Phùng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46442	75538	75540	Em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46444	75662	75664	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46446	75764	75767	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46446	75838	75842	Lanh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46448	75948	75951	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46448	75955	75959	Lanh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46448	75978	75982	mình					1	0	1	0
+Texts	Vietnamese_film_2.txt	46449	76068	76080	bác sĩ Phùng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46450	76168	76172	Lanh					1	0	1	0
+Texts	Vietnamese_film_2.txt	46450	76184	76188	mình					1	0	1	0
+Texts	Vietnamese_film_2.txt	46451	76240	76244	Lanh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46451	76300	76304	Lanh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46452	76368	76370	cô					1	0	1	0
+Texts	Vietnamese_film_2.txt	46453	76413	76417	Lanh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46454	76476	76479	anh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46455	76509	76521	Bác sĩ Phùng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46455	76566	76570	Lanh					1	1	0	0
+Texts	Vietnamese_film_2.txt	46456	76605	76608	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46456	76630	76633	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46457	76660	76672	Bác sĩ Phùng					1	0	1	0
+Texts	Vietnamese_film_2.txt	46461	76929	76940	đám oắt con					1	0	1	0
+Texts	Vietnamese_film_2.txt	46462	76974	76984	cái bà này					1	0	0	1
+Texts	Vietnamese_film_2.txt	46462	76974	76984	cái bà này					1	0	1	0
+Texts	Vietnamese_film_2.txt	46462	76986	76988	bà					1	0	1	0
+Texts	Vietnamese_film_2.txt	46462	77001	77004	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46463	77036	77042	chú em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46464	77095	77104	Chúng mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46464	77127	77143	đại ca chúng mày					1	1	0	0
+Texts	Vietnamese_film_2.txt	46469	77309	77315	bà chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46470	77327	77330	tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46472	77413	77415	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46473	77450	77453	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46474	77504	77510	đại ca					1	0	1	0
+Texts	Vietnamese_film_2.txt	46474	77521	77523	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46474	77544	77546	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46475	77598	77604	bà chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46476	77628	77635	cậu kia					1	0	0	1
+Texts	Vietnamese_film_2.txt	46476	77628	77635	cậu kia					1	0	1	0
+Texts	Vietnamese_film_2.txt	46477	77643	77646	Chị					1	0	1	0
+Texts	Vietnamese_film_2.txt	46477	77651	77653	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46479	77757	77759	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46479	77785	77791	đại ca					1	0	1	0
+Texts	Vietnamese_film_2.txt	46480	77878	77881	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46481	77914	77917	cậu					1	0	1	0
+Texts	Vietnamese_film_2.txt	46482	77959	77962	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46482	77979	77989	Cái bà này					1	0	1	0
+Texts	Vietnamese_film_2.txt	46484	78069	78072	Tôi					1	1	0	0
+Texts	Vietnamese_film_2.txt	46485	78127	78140	các thượng đế					1	0	1	0
+Texts	Vietnamese_film_2.txt	46490	78424	78427	chị					1	1	0	0
+Texts	Vietnamese_film_2.txt	46492	78533	78535	em					1	0	0	1
+Texts	Vietnamese_film_2.txt	46492	78533	78535	em					1	0	1	0
+Texts	Vietnamese_film_2.txt	46502	78966	78969	mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46502	78976	78979	Tao					1	1	0	0
+Texts	Vietnamese_film_2.txt	46503	79050	79053	chị					1	1	0	0
+Texts	Vietnamese_film_2.txt	46505	79217	79220	chị					1	1	0	0
+Texts	Vietnamese_film_2.txt	46512	79552	79561	Chúng mày					1	0	1	0
+Texts	Vietnamese_film_2.txt	46513	79591	79598	Chị Hai					1	0	0	1
+Texts	Vietnamese_film_2.txt	46513	79591	79598	Chị Hai					1	0	1	0
+Texts	Vietnamese_film_2.txt	46513	79600	79608	Chúng em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46513	79616	79623	chị Hai					1	0	1	0
+Texts	Vietnamese_film_2.txt	46514	79647	79654	chị Hai					1	0	1	0
+Texts	Vietnamese_film_2.txt	46514	79656	79658	em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46515	79694	79700	bọn em					1	1	0	0
+Texts	Vietnamese_film_2.txt	46515	79720	79727	chị Hai					1	0	1	0
+Texts	Vietnamese_film_2.txt	46516	79775	79782	chị Hai					1	0	1	0
+Texts	Vietnamese_film_2.txt	46516	79798	79805	tụi này					1	1	0	0
+Texts	Vietnamese_film_2.txt	46517	79831	79838	chị Hai					1	0	1	0

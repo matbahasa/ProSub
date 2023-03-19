@@ -1,0 +1,1576 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	Vietnamese_film.txt	40312	83	86	Con					1	0	1	0
+Texts	Vietnamese_film.txt	40313	129	133	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40313	161	165	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40314	264	267	chú					1	1	0	0
+Texts	Vietnamese_film.txt	40314	276	279	con					1	0	1	0
+Texts	Vietnamese_film.txt	40314	288	291	Con					1	0	1	0
+Texts	Vietnamese_film.txt	40314	301	304	con					1	0	1	0
+Texts	Vietnamese_film.txt	40314	330	333	con					1	0	1	0
+Texts	Vietnamese_film.txt	40317	653	660	Ông anh					1	0	1	0
+Texts	Vietnamese_film.txt	40317	671	673	em					1	1	0	0
+Texts	Vietnamese_film.txt	40320	892	895	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40321	938	941	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40321	959	962	ông					1	0	1	0
+Texts	Vietnamese_film.txt	40321	968	971	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	40321	991	994	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40322	1008	1011	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40323	1168	1171	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40324	1222	1231	chúng mày					1	0	1	0
+Texts	Vietnamese_film.txt	40324	1261	1264	ông					1	1	0	0
+Texts	Vietnamese_film.txt	40324	1270	1276	Bà con					1	0	0	1
+Texts	Vietnamese_film.txt	40324	1270	1276	Bà con					1	0	1	0
+Texts	Vietnamese_film.txt	40326	1529	1536	Anh kia					1	0	0	1
+Texts	Vietnamese_film.txt	40326	1529	1536	Anh kia					1	0	1	0
+Texts	Vietnamese_film.txt	40326	1538	1541	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40326	1556	1559	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40326	1572	1575	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40326	1596	1599	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40326	1613	1616	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40326	1628	1631	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40328	1859	1862	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40330	2011	2014	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40330	2016	2025	làng nước					1	0	0	1
+Texts	Vietnamese_film.txt	40330	2016	2025	làng nước					1	0	1	0
+Texts	Vietnamese_film.txt	40332	2139	2141	Em					1	1	0	0
+Texts	Vietnamese_film.txt	40332	2146	2149	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40332	2151	2153	em					1	1	0	0
+Texts	Vietnamese_film.txt	40332	2158	2161	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40332	2163	2165	em					1	1	0	0
+Texts	Vietnamese_film.txt	40333	2208	2211	Anh					1	0	0	1
+Texts	Vietnamese_film.txt	40333	2208	2211	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40333	2216	2219	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40333	2228	2230	em					1	1	0	0
+Texts	Vietnamese_film.txt	40338	2630	2633	mày					1	0	0	1
+Texts	Vietnamese_film.txt	40338	2630	2633	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40338	2638	2641	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40340	2754	2757	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40341	2815	2818	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40342	2865	2868	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40343	2967	2970	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40343	3032	3035	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40344	3074	3077	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40345	3139	3142	mày					1	0	0	1
+Texts	Vietnamese_film.txt	40345	3139	3142	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40346	3178	3181	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40347	3226	3229	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40348	3306	3315	thằng này					1	1	0	0
+Texts	Vietnamese_film.txt	40348	3317	3320	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40348	3465	3468	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40349	3523	3526	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40350	3548	3551	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40350	3574	3577	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40350	3579	3582	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40350	3596	3599	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40351	3617	3620	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40351	3664	3667	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40351	3682	3685	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40351	3695	3698	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40352	3779	3782	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40352	3855	3858	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40352	3867	3870	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40353	3926	3929	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40355	4106	4109	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40355	4121	4124	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40355	4135	4138	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40355	4158	4161	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40356	4246	4249	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40356	4254	4257	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40356	4312	4316	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40357	4400	4403	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40357	4441	4444	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40362	4770	4773	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40363	4878	4881	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40363	4918	4921	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40363	4958	4961	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40364	5165	5169	Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40364	5165	5169	Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40364	5171	5175	Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40364	5171	5175	Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40368	5445	5448	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40368	5463	5467	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40371	5710	5713	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40373	5823	5826	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40373	5858	5861	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40375	6020	6024	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40376	6144	6146	Ất					1	0	0	1
+Texts	Vietnamese_film.txt	40376	6144	6146	Ất					1	0	1	0
+Texts	Vietnamese_film.txt	40376	6148	6151	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40377	6197	6200	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40378	6230	6233	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40380	6391	6394	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40380	6409	6412	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40381	6425	6428	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40381	6451	6454	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40381	6463	6466	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40381	6474	6477	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40382	6508	6511	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40384	6721	6724	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40385	6774	6777	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40385	6798	6801	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40386	6875	6878	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40387	6982	6985	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40388	7038	7041	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40388	7061	7064	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40388	7066	7069	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40389	7101	7104	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40392	7270	7273	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40392	7289	7292	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40393	7351	7354	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40393	7376	7379	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40396	7548	7551	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40396	7557	7560	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40397	7575	7578	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40397	7584	7587	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40398	7650	7653	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40398	7690	7693	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40398	7706	7709	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40398	7721	7724	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40398	7739	7742	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40401	8023	8027	Khoá					1	1	0	0
+Texts	Vietnamese_film.txt	40401	8045	8049	Khoá					1	1	0	0
+Texts	Vietnamese_film.txt	40403	8140	8143	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40403	8173	8176	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40404	8198	8201	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40408	8425	8428	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40409	8509	8512	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40409	8518	8522	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40410	8556	8559	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40410	8576	8579	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40411	8680	8683	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40411	8712	8715	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40414	8947	8960	Thằng đần này					1	0	0	1
+Texts	Vietnamese_film.txt	40414	8947	8960	Thằng đần này					1	0	1	0
+Texts	Vietnamese_film.txt	40414	8991	8994	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40414	9008	9011	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40415	9076	9079	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40416	9130	9133	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40418	9367	9371	cháu					1	0	1	0
+Texts	Vietnamese_film.txt	40419	9386	9394	Cảnh sát					1	1	0	0
+Texts	Vietnamese_film.txt	40420	9509	9515	Ôn con					1	0	0	1
+Texts	Vietnamese_film.txt	40420	9509	9515	Ôn con					1	0	1	0
+Texts	Vietnamese_film.txt	40420	9516	9520	mày 					1	0	1	0
+Texts	Vietnamese_film.txt	40420	9524	9528	chú 					1	1	0	0
+Texts	Vietnamese_film.txt	40421	9599	9602	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40421	9627	9630	mày					1	0	0	1
+Texts	Vietnamese_film.txt	40421	9627	9630	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40422	9667	9670	Cha					1	0	0	1
+Texts	Vietnamese_film.txt	40422	9667	9670	Cha					1	0	1	0
+Texts	Vietnamese_film.txt	40422	9689	9692	con					1	1	0	0
+Texts	Vietnamese_film.txt	40423	9711	9714	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40423	9731	9734	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40424	9766	9776	Cha nó đây					1	0	0	1
+Texts	Vietnamese_film.txt	40424	9766	9776	Cha nó đây					1	1	0	0
+Texts	Vietnamese_film.txt	40424	9798	9801	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40426	9925	9930	thằng					1	0	1	0
+Texts	Vietnamese_film.txt	40426	9943	9946	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40426	9965	9968	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40426	9978	9981	ông					1	1	0	0
+Texts	Vietnamese_film.txt	40428	10093	10096	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40428	10106	10119	hai thằng mày					1	0	1	0
+Texts	Vietnamese_film.txt	40428	10135	10145	lũ mất dạy					1	0	1	0
+Texts	Vietnamese_film.txt	40431	10296	10300	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40432	10334	10337	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40437	10877	10880	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40438	10990	10993	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40440	11122	11125	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40442	11371	11378	2 thằng					1	0	1	0
+Texts	Vietnamese_film.txt	40443	11527	11530	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40444	11602	11608	bà con					1	0	0	1
+Texts	Vietnamese_film.txt	40444	11602	11608	bà con					1	0	1	0
+Texts	Vietnamese_film.txt	40447	11862	11865	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40447	11895	11903	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	40448	11955	11958	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40451	12080	12083	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40451	12097	12100	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40451	12136	12139	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40451	12144	12147	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40452	12223	12226	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40452	12243	12246	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40455	12407	12410	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40455	12427	12430	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40455	12445	12448	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40456	12571	12574	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40458	12768	12771	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40458	12843	12846	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40458	12851	12854	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40459	12922	12925	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40463	13306	13310	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40463	13331	13334	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40463	13336	13340	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40463	13356	13359	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40465	13792	13796	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40465	13818	13822	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40467	13934	13943	Mọi người					1	0	1	0
+Texts	Vietnamese_film.txt	40467	13962	13965	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40468	14034	14037	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	40469	14143	14147	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40469	14143	14147	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40469	14178	14180	em					1	0	1	0
+Texts	Vietnamese_film.txt	40470	14266	14268	em					1	0	1	0
+Texts	Vietnamese_film.txt	40470	14283	14286	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40470	14288	14291	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40470	14361	14365	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40470	14391	14395	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40470	14400	14403	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40471	14439	14449	Thầy Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40471	14439	14449	Thầy Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40471	14451	14455	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40471	14502	14505	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40472	14546	14550	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40472	14546	14550	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40472	14552	14556	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40472	14565	14567	em					1	0	1	0
+Texts	Vietnamese_film.txt	40472	14593	14595	em					1	0	1	0
+Texts	Vietnamese_film.txt	40472	14614	14618	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40472	14626	14628	em					1	0	1	0
+Texts	Vietnamese_film.txt	40472	14653	14655	em					1	0	1	0
+Texts	Vietnamese_film.txt	40473	14741	14751	thầy Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40473	14741	14751	thầy Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40474	14767	14771	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40474	14784	14786	em					1	0	1	0
+Texts	Vietnamese_film.txt	40474	14846	14848	em					1	0	1	0
+Texts	Vietnamese_film.txt	40476	14931	14935	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40476	14944	14948	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40476	14959	14963	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40476	15100	15102	em					1	0	1	0
+Texts	Vietnamese_film.txt	40477	15152	15156	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40477	15226	15229	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40477	15231	15234	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40479	15378	15387	Chúng mày					1	0	1	0
+Texts	Vietnamese_film.txt	40479	15392	15395	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40479	15421	15430	chúng mày					1	0	1	0
+Texts	Vietnamese_film.txt	40480	15505	15509	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40480	15560	15564	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40480	15585	15589	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40480	15602	15606	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40483	15908	15911	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40483	15921	15930	Chúng mày					1	0	1	0
+Texts	Vietnamese_film.txt	40483	15952	15955	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40483	16052	16055	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40487	16537	16540	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40487	16556	16559	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40488	16602	16606	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40489	16661	16663	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	40489	16696	16699	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40490	16817	16821	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40491	16929	16933	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40492	17033	17035	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	40493	17121	17124	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40493	17126	17129	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40495	17320	17334	bà trưởng thôn					1	0	0	1
+Texts	Vietnamese_film.txt	40495	17320	17334	bà trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	40496	17399	17402	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	40497	17458	17460	Em					1	1	0	0
+Texts	Vietnamese_film.txt	40499	17573	17575	em					1	1	0	0
+Texts	Vietnamese_film.txt	40500	17677	17715	mấy thanh niên đàn ca, sáo nhị kia nữa					1	0	0	1
+Texts	Vietnamese_film.txt	40500	17677	17715	mấy thanh niên đàn ca, sáo nhị kia nữa					1	0	1	0
+Texts	Vietnamese_film.txt	40500	17732	17739	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40503	18032	18039	Hai anh					1	0	1	0
+Texts	Vietnamese_film.txt	40505	18166	18173	Các anh					1	0	1	0
+Texts	Vietnamese_film.txt	40506	18261	18270	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40507	18308	18311	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40507	18316	18319	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40509	18404	18407	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40509	18432	18438	bọn em					1	1	0	0
+Texts	Vietnamese_film.txt	40510	18528	18535	bọn này					1	1	0	0
+Texts	Vietnamese_film.txt	40510	18563	18570	Bọn này					1	1	0	0
+Texts	Vietnamese_film.txt	40510	18597	18604	bọn này					1	1	0	0
+Texts	Vietnamese_film.txt	40510	18614	18617	đây					1	1	0	0
+Texts	Vietnamese_film.txt	40512	18712	18715	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40512	18748	18751	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40513	18828	18831	sếp					1	0	0	1
+Texts	Vietnamese_film.txt	40513	18828	18831	sếp					1	0	1	0
+Texts	Vietnamese_film.txt	40514	18857	18860	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40515	18931	18933	em					1	1	0	0
+Texts	Vietnamese_film.txt	40515	18946	18948	em					1	1	0	0
+Texts	Vietnamese_film.txt	40516	19006	19009	ông					1	0	1	0
+Texts	Vietnamese_film.txt	40516	19032	19035	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40517	19102	19104	Em					1	1	0	0
+Texts	Vietnamese_film.txt	40517	19110	19113	sếp					1	0	1	0
+Texts	Vietnamese_film.txt	40520	19309	19311	bà					1	0	0	1
+Texts	Vietnamese_film.txt	40520	19309	19311	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40520	19313	19315	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	40520	19324	19327	con					1	1	0	0
+Texts	Vietnamese_film.txt	40522	19478	19486	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40523	19641	19643	cô					1	1	0	0
+Texts	Vietnamese_film.txt	40527	19888	19891	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40527	19913	19916	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40528	20003	20006	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40528	20020	20023	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40528	20065	20068	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40529	20106	20109	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40532	20420	20427	Hai chú					1	0	1	0
+Texts	Vietnamese_film.txt	40534	20479	20483	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40535	20614	20622	Bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40535	20725	20729	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40535	20747	20751	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40536	20839	20846	hai chú					1	0	1	0
+Texts	Vietnamese_film.txt	40537	20887	20895	Bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40538	21074	21077	Chú					1	0	1	0
+Texts	Vietnamese_film.txt	40540	21384	21386	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40540	21384	21386	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40540	21405	21409	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40540	21433	21437	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40542	21676	21679	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40544	21862	21864	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40544	21873	21877	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40544	21982	21986	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40545	22037	22040	Chú					1	0	1	0
+Texts	Vietnamese_film.txt	40546	22088	22092	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40547	22128	22131	chú					1	0	1	0
+Texts	Vietnamese_film.txt	40548	22208	22212	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40548	22217	22219	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40548	22221	22223	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40549	22286	22289	chú					1	0	1	0
+Texts	Vietnamese_film.txt	40550	22378	22386	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	40555	22853	22855	em					1	0	0	1
+Texts	Vietnamese_film.txt	40555	22853	22855	em					1	0	1	0
+Texts	Vietnamese_film.txt	40556	22911	22914	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40557	22945	22950	Bố nó					1	1	0	0
+Texts	Vietnamese_film.txt	40557	22960	22965	bố nó					1	1	0	0
+Texts	Vietnamese_film.txt	40560	23143	23146	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40560	23213	23216	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40562	23305	23308	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40563	23446	23449	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40563	23454	23457	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40565	23683	23686	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40566	23707	23710	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40566	23712	23715	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40566	23773	23776	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40568	24113	24115	em					1	0	0	1
+Texts	Vietnamese_film.txt	40568	24113	24115	em					1	0	1	0
+Texts	Vietnamese_film.txt	40569	24133	24136	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40571	24247	24250	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40572	24402	24409	anh chị					1	0	1	0
+Texts	Vietnamese_film.txt	40573	24508	24511	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40574	24546	24549	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40575	24644	24647	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40575	24684	24691	hai anh					1	0	1	0
+Texts	Vietnamese_film.txt	40575	24707	24710	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40575	24768	24775	hai anh					1	0	1	0
+Texts	Vietnamese_film.txt	40576	24935	24938	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40576	24959	24962	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40577	25082	25089	hai anh					1	0	1	0
+Texts	Vietnamese_film.txt	40578	25237	25244	hai anh					1	0	1	0
+Texts	Vietnamese_film.txt	40582	25419	25422	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40584	25546	25549	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40585	25622	25625	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40586	25666	25669	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40586	25705	25708	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40586	25718	25721	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40588	25793	25806	Thằng ngu này					1	0	0	1
+Texts	Vietnamese_film.txt	40588	25793	25806	Thằng ngu này					1	0	1	0
+Texts	Vietnamese_film.txt	40588	25852	25856	Mình					1	1	0	0
+Texts	Vietnamese_film.txt	40590	25995	25998	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40590	26016	26019	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40591	26056	26060	Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40591	26056	26060	Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40591	26062	26064	em					1	0	1	0
+Texts	Vietnamese_film.txt	40591	26074	26077	sếp					1	1	0	0
+Texts	Vietnamese_film.txt	40592	26110	26124	Thằng củ chuối					1	0	0	1
+Texts	Vietnamese_film.txt	40592	26110	26124	Thằng củ chuối					1	0	1	0
+Texts	Vietnamese_film.txt	40592	26126	26129	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40592	26138	26141	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40592	26155	26163	Sếp Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40592	26155	26163	Sếp Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40592	26165	26168	sếp					1	0	1	0
+Texts	Vietnamese_film.txt	40592	26178	26180	em					1	1	0	0
+Texts	Vietnamese_film.txt	40593	26231	26239	Sếp Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40593	26231	26239	Sếp Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40593	26250	26252	em					1	1	0	0
+Texts	Vietnamese_film.txt	40595	26408	26412	Mình					1	1	0	0
+Texts	Vietnamese_film.txt	40596	26585	26588	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40598	26754	26757	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40606	27374	27381	Hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40606	27387	27394	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40607	27443	27446	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40608	27529	27536	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40611	27848	27856	Bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40611	27881	27883	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40611	27881	27883	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40613	27990	27994	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40613	28043	28053	Chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40614	28095	28102	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40615	28237	28241	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40615	28246	28248	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40616	28489	28492	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40616	28498	28507	Cậu Hoàng					1	0	0	1
+Texts	Vietnamese_film.txt	40616	28498	28507	Cậu Hoàng					1	0	1	0
+Texts	Vietnamese_film.txt	40617	28542	28546	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40617	28560	28564	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40617	28587	28589	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40617	28587	28589	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40617	28602	28606	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40617	28635	28639	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40618	28687	28694	hai chú					1	0	1	0
+Texts	Vietnamese_film.txt	40618	28709	28711	ta					1	1	0	0
+Texts	Vietnamese_film.txt	40619	28770	28772	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40619	28776	28780	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40619	28785	28787	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40619	28810	28814	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40619	28914	28918	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40620	29045	29047	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40624	29462	29464	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40624	29462	29464	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40625	29488	29495	các chú					1	0	1	0
+Texts	Vietnamese_film.txt	40625	29526	29535	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40625	29543	29550	hai chú					1	0	1	0
+Texts	Vietnamese_film.txt	40625	29601	29604	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40627	29735	29739	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40627	29783	29787	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40627	29915	29925	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40629	30192	30196	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40629	30236	30240	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40629	30263	30265	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40630	30331	30338	các chú					1	0	1	0
+Texts	Vietnamese_film.txt	40630	30367	30374	các chú					1	0	1	0
+Texts	Vietnamese_film.txt	40631	30426	30436	Chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40631	30493	30495	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40631	30493	30495	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40632	30516	30519	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40632	30539	30546	Các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40633	30613	30623	Chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40634	30703	30710	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40634	30732	30735	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40634	30750	30757	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40634	30782	30785	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40635	30868	30870	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40635	30913	30921	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40636	31021	31030	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40636	31062	31065	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40637	31141	31145	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40637	31159	31167	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40637	31180	31188	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40638	31287	31290	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40639	31351	31353	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40639	31385	31387	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40639	31385	31387	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40640	31460	31463	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40640	31485	31492	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40641	31524	31528	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40641	31536	31538	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40643	31675	31678	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40643	31732	31735	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40646	32025	32028	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40646	32055	32058	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40646	32098	32101	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40647	32138	32141	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40648	32182	32185	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40648	32202	32205	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40649	32234	32237	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40649	32250	32253	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40651	32415	32418	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40652	32465	32468	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40653	32491	32494	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40653	32523	32526	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40653	32540	32543	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40654	32633	32636	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40655	32689	32692	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40655	32771	32774	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40657	32821	32824	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40658	32915	32918	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40658	32930	32933	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40658	32956	32959	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40662	33437	33440	bác					1	0	0	1
+Texts	Vietnamese_film.txt	40662	33437	33440	bác					1	0	1	0
+Texts	Vietnamese_film.txt	40662	33445	33449	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40664	33573	33580	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40668	33764	33774	Chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40668	33829	33833	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40669	33958	33962	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40671	34122	34129	hai đứa					1	0	1	0
+Texts	Vietnamese_film.txt	40672	34165	34173	Bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40672	34189	34191	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40673	34280	34282	cô					1	1	0	0
+Texts	Vietnamese_film.txt	40674	34440	34442	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40675	34508	34516	các cháu					1	0	1	0
+Texts	Vietnamese_film.txt	40675	34562	34564	cô					1	1	0	0
+Texts	Vietnamese_film.txt	40675	34582	34584	Cô					1	1	0	0
+Texts	Vietnamese_film.txt	40676	34660	34663	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40676	34668	34670	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40679	34851	34854	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40680	34886	34889	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40681	34987	34995	các cháu					1	0	1	0
+Texts	Vietnamese_film.txt	40684	35225	35227	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40685	35379	35382	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40689	35770	35772	ta					1	1	0	0
+Texts	Vietnamese_film.txt	40690	35841	35845	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40690	35841	35845	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40690	35850	35854	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40690	35850	35854	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40690	35859	35863	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40690	35859	35863	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40690	35868	35871	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40690	35880	35884	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40690	35880	35884	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40690	35886	35890	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40690	35904	35907	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40691	36019	36029	Thầy Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40691	36019	36029	Thầy Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40691	36031	36035	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40691	36066	36069	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40692	36118	36121	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40692	36198	36202	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40692	36209	36213	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40693	36256	36259	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40695	36370	36374	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40695	36411	36415	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40695	36439	36443	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40695	36473	36477	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36502	36506	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40696	36502	36506	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36508	36512	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36556	36559	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40696	36581	36584	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40696	36593	36597	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36608	36612	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36644	36648	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36663	36666	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40696	36710	36714	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40696	36731	36735	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40697	36860	36863	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40697	36868	36871	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40697	36894	36898	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40697	36911	36914	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40697	36919	36922	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40701	37182	37185	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40701	37200	37203	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40701	37241	37245	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40704	37552	37555	Chú					1	0	1	0
+Texts	Vietnamese_film.txt	40705	37769	37771	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40705	37769	37771	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40705	37777	37781	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40706	37825	37832	Các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40708	37945	37948	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40708	37968	37971	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40708	37998	38010	Thằng cù lần					1	0	0	1
+Texts	Vietnamese_film.txt	40708	37998	38010	Thằng cù lần					1	0	1	0
+Texts	Vietnamese_film.txt	40708	38012	38015	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40709	38060	38063	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40709	38090	38093	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40709	38103	38106	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40710	38162	38165	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40711	38259	38263	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40711	38259	38263	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40711	38265	38269	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40711	38265	38269	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40711	38274	38278	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40711	38274	38278	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40711	38285	38289	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40711	38285	38289	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40712	38338	38353	bác trưởng thôn					1	0	0	1
+Texts	Vietnamese_film.txt	40712	38338	38353	bác trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	40713	38377	38380	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40713	38408	38410	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40714	38429	38431	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40714	38429	38431	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40716	38563	38565	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40716	38563	38565	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40719	38676	38681	Hoàng					1	0	0	1
+Texts	Vietnamese_film.txt	40719	38676	38681	Hoàng					1	0	1	0
+Texts	Vietnamese_film.txt	40719	38686	38691	Hoàng					1	0	0	1
+Texts	Vietnamese_film.txt	40719	38686	38691	Hoàng					1	0	1	0
+Texts	Vietnamese_film.txt	40719	38693	38698	Hoàng					1	0	0	1
+Texts	Vietnamese_film.txt	40719	38693	38698	Hoàng					1	0	1	0
+Texts	Vietnamese_film.txt	40720	38729	38731	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40720	38736	38740	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40721	38767	38774	cậu này					1	0	0	1
+Texts	Vietnamese_film.txt	40721	38767	38774	cậu này					1	0	1	0
+Texts	Vietnamese_film.txt	40721	38786	38789	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40723	39022	39025	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40723	39045	39047	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40725	39193	39200	cô Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40725	39206	39209	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40725	39218	39227	mấy người					1	0	1	0
+Texts	Vietnamese_film.txt	40728	39371	39374	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40729	39484	39487	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40729	39498	39501	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40730	39561	39564	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40730	39607	39609	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40732	39748	39751	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40732	39763	39766	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40733	39869	39878	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40736	40109	40111	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40737	40212	40214	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40737	40279	40282	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40739	40362	40365	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40740	40456	40465	Cậu Hoàng					1	0	0	1
+Texts	Vietnamese_film.txt	40740	40456	40465	Cậu Hoàng					1	0	1	0
+Texts	Vietnamese_film.txt	40740	40467	40470	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40741	40561	40576	Bác trưởng thôn					1	0	0	1
+Texts	Vietnamese_film.txt	40741	40561	40576	Bác trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	40741	40578	40582	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40741	40614	40616	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40741	40650	40654	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40742	40716	40718	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40743	40739	40742	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40743	40750	40753	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40746	40907	40910	bác					1	0	0	1
+Texts	Vietnamese_film.txt	40746	40907	40910	bác					1	0	1	0
+Texts	Vietnamese_film.txt	40746	40912	40916	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40746	40955	40959	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40746	41022	41026	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40746	41034	41038	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40746	41044	41047	bác					1	0	1	0
+Texts	Vietnamese_film.txt	40746	41053	41057	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40747	41162	41172	con bé này					1	0	0	1
+Texts	Vietnamese_film.txt	40747	41162	41172	con bé này					1	0	1	0
+Texts	Vietnamese_film.txt	40748	41214	41216	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	40748	41214	41216	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40748	41243	41247	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40748	41317	41325	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40749	41560	41567	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40750	41657	41659	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	40750	41657	41659	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40751	41886	41889	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40752	42029	42031	cô					1	0	0	1
+Texts	Vietnamese_film.txt	40752	42029	42031	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40752	42043	42051	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	40753	42115	42118	Cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40753	42151	42154	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40753	42182	42185	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40753	42225	42228	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40753	42243	42246	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40755	42344	42346	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40756	42397	42400	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40756	42406	42413	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40756	42437	42440	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40758	42669	42672	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40758	42748	42751	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40761	43135	43153	Thầy Giang pháp sư					1	0	0	1
+Texts	Vietnamese_film.txt	40761	43135	43153	Thầy Giang pháp sư					1	0	1	0
+Texts	Vietnamese_film.txt	40761	43155	43173	thầy Giang pháp sư					1	0	0	1
+Texts	Vietnamese_film.txt	40761	43155	43173	thầy Giang pháp sư					1	0	1	0
+Texts	Vietnamese_film.txt	40761	43215	43220	Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40761	43215	43220	Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40761	43249	43258	nhà ngươi					1	0	1	0
+Texts	Vietnamese_film.txt	40762	43370	43374	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40762	43370	43374	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40762	43379	43383	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40762	43385	43389	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40762	43398	43400	em					1	0	1	0
+Texts	Vietnamese_film.txt	40763	43491	43493	Ta					1	1	0	0
+Texts	Vietnamese_film.txt	40763	43514	43516	Ta					1	1	0	0
+Texts	Vietnamese_film.txt	40763	43557	43562	ngươi					1	0	1	0
+Texts	Vietnamese_film.txt	40763	43581	43587	bọn ta					1	1	0	0
+Texts	Vietnamese_film.txt	40764	43662	43666	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40764	43683	43687	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40764	43724	43727	con					1	0	1	0
+Texts	Vietnamese_film.txt	40765	43761	43771	Thầy Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40765	43761	43771	Thầy Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40765	43773	43777	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40765	43792	43796	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40765	43830	43839	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40765	43889	43893	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40766	43943	43947	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40766	43953	43957	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40766	43963	43967	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40768	44112	44116	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40768	44161	44169	các ngài					1	0	1	0
+Texts	Vietnamese_film.txt	40768	44182	44185	con					1	1	0	0
+Texts	Vietnamese_film.txt	40768	44187	44190	con					1	1	0	0
+Texts	Vietnamese_film.txt	40769	44343	44353	Thầy Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40769	44343	44353	Thầy Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40769	44355	44359	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40770	44609	44613	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40772	44909	44913	Thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40772	44909	44913	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40772	44918	44922	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40772	44978	44980	em					1	1	0	0
+Texts	Vietnamese_film.txt	40774	45070	45074	thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40774	45070	45074	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40774	45079	45083	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40775	45178	45189	Bà chủ quán					1	0	1	0
+Texts	Vietnamese_film.txt	40776	45348	45352	thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40776	45348	45352	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40778	45496	45500	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40779	45558	45561	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40781	45725	45735	Các ông bà					1	0	1	0
+Texts	Vietnamese_film.txt	40783	45918	45921	con					1	1	0	0
+Texts	Vietnamese_film.txt	40783	45926	45934	các ngài					1	0	1	0
+Texts	Vietnamese_film.txt	40783	45936	45944	các ngài					1	0	1	0
+Texts	Vietnamese_film.txt	40783	45980	45983	con					1	1	0	0
+Texts	Vietnamese_film.txt	40783	45985	45988	con					1	1	0	0
+Texts	Vietnamese_film.txt	40783	45993	46001	các ngài					1	0	1	0
+Texts	Vietnamese_film.txt	40784	46048	46051	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40784	46072	46074	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40784	46135	46139	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40786	46226	46230	thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40786	46226	46230	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40787	46238	46242	Thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40787	46238	46242	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40787	46251	46255	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40787	46272	46276	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40787	46281	46284	con					1	1	0	0
+Texts	Vietnamese_film.txt	40788	46356	46363	đứa nào					1	0	1	0
+Texts	Vietnamese_film.txt	40788	46394	46398	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40789	46502	46505	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40789	46563	46566	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40789	46584	46587	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40789	46598	46601	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40793	46997	47004	Các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40797	47231	47235	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40797	47240	47246	cô chú					1	0	1	0
+Texts	Vietnamese_film.txt	40799	47369	47376	cậu kia					1	0	1	0
+Texts	Vietnamese_film.txt	40801	47488	47498	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40802	47599	47609	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40802	47622	47626	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40802	47631	47637	cô chú					1	0	1	0
+Texts	Vietnamese_film.txt	40804	47727	47730	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40804	47738	47745	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40804	47809	47812	Cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40805	47875	47877	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40805	47886	47890	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40808	48060	48066	Tất cả					1	0	1	0
+Texts	Vietnamese_film.txt	40808	48176	48178	ta					1	1	0	0
+Texts	Vietnamese_film.txt	40815	48985	48988	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40816	49132	49135	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40816	49140	49143	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40819	49411	49413	bà					1	0	0	1
+Texts	Vietnamese_film.txt	40819	49411	49413	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40823	49638	49641	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40823	49664	49668	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40824	49721	49724	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40824	49732	49735	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40826	49866	49869	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40826	49913	49916	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40826	49958	49961	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40828	50091	50094	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40828	50099	50102	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40828	50148	50151	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40830	50366	50372	bà chủ					1	0	0	1
+Texts	Vietnamese_film.txt	40830	50366	50372	bà chủ					1	0	1	0
+Texts	Vietnamese_film.txt	40832	50568	50571	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40832	50575	50577	em					1	0	0	1
+Texts	Vietnamese_film.txt	40832	50575	50577	em					1	0	1	0
+Texts	Vietnamese_film.txt	40833	50640	50643	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40834	50657	50660	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40834	50665	50668	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40835	50762	50765	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40840	51208	51210	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40841	51240	51243	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40841	51348	51351	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40841	51363	51366	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40842	51432	51434	Bà					1	0	0	1
+Texts	Vietnamese_film.txt	40842	51432	51434	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	40842	51439	51441	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	40844	51742	51744	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40844	51749	51753	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40845	51793	51800	Các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40845	51855	51862	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40846	51902	51906	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40846	51937	51941	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40847	52067	52070	cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40848	52257	52259	bà					1	0	1	0
+Texts	Vietnamese_film.txt	40848	52269	52273	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40849	52428	52438	Thầy Giang					1	0	0	1
+Texts	Vietnamese_film.txt	40849	52428	52438	Thầy Giang					1	0	1	0
+Texts	Vietnamese_film.txt	40849	52443	52447	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40850	52525	52527	tô					1	1	0	0
+Texts	Vietnamese_film.txt	40850	52573	52576	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40850	52586	52595	chúng mày					1	0	1	0
+Texts	Vietnamese_film.txt	40850	52638	52641	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40851	52747	52751	thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40851	52747	52751	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40854	53013	53020	Hai anh					1	0	1	0
+Texts	Vietnamese_film.txt	40855	53075	53078	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40856	53225	53228	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40856	53250	53257	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40856	53262	53265	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40857	53318	53327	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40857	53336	53340	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40859	53468	53471	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40859	53487	53491	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40859	53502	53506	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40860	53668	53675	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40860	53704	53707	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40860	53718	53721	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40860	53755	53762	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	40862	53998	54002	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40865	54371	54375	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40866	54560	54564	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40867	54604	54608	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40867	54610	54613	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40870	54852	54860	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	40870	54874	54877	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40873	55082	55085	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40873	55101	55104	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40873	55142	55145	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40874	55231	55234	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40879	55570	55573	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40879	55578	55581	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40879	55599	55602	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40879	55616	55629	Thằng đần này					1	0	0	1
+Texts	Vietnamese_film.txt	40879	55616	55629	Thằng đần này					1	0	1	0
+Texts	Vietnamese_film.txt	40880	55792	55796	Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40880	55792	55796	Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40880	55798	55802	Khoá					1	0	0	1
+Texts	Vietnamese_film.txt	40880	55798	55802	Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	40882	55919	55923	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40882	55964	55968	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	40883	56031	56034	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40883	56106	56108	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40884	56161	56165	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40885	56387	56390	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40887	56485	56489	 tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40887	56551	56555	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40887	56562	56566	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40887	56597	56600	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40890	56838	56841	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40890	56854	56858	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40890	56867	56871	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40890	56898	56901	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40891	56947	56950	Chú					1	0	1	0
+Texts	Vietnamese_film.txt	40891	57047	57050	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40892	57083	57087	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40893	57234	57237	Chú					1	0	1	0
+Texts	Vietnamese_film.txt	40898	57623	57627	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40898	57635	57638	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40899	57715	57718	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40899	57727	57730	ông					1	0	1	0
+Texts	Vietnamese_film.txt	40900	57775	57779	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40901	57836	57840	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40903	57996	57999	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	40903	58012	58015	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40904	58112	58116	Thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40904	58112	58116	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40904	58120	58124	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40904	58136	58138	em					1	1	0	0
+Texts	Vietnamese_film.txt	40904	58187	58191	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40904	58210	58212	em					1	1	0	0
+Texts	Vietnamese_film.txt	40904	58252	58254	em					1	1	0	0
+Texts	Vietnamese_film.txt	40904	58276	58280	thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40904	58276	58280	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40905	58351	58355	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40905	58394	58398	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40906	58517	58521	thầy					1	0	0	1
+Texts	Vietnamese_film.txt	40906	58517	58521	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40906	58543	58545	em					1	1	0	0
+Texts	Vietnamese_film.txt	40906	58561	58565	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40906	58576	58578	em					1	1	0	0
+Texts	Vietnamese_film.txt	40907	58636	58640	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40907	58714	58718	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40907	58761	58765	thầy					1	1	0	0
+Texts	Vietnamese_film.txt	40907	58774	58778	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40909	58867	58870	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40909	58914	58917	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40910	59052	59055	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40911	59089	59092	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40911	59118	59121	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40911	59150	59153	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40911	59175	59178	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40911	59205	59208	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40912	59232	59236	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40912	59241	59244	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40913	59292	59295	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40913	59325	59328	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40913	59361	59364	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40913	59408	59411	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40915	59551	59555	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40916	59654	59658	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40916	59654	59658	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40916	59660	59664	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40916	59660	59664	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40919	59812	59816	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40919	59812	59816	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40919	59818	59822	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40919	59818	59822	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40920	59967	59970	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40921	60017	60019	em					1	0	1	0
+Texts	Vietnamese_film.txt	40921	60030	60033	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40921	60044	60047	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40922	60161	60164	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40923	60248	60251	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	40923	60275	60278	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40924	60309	60312	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40924	60351	60354	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40927	60544	60547	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40927	60561	60564	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40927	60571	60574	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40928	60623	60626	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40928	60635	60639	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40928	60731	60734	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40929	60856	60859	mày					1	0	1	0
+Texts	Vietnamese_film.txt	40930	60936	60945	thằng này					1	1	0	0
+Texts	Vietnamese_film.txt	40930	60970	60975	 thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40931	61007	61010	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40931	61051	61054	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40932	61201	61205	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	40932	61207	61210	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40933	61268	61271	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	40933	61287	61290	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40933	61323	61326	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	40934	61390	61393	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40935	61473	61477	Tao 					1	1	0	0
+Texts	Vietnamese_film.txt	40935	61505	61508	tao					1	1	0	0
+Texts	Vietnamese_film.txt	40938	61806	61813	Anh kia					1	0	0	1
+Texts	Vietnamese_film.txt	40938	61806	61813	Anh kia					1	0	1	0
+Texts	Vietnamese_film.txt	40938	61815	61818	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40939	61877	61879	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40940	61920	61936	anh ‘roanh nhân’					1	0	0	1
+Texts	Vietnamese_film.txt	40940	61920	61936	anh ‘roanh nhân’					1	0	1	0
+Texts	Vietnamese_film.txt	40940	61953	61956	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40942	62153	62156	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40942	62163	62166	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40943	62259	62266	cô Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40949	62591	62598	cô Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40949	62613	62616	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40950	62708	62711	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40952	62904	62907	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40952	62921	62924	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40952	62932	62935	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40953	62975	62979	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40953	62975	62979	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40953	62984	62987	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	40953	62992	62994	em					1	0	1	0
+Texts	Vietnamese_film.txt	40954	63064	63067	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40955	63128	63132	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40955	63128	63132	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40955	63137	63141	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40955	63137	63141	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40955	63143	63147	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40955	63143	63147	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40955	63152	63155	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40955	63203	63205	em					1	0	1	0
+Texts	Vietnamese_film.txt	40956	63328	63331	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40957	63355	63358	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	40957	63385	63387	em					1	0	1	0
+Texts	Vietnamese_film.txt	40957	63414	63416	em					1	0	1	0
+Texts	Vietnamese_film.txt	40957	63429	63432	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40957	63460	63463	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40959	63566	63569	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40960	63603	63605	Em					1	1	0	0
+Texts	Vietnamese_film.txt	40960	63620	63623	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40963	63903	63905	Em					1	1	0	0
+Texts	Vietnamese_film.txt	40963	63910	63913	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40964	64143	64146	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	40964	64154	64158	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40965	64203	64206	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40966	64261	64264	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40967	64317	64320	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40967	64329	64331	em					1	1	0	0
+Texts	Vietnamese_film.txt	40967	64348	64350	em					1	1	0	0
+Texts	Vietnamese_film.txt	40968	64425	64428	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40968	64465	64469	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40969	64540	64543	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40969	64557	64561	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40969	64603	64607	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40970	64640	64642	em					1	1	0	0
+Texts	Vietnamese_film.txt	40971	64687	64691	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40971	64706	64709	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40972	64755	64757	Em					1	1	0	0
+Texts	Vietnamese_film.txt	40972	64762	64765	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40972	64793	64795	em					1	1	0	0
+Texts	Vietnamese_film.txt	40974	64895	64897	Em					1	0	1	0
+Texts	Vietnamese_film.txt	40975	64955	64959	mình					1	1	0	0
+Texts	Vietnamese_film.txt	40975	65006	65008	em					1	1	0	0
+Texts	Vietnamese_film.txt	40975	65022	65025	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40975	65066	65069	anh					1	0	0	1
+Texts	Vietnamese_film.txt	40975	65066	65069	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40978	65271	65279	người ta					1	1	0	0
+Texts	Vietnamese_film.txt	40978	65301	65309	người ta					1	1	0	0
+Texts	Vietnamese_film.txt	40979	65388	65391	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40979	65425	65428	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40980	65478	65481	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40981	65542	65545	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40981	65574	65577	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40981	65591	65594	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40981	65639	65642	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40982	65705	65708	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40983	65784	65788	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40983	65794	65798	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40987	66179	66182	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40987	66199	66203	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40987	66215	66219	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40987	66263	66267	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40987	66274	66278	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40987	66295	66298	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40987	66324	66328	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40988	66375	66378	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40989	66508	66511	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40989	66540	66542	em					1	1	0	0
+Texts	Vietnamese_film.txt	40989	66561	66563	em					1	1	0	0
+Texts	Vietnamese_film.txt	40989	66578	66581	anh					1	0	0	1
+Texts	Vietnamese_film.txt	40989	66578	66581	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40990	66595	66598	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40990	66668	66675	bọn anh					1	1	0	0
+Texts	Vietnamese_film.txt	40992	66785	66788	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	40992	66806	66809	anh					1	1	0	0
+Texts	Vietnamese_film.txt	40992	66815	66819	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40992	66831	66835	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40996	67232	67236	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	40997	67273	67280	cô Dung					1	0	0	1
+Texts	Vietnamese_film.txt	40997	67273	67280	cô Dung					1	0	1	0
+Texts	Vietnamese_film.txt	40997	67289	67292	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40997	67298	67301	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40998	67353	67356	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	40998	67369	67372	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40998	67376	67379	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40998	67390	67393	anh					1	0	1	0
+Texts	Vietnamese_film.txt	40999	67439	67441	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	40999	67451	67454	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40999	67477	67480	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40999	67557	67560	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	40999	67579	67581	cô					1	0	1	0
+Texts	Vietnamese_film.txt	40999	67621	67623	em					1	0	1	0
+Texts	Vietnamese_film.txt	41000	67740	67743	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41001	67789	67792	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41001	67815	67818	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41001	67854	67858	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41001	67876	67878	em					1	0	1	0
+Texts	Vietnamese_film.txt	41002	67930	67933	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41003	68012	68015	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41003	68030	68034	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41003	68048	68051	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41003	68060	68064	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41004	68139	68141	em					1	1	0	0
+Texts	Vietnamese_film.txt	41005	68187	68191	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41005	68216	68219	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41005	68232	68236	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41005	68270	68274	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41006	68360	68362	em					1	1	0	0
+Texts	Vietnamese_film.txt	41006	68381	68383	em					1	1	0	0
+Texts	Vietnamese_film.txt	41007	68540	68543	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41008	68598	68601	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41009	68654	68657	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41009	68679	68681	em					1	0	1	0
+Texts	Vietnamese_film.txt	41009	68697	68700	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41010	68747	68750	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41011	68797	68800	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41011	68847	68850	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41011	68963	68966	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41012	69034	69037	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41012	69049	69051	em					1	1	0	0
+Texts	Vietnamese_film.txt	41012	69078	69081	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41012	69092	69096	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	41014	69168	69171	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41014	69179	69183	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41014	69184	69187	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41014	69197	69201	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41014	69298	69300	em					1	0	1	0
+Texts	Vietnamese_film.txt	41015	69364	69367	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41015	69399	69403	dung					1	1	0	0
+Texts	Vietnamese_film.txt	41016	69482	69486	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41016	69487	69490	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41016	69507	69509	em					1	0	1	0
+Texts	Vietnamese_film.txt	41016	69510	69513	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41018	69602	69605	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41021	69737	69739	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41021	69737	69739	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41021	69787	69791	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41021	69822	69826	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41022	69918	69920	Cô					1	1	0	0
+Texts	Vietnamese_film.txt	41023	70021	70025	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41023	70043	70045	cô					1	1	0	0
+Texts	Vietnamese_film.txt	41024	70098	70100	cô					1	0	0	1
+Texts	Vietnamese_film.txt	41024	70098	70100	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41026	70161	70163	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41030	70348	70351	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41031	70433	70436	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41032	70470	70473	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	41032	70482	70486	dung					1	1	0	0
+Texts	Vietnamese_film.txt	41032	70501	70504	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41032	70510	70514	Dung					1	1	0	0
+Texts	Vietnamese_film.txt	41032	70522	70525	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41033	70597	70600	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41033	70608	70611	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41035	70657	70660	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41035	70683	70685	em					1	1	0	0
+Texts	Vietnamese_film.txt	41035	70697	70700	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41035	70734	70742	anh Khoá					1	0	1	0
+Texts	Vietnamese_film.txt	41035	70754	70756	em					1	1	0	0
+Texts	Vietnamese_film.txt	41038	70918	70921	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41039	71001	71004	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41040	71119	71122	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41041	71181	71184	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41041	71210	71212	em					1	1	0	0
+Texts	Vietnamese_film.txt	41041	71236	71239	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41042	71307	71310	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41044	71467	71470	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41044	71539	71542	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	41044	71558	71561	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41045	71598	71602	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41045	71616	71619	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41045	71624	71627	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41045	71689	71691	em					1	0	1	0
+Texts	Vietnamese_film.txt	41045	71704	71706	em					1	0	1	0
+Texts	Vietnamese_film.txt	41046	71807	71810	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41047	71844	71847	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41048	71896	71899	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41050	71975	71977	Em					1	1	0	0
+Texts	Vietnamese_film.txt	41050	71993	71996	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41050	72011	72013	em					1	1	0	0
+Texts	Vietnamese_film.txt	41050	72019	72021	Em					1	1	0	0
+Texts	Vietnamese_film.txt	41053	72209	72213	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	41053	72209	72213	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41053	72225	72228	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41054	72280	72283	Anh					1	0	0	1
+Texts	Vietnamese_film.txt	41054	72280	72283	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	41054	72287	72290	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	41054	72319	72321	em					1	1	0	0
+Texts	Vietnamese_film.txt	41054	72345	72348	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41055	72398	72400	Em					1	0	1	0
+Texts	Vietnamese_film.txt	41055	72419	72422	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41057	72584	72588	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	41057	72584	72588	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41057	72592	72595	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41057	72625	72627	em					1	0	1	0
+Texts	Vietnamese_film.txt	41058	72740	72742	Em					1	1	0	0
+Texts	Vietnamese_film.txt	41058	72759	72763	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41058	72777	72779	em					1	1	0	0
+Texts	Vietnamese_film.txt	41059	72848	72852	Thầy					1	1	0	0
+Texts	Vietnamese_film.txt	41060	72962	72965	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41062	73119	73123	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41062	73136	73140	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41064	73303	73305	Ất					1	0	0	1
+Texts	Vietnamese_film.txt	41064	73303	73305	Ất					1	0	1	0
+Texts	Vietnamese_film.txt	41064	73313	73316	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41065	73363	73366	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41065	73404	73407	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41066	73467	73470	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41066	73488	73491	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41066	73507	73510	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41066	73512	73515	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41068	73602	73605	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	41068	73610	73613	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41068	73623	73626	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41068	73648	73651	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41069	73731	73740	thằng này					1	1	0	0
+Texts	Vietnamese_film.txt	41069	73794	73797	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41069	73821	73824	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41070	73893	73896	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41070	73933	73936	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41070	73964	73967	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41071	74032	74035	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41072	74125	74128	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41072	74148	74151	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41073	74181	74184	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	41073	74197	74200	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41073	74270	74279	thằng này					1	1	0	0
+Texts	Vietnamese_film.txt	41074	74353	74356	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41080	74823	74827	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41081	74861	74864	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	41081	74908	74917	chúng mày					1	0	1	0
+Texts	Vietnamese_film.txt	41082	74950	74954	Thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41082	74982	74986	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41082	74997	75006	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41082	75031	75034	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41084	75297	75300	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41085	75376	75379	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41089	75618	75621	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41089	75627	75630	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41089	75658	75661	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41089	75663	75666	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41092	75912	75921	hai thằng					1	0	1	0
+Texts	Vietnamese_film.txt	41092	75960	75974	các chiến binh					1	0	1	0
+Texts	Vietnamese_film.txt	41094	76088	76091	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	41094	76093	76096	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41094	76113	76116	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41094	76132	76135	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41095	76146	76149	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	41095	76158	76161	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41099	76473	76487	bà trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	41099	76491	76495	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41099	76497	76500	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41099	76577	76581	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41100	76607	76610	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41100	76687	76694	hai cậu					1	0	1	0
+Texts	Vietnamese_film.txt	41100	76707	76710	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41100	76746	76749	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41101	76818	76825	Các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	41101	76905	76912	Các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	41102	76960	76963	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	41102	76968	76971	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41103	77043	77045	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41103	77043	77045	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41103	77050	77054	Dung					1	0	0	1
+Texts	Vietnamese_film.txt	41103	77050	77054	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41103	77058	77068	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41103	77166	77170	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41103	77266	77270	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41103	77327	77331	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41103	77352	77354	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41104	77399	77401	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41104	77399	77401	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41104	77406	77408	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41104	77413	77421	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41104	77473	77481	Bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41106	77588	77590	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41106	77588	77590	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41106	77693	77695	cô					1	0	0	1
+Texts	Vietnamese_film.txt	41106	77693	77695	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41108	77765	77774	Mấy người					1	0	1	0
+Texts	Vietnamese_film.txt	41111	77966	77974	Ba người					1	0	1	0
+Texts	Vietnamese_film.txt	41111	78020	78029	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41111	78069	78076	các anh					1	0	1	0
+Texts	Vietnamese_film.txt	41112	78117	78121	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41116	78399	78403	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41116	78441	78444	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41118	78618	78620	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41120	78726	78729	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41121	78831	78834	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41121	78840	78847	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	41124	79015	79025	Chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41124	79099	79107	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41124	79112	79114	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41124	79126	79134	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41124	79213	79215	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41124	79244	79254	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41125	79278	79280	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41125	79278	79280	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41125	79383	79385	cô					1	0	0	1
+Texts	Vietnamese_film.txt	41125	79383	79385	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41127	79455	79464	Mấy người					1	0	1	0
+Texts	Vietnamese_film.txt	41130	79656	79664	Ba người					1	0	1	0
+Texts	Vietnamese_film.txt	41130	79710	79719	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41130	79759	79766	các anh					1	0	1	0
+Texts	Vietnamese_film.txt	41131	79807	79811	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41135	80088	80092	thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41135	80130	80133	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41137	80289	80291	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41137	80289	80291	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41137	80296	80300	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41139	80370	80372	Cô					1	0	0	1
+Texts	Vietnamese_film.txt	41139	80370	80372	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41139	80377	80379	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41139	80384	80388	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41139	80440	80448	Bọn cháu					1	0	1	0
+Texts	Vietnamese_film.txt	41141	80581	80583	Cô					1	0	1	0
+Texts	Vietnamese_film.txt	41144	80708	80711	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41145	80813	80816	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41145	80822	80829	các cậu					1	0	1	0
+Texts	Vietnamese_film.txt	41148	80997	81007	Chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41148	81081	81089	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41148	81094	81096	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41148	81108	81116	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41148	81195	81197	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41148	81226	81236	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41150	81362	81376	Cô trưởng thôn					1	0	0	1
+Texts	Vietnamese_film.txt	41150	81362	81376	Cô trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	41150	81381	81395	cô trưởng thôn					1	0	0	1
+Texts	Vietnamese_film.txt	41150	81381	81395	cô trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	41151	81444	81452	Người ta					1	1	0	0
+Texts	Vietnamese_film.txt	41152	81517	81521	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41152	81523	81527	cháu					1	0	1	0
+Texts	Vietnamese_film.txt	41152	81529	81533	Khoá					1	1	0	0
+Texts	Vietnamese_film.txt	41152	81535	81545	thằng trộm					1	1	0	0
+Texts	Vietnamese_film.txt	41152	81559	81561	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41152	81576	81580	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41153	81674	81677	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41154	81721	81723	cô					1	0	0	1
+Texts	Vietnamese_film.txt	41154	81721	81723	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41154	81812	81814	cô					1	0	0	1
+Texts	Vietnamese_film.txt	41154	81812	81814	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41156	81920	81923	bác					1	0	0	1
+Texts	Vietnamese_film.txt	41156	81920	81923	bác					1	0	1	0
+Texts	Vietnamese_film.txt	41158	82081	82085	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41158	82091	82106	cô… trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	41162	82352	82356	cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41162	82491	82493	cô					1	0	0	1
+Texts	Vietnamese_film.txt	41162	82491	82493	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41164	82571	82573	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41164	82612	82620	bọn cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41164	82651	82653	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41164	82658	82662	Dung					1	0	1	0
+Texts	Vietnamese_film.txt	41164	82675	82685	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41164	82711	82721	chúng cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41164	82760	82764	Cháu					1	1	0	0
+Texts	Vietnamese_film.txt	41165	82978	82980	cô					1	1	0	0
+Texts	Vietnamese_film.txt	41166	83036	83054	bà cựu trưởng thôn					1	0	1	0
+Texts	Vietnamese_film.txt	41168	83147	83155	Ông thầy					1	0	1	0
+Texts	Vietnamese_film.txt	41168	83186	83189	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41169	83299	83302	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41170	83364	83367	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41173	83609	83613	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41175	83762	83771	mọi người					1	0	0	1
+Texts	Vietnamese_film.txt	41175	83762	83771	mọi người					1	0	1	0
+Texts	Vietnamese_film.txt	41178	83964	83966	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41181	84148	84152	quan					1	0	1	0
+Texts	Vietnamese_film.txt	41182	84222	84224	Ta					1	1	0	0
+Texts	Vietnamese_film.txt	41182	84279	84281	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41185	84565	84573	Quan lớn					1	0	1	0
+Texts	Vietnamese_film.txt	41185	84652	84655	con					1	1	0	0
+Texts	Vietnamese_film.txt	41192	85495	85503	Anh Thân					1	0	0	1
+Texts	Vietnamese_film.txt	41192	85495	85503	Anh Thân					1	0	1	0
+Texts	Vietnamese_film.txt	41193	85512	85515	Dậu					1	0	0	1
+Texts	Vietnamese_film.txt	41193	85512	85515	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41193	85535	85538	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41193	85555	85559	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41195	85654	85657	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41195	85668	85670	em					1	1	0	0
+Texts	Vietnamese_film.txt	41195	85674	85676	em					1	1	0	0
+Texts	Vietnamese_film.txt	41197	85796	85798	Em					1	1	0	0
+Texts	Vietnamese_film.txt	41197	85810	85818	anh Thân					1	0	1	0
+Texts	Vietnamese_film.txt	41198	85912	85915	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41199	86087	86095	anh Thân					1	0	0	1
+Texts	Vietnamese_film.txt	41199	86087	86095	anh Thân					1	0	1	0
+Texts	Vietnamese_film.txt	41201	86129	86131	Em					1	1	0	0
+Texts	Vietnamese_film.txt	41201	86167	86169	em					1	1	0	0
+Texts	Vietnamese_film.txt	41201	86188	86190	em					1	1	0	0
+Texts	Vietnamese_film.txt	41201	86219	86222	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41201	86261	86264	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41201	86314	86316	em					1	1	0	0
+Texts	Vietnamese_film.txt	41201	86360	86362	em					1	1	0	0
+Texts	Vietnamese_film.txt	41201	86448	86451	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41202	86539	86541	em					1	0	1	0
+Texts	Vietnamese_film.txt	41202	86572	86575	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41202	86585	86587	em					1	0	1	0
+Texts	Vietnamese_film.txt	41204	86689	86692	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41204	86698	86703	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41205	86713	86716	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41205	86722	86727	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41207	86789	86806	Thằng con nhà Ngô					1	0	0	1
+Texts	Vietnamese_film.txt	41207	86789	86806	Thằng con nhà Ngô					1	0	1	0
+Texts	Vietnamese_film.txt	41207	86808	86811	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41208	86839	86844	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41208	86846	86849	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41209	86930	86933	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41209	86998	87001	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41210	87047	87050	con					1	1	0	0
+Texts	Vietnamese_film.txt	41212	87122	87125	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41214	87198	87201	anh					1	1	0	0
+Texts	Vietnamese_film.txt	41214	87210	87213	Anh					1	1	0	0
+Texts	Vietnamese_film.txt	41216	87277	87280	Anh					1	0	1	0
+Texts	Vietnamese_film.txt	41216	87296	87300	mình					1	0	1	0
+Texts	Vietnamese_film.txt	41217	87326	87329	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41217	87335	87340	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41218	87360	87363	Dậu					1	0	0	1
+Texts	Vietnamese_film.txt	41218	87360	87363	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41218	87373	87376	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41219	87404	87409	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41220	87473	87476	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41220	87575	87577	Lý					1	1	0	0
+Texts	Vietnamese_film.txt	41220	87584	87586	Lý					1	1	0	0
+Texts	Vietnamese_film.txt	41220	87607	87610	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41221	87626	87629	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41221	87637	87642	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41221	87655	87658	con					1	1	0	0
+Texts	Vietnamese_film.txt	41221	87688	87691	con					1	1	0	0
+Texts	Vietnamese_film.txt	41221	87746	87751	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41221	87759	87762	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41221	87768	87770	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41222	87808	87810	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41226	88305	88310	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41226	88331	88333	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41228	88437	88443	Bà con					1	0	1	0
+Texts	Vietnamese_film.txt	41228	88458	88471	lý trưởng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41232	88825	88830	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41236	89211	89216	Cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41238	89399	89406	Các anh					1	0	1	0
+Texts	Vietnamese_film.txt	41238	89543	89546	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41238	89548	89551	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41238	89556	89559	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41238	89561	89564	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41238	89608	89611	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41240	89747	89755	anh Điền					1	0	1	0
+Texts	Vietnamese_film.txt	41240	89781	89784	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41240	89805	89814	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41241	89843	89846	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41241	89848	89851	con					1	1	0	0
+Texts	Vietnamese_film.txt	41241	89908	89912	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41243	90079	90087	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41243	90171	90173	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41245	90290	90295	Cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41245	90340	90342	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41245	90377	90386	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41247	90471	90474	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41247	90483	90487	làng					1	0	1	0
+Texts	Vietnamese_film.txt	41247	90501	90509	Chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41247	90524	90526	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41247	90547	90553	các cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41249	90625	90627	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41249	90661	90663	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41251	90801	90804	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41251	90813	90821	dân làng					1	0	1	0
+Texts	Vietnamese_film.txt	41251	90889	90891	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41251	90911	90917	các vị					1	0	1	0
+Texts	Vietnamese_film.txt	41254	90999	91004	Cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41255	91017	91019	Cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41255	91046	91048	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41256	91108	91117	mọi người					1	0	1	0
+Texts	Vietnamese_film.txt	41256	91197	91199	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41256	91292	91294	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41261	91706	91709	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41261	91800	91803	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41261	91814	91817	tao					1	1	0	0
+Texts	Vietnamese_film.txt	41263	91956	91963	Chị Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41264	92239	92248	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41264	92273	92276	chị					1	0	1	0
+Texts	Vietnamese_film.txt	41266	92311	92314	Chị					1	0	1	0
+Texts	Vietnamese_film.txt	41266	92362	92365	chị					1	0	1	0
+Texts	Vietnamese_film.txt	41266	92367	92370	chị					1	0	1	0
+Texts	Vietnamese_film.txt	41266	92466	92469	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41270	92791	92798	Chú Mùi					1	0	1	0
+Texts	Vietnamese_film.txt	41270	92813	92816	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41271	92851	92857	Cô Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41271	92909	92913	mình					1	0	1	0
+Texts	Vietnamese_film.txt	41271	92921	92924	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41273	93068	93079	ông Ngọ này					1	0	0	1
+Texts	Vietnamese_film.txt	41273	93068	93079	ông Ngọ này					1	0	1	0
+Texts	Vietnamese_film.txt	41273	93081	93084	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	41273	93095	93098	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41273	93135	93138	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41273	93152	93155	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41274	93174	93177	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41274	93207	93210	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41274	93224	93230	 cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41274	93275	93277	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41274	93283	93286	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41275	93318	93321	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	41275	93365	93368	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41275	93379	93382	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41276	93399	93404	Cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41276	93467	93469	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41276	93482	93485	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41277	93521	93524	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	41278	93600	93602	Cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41278	93600	93602	Cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41278	93607	93611	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41279	93784	93787	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41281	93912	93917	cụ Lý					1	0	0	1
+Texts	Vietnamese_film.txt	41281	93912	93917	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41281	93927	93929	cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41281	93927	93929	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41281	93934	93936	cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41281	93934	93936	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41283	93982	93989	Con này					1	0	0	1
+Texts	Vietnamese_film.txt	41283	93982	93989	Con này					1	0	1	0
+Texts	Vietnamese_film.txt	41283	94012	94015	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41284	94094	94097	con					1	0	1	0
+Texts	Vietnamese_film.txt	41286	94143	94153	Con mẹ này					1	0	0	1
+Texts	Vietnamese_film.txt	41286	94143	94153	Con mẹ này					1	0	1	0
+Texts	Vietnamese_film.txt	41286	94171	94174	Tao					1	1	0	0
+Texts	Vietnamese_film.txt	41286	94204	94207	mày					1	0	1	0
+Texts	Vietnamese_film.txt	41288	94322	94325	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41288	94343	94346	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41288	94365	94372	ông Ngọ					1	0	0	1
+Texts	Vietnamese_film.txt	41288	94365	94372	ông Ngọ					1	0	1	0
+Texts	Vietnamese_film.txt	41289	94387	94389	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41291	94450	94453	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41291	94461	94463	cụ					1	1	0	0
+Texts	Vietnamese_film.txt	41292	94491	94496	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41292	94520	94523	con					1	1	0	0
+Texts	Vietnamese_film.txt	41292	94546	94549	con					1	1	0	0
+Texts	Vietnamese_film.txt	41292	94576	94579	con					1	1	0	0
+Texts	Vietnamese_film.txt	41292	94584	94589	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41292	94626	94629	con					1	1	0	0
+Texts	Vietnamese_film.txt	41294	94796	94798	cụ					1	1	0	0
+Texts	Vietnamese_film.txt	41294	94800	94802	cụ					1	1	0	0
+Texts	Vietnamese_film.txt	41296	94869	94874	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41296	94904	94906	Cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41296	94937	94939	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41299	95079	95081	cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41299	95079	95081	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41299	95083	95086	con					1	1	0	0
+Texts	Vietnamese_film.txt	41300	95161	95164	Mày					1	0	1	0
+Texts	Vietnamese_film.txt	41300	95207	95215	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41301	95306	95309	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41301	95314	95317	anh					1	0	1	0
+Texts	Vietnamese_film.txt	41302	95338	95340	cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41302	95338	95340	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41302	95349	95352	con					1	1	0	0
+Texts	Vietnamese_film.txt	41303	95460	95467	Nhà chị					1	0	1	0
+Texts	Vietnamese_film.txt	41303	95487	95489	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41303	95495	95497	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41304	95541	95544	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41304	95556	95558	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41305	95580	95587	Nhà chị					1	0	1	0
+Texts	Vietnamese_film.txt	41305	95604	95606	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41307	95683	95693	Ông phó lý					1	0	0	1
+Texts	Vietnamese_film.txt	41307	95683	95693	Ông phó lý					1	0	1	0
+Texts	Vietnamese_film.txt	41307	95707	95710	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41307	95714	95717	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41308	95751	95756	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41308	95782	95785	con					1	1	0	0
+Texts	Vietnamese_film.txt	41309	95828	95831	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41309	95939	95942	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41309	95947	95950	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41310	95990	95992	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41311	96060	96064	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41312	96273	96276	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41312	96284	96286	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41313	96372	96375	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41313	96400	96404	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41313	96432	96435	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41316	96669	96671	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41316	96700	96707	nhà con					1	1	0	0
+Texts	Vietnamese_film.txt	41316	96737	96740	con					1	1	0	0
+Texts	Vietnamese_film.txt	41317	96758	96769	Nhà chị Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41318	96838	96845	nhà tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41318	96858	96863	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41319	96898	96909	nhà chị Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41320	96938	96940	cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41320	96938	96940	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41320	96975	96978	con					1	1	0	0
+Texts	Vietnamese_film.txt	41320	97017	97020	con					1	1	0	0
+Texts	Vietnamese_film.txt	41322	97135	97138	con					1	1	0	0
+Texts	Vietnamese_film.txt	41324	97244	97246	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41324	97276	97278	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41326	97414	97417	Dậu					1	0	1	0
+Texts	Vietnamese_film.txt	41329	97601	97603	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41329	97641	97644	chị					1	0	1	0
+Texts	Vietnamese_film.txt	41329	97721	97723	ta					1	1	0	0
+Texts	Vietnamese_film.txt	41330	97796	97798	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41330	97924	97926	cô					1	0	1	0
+Texts	Vietnamese_film.txt	41331	97934	97937	Con					1	1	0	0
+Texts	Vietnamese_film.txt	41331	97945	97950	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41334	98121	98124	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41334	98202	98205	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41336	98324	98330	Ông Lý					1	0	0	1
+Texts	Vietnamese_film.txt	41336	98324	98330	Ông Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41336	98332	98338	ông Lý					1	0	0	1
+Texts	Vietnamese_film.txt	41336	98332	98338	ông Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41337	98393	98395	bà					1	0	1	0
+Texts	Vietnamese_film.txt	41338	98423	98426	Ông					1	0	1	0
+Texts	Vietnamese_film.txt	41338	98455	98458	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41338	98500	98508	nhà mình					1	1	0	0
+Texts	Vietnamese_film.txt	41339	98565	98567	bà					1	0	1	0
+Texts	Vietnamese_film.txt	41340	98638	98641	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41340	98643	98646	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41340	98661	98664	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41341	98708	98710	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	41341	98792	98795	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41341	98805	98808	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41342	98889	98892	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41343	98944	98947	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41343	98990	98992	bà					1	0	1	0
+Texts	Vietnamese_film.txt	41346	99184	99187	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41346	99252	99260	nhà mình					1	1	0	0
+Texts	Vietnamese_film.txt	41346	99265	99268	ông					1	0	1	0
+Texts	Vietnamese_film.txt	41346	99278	99281	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41347	99299	99301	Bà					1	0	1	0
+Texts	Vietnamese_film.txt	41350	99537	99541	làng					1	0	1	0
+Texts	Vietnamese_film.txt	41350	99563	99572	chúng tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41350	99592	99595	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41350	99624	99627	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41351	99684	99690	Bà con					1	0	1	0
+Texts	Vietnamese_film.txt	41351	99759	99763	mình					1	0	1	0
+Texts	Vietnamese_film.txt	41355	100038	100040	Cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41355	100061	100065	mình					1	0	1	0
+Texts	Vietnamese_film.txt	41357	100141	100156	bà con làng Bồm					1	0	0	1
+Texts	Vietnamese_film.txt	41357	100141	100156	bà con làng Bồm					1	0	1	0
+Texts	Vietnamese_film.txt	41357	100205	100211	bà con					1	0	1	0
+Texts	Vietnamese_film.txt	41357	100215	100222	làng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41359	100467	100474	làng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41359	100480	100487	làng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41361	100619	100622	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41361	100630	100645	bà con dân làng					1	0	1	0
+Texts	Vietnamese_film.txt	41361	100740	100743	tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41361	100745	100748	Tôi					1	1	0	0
+Texts	Vietnamese_film.txt	41361	100891	100895	mình					1	0	1	0
+Texts	Vietnamese_film.txt	41363	100978	100983	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41364	101077	101081	Mình					1	1	0	0
+Texts	Vietnamese_film.txt	41364	101181	101185	mình					1	1	0	0
+Texts	Vietnamese_film.txt	41364	101194	101200	bà con					1	0	1	0
+Texts	Vietnamese_film.txt	41366	101316	101323	các ông					1	0	1	0
+Texts	Vietnamese_film.txt	41366	101325	101331	các bà					1	0	1	0
+Texts	Vietnamese_film.txt	41367	101412	101417	cụ Lý					1	0	1	0
+Texts	Vietnamese_film.txt	41367	101419	101428	Chúng con					1	1	0	0
+Texts	Vietnamese_film.txt	41367	101454	101460	nhà cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41369	101563	101571	chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41370	101641	101649	Chúng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41370	101701	101703	cụ					1	0	0	1
+Texts	Vietnamese_film.txt	41370	101701	101703	cụ					1	0	1	0
+Texts	Vietnamese_film.txt	41370	101755	101762	làng ta					1	1	0	0
+Texts	Vietnamese_film.txt	41371	101859	101866	Làng ta					1	1	0	0

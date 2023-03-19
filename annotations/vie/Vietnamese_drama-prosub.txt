@@ -1,0 +1,2613 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	Vietnamese_drama.txt	39086	84	96	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39086	84	96	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39087	224	228	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39087	254	257	bay					1	0	0	1
+Texts	Vietnamese_drama.txt	39087	254	257	bay					1	0	1	0
+Texts	Vietnamese_drama.txt	39087	268	272	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39087	279	283	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39089	367	371	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39089	400	404	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39090	491	503	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39090	491	503	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39093	579	583	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39093	643	647	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39095	910	915	Khanh					1	0	1	0
+Texts	Vietnamese_drama.txt	39095	943	947	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39095	956	961	khanh					1	0	1	0
+Texts	Vietnamese_drama.txt	39095	987	992	Khanh					1	0	1	0
+Texts	Vietnamese_drama.txt	39096	1044	1054	thần thiếp					1	1	0	0
+Texts	Vietnamese_drama.txt	39096	1073	1085	thánh thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39096	1110	1121	thánh hoàng					1	0	1	0
+Texts	Vietnamese_drama.txt	39096	1141	1151	thần thiếp					1	1	0	0
+Texts	Vietnamese_drama.txt	39097	1187	1195	Ái khanh					1	0	1	0
+Texts	Vietnamese_drama.txt	39097	1224	1227	Bay					1	0	0	1
+Texts	Vietnamese_drama.txt	39097	1224	1227	Bay					1	0	1	0
+Texts	Vietnamese_drama.txt	39097	1250	1254	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39097	1307	1311	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39097	1317	1322	khanh					1	0	1	0
+Texts	Vietnamese_drama.txt	39099	1393	1405	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39099	1393	1405	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39100	1438	1440	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39101	1496	1508	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39101	1496	1508	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39101	1510	1520	thần thiếp					1	1	0	0
+Texts	Vietnamese_drama.txt	39105	1787	1792	ngươi					1	0	1	0
+Texts	Vietnamese_drama.txt	39106	1832	1844	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39106	1832	1844	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39107	1908	1912	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39108	1963	1975	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39108	1963	1975	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39114	2197	2209	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39114	2197	2209	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39115	2260	2264	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39116	2274	2286	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39117	2305	2309	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39118	2417	2421	thần					1	1	0	0
+Texts	Vietnamese_drama.txt	39119	2467	2471	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39120	2539	2551	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39120	2539	2551	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39122	2643	2655	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39122	2643	2655	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39122	2674	2681	hạ thần					1	1	0	0
+Texts	Vietnamese_drama.txt	39124	2770	2774	Thần					1	1	0	0
+Texts	Vietnamese_drama.txt	39125	2857	2862	ngươi					1	0	1	0
+Texts	Vietnamese_drama.txt	39126	2892	2904	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39126	2892	2904	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39126	3003	3015	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39126	3047	3059	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39126	3073	3080	hạ thần					1	1	0	0
+Texts	Vietnamese_drama.txt	39126	3136	3148	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39127	3238	3242	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39128	3333	3345	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39128	3333	3345	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39129	3446	3451	Ngươi					1	0	1	0
+Texts	Vietnamese_drama.txt	39129	3474	3479	ngươi					1	0	1	0
+Texts	Vietnamese_drama.txt	39132	3870	3875	Ngươi					1	0	1	0
+Texts	Vietnamese_drama.txt	39136	4018	4030	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39137	4161	4166	khanh					1	0	1	0
+Texts	Vietnamese_drama.txt	39137	4185	4194	Đan Thiềm					1	0	0	1
+Texts	Vietnamese_drama.txt	39137	4185	4194	Đan Thiềm					1	0	1	0
+Texts	Vietnamese_drama.txt	39140	4250	4262	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39140	4271	4281	thần thiếp					1	1	0	0
+Texts	Vietnamese_drama.txt	39141	4325	4327	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39141	4371	4375	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39146	4730	4732	bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39146	4730	4732	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39150	4842	4845	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39150	4850	4853	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39151	4900	4903	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39152	4992	4995	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39152	5016	5019	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39152	5034	5037	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39153	5076	5079	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39153	5092	5101	Các người					1	0	1	0
+Texts	Vietnamese_drama.txt	39153	5133	5136	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39153	5138	5147	các người					1	0	1	0
+Texts	Vietnamese_drama.txt	39154	5172	5175	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39154	5184	5187	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39154	5206	5209	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39156	5283	5286	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39156	5291	5294	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39157	5391	5394	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39158	5453	5456	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39159	5585	5587	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39160	5673	5676	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39160	5678	5681	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39160	5697	5700	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39160	5714	5717	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39161	5778	5780	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39162	5815	5818	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39162	5857	5860	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39162	5929	5932	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39162	5946	5949	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39162	5974	5977	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39163	5980	5983	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39163	6025	6028	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39163	6050	6053	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39163	6133	6136	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39164	6233	6236	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39165	6306	6309	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39165	6343	6346	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39165	6343	6346	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39168	6466	6475	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39168	6497	6499	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39169	6556	6558	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39169	6667	6669	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39170	6695	6698	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39170	6731	6734	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39170	6862	6866	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39170	6952	6961	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39170	7041	7043	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39171	7104	7107	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39172	7168	7177	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39173	7233	7240	các ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39174	7325	7334	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39174	7403	7412	Chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7480	7482	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39176	7496	7499	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7526	7529	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7597	7600	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7630	7633	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7752	7755	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7759	7762	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7831	7834	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7879	7882	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	7920	7923	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	8013	8016	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	8078	8081	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39176	8121	8124	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39177	8190	8193	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39177	8222	8225	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39179	8321	8324	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39179	8369	8372	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39179	8374	8377	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39182	8619	8621	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39182	8649	8652	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39183	8697	8700	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39183	8753	8756	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39183	8836	8839	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39184	8886	8888	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39184	8896	8899	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39185	8957	8960	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39185	8984	8987	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39188	9173	9176	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39189	9272	9275	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9304	9307	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9389	9392	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9408	9411	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9499	9502	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9561	9564	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9568	9571	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9600	9603	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9699	9702	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9728	9730	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39189	9844	9847	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9859	9862	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9872	9875	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39189	9885	9888	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39190	9978	9980	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39190	10026	10029	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39190	10057	10060	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39190	10093	10096	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39190	10110	10112	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39191	10126	10129	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39191	10148	10151	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39191	10157	10160	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39194	10254	10263	Đan Thiềm					1	0	0	1
+Texts	Vietnamese_drama.txt	39194	10254	10263	Đan Thiềm					1	0	1	0
+Texts	Vietnamese_drama.txt	39195	10310	10322	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39195	10310	10322	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39196	10353	10355	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39196	10360	10362	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39198	10479	10488	Vũ Như Tô					1	0	0	1
+Texts	Vietnamese_drama.txt	39198	10479	10488	Vũ Như Tô					1	0	1	0
+Texts	Vietnamese_drama.txt	39198	10490	10492	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39199	10528	10540	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39199	10528	10540	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39199	10541	10550	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39200	10616	10618	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39200	10669	10673	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39200	10689	10691	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39201	10718	10730	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39201	10718	10730	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39201	10731	10740	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39202	10800	10804	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39202	10818	10820	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39203	10877	10889	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39203	10899	10908	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39203	10919	10928	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39204	10979	10983	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39204	11001	11003	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39205	11035	11047	Hoàng thượng					1	0	0	1
+Texts	Vietnamese_drama.txt	39205	11035	11047	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39205	11049	11058	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39205	11072	11084	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39205	11101	11110	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39205	11164	11173	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39205	11245	11254	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39205	11409	11418	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39208	11631	11633	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39208	11647	11649	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39208	11676	11678	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39209	11734	11743	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39209	11762	11771	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39209	11822	11834	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39209	11954	11963	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39210	12019	12023	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39210	12039	12041	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39210	12081	12085	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39211	12143	12152	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39211	12206	12215	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39211	12247	12259	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39211	12279	12288	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39211	12358	12367	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39211	12382	12386	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39211	12388	12397	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39212	12561	12565	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39212	12583	12585	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39212	12625	12629	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39212	12684	12688	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39212	12768	12770	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39213	12809	12818	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39213	12848	12857	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39214	12914	12916	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39215	12955	12964	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39215	12978	12990	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39216	13026	13028	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39216	13041	13043	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39216	13053	13055	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39217	13110	13119	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39217	13172	13181	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39217	13218	13230	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39217	13268	13270	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39217	13274	13283	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39217	13288	13300	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39217	13316	13328	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39217	13423	13432	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39217	13454	13466	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39217	13496	13509	Vũ Như Tô này					1	1	0	0
+Texts	Vietnamese_drama.txt	39218	13590	13592	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39219	13629	13638	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39219	13685	13694	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39219	13703	13712	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39219	13739	13748	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39219	14113	14122	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39219	14158	14170	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39219	14254	14263	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39220	14388	14392	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39221	14423	14432	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39221	14448	14460	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39222	14483	14487	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39223	14512	14524	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39223	14533	14542	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39224	14562	14564	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39224	14571	14573	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39224	14593	14595	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39225	14698	14710	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39226	14800	14804	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39226	14816	14820	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39226	14852	14856	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39226	14904	14908	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39226	15014	15018	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39226	15067	15069	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39228	15121	15123	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39230	15216	15218	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39230	15238	15242	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39230	15253	15255	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39230	15261	15265	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39230	15276	15278	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39230	15315	15319	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39230	15374	15378	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39230	15384	15386	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39230	15388	15390	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39231	15440	15452	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39231	15687	15699	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39231	15754	15763	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39231	15789	15798	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39232	15943	15945	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39232	15962	15966	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39233	15984	15993	Tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39233	16027	16039	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39233	16053	16055	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39233	16118	16130	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39233	16227	16239	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39233	16328	16340	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39233	16415	16424	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39234	16474	16476	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39235	16543	16552	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39235	16617	16623	kẻ này					1	1	0	0
+Texts	Vietnamese_drama.txt	39235	16666	16675	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39235	16735	16747	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39236	16819	16821	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39236	16827	16831	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39236	16840	16844	Trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39236	16850	16852	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39236	16864	16866	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39236	16909	16913	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39237	16933	16945	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39237	16963	16972	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39237	17028	17040	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39237	17055	17064	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39237	17105	17117	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39237	17157	17166	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39239	17302	17314	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39240	17407	17411	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39241	17523	17535	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39241	17544	17553	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39242	17606	17608	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39242	17616	17618	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39242	17633	17637	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39243	17659	17671	Hoàng thượng					1	0	1	0
+Texts	Vietnamese_drama.txt	39243	17676	17685	tiện nhân					1	1	0	0
+Texts	Vietnamese_drama.txt	39244	17791	17793	Mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39244	17813	17817	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39244	17825	17827	mi					1	0	1	0
+Texts	Vietnamese_drama.txt	39244	17833	17837	trẫm					1	1	0	0
+Texts	Vietnamese_drama.txt	39246	17894	17900	bà lớn					1	0	0	1
+Texts	Vietnamese_drama.txt	39246	17894	17900	bà lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39247	17914	17917	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39247	17937	17941	Thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39247	17965	17968	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39247	17980	17983	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39249	18030	18033	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39251	18092	18098	cụ lớn					1	0	0	1
+Texts	Vietnamese_drama.txt	39251	18092	18098	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39252	18124	18128	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39252	18135	18139	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39252	18135	18139	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39252	18167	18170	mày					1	0	0	1
+Texts	Vietnamese_drama.txt	39252	18167	18170	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39253	18187	18193	cụ lớn					1	0	0	1
+Texts	Vietnamese_drama.txt	39253	18187	18193	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39253	18200	18202	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39253	18249	18258	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39253	18284	18290	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39253	18301	18304	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39253	18403	18406	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39254	18448	18452	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39254	18522	18526	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39255	18569	18575	cụ lớn					1	0	0	1
+Texts	Vietnamese_drama.txt	39255	18569	18575	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39255	18600	18603	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39256	18830	18832	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39257	18865	18871	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39259	19093	19099	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39261	19186	19189	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39261	19219	19225	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39262	19259	19263	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39263	19285	19291	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39264	19326	19330	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39265	19362	19368	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39265	19436	19442	Cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39266	19474	19478	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39267	19500	19506	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39268	19549	19553	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39268	19560	19567	cụ lang					1	0	1	0
+Texts	Vietnamese_drama.txt	39270	19634	19636	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39271	19666	19672	bà lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39271	19693	19701	cậu Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39271	19693	19701	cậu Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39271	19702	19705	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39271	19713	19716	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39271	19744	19747	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39272	19772	19774	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39272	19794	19798	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39272	19794	19798	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39272	19800	19803	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39273	19847	19849	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39273	19888	19890	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39273	19903	19907	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39273	19903	19907	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39273	19936	19939	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39275	19972	19978	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39276	20018	20022	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39276	20039	20042	tôi					1	0	1	0
+Texts	Vietnamese_drama.txt	39277	20277	20283	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39278	20327	20331	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39278	20348	20351	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39279	20586	20592	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39280	20636	20640	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39284	21233	21236	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39284	21274	21278	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39285	21321	21327	cụ lớn					1	0	0	1
+Texts	Vietnamese_drama.txt	39285	21321	21327	cụ lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39287	21394	21396	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39287	21423	21425	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39288	21450	21456	bà lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39289	21469	21471	Cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39291	21942	21946	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39291	21942	21946	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39293	22142	22144	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39293	22251	22253	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39293	22297	22300	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39293	22310	22312	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39293	22314	22317	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39293	22369	22377	Cậu Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39293	22369	22377	Cậu Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39293	22379	22382	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39293	22393	22396	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39294	22425	22428	Mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39295	22465	22471	bà lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39296	22498	22500	cụ					1	0	0	1
+Texts	Vietnamese_drama.txt	39296	22498	22500	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39298	22561	22563	mẹ					1	0	0	1
+Texts	Vietnamese_drama.txt	39298	22561	22563	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39299	22598	22604	Bà Lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39299	22634	22636	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39300	22683	22685	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39300	22749	22751	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39301	22790	22792	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39301	22854	22856	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39301	22860	22862	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39302	22897	22900	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39302	22921	22924	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39302	22929	22931	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39304	23068	23072	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39304	23068	23072	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39304	23074	23077	Mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39308	23269	23271	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39308	23279	23285	bà lớn					1	0	1	0
+Texts	Vietnamese_drama.txt	39308	23294	23296	cô					1	0	1	0
+Texts	Vietnamese_drama.txt	39309	23320	23324	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39310	23364	23366	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39311	23487	23489	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39313	23595	23598	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39313	23615	23618	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39313	23771	23774	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39313	23897	23901	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39313	23934	23938	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39313	23981	23985	ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39314	24057	24068	con Huệ kia					1	0	0	1
+Texts	Vietnamese_drama.txt	39314	24057	24068	con Huệ kia					1	0	1	0
+Texts	Vietnamese_drama.txt	39314	24070	24073	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39314	24094	24097	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39315	24124	24128	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39315	24162	24165	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39315	24215	24219	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39315	24263	24272	Chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	39315	24331	24335	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39315	24340	24349	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	39316	24425	24429	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39316	24465	24469	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39316	24490	24494	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39316	24527	24531	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39316	24554	24558	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39316	24615	24619	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39316	24636	24640	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39317	24670	24674	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39317	24701	24703	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39317	24707	24709	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39318	24754	24760	Đức Bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39318	24754	24760	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39318	24762	24771	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	39318	24830	24834	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39318	24848	24852	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39318	24857	24861	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39318	24914	24920	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39321	25036	25042	Đức Bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39321	25036	25042	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39321	25044	25050	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39321	25066	25070	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39321	25082	25088	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39324	25262	25268	Đức Bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39324	25262	25268	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39324	25293	25299	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39324	25362	25366	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39325	25428	25430	bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39326	25475	25477	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39327	25522	25524	bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39327	25535	25539	tiểu					1	0	1	0
+Texts	Vietnamese_drama.txt	39327	25545	25547	bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39327	25551	25553	bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39327	25585	25587	bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39328	25720	25723	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39331	25827	25833	Đức Bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39331	25827	25833	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39331	25843	25847	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39331	25890	25896	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39335	26175	26181	Đức Bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39335	26175	26181	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39335	26187	26191	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39335	26229	26235	Đức Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39335	26251	26255	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39335	26268	26272	tiểu					1	1	0	0
+Texts	Vietnamese_drama.txt	39335	26312	26316	Ngài					1	0	1	0
+Texts	Vietnamese_drama.txt	39337	26419	26423	tiểu					1	0	1	0
+Texts	Vietnamese_drama.txt	39337	26451	26453	bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39337	26464	26468	tiểu					1	0	1	0
+Texts	Vietnamese_drama.txt	39337	26477	26479	Bà					1	1	0	0
+Texts	Vietnamese_drama.txt	39339	26549	26553	tiểu					1	0	1	0
+Texts	Vietnamese_drama.txt	39339	26608	26610	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39342	26719	26722	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39342	26727	26730	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39342	26732	26735	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39342	26761	26764	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39342	26783	26786	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39342	26791	26794	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39342	26791	26794	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39343	26816	26818	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39343	26820	26823	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39344	26859	26862	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39344	26874	26877	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39346	27089	27092	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39346	27127	27130	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39347	27154	27156	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39347	27166	27168	mẹ					1	0	1	0
+Texts	Vietnamese_drama.txt	39347	27188	27191	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39347	27213	27216	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39348	27287	27290	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39348	27324	27327	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39350	27445	27448	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39350	27460	27463	Huệ					1	0	0	1
+Texts	Vietnamese_drama.txt	39350	27460	27463	Huệ					1	0	1	0
+Texts	Vietnamese_drama.txt	39350	27472	27475	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39351	27507	27511	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39351	27562	27565	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39352	27603	27606	Huệ					1	0	0	1
+Texts	Vietnamese_drama.txt	39352	27603	27606	Huệ					1	0	1	0
+Texts	Vietnamese_drama.txt	39352	27608	27611	Tao					1	1	0	0
+Texts	Vietnamese_drama.txt	39352	27620	27623	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39352	27651	27654	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39353	27694	27697	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39353	27699	27701	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39354	27735	27738	Mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39354	27757	27760	mày					1	0	1	0
+Texts	Vietnamese_drama.txt	39354	27770	27774	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39354	27770	27774	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39354	27788	27791	tao					1	1	0	0
+Texts	Vietnamese_drama.txt	39355	27861	27865	Quýt					1	0	0	1
+Texts	Vietnamese_drama.txt	39355	27861	27865	Quýt					1	0	1	0
+Texts	Vietnamese_drama.txt	39355	27876	27885	ông Thông					1	0	0	1
+Texts	Vietnamese_drama.txt	39355	27876	27885	ông Thông					1	0	1	0
+Texts	Vietnamese_drama.txt	39355	27887	27890	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39355	27920	27923	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39355	27925	27928	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39355	27969	27971	mẹ					1	1	0	0
+Texts	Vietnamese_drama.txt	39355	27973	27976	con					1	0	0	1
+Texts	Vietnamese_drama.txt	39355	27973	27976	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39357	28083	28086	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39357	28083	28086	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39358	28098	28101	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39360	28281	28283	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39360	28318	28321	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39360	28372	28375	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39360	28372	28375	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39362	28478	28481	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39362	28478	28481	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39363	28545	28548	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39363	28591	28594	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39364	28674	28681	Anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39364	28674	28681	Anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39365	28809	28816	chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39365	28809	28816	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39369	29109	29113	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39371	29338	29342	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39375	29697	29700	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39375	29705	29708	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39376	29727	29731	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39376	29727	29731	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39376	29864	29867	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39376	29864	29867	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39376	29871	29873	Ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39377	29934	29937	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39377	29957	29960	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39377	30025	30033	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39378	30092	30095	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39379	30148	30152	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39379	30148	30152	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39380	30165	30168	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39380	30179	30186	chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39380	30179	30186	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39381	30256	30259	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39382	30271	30274	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39384	30479	30483	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39384	30569	30573	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39384	30569	30573	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39385	30614	30617	chị					1	0	0	1
+Texts	Vietnamese_drama.txt	39385	30614	30617	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39386	30637	30640	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39387	30738	30746	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39387	30807	30810	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39387	30834	30841	chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39387	30834	30841	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39389	31034	31041	chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39389	31034	31041	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39391	31131	31135	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39392	31205	31209	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39396	31477	31481	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39397	31524	31527	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39397	31551	31554	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39397	31636	31639	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39399	31694	31698	Kính					1	1	0	0
+Texts	Vietnamese_drama.txt	39399	31738	31741	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39399	31764	31767	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39399	31781	31784	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39399	31912	31916	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39399	31947	31951	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39404	32409	32412	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39404	32409	32412	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39405	32458	32461	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39405	32458	32461	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39406	32538	32541	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39406	32538	32541	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39406	32572	32575	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39406	32595	32598	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39406	32621	32624	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39406	32641	32644	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39408	32749	32752	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39408	32796	32799	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39412	33138	33141	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39412	33190	33193	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39413	33209	33212	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39414	33256	33259	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39415	33275	33278	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39415	33298	33302	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39416	33354	33357	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39417	33410	33413	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39417	33464	33467	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39417	33473	33476	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39418	33538	33541	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39418	33547	33550	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39418	33573	33576	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39418	33578	33581	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39418	33589	33592	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39420	33694	33702	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39421	33777	33780	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39421	33806	33809	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39421	33816	33820	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39421	33843	33847	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39424	34189	34192	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39425	34214	34217	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39426	34367	34370	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39428	34424	34427	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39430	34495	34498	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39432	34638	34641	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39432	34698	34701	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39432	34766	34769	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39432	34819	34822	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39432	34862	34865	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39432	34887	34895	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39432	34905	34908	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39432	34905	34908	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39432	34914	34917	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39432	34914	34917	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39433	34925	34928	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39433	34963	34972	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39433	34963	34972	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39434	35095	35098	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39435	35130	35133	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39439	35438	35441	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39439	35478	35481	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39439	35628	35631	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39439	35649	35652	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39439	35649	35652	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39440	35710	35713	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39440	35742	35745	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39440	35841	35844	chị					1	0	0	1
+Texts	Vietnamese_drama.txt	39440	35841	35844	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39442	35922	35925	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39442	36068	36072	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39443	36133	36137	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39443	36133	36137	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39443	36139	36142	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39445	36221	36230	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39445	36221	36230	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39448	36323	36326	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39448	36352	36355	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39450	36410	36413	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39450	36425	36428	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39452	36484	36487	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39452	36484	36487	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39453	36685	36688	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39454	36768	36771	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39454	36785	36789	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39454	36874	36878	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39456	36938	36941	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39457	37137	37140	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39457	37137	37140	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39458	37164	37167	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39458	37192	37195	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39459	37277	37280	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39459	37308	37313	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39459	37308	37313	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39460	37337	37340	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39461	37483	37486	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39461	37532	37535	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39461	37532	37535	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39462	37548	37551	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39462	37548	37551	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39462	37614	37617	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39462	37664	37667	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39464	37738	37741	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39464	37764	37767	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39465	37807	37810	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39465	37929	37932	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39467	38186	38189	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39467	38186	38189	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39468	38373	38376	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39468	38384	38387	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39468	38384	38387	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39469	38406	38409	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39470	38434	38437	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39470	38442	38445	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39470	38463	38466	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39471	38502	38505	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39472	38530	38533	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39472	38585	38588	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39472	38620	38623	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39473	38708	38711	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39473	38754	38757	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39473	38780	38783	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39473	38854	38857	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39475	39006	39009	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39476	39058	39061	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39476	39104	39107	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39477	39180	39186	Nhà ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39477	39261	39264	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39477	39275	39278	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39477	39348	39351	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39477	39455	39458	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39477	39460	39463	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39479	39731	39734	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39480	39787	39790	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39480	39787	39790	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39481	39923	39926	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39482	40062	40065	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39482	40123	40127	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39482	40223	40226	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39482	40292	40295	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39482	40319	40322	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39482	40319	40322	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39483	40359	40362	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39484	40479	40482	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39484	40500	40503	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39484	40586	40589	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39484	40605	40608	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39484	40621	40624	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39485	40666	40669	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39487	40776	40779	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39487	41005	41008	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39487	41005	41008	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39488	41052	41055	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39488	41068	41071	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39488	41090	41093	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39489	41176	41179	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39490	41253	41256	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39490	41253	41256	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39491	41286	41289	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39491	41296	41299	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39491	41330	41333	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39491	41523	41526	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39492	41534	41537	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39494	41677	41680	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39495	41819	41822	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39496	41843	41846	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39496	41864	41867	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	41913	41916	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	41932	41935	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	41950	41953	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39498	42001	42004	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	42018	42021	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	42035	42038	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	42051	42054	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39498	42068	42071	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	42097	42100	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39498	42128	42131	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39498	42128	42131	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39498	42133	42136	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39498	42160	42162	Đẻ					1	0	0	1
+Texts	Vietnamese_drama.txt	39498	42160	42162	Đẻ					1	0	1	0
+Texts	Vietnamese_drama.txt	39500	42361	42365	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39500	42361	42365	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39500	42479	42483	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39500	42479	42483	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39502	42689	42693	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39502	42689	42693	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39504	42753	42757	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39505	42887	42890	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39505	42919	42921	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39507	43027	43030	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39508	43055	43059	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39509	43088	43090	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39510	43154	43158	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39510	43154	43158	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39513	43343	43345	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39513	43419	43422	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39518	43631	43635	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39519	43665	43667	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39520	43740	43744	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39524	43925	43934	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39524	43925	43934	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39525	43979	43983	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39526	44041	44043	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39527	44059	44064	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39527	44059	44064	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39528	44083	44086	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39528	44090	44093	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39528	44114	44117	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39528	44122	44124	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39528	44130	44132	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44147	44152	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39529	44147	44152	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44164	44167	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44240	44243	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44248	44253	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44273	44276	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44281	44286	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44288	44293	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44317	44322	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44329	44332	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44365	44370	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44407	44410	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44437	44442	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44495	44498	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44509	44514	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39529	44509	44514	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39529	44518	44521	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44532	44535	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39529	44548	44553	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39530	44608	44610	bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39530	44608	44610	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39530	44612	44615	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39530	44630	44632	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39530	44655	44658	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39530	44665	44667	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39530	44690	44693	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39530	44704	44706	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39530	44716	44719	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39530	44728	44731	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39530	44746	44749	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39531	44778	44783	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39531	44808	44816	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39531	44829	44832	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39531	44836	44841	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39532	44856	44858	bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39532	44856	44858	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39533	44882	44885	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39533	44899	44904	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39533	44908	44911	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39533	44920	44925	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39533	44959	44962	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39533	44996	45001	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39533	45022	45025	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39533	45059	45064	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39533	45084	45089	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39533	45106	45109	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39534	45155	45163	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39535	45243	45246	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39535	45255	45260	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39535	45278	45281	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39535	45287	45292	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39535	45297	45302	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39535	45313	45316	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39535	45327	45332	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39535	45358	45363	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39535	45410	45418	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39535	45442	45447	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39535	45442	45447	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39536	45491	45493	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39537	45591	45596	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39538	45658	45661	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39539	45688	45691	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39542	45849	45854	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39542	45849	45854	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39544	45904	45907	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39545	45945	45948	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39546	45991	45994	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39547	46059	46063	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39547	46070	46073	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39548	46114	46117	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39548	46141	46144	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39549	46190	46194	Thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39551	46255	46257	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39552	46300	46303	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39552	46322	46326	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39553	46463	46471	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39553	46486	46488	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39553	46510	46513	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39553	46533	46535	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39554	46565	46569	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39554	46565	46569	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39555	46622	46624	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39556	46646	46650	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39556	46680	46684	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39556	46706	46710	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39557	46852	46854	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39558	46897	46904	ông Phủ					1	0	0	1
+Texts	Vietnamese_drama.txt	39558	46897	46904	ông Phủ					1	0	1	0
+Texts	Vietnamese_drama.txt	39559	46944	46946	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39560	46965	46968	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39560	46984	46987	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39562	47046	47049	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39563	47067	47069	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39563	47093	47095	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39563	47100	47103	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39564	47125	47128	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39564	47141	47144	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39565	47224	47226	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39565	47236	47239	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39565	47260	47262	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39565	47287	47290	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39565	47296	47298	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39566	47357	47360	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39567	47375	47378	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47564	47567	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47606	47609	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47645	47648	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39568	47662	47665	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47745	47748	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47758	47761	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47799	47802	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39568	47818	47821	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39569	47841	47843	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39570	47856	47859	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39570	47869	47872	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39570	47878	47881	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39570	47910	47913	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39571	47990	47992	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39571	48031	48034	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39571	48048	48050	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39571	48052	48055	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39571	48080	48082	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39571	48084	48087	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39571	48102	48104	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39571	48307	48310	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39572	48349	48352	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39572	48349	48352	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39573	48362	48365	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39575	48523	48526	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39575	48576	48578	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39575	48624	48626	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39575	48719	48721	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39576	48763	48766	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39576	48774	48777	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39577	48810	48812	bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39577	48810	48812	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39577	48839	48842	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39578	48863	48866	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39579	48880	48882	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39580	48912	48915	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39581	48943	48945	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39581	48962	48964	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39581	48975	48977	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39581	49101	49103	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39581	49115	49118	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39581	49145	49148	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39581	49174	49177	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39581	49191	49193	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39582	49227	49230	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39583	49255	49257	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39583	49259	49261	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39584	49288	49291	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39584	49314	49317	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39585	49341	49343	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39586	49368	49371	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39587	49430	49432	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39588	49488	49497	Ông Dương					1	0	0	1
+Texts	Vietnamese_drama.txt	39588	49488	49497	Ông Dương					1	0	1	0
+Texts	Vietnamese_drama.txt	39589	49507	49510	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39589	49526	49529	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39589	49539	49541	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39589	49555	49557	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39589	49571	49574	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39589	49621	49624	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39589	49637	49639	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39590	49652	49655	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39592	49719	49722	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39593	49744	49747	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39593	49764	49766	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39593	49785	49788	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39593	49828	49830	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39594	49913	49916	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39594	49934	49937	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39595	50013	50016	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39595	50040	50043	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39595	50054	50057	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39595	50110	50113	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39595	50128	50131	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39596	50194	50197	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39596	50237	50240	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39596	50246	50249	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39597	50288	50290	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39598	50330	50333	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39598	50338	50341	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39598	50354	50357	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39599	50374	50376	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39599	50409	50411	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39600	50532	50541	Ông Dương					1	0	0	1
+Texts	Vietnamese_drama.txt	39600	50532	50541	Ông Dương					1	0	1	0
+Texts	Vietnamese_drama.txt	39600	50556	50559	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39601	50569	50571	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39601	50579	50581	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39601	50591	50594	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39601	50605	50608	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39601	50664	50666	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39601	50676	50678	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39601	50820	50822	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39601	50861	50863	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39602	50915	50918	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39602	50927	50930	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39604	50966	50969	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39604	50993	50996	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51004	51007	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39604	51015	51018	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51025	51028	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51065	51068	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51077	51080	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51115	51118	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39604	51136	51139	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51141	51144	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51154	51157	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51263	51266	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51324	51327	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51333	51336	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51350	51353	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51365	51368	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39604	51370	51373	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39604	51375	51378	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39604	51390	51393	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39605	51411	51419	Ngọc Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	39605	51411	51419	Ngọc Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	39606	51432	51435	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39606	51445	51448	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39607	51462	51465	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39608	51502	51505	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39608	51515	51527	Thằng bếp Ba					1	0	0	1
+Texts	Vietnamese_drama.txt	39608	51515	51527	Thằng bếp Ba					1	0	1	0
+Texts	Vietnamese_drama.txt	39609	51541	51544	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39609	51574	51576	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39610	51611	51614	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39610	51620	51623	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39612	51742	51751	Anh Dương					1	0	0	1
+Texts	Vietnamese_drama.txt	39612	51742	51751	Anh Dương					1	0	1	0
+Texts	Vietnamese_drama.txt	39612	51753	51756	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39613	51818	51821	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39614	51898	51901	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39614	51914	51917	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39615	51953	51956	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39615	52011	52014	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39615	52042	52045	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39616	52075	52078	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39617	52146	52149	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39618	52235	52239	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39619	52293	52296	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39620	52346	52349	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39621	52383	52386	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39623	52448	52451	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39623	52533	52536	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39624	52584	52587	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39624	52584	52587	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39625	52597	52600	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39625	52747	52750	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39625	52786	52789	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39625	52849	52852	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39625	52869	52872	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39625	52891	52894	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39626	52949	52952	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39627	52974	52977	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39627	52987	52990	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39627	53078	53081	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39628	53183	53186	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39629	53224	53227	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39629	53232	53235	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39630	53313	53316	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39633	53563	53566	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39633	53575	53578	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39633	53592	53595	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39635	53751	53754	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39635	53820	53823	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39636	53840	53843	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39636	53927	53930	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39636	53984	53987	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39637	54020	54023	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39637	54088	54091	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39637	54135	54138	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39637	54214	54217	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39637	54219	54221	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39638	54271	54274	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39640	54417	54420	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39640	54443	54446	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39640	54474	54477	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39642	54731	54735	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39643	54799	54803	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39643	54877	54880	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39643	54928	54931	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39643	54950	54953	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39645	55042	55045	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39645	55095	55099	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39645	55169	55172	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39645	55169	55172	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39646	55204	55207	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39649	55277	55280	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39651	55394	55397	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39651	55450	55453	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39651	55450	55453	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39652	55656	55660	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39653	55709	55712	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39653	55719	55723	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39654	55784	55787	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39655	55917	55920	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39655	56021	56024	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39659	56348	56351	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39659	56548	56550	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39659	56684	56687	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39661	56777	56780	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39663	56835	56838	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39666	56959	56963	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39666	57006	57009	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39667	57165	57168	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39669	57221	57224	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39669	57242	57245	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39671	57342	57345	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39671	57373	57376	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39671	57454	57458	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39671	57474	57477	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39672	57499	57502	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39672	57512	57516	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39672	57542	57545	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39672	57551	57555	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39672	57566	57569	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39672	57583	57587	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39673	57606	57609	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39673	57695	57698	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39673	57714	57717	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39674	57739	57742	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39676	57770	57773	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39676	57775	57778	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39676	57783	57787	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39677	57815	57818	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39677	57850	57853	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39677	57884	57887	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39678	57906	57909	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39678	57914	57918	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39678	57927	57930	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39679	58007	58010	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39680	58029	58032	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39681	58075	58078	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39681	58205	58208	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39681	58205	58208	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39682	58260	58264	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39684	58341	58345	Thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	39684	58374	58377	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39685	58423	58425	cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39686	58458	58462	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39686	58458	58462	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39686	58523	58527	cháu					1	0	1	0
+Texts	Vietnamese_drama.txt	39686	58554	58557	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39687	58620	58623	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39688	58762	58765	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39688	58783	58786	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39688	58816	58819	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39689	58837	58840	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39690	59181	59184	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39691	59212	59215	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39691	59226	59229	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39691	59231	59234	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39691	59231	59234	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39692	59247	59250	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39692	59247	59250	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39695	59368	59373	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39695	59385	59388	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39695	59408	59415	Con Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39695	59443	59446	Tao					1	1	0	0
+Texts	Vietnamese_drama.txt	39695	59487	59496	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39695	59487	59496	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39696	59512	59515	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39697	59568	59576	cậu Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39697	59568	59576	cậu Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39698	59625	59627	Cụ					1	0	1	0
+Texts	Vietnamese_drama.txt	39698	59786	59789	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39699	59934	59937	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39702	60207	60210	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39702	60207	60210	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39702	60212	60215	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39702	60231	60234	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39702	60236	60239	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39702	60249	60252	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39703	60283	60286	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39704	60326	60329	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39704	60355	60358	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39704	60399	60402	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39704	60433	60436	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39705	60509	60512	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60526	60529	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39705	60547	60550	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60568	60571	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60581	60584	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39705	60604	60607	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39705	60634	60637	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60639	60642	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39705	60639	60642	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60648	60651	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60695	60698	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39705	60695	60698	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39705	60700	60703	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39706	60758	60761	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39706	60758	60761	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39706	60763	60766	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39706	60788	60795	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39706	60788	60795	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39706	60834	60837	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	39706	60834	60837	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39707	60933	60939	Em Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39707	60933	60939	Em Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39708	60979	60982	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39708	61005	61008	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39708	61005	61008	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39709	61016	61019	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39709	61023	61026	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39714	61320	61323	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39714	61320	61323	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39714	61325	61328	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39716	61445	61448	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39716	61445	61448	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39716	61481	61484	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39718	61671	61673	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39718	61799	61803	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39720	61890	61893	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39720	61890	61893	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39720	61915	61917	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39722	61976	61979	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39722	62048	62051	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39722	62056	62059	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39723	62103	62106	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39725	62165	62168	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39726	62179	62182	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39727	62351	62354	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39729	62426	62429	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39731	62480	62483	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39731	62490	62493	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39733	62694	62697	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39734	62731	62734	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39734	62874	62877	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39735	62911	62914	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39735	62931	62934	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39735	62942	62945	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39735	62970	62973	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39736	63020	63023	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39736	63066	63068	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39737	63085	63088	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39737	63141	63144	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39738	63254	63257	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39738	63263	63266	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39738	63275	63278	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39739	63306	63309	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39739	63311	63314	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39739	63339	63342	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39739	63354	63357	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39739	63371	63374	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39740	63388	63391	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39740	63525	63528	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39740	63544	63547	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39740	63585	63588	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39741	63616	63619	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39741	63673	63676	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39742	63684	63687	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39742	63750	63754	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39742	63946	63950	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39743	63976	63979	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39743	63987	63990	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39744	64018	64021	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39745	64193	64196	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39746	64314	64317	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39746	64319	64322	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39748	64449	64453	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64473	64476	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64500	64503	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64533	64536	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64552	64555	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64620	64623	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64693	64696	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39749	64710	64713	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39751	64913	64916	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39751	64945	64948	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39751	64967	64970	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39751	65023	65026	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39752	65073	65076	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39753	65142	65145	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39754	65193	65196	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39754	65232	65235	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39755	65273	65276	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39756	65307	65310	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39757	65349	65352	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39757	65372	65375	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39758	65414	65417	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39758	65438	65441	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39758	65454	65457	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39758	65475	65478	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39758	65484	65487	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39759	65552	65555	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39759	65567	65570	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39759	65584	65587	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39761	65636	65639	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39762	65662	65665	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39763	65701	65704	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39763	65711	65714	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39764	65871	65874	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39764	65888	65891	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39764	65928	65931	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39764	65928	65931	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39764	65933	65936	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39764	65941	65944	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39764	65949	65952	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39764	65971	65974	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39766	66085	66088	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39768	66158	66161	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39770	66224	66227	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39771	66259	66262	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39772	66278	66281	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39773	66347	66350	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39773	66378	66381	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39773	66386	66389	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39773	66391	66394	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39773	66425	66428	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39773	66443	66446	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66454	66457	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66472	66475	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66491	66494	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66502	66505	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66510	66513	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66527	66530	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66535	66538	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66567	66570	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66609	66612	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66634	66637	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66639	66648	Chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66666	66675	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66692	66695	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39774	66762	66765	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66801	66804	con					1	1	0	0
+Texts	Vietnamese_drama.txt	39774	66818	66821	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39775	66856	66859	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39775	66856	66859	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39776	66871	66874	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39776	66871	66874	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39777	66893	66896	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39777	66893	66896	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39777	66898	66901	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	39778	66932	66939	cậu Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39778	66932	66939	cậu Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39778	66951	66954	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39780	67021	67024	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39780	67047	67050	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39781	67112	67115	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39781	67117	67125	Chúng tô					1	1	0	0
+Texts	Vietnamese_drama.txt	39781	67134	67137	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39781	67168	67177	Chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39782	67207	67211	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39782	67207	67211	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39783	67232	67236	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	39783	67232	67236	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	39783	67247	67250	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39784	67327	67329	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	39785	67355	67358	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39785	67366	67373	cậu Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39785	67366	67373	cậu Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39785	67375	67378	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39785	67420	67423	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	39786	67448	67454	ông bà					1	0	0	1
+Texts	Vietnamese_drama.txt	39786	67448	67454	ông bà					1	0	1	0
+Texts	Vietnamese_drama.txt	39786	67473	67476	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39786	67482	67485	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39787	67612	67619	Anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39787	67612	67619	Anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39787	67621	67624	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39787	67629	67631	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39787	67649	67651	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39787	67763	67772	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39787	67763	67772	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39788	67782	67785	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39791	67865	67868	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39791	67873	67880	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39791	67873	67881	chị Lan 					1	0	0	1
+Texts	Vietnamese_drama.txt	39792	67906	67909	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39793	67949	67952	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39793	67958	67961	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39794	67986	67989	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39794	67998	68007	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39794	67998	68007	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39794	68009	68012	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39794	68023	68032	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39796	68203	68208	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39796	68203	68208	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39797	68218	68221	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39802	68649	68652	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39802	68658	68667	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39802	68658	68667	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39803	68790	68799	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39811	69105	69114	Anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39811	69105	69114	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39812	69145	69148	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39812	69145	69148	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39813	69165	69168	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39813	69165	69168	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39813	69174	69177	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39813	69174	69177	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39817	69403	69411	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39817	69434	69437	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39817	69565	69568	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39817	69565	69568	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39817	69570	69573	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39819	69734	69737	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39819	69734	69737	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39821	70054	70057	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39821	70054	70057	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39821	70086	70089	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39821	70099	70102	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39821	70118	70121	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39823	70208	70211	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39823	70243	70247	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39823	70367	70370	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39823	70469	70473	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39823	70545	70549	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39824	70611	70614	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39825	70771	70774	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39825	70808	70811	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39825	70808	70811	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39827	70875	70878	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39827	70893	70896	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39831	71134	71137	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39831	71142	71145	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39833	71285	71289	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39833	71354	71357	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39833	71465	71468	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39833	71473	71476	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39834	71492	71495	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39835	71534	71537	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39835	71542	71545	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39835	71660	71663	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39836	71743	71747	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39836	71743	71747	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39838	71859	71863	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39839	72033	72036	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39839	72181	72184	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39839	72190	72197	chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39839	72190	72197	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39842	72350	72354	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39843	72467	72470	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39845	72574	72576	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39847	72661	72665	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39848	72777	72780	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39849	72860	72864	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39850	72946	72953	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39851	72978	72982	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39851	72978	72982	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39852	73118	73125	chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39852	73118	73125	chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39852	73127	73134	Các chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39852	73239	73248	Anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39852	73239	73248	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39852	73250	73253	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39853	73318	73321	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39855	73782	73785	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39855	73782	73785	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39856	73798	73801	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39861	74142	74149	Anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39861	74142	74149	Anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39861	74174	74177	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39861	74174	74177	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39862	74199	74202	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39863	74230	74232	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39863	74266	74269	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39863	74304	74307	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39863	74304	74307	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39868	74704	74708	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	39868	74704	74708	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39871	74783	74787	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39871	74808	74812	Tôi 					1	1	0	0
+Texts	Vietnamese_drama.txt	39871	74851	74855	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39871	74884	74887	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39872	74950	74953	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39872	74971	74974	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39872	74987	74990	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39873	75068	75072	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39873	75085	75094	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39874	75125	75128	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39874	75130	75133	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39875	75168	75171	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39875	75225	75227	Em					1	0	1	0
+Texts	Vietnamese_drama.txt	39877	75284	75287	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39877	75330	75333	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39877	75349	75351	em					1	0	1	0
+Texts	Vietnamese_drama.txt	39877	75371	75374	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39877	75400	75402	em					1	0	1	0
+Texts	Vietnamese_drama.txt	39878	75427	75430	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39878	75439	75441	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39878	75462	75469	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39878	75462	75469	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39878	75509	75512	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39880	75581	75583	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39880	75622	75625	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39880	75622	75625	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39882	75704	75707	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39882	75747	75749	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39882	75774	75776	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39882	75877	75879	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39882	75894	75896	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39883	75914	75916	Em					1	0	1	0
+Texts	Vietnamese_drama.txt	39883	75939	75942	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39883	75968	75970	em					1	0	1	0
+Texts	Vietnamese_drama.txt	39883	75996	75999	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39883	76014	76017	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39884	76057	76059	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39884	76080	76083	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39886	76134	76137	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39886	76134	76137	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39886	76150	76157	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39886	76150	76157	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39886	76179	76182	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39887	76211	76214	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39888	76235	76238	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39888	76260	76267	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39888	76260	76267	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39888	76275	76278	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39889	76304	76306	Em					1	0	1	0
+Texts	Vietnamese_drama.txt	39889	76329	76332	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39889	76344	76347	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39889	76361	76364	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39889	76417	76421	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39889	76526	76529	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39890	76556	76559	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39891	76605	76608	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39894	76727	76730	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39894	76743	76745	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39894	76755	76758	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39894	76784	76788	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39894	76832	76834	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39897	77002	77008	Bà Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39898	77061	77065	cháu					1	0	1	0
+Texts	Vietnamese_drama.txt	39899	77093	77097	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39900	77120	77123	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	39901	77176	77181	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39901	77176	77181	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39901	77206	77209	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39901	77206	77209	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39902	77227	77234	Anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39902	77227	77234	Anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39902	77236	77239	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39902	77256	77259	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39904	77340	77342	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39904	77369	77371	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39904	77388	77391	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39904	77448	77452	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	39904	77477	77484	Anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39904	77477	77484	Anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39904	77490	77493	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39905	77535	77538	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39905	77579	77582	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39905	77607	77610	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39905	77643	77645	em					1	0	1	0
+Texts	Vietnamese_drama.txt	39905	77655	77658	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39905	77683	77686	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39905	77708	77711	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39906	77752	77755	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39906	77752	77755	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39906	77759	77762	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39908	77831	77838	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	39908	77831	77838	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	39908	77845	77853	Đồng chí					1	0	1	0
+Texts	Vietnamese_drama.txt	39908	77859	77861	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39908	77907	77915	đồng chí					1	0	1	0
+Texts	Vietnamese_drama.txt	39908	77963	77971	đồng chí					1	0	1	0
+Texts	Vietnamese_drama.txt	39908	77986	77994	đồng chí					1	0	1	0
+Texts	Vietnamese_drama.txt	39909	78008	78016	Đồng chí					1	1	0	0
+Texts	Vietnamese_drama.txt	39911	78178	78182	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	39915	78444	78446	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39915	78461	78463	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39915	78544	78546	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39915	78585	78587	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39915	78610	78613	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39915	78691	78697	Bác Hồ					1	0	0	1
+Texts	Vietnamese_drama.txt	39915	78691	78697	Bác Hồ					1	0	1	0
+Texts	Vietnamese_drama.txt	39915	78702	78704	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39918	78822	78825	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39923	79049	79057	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39925	79117	79119	Ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39925	79136	79139	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39925	79136	79139	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39925	79145	79148	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39925	79153	79156	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39926	79168	79171	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39926	79299	79302	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39926	79363	79366	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39926	79363	79366	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39927	79403	79406	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39927	79403	79406	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39927	79470	79473	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39927	79532	79535	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39928	79586	79589	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39928	79697	79705	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39929	79763	79766	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39929	79798	79806	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39929	79817	79820	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39929	79817	79820	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39930	79867	79870	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39931	79893	79896	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39931	80019	80027	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39933	80206	80214	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39934	80405	80414	Anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39934	80405	80414	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39934	80416	80419	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39934	80427	80430	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39935	80446	80449	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39936	80477	80480	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39936	80484	80487	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39937	80514	80517	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39938	80599	80602	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39938	80611	80614	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39940	80671	80674	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39941	80695	80703	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39941	80783	80786	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39941	80792	80795	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39941	80898	80901	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39941	80924	80927	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39941	80994	80996	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39942	81043	81046	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39943	81071	81074	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39943	81071	81074	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39943	81112	81120	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39943	81145	81153	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39943	81173	81176	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39943	81201	81209	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39943	81234	81237	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39943	81234	81237	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39944	81245	81248	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39945	81288	81291	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39945	81338	81341	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39945	81350	81358	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39945	81393	81396	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39945	81393	81396	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39946	81486	81495	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39946	81486	81495	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39946	81497	81500	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39946	81507	81512	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39946	81530	81533	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39946	81543	81548	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39947	81569	81572	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39947	81569	81572	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39947	81581	81584	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39947	81597	81600	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39947	81616	81619	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39947	81631	81634	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39947	81657	81660	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39948	81675	81678	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39948	81718	81721	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39948	81763	81772	Anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39948	81763	81772	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39949	81793	81796	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39951	81947	81950	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39952	81974	81977	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39953	81990	81999	Anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39953	81990	81999	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39954	82030	82033	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39955	82048	82051	Anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39955	82048	82051	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39956	82083	82086	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39956	82096	82099	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39956	82103	82106	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39956	82147	82150	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39956	82187	82190	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39956	82195	82198	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39957	82225	82233	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39958	82311	82317	Em Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39958	82311	82317	Em Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39958	82369	82375	Em Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39958	82369	82375	Em Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39958	82377	82380	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39958	82385	82388	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39960	82456	82459	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39961	82503	82505	Em					1	0	1	0
+Texts	Vietnamese_drama.txt	39961	82510	82513	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39961	82551	82554	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39963	82693	82702	anh Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	39963	82693	82702	anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	39963	82716	82719	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39963	82844	82847	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39963	82844	82847	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39965	82900	82903	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39965	82933	82935	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39966	82947	82949	Em					1	0	1	0
+Texts	Vietnamese_drama.txt	39967	82972	82975	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39968	83016	83019	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39969	83060	83063	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39970	83119	83121	em					1	0	1	0
+Texts	Vietnamese_drama.txt	39971	83139	83142	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39971	83151	83153	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39971	83167	83169	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39972	83187	83190	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39973	83202	83204	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39973	83222	83225	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39973	83266	83269	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39974	83292	83295	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39975	83341	83343	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39975	83351	83354	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39976	83396	83399	anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39976	83453	83461	Chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39977	83516	83519	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39978	83555	83558	Anh					1	1	0	0
+Texts	Vietnamese_drama.txt	39979	83714	83717	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39979	83729	83731	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39979	83740	83742	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39981	83815	83818	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39981	83841	83843	em					1	1	0	0
+Texts	Vietnamese_drama.txt	39981	83849	83852	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39981	83890	83893	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39981	83917	83920	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39981	83934	83937	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39981	83956	83959	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39981	83956	83959	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39981	83965	83967	Em					1	1	0	0
+Texts	Vietnamese_drama.txt	39981	84021	84024	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	39981	84021	84024	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	39982	84047	84050	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	39982	84047	84050	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	39983	84091	84094	Ông					1	0	0	1
+Texts	Vietnamese_drama.txt	39983	84091	84094	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39984	84122	84125	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39985	84180	84183	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39987	84243	84246	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39988	84284	84287	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39989	84521	84524	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39991	84657	84660	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39993	84967	84970	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39993	84994	84996	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39994	85085	85088	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39995	85315	85317	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	39996	85369	85372	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39997	85395	85398	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	39997	85409	85412	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39998	85450	85453	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39998	85510	85513	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39998	85554	85557	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39998	85666	85678	Các đồng chí					1	0	1	0
+Texts	Vietnamese_drama.txt	39998	85683	85686	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39998	85725	85728	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	39998	85784	85787	con					1	0	1	0
+Texts	Vietnamese_drama.txt	39999	85822	85825	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	39999	85867	85870	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40000	85935	85938	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40000	85951	85954	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40000	85960	85963	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40001	86022	86025	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40002	86073	86076	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40002	86118	86121	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40002	86150	86153	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40002	86174	86177	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40006	86543	86546	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40007	86595	86598	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40008	86648	86651	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40009	86699	86702	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40010	86758	86761	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40010	86766	86769	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40012	86808	86811	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40012	86821	86824	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40012	86834	86837	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40013	86847	86850	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40014	86897	86900	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40015	86924	86927	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40015	86959	86962	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40015	87037	87040	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40016	87090	87093	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40016	87108	87111	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40017	87122	87125	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40017	87142	87145	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40018	87166	87169	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40018	87175	87178	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40019	87205	87208	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40019	87223	87226	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40019	87256	87259	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40019	87289	87292	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40020	87331	87334	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40021	87366	87375	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40022	87417	87420	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40022	87437	87440	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40022	87452	87455	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40023	87469	87472	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40024	87504	87507	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40024	87515	87518	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40025	87541	87544	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40025	87561	87564	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40025	87601	87604	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40025	87648	87651	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40025	87668	87671	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40026	87699	87702	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40026	87714	87717	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40026	87725	87728	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40026	87737	87740	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40027	87845	87848	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40027	87863	87866	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40027	87878	87881	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40028	87978	87981	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40028	88040	88043	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40028	88094	88097	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40029	88123	88126	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40029	88201	88203	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40029	88351	88354	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40029	88377	88380	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88436	88439	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40030	88436	88439	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88478	88481	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88525	88528	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88551	88554	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88580	88583	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88595	88598	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88605	88608	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88668	88671	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88698	88701	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40030	88698	88701	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88726	88729	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88742	88745	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88751	88754	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88761	88764	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88770	88773	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88814	88817	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88838	88841	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88853	88856	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40030	88853	88856	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88858	88861	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88869	88872	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88877	88880	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88893	88896	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88915	88918	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88922	88925	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	88984	88987	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40030	88997	89000	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	89004	89007	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40030	89020	89023	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40031	89044	89047	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89109	89112	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89143	89146	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89158	89161	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89171	89174	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89211	89214	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89251	89254	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89275	89278	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89280	89283	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89304	89307	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89359	89362	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40032	89359	89362	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89366	89369	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89408	89411	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89429	89432	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89507	89510	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89527	89530	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89532	89535	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40032	89550	89553	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40032	89561	89564	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40033	89588	89591	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40033	89607	89610	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89671	89674	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89689	89692	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89694	89697	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89741	89744	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89746	89749	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89771	89774	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89814	89817	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89848	89856	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89871	89874	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89887	89890	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89903	89906	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40034	89903	89906	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89908	89911	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89917	89920	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89926	89929	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89939	89942	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89950	89953	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89967	89970	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	89979	89982	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	89990	89993	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	90015	90018	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	90053	90055	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	90124	90127	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40034	90124	90127	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	90129	90132	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	90142	90145	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	90159	90162	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	90187	90190	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	90210	90218	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40034	90248	90251	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40034	90248	90251	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40034	90261	90264	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40035	90302	90305	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40036	90339	90342	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40036	90339	90342	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40037	90400	90403	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40038	90442	90445	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90479	90486	Anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40039	90479	90486	Anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90488	90491	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90501	90504	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40039	90509	90512	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90539	90542	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90552	90555	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40039	90574	90577	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90587	90590	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40039	90604	90607	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40039	90613	90616	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40039	90652	90655	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40040	90730	90733	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40041	90763	90766	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40041	90802	90805	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40041	90821	90824	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40041	90828	90835	Các anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40041	90878	90887	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40041	90899	90906	các anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40042	90959	90962	ông					1	0	0	1
+Texts	Vietnamese_drama.txt	40042	90959	90962	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40043	91101	91108	các anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40043	91113	91116	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40043	91226	91229	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40043	91239	91242	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40043	91285	91288	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40043	91319	91322	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40044	91345	91348	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40045	91399	91402	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40045	91411	91414	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40046	91454	91457	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40046	91471	91474	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40048	91641	91644	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40048	91683	91690	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40048	91683	91690	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40050	91717	91719	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40053	91831	91838	Các ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40054	91892	91896	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40055	91952	91955	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40057	92253	92257	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40057	92272	92276	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40058	92413	92416	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40059	92499	92502	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40059	92543	92546	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40061	92587	92590	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40061	92679	92682	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40061	92774	92777	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40064	92923	92926	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40064	92950	92953	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40065	93008	93011	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40065	93021	93024	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40065	93045	93048	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40065	93127	93130	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40065	93145	93148	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40065	93174	93177	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40067	93409	93413	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40068	93445	93447	mợ					1	0	0	1
+Texts	Vietnamese_drama.txt	40068	93445	93447	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40069	93485	93488	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40069	93502	93506	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40069	93502	93506	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40069	93532	93536	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40069	93544	93547	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40069	93565	93568	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40069	93595	93599	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40069	93639	93642	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40070	93686	93690	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	93728	93731	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	93785	93788	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	93810	93814	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40071	93810	93814	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	93816	93820	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	93833	93836	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	93935	93939	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	93954	93958	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	93968	93971	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	94014	94018	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	94023	94026	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	94035	94039	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40071	94035	94039	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	94055	94059	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	94081	94084	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	94099	94102	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40071	94125	94129	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40071	94125	94129	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40071	94160	94164	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40071	94160	94164	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40072	94181	94183	Mợ					1	0	0	1
+Texts	Vietnamese_drama.txt	40072	94181	94183	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94198	94202	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94225	94228	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40073	94268	94271	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40073	94300	94304	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94320	94323	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40073	94334	94338	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94340	94344	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40073	94340	94344	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94354	94358	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94367	94371	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40073	94385	94388	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40074	94410	94413	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40074	94439	94441	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40075	94478	94481	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40075	94521	94525	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40075	94543	94547	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40075	94549	94553	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40075	94582	94586	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40075	94598	94601	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40075	94603	94607	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40075	94603	94607	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40076	94632	94635	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40076	94649	94652	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40076	94665	94667	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40076	94703	94706	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40078	94803	94810	Chị Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40078	94803	94810	Chị Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40078	94812	94815	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40078	94823	94826	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40078	94832	94835	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40079	94876	94879	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40079	94884	94887	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40080	94911	94914	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40080	94919	94922	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40080	94941	94944	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40080	94964	94967	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40080	94984	94987	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40080	94993	94995	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40080	95032	95039	chị Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40080	95032	95039	chị Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40081	95052	95061	Ông Dương					1	0	0	1
+Texts	Vietnamese_drama.txt	40081	95052	95061	Ông Dương					1	0	1	0
+Texts	Vietnamese_drama.txt	40082	95106	95109	Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40082	95106	95109	Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40083	95218	95227	Ông Dương					1	0	0	1
+Texts	Vietnamese_drama.txt	40083	95218	95227	Ông Dương					1	0	1	0
+Texts	Vietnamese_drama.txt	40083	95229	95231	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40083	95258	95261	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40083	95285	95288	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40084	95383	95386	Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40084	95383	95386	Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40085	95433	95437	Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	40085	95433	95437	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40086	95483	95487	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40088	95568	95573	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40088	95568	95573	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40090	95723	95728	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40090	95723	95728	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40092	95785	95790	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40092	95804	95809	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40092	95824	95827	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40092	95835	95838	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40092	95843	95848	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40092	95864	95867	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40092	95881	95886	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40093	95933	95935	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40094	96028	96033	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40094	96037	96040	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40095	96073	96075	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40096	96096	96104	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40096	96122	96124	Ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40096	96158	96163	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40096	96158	96163	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40096	96165	96170	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40096	96186	96189	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40097	96220	96222	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40098	96248	96253	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40098	96255	96260	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40098	96268	96271	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40098	96282	96287	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40098	96291	96294	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40099	96319	96322	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40099	96327	96329	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40100	96365	96370	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40100	96390	96393	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40100	96405	96410	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40101	96420	96423	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40101	96429	96431	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40102	96449	96452	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40102	96461	96466	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40104	96522	96525	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40104	96553	96558	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40104	96583	96586	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40104	96593	96596	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40104	96613	96618	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40104	96613	96618	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40106	96657	96662	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40106	96657	96662	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40106	96668	96673	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40106	96678	96681	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40110	97031	97034	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40110	97031	97034	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40111	97082	97084	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40112	97125	97128	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40113	97152	97155	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40113	97170	97172	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40113	97187	97189	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40114	97264	97267	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40114	97331	97334	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40114	97348	97351	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40115	97385	97387	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40115	97398	97401	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40116	97469	97472	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40116	97482	97485	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40116	97498	97501	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40117	97541	97543	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40118	97569	97572	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40118	97585	97588	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40118	97610	97613	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40118	97676	97679	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40119	97745	97747	bà					1	0	0	1
+Texts	Vietnamese_drama.txt	40119	97745	97747	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40120	97762	97765	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40120	97807	97810	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40120	97816	97819	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40120	97843	97846	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40120	97882	97885	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40120	97896	97899	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40120	97919	97922	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40122	98014	98017	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40122	98028	98031	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40123	98174	98182	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40123	98216	98219	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40123	98337	98339	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40123	98350	98359	Chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40123	98386	98388	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40123	98459	98462	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40127	98691	98694	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40128	98722	98725	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40128	98741	98744	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40129	98799	98801	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40130	98844	98847	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40131	98890	98896	cả nhà					1	0	1	0
+Texts	Vietnamese_drama.txt	40132	98979	98982	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40133	99008	99012	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40133	99105	99108	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40133	99168	99171	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40133	99300	99308	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40133	99476	99478	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40134	99503	99506	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40134	99525	99528	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40135	99572	99574	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40135	99593	99596	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40135	99618	99620	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40136	99636	99639	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40136	99653	99656	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40136	99666	99669	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40136	99684	99687	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40137	99701	99703	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40138	99739	99742	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40138	99774	99777	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40138	99795	99798	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40139	99814	99816	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40139	99851	99853	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40140	99959	99962	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40140	99967	99970	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40140	99997	100000	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40141	100014	100016	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40142	100079	100082	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40142	100090	100093	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40142	100144	100147	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40142	100173	100176	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40142	100306	100309	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40142	100378	100381	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40142	100403	100406	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40143	100465	100468	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40143	100478	100480	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100499	100502	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100510	100513	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100515	100518	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100547	100550	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100559	100562	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100579	100582	Chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100589	100592	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100610	100613	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100647	100650	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100672	100675	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100717	100720	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100739	100742	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100765	100772	Chị Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40144	100765	100772	Chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100776	100779	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40144	100788	100791	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40144	100810	100813	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40145	100868	100871	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40146	100912	100915	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40146	100921	100924	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40147	100937	100939	Ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40147	100961	100964	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40147	100970	100972	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40148	100989	100992	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40149	101115	101117	bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40149	101161	101169	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40149	101186	101189	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40150	101214	101217	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40150	101230	101233	Ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40151	101291	101294	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40151	101304	101306	Bà					1	0	1	0
+Texts	Vietnamese_drama.txt	40151	101327	101330	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40153	101413	101416	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40153	101413	101416	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40154	101424	101427	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40155	101461	101464	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40155	101461	101464	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40156	101613	101616	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40158	101688	101691	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40158	101732	101735	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40159	101844	101847	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40159	101879	101882	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40160	101930	101933	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40160	101944	101947	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40161	101989	101992	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40161	102016	102019	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40161	102067	102070	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40161	102232	102235	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40161	102273	102276	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40162	102377	102380	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40162	102417	102420	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40162	102417	102420	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40162	102422	102425	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40164	102493	102496	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40164	102577	102580	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40164	102577	102580	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40164	102582	102590	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40164	102618	102621	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40164	102618	102621	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40164	102632	102640	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40164	102653	102655	ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40165	102720	102723	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	40165	102720	102723	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40170	102960	102965	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40170	102960	102965	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40170	102967	102970	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40170	102967	102970	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40171	103019	103022	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40171	103060	103063	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40172	103129	103133	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40173	103166	103169	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40173	103176	103179	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40173	103382	103385	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40175	103547	103550	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40175	103568	103572	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40175	103751	103758	Chị Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40176	103781	103785	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40176	103803	103806	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40176	103833	103837	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40176	103879	103883	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40176	103899	103902	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40177	103967	103970	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40177	104084	104101	con người lịch sử					1	0	0	1
+Texts	Vietnamese_drama.txt	40177	104084	104101	con người lịch sử					1	0	1	0
+Texts	Vietnamese_drama.txt	40178	104118	104125	Các cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40180	104235	104244	chúng tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40182	104401	104404	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40182	104413	104416	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40183	104432	104436	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40183	104467	104470	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40183	104479	104483	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40185	104599	104603	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40186	104632	104635	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40186	104647	104650	chị					1	0	1	0
+Texts	Vietnamese_drama.txt	40187	104701	104709	cậu Kính					1	0	0	1
+Texts	Vietnamese_drama.txt	40187	104701	104709	cậu Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40187	104766	104770	Kính					1	0	1	0
+Texts	Vietnamese_drama.txt	40188	104824	104833	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40189	104981	104989	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40190	105103	105106	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40192	105152	105155	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40193	105212	105215	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40193	105344	105348	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40194	105509	105512	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40195	105588	105592	Mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40195	105613	105616	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40195	105647	105650	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40195	105836	105839	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40196	106039	106042	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40196	106039	106042	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40196	106091	106094	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40196	106091	106094	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40197	106332	106336	mình					1	1	0	0
+Texts	Vietnamese_drama.txt	40197	106379	106382	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40197	106474	106479	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40200	106821	106824	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40201	106881	106884	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40202	107021	107024	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40202	107021	107024	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40203	107072	107075	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40203	107114	107117	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40203	107114	107117	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40203	107122	107127	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40203	107122	107127	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40203	107201	107204	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40203	107282	107287	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40204	107312	107316	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	40205	107391	107396	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40205	107423	107426	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40205	107550	107553	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40205	107580	107583	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40206	107673	107677	Thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	40206	107686	107689	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40206	107707	107710	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40207	107844	107847	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40207	107901	107904	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40207	107901	107904	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40207	107915	107918	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40207	107932	107935	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40208	107967	107970	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40208	107967	107970	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40211	108043	108052	Anh Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40212	108086	108089	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40212	108093	108096	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40214	108158	108161	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40214	108171	108174	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40214	108200	108203	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40214	108222	108225	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40214	108236	108239	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40215	108265	108268	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40215	108278	108281	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40216	108316	108319	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40216	108329	108332	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40217	108355	108364	Chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40218	108381	108390	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40219	108415	108418	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40220	108458	108467	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40221	108504	108507	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40221	108531	108535	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	40221	108540	108549	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40224	108630	108633	Cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40224	108630	108633	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40226	108703	108706	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40226	108703	108706	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40228	108785	108788	Cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40228	108785	108788	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40228	108790	108793	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40228	108819	108822	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40228	108831	108834	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40228	108870	108873	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40228	108882	108885	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40228	108897	108900	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40229	108933	108936	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40229	108933	108936	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40230	108969	108972	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40230	108983	108986	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40231	109036	109039	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40231	109051	109054	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40231	109100	109103	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40231	109126	109129	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40231	109171	109178	các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40231	109187	109190	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40232	109221	109225	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	40233	109314	109321	các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40234	109338	109347	Chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40236	109413	109422	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40237	109455	109458	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40237	109474	109481	Các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40237	109569	109572	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40237	109591	109594	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40237	109608	109611	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40237	109625	109628	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40237	109645	109648	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40237	109645	109648	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40237	109654	109657	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40238	109697	109700	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40238	109702	109705	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40238	109722	109725	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40238	109737	109746	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40238	109757	109760	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40238	109773	109776	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40238	109788	109791	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40238	109788	109791	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40238	109823	109832	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40238	109848	109857	Chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40238	109872	109881	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40238	109892	109895	Cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40239	109924	109927	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40239	109937	109944	Các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40239	109969	109976	Các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40240	109997	110000	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40240	110010	110013	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40241	110072	110079	các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40241	110112	110119	Các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40241	110141	110144	Lan					1	0	0	1
+Texts	Vietnamese_drama.txt	40241	110141	110144	Lan					1	0	1	0
+Texts	Vietnamese_drama.txt	40241	110183	110186	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40241	110196	110199	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40241	110212	110215	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40241	110231	110234	Cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40241	110239	110242	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40241	110248	110251	con					1	0	0	1
+Texts	Vietnamese_drama.txt	40241	110248	110251	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40242	110278	110281	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40242	110287	110290	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40242	110298	110301	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40242	110310	110313	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40242	110357	110360	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40242	110387	110390	cậu					1	0	0	1
+Texts	Vietnamese_drama.txt	40242	110387	110390	cậu					1	0	1	0
+Texts	Vietnamese_drama.txt	40243	110415	110418	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40243	110433	110442	anh Dương					1	0	0	1
+Texts	Vietnamese_drama.txt	40243	110433	110442	anh Dương					1	0	1	0
+Texts	Vietnamese_drama.txt	40244	110465	110468	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40244	110478	110482	thầy					1	0	1	0
+Texts	Vietnamese_drama.txt	40245	110512	110515	anh					1	0	0	1
+Texts	Vietnamese_drama.txt	40245	110512	110515	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40247	110622	110626	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40247	110622	110626	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40247	110628	110632	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40248	110696	110698	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40249	110735	110738	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40249	110746	110750	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40249	110752	110755	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40251	110837	110841	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40252	110880	110883	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40253	110911	110915	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40253	110924	110927	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40254	110950	110953	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40254	110958	110960	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40254	110962	110965	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40254	110980	110982	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40255	111000	111004	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40255	111027	111030	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40255	111073	111076	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40255	111094	111097	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40255	111115	111118	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40257	111238	111241	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40257	111302	111305	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40257	111333	111337	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40257	111368	111371	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40258	111396	111399	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40258	111405	111407	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40258	111421	111423	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40258	111430	111433	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40258	111447	111449	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40259	111489	111493	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40259	111528	111531	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40260	111548	111551	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40260	111561	111563	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111596	111600	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111610	111613	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40261	111632	111636	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111692	111696	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111710	111714	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111716	111720	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111743	111747	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111760	111763	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40261	111765	111769	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111794	111798	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111820	111824	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111843	111847	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40261	111851	111854	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40262	111877	111880	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40262	111887	111889	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	111910	111914	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	111921	111924	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	111930	111934	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	111941	111944	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	111956	111960	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40263	111956	111960	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	111964	111968	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	111980	111983	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	112001	112005	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	112011	112014	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	112019	112022	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	112054	112057	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	112094	112098	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	112107	112110	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40263	112121	112125	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40263	112131	112134	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40264	112200	112204	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40265	112246	112249	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40265	112267	112270	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40265	112302	112305	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40266	112348	112350	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40266	112367	112373	nhà ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40267	112386	112389	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40267	112401	112404	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40268	112452	112454	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40269	112490	112493	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40269	112512	112515	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40270	112552	112558	Mợ Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40270	112552	112558	Mợ Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40271	112588	112592	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40272	112639	112641	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40272	112656	112659	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40272	112676	112678	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40273	112699	112703	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40274	112734	112736	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40274	112753	112756	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112792	112795	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112823	112826	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112844	112847	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112924	112927	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112935	112938	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112943	112946	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112972	112975	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40275	112994	112998	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40275	113025	113029	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40275	113091	113095	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40275	113091	113095	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40276	113112	113114	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40276	113156	113159	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40276	113167	113169	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40276	113175	113177	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40276	113232	113234	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40277	113304	113308	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40277	113304	113308	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40278	113367	113369	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40278	113406	113408	mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40279	113474	113477	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40279	113492	113496	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40279	113520	113523	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40279	113539	113543	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40279	113539	113543	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40281	113624	113628	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40281	113699	113707	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40281	113736	113744	chúng ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40281	113811	113815	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40281	113811	113815	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40281	113848	113852	mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40281	113848	113852	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40281	113865	113868	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40281	113893	113896	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40281	113908	113912	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40281	113937	113941	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40282	113975	113978	Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40282	113975	113978	Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40283	113991	113995	Mình					1	0	0	1
+Texts	Vietnamese_drama.txt	40283	113991	113995	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40283	113999	114002	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40283	114030	114033	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40284	114080	114082	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40285	114166	114169	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40285	114181	114185	mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40285	114223	114226	Anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40285	114237	114240	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40285	114272	114277	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40285	114272	114277	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40286	114312	114317	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40286	114312	114317	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40287	114330	114335	Quảng					1	0	0	1
+Texts	Vietnamese_drama.txt	40287	114330	114335	Quảng					1	0	1	0
+Texts	Vietnamese_drama.txt	40288	114380	114382	Mợ					1	0	0	1
+Texts	Vietnamese_drama.txt	40288	114380	114382	Mợ					1	0	1	0
+Texts	Vietnamese_drama.txt	40291	114484	114491	anh Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40291	114484	114491	anh Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40291	114495	114499	Mình					1	0	1	0
+Texts	Vietnamese_drama.txt	40292	114577	114580	Cẩm					1	0	0	1
+Texts	Vietnamese_drama.txt	40292	114577	114580	Cẩm					1	0	1	0
+Texts	Vietnamese_drama.txt	40292	114619	114622	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40293	114645	114648	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40295	114718	114721	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40296	114760	114763	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40296	114760	114763	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40296	114777	114780	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40296	114786	114789	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40297	114845	114848	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40298	114895	114898	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40298	114946	114949	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40298	114986	114989	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40298	115003	115006	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40299	115052	115055	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40299	115057	115060	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40299	115085	115088	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40299	115122	115125	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40300	115155	115158	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40300	115216	115219	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40300	115223	115226	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40301	115248	115251	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40301	115345	115351	nhà ta					1	1	0	0
+Texts	Vietnamese_drama.txt	40302	115401	115408	các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40302	115427	115430	cậu					1	1	0	0
+Texts	Vietnamese_drama.txt	40302	115441	115448	các con					1	0	1	0
+Texts	Vietnamese_drama.txt	40303	115456	115459	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115499	115502	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115530	115533	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115561	115564	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40303	115591	115600	chúng con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115630	115633	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40303	115637	115640	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115666	115669	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115734	115737	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115739	115742	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115748	115751	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40303	115763	115766	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115768	115771	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115786	115789	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115799	115802	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40303	115804	115807	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115816	115819	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40303	115837	115840	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40303	115855	115858	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40305	115965	115968	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40305	115989	115992	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40305	116015	116018	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40305	116039	116042	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40306	116082	116085	Con					1	0	1	0
+Texts	Vietnamese_drama.txt	40307	116100	116103	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40307	116141	116144	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40307	116149	116152	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40307	116180	116183	ông					1	0	1	0
+Texts	Vietnamese_drama.txt	40307	116195	116198	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40307	116203	116206	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40307	116247	116250	con					1	1	0	0
+Texts	Vietnamese_drama.txt	40308	116295	116298	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40309	116342	116345	Con					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116374	116377	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116395	116398	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40310	116410	116413	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116437	116440	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116464	116467	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116498	116501	anh					1	0	1	0
+Texts	Vietnamese_drama.txt	40310	116517	116520	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116522	116525	tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116535	116538	Tôi					1	1	0	0
+Texts	Vietnamese_drama.txt	40310	116589	116592	Sơn					1	0	0	1
+Texts	Vietnamese_drama.txt	40310	116589	116592	Sơn					1	0	1	0
+Texts	Vietnamese_drama.txt	40310	116594	116597	con					1	0	1	0
+Texts	Vietnamese_drama.txt	40311	116624	116627	Con					1	1	0	0

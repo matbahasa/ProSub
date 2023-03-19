@@ -1,0 +1,500 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	Vietnamese.txt	26721	80	83	bạn					1	0	0	1
+Texts	Vietnamese.txt	26721	80	83	bạn					1	0	1	0
+Texts	Vietnamese.txt	26722	100	103	bạn					1	0	0	1
+Texts	Vietnamese.txt	26722	100	103	bạn					1	0	1	0
+Texts	Vietnamese.txt	26722	114	117	bạn					1	0	1	0
+Texts	Vietnamese.txt	26723	139	142	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26723	175	178	bạn					1	0	1	0
+Texts	Vietnamese.txt	26724	190	193	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26724	226	229	bạn					1	0	1	0
+Texts	Vietnamese.txt	26726	305	307	cô					1	0	0	1
+Texts	Vietnamese.txt	26726	305	307	cô					1	0	1	0
+Texts	Vietnamese.txt	26727	325	331	các em					1	0	0	1
+Texts	Vietnamese.txt	26727	325	331	các em					1	0	1	0
+Texts	Vietnamese.txt	26727	333	339	Các em					1	0	1	0
+Texts	Vietnamese.txt	26727	384	386	cô					1	0	1	0
+Texts	Vietnamese.txt	26727	391	394	 cô					1	0	1	0
+Texts	Vietnamese.txt	26727	392	394	cô					1	0	0	1
+Texts	Vietnamese.txt	26728	414	420	các em					1	0	1	0
+Texts	Vietnamese.txt	26728	422	424	Cô					1	1	0	0
+Texts	Vietnamese.txt	26730	520	527	chị Lan					1	0	0	1
+Texts	Vietnamese.txt	26730	520	527	chị Lan					1	0	1	0
+Texts	Vietnamese.txt	26730	530	533	Chị					1	0	1	0
+Texts	Vietnamese.txt	26731	561	569	anh Hùng					1	0	0	1
+Texts	Vietnamese.txt	26731	561	569	anh Hùng					1	0	1	0
+Texts	Vietnamese.txt	26731	571	574	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26731	585	588	anh					1	0	0	1
+Texts	Vietnamese.txt	26731	585	588	anh					1	0	1	0
+Texts	Vietnamese.txt	26732	609	612	chị					1	0	1	0
+Texts	Vietnamese.txt	26732	614	617	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26733	674	677	tôi					1	1	0	0
+Texts	Vietnamese.txt	26734	724	732	anh Hùng					1	0	0	1
+Texts	Vietnamese.txt	26734	724	732	anh Hùng					1	0	1	0
+Texts	Vietnamese.txt	26734	751	754	anh					1	0	1	0
+Texts	Vietnamese.txt	26735	770	780	chị Haruka					1	0	0	1
+Texts	Vietnamese.txt	26735	770	780	chị Haruka					1	0	1	0
+Texts	Vietnamese.txt	26735	799	802	chị					1	0	1	0
+Texts	Vietnamese.txt	26737	896	899	bạn					1	0	0	1
+Texts	Vietnamese.txt	26737	896	899	bạn					1	0	1	0
+Texts	Vietnamese.txt	26737	910	913	bạn					1	0	1	0
+Texts	Vietnamese.txt	26738	956	959	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26738	979	982	bạn					1	0	0	1
+Texts	Vietnamese.txt	26738	979	982	bạn					1	0	1	0
+Texts	Vietnamese.txt	26738	984	987	bạn					1	0	1	0
+Texts	Vietnamese.txt	26739	1018	1021	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26739	1037	1040	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26740	1065	1068	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26740	1082	1085	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26741	1119	1123	Tôi 					1	1	0	0
+Texts	Vietnamese.txt	26741	1150	1153	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26742	1233	1236	bạn					1	0	1	0
+Texts	Vietnamese.txt	26742	1264	1267	bạn					1	0	1	0
+Texts	Vietnamese.txt	26744	1352	1355	anh					1	0	0	1
+Texts	Vietnamese.txt	26744	1352	1355	anh					1	0	1	0
+Texts	Vietnamese.txt	26745	1369	1371	cô					1	0	0	1
+Texts	Vietnamese.txt	26745	1369	1371	cô					1	0	1	0
+Texts	Vietnamese.txt	26745	1382	1384	cô					1	0	1	0
+Texts	Vietnamese.txt	26746	1439	1442	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26746	1466	1469	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26746	1489	1492	anh					1	0	0	1
+Texts	Vietnamese.txt	26746	1489	1492	anh					1	0	1	0
+Texts	Vietnamese.txt	26746	1494	1497	anh					1	0	1	0
+Texts	Vietnamese.txt	26747	1519	1522	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26747	1535	1537	Cô					1	0	1	0
+Texts	Vietnamese.txt	26748	1582	1585	tôi					1	1	0	0
+Texts	Vietnamese.txt	26749	1617	1619	cô					1	0	1	0
+Texts	Vietnamese.txt	26750	1646	1649	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26750	1664	1667	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26751	1720	1723	tôi					1	1	0	0
+Texts	Vietnamese.txt	26751	1762	1765	tôi					1	1	0	0
+Texts	Vietnamese.txt	26752	1818	1821	anh					1	0	1	0
+Texts	Vietnamese.txt	26754	1906	1913	các chị					1	0	1	0
+Texts	Vietnamese.txt	26755	1945	1954	Chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26755	1970	1973	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26756	2023	2026	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26756	2040	2050	Chị Haruka					1	0	1	0
+Texts	Vietnamese.txt	26757	2090	2093	tôi					1	1	0	0
+Texts	Vietnamese.txt	26758	2170	2177	Các chị					1	0	1	0
+Texts	Vietnamese.txt	26759	2238	2241	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26759	2282	2285	anh					1	0	0	1
+Texts	Vietnamese.txt	26759	2282	2285	anh					1	0	1	0
+Texts	Vietnamese.txt	26759	2287	2290	anh					1	0	1	0
+Texts	Vietnamese.txt	26760	2314	2317	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26760	2328	2331	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26760	2383	2390	các chị					1	0	1	0
+Texts	Vietnamese.txt	26761	2402	2411	Chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26761	2434	2437	anh					1	0	1	0
+Texts	Vietnamese.txt	26763	2510	2516	Takuma					1	0	0	1
+Texts	Vietnamese.txt	26763	2510	2516	Takuma					1	0	1	0
+Texts	Vietnamese.txt	26763	2536	2542	Takuma					1	0	1	0
+Texts	Vietnamese.txt	26764	2574	2577	Mai					1	0	0	1
+Texts	Vietnamese.txt	26764	2574	2577	Mai					1	0	1	0
+Texts	Vietnamese.txt	26764	2579	2582	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26765	2651	2657	Takuma					1	0	1	0
+Texts	Vietnamese.txt	26766	2693	2696	tôi					1	1	0	0
+Texts	Vietnamese.txt	26767	2730	2736	Takuma					1	0	0	1
+Texts	Vietnamese.txt	26767	2730	2736	Takuma					1	0	1	0
+Texts	Vietnamese.txt	26767	2765	2768	Mai					1	0	0	1
+Texts	Vietnamese.txt	26767	2765	2768	Mai					1	0	1	0
+Texts	Vietnamese.txt	26769	2850	2856	Haruka					1	0	0	1
+Texts	Vietnamese.txt	26769	2850	2856	Haruka					1	0	1	0
+Texts	Vietnamese.txt	26769	2870	2873	bạn					1	0	1	0
+Texts	Vietnamese.txt	26770	2902	2905	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26771	2930	2933	bạn					1	0	1	0
+Texts	Vietnamese.txt	26772	2970	2973	tôi					1	1	0	0
+Texts	Vietnamese.txt	26772	3022	3025	tôi					1	1	0	0
+Texts	Vietnamese.txt	26773	3053	3056	bạn					1	0	1	0
+Texts	Vietnamese.txt	26774	3088	3091	tôi					1	1	0	0
+Texts	Vietnamese.txt	26775	3127	3130	bạn					1	0	1	0
+Texts	Vietnamese.txt	26776	3157	3160	tôi					1	1	0	0
+Texts	Vietnamese.txt	26776	3168	3171	tôi					1	1	0	0
+Texts	Vietnamese.txt	26776	3197	3200	tôi					1	1	0	0
+Texts	Vietnamese.txt	26777	3268	3271	bạn					1	0	1	0
+Texts	Vietnamese.txt	26778	3298	3301	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26778	3320	3323	tôi					1	1	0	0
+Texts	Vietnamese.txt	26779	3356	3359	bạn					1	0	1	0
+Texts	Vietnamese.txt	26779	3374	3378	mình					1	0	1	0
+Texts	Vietnamese.txt	26780	3414	3417	tôi					1	1	0	0
+Texts	Vietnamese.txt	26780	3437	3440	tôi					1	1	0	0
+Texts	Vietnamese.txt	26780	3447	3450	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26780	3461	3464	tôi					1	1	0	0
+Texts	Vietnamese.txt	26782	3561	3564	tôi					1	1	0	0
+Texts	Vietnamese.txt	26783	3612	3615	chị					1	0	1	0
+Texts	Vietnamese.txt	26784	3631	3634	chị					1	0	1	0
+Texts	Vietnamese.txt	26786	3671	3674	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26786	3687	3690	Chị					1	0	1	0
+Texts	Vietnamese.txt	26787	3714	3717	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26788	3752	3755	chị					1	0	1	0
+Texts	Vietnamese.txt	26789	3789	3792	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26790	3815	3818	Chị					1	0	1	0
+Texts	Vietnamese.txt	26791	3872	3875	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26792	3908	3911	Chị					1	0	1	0
+Texts	Vietnamese.txt	26792	3937	3940	Chị					1	0	1	0
+Texts	Vietnamese.txt	26793	3973	3976	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26794	4070	4073	chị					1	0	1	0
+Texts	Vietnamese.txt	26796	4163	4166	tôi					1	1	0	0
+Texts	Vietnamese.txt	26796	4205	4208	chị					1	0	1	0
+Texts	Vietnamese.txt	26797	4227	4230	chị					1	0	1	0
+Texts	Vietnamese.txt	26797	4232	4235	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26799	4305	4313	Anh Bình					1	0	0	1
+Texts	Vietnamese.txt	26799	4305	4313	Anh Bình					1	0	1	0
+Texts	Vietnamese.txt	26799	4327	4330	anh					1	0	1	0
+Texts	Vietnamese.txt	26800	4361	4364	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26800	4385	4388	anh					1	0	0	1
+Texts	Vietnamese.txt	26800	4385	4388	anh					1	0	1	0
+Texts	Vietnamese.txt	26801	4397	4400	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26802	4457	4460	tôi					1	1	0	0
+Texts	Vietnamese.txt	26803	4496	4499	Anh					1	0	1	0
+Texts	Vietnamese.txt	26804	4531	4534	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26805	4598	4601	anh					1	0	1	0
+Texts	Vietnamese.txt	26806	4634	4637	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26806	4661	4664	tôi					1	1	0	0
+Texts	Vietnamese.txt	26807	4695	4698	tôi					1	1	0	0
+Texts	Vietnamese.txt	26808	4722	4725	anh					1	0	0	1
+Texts	Vietnamese.txt	26808	4722	4725	anh					1	0	1	0
+Texts	Vietnamese.txt	26810	4811	4814	bạn					1	0	1	0
+Texts	Vietnamese.txt	26813	4911	4914	tôi					1	1	0	0
+Texts	Vietnamese.txt	26814	4956	4959	bạn					1	0	1	0
+Texts	Vietnamese.txt	26817	5062	5065	tôi					1	1	0	0
+Texts	Vietnamese.txt	26819	5123	5126	tôi					1	1	0	0
+Texts	Vietnamese.txt	26819	5151	5154	bạn					1	0	0	1
+Texts	Vietnamese.txt	26819	5151	5154	bạn					1	0	1	0
+Texts	Vietnamese.txt	26820	5172	5175	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26820	5194	5197	tôi					1	1	0	0
+Texts	Vietnamese.txt	26821	5220	5223	Anh					1	0	1	0
+Texts	Vietnamese.txt	26821	5234	5237	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26823	5367	5373	Haruka					1	0	1	0
+Texts	Vietnamese.txt	26824	5419	5422	tôi					1	1	0	0
+Texts	Vietnamese.txt	26825	5459	5462	bạn					1	0	1	0
+Texts	Vietnamese.txt	26825	5490	5493	bạn					1	0	1	0
+Texts	Vietnamese.txt	26826	5531	5534	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26827	5582	5585	bạn					1	0	1	0
+Texts	Vietnamese.txt	26828	5621	5624	tôi					1	1	0	0
+Texts	Vietnamese.txt	26828	5671	5674	bạn					1	0	0	1
+Texts	Vietnamese.txt	26828	5671	5674	bạn					1	0	1	0
+Texts	Vietnamese.txt	26829	5683	5686	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26829	5701	5704	tôi					1	1	0	0
+Texts	Vietnamese.txt	26829	5756	5759	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26830	5839	5842	bạn					1	0	1	0
+Texts	Vietnamese.txt	26831	5885	5888	tôi					1	1	0	0
+Texts	Vietnamese.txt	26832	5959	5962	bạn					1	0	1	0
+Texts	Vietnamese.txt	26833	5998	6001	tôi					1	1	0	0
+Texts	Vietnamese.txt	26833	6020	6023	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26834	6058	6061	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26836	6166	6169	Lan					1	1	0	0
+Texts	Vietnamese.txt	26837	6206	6210	Mình					1	1	0	0
+Texts	Vietnamese.txt	26837	6226	6229	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26838	6716	6720	Mình					1	1	0	0
+Texts	Vietnamese.txt	26839	6749	6752	bạn					1	0	1	0
+Texts	Vietnamese.txt	26840	6776	6780	mình					1	1	0	0
+Texts	Vietnamese.txt	26841	6814	6817	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26842	6862	6866	mình					1	1	0	0
+Texts	Vietnamese.txt	26842	6899	6902	bạn					1	0	0	1
+Texts	Vietnamese.txt	26842	6899	6902	bạn					1	0	1	0
+Texts	Vietnamese.txt	26843	6914	6918	Mình					1	1	0	0
+Texts	Vietnamese.txt	26843	6946	6950	Mình					1	1	0	0
+Texts	Vietnamese.txt	26844	6990	6994	Mình					1	1	0	0
+Texts	Vietnamese.txt	26844	7035	7039	mình					1	1	0	0
+Texts	Vietnamese.txt	26845	7081	7084	bạn					1	0	1	0
+Texts	Vietnamese.txt	26845	7098	7106	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26846	7146	7154	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26849	7303	7309	Takuma					1	0	0	1
+Texts	Vietnamese.txt	26849	7303	7309	Takuma					1	0	1	0
+Texts	Vietnamese.txt	26849	7311	7319	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26850	7353	7356	tôi					1	1	0	0
+Texts	Vietnamese.txt	26850	7381	7384	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26852	7463	7471	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26852	7481	7484	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26853	7514	7517	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26853	7542	7545	tôi					1	1	0	0
+Texts	Vietnamese.txt	26853	7565	7568	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26854	7616	7619	Anh					1	0	1	0
+Texts	Vietnamese.txt	26855	7663	7666	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26855	7689	7692	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26855	7721	7724	anh					1	0	0	1
+Texts	Vietnamese.txt	26855	7721	7724	anh					1	0	1	0
+Texts	Vietnamese.txt	26855	7735	7738	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26857	7846	7850	Hùng					1	0	0	1
+Texts	Vietnamese.txt	26857	7846	7850	Hùng					1	0	1	0
+Texts	Vietnamese.txt	26857	7864	7867	bạn					1	0	1	0
+Texts	Vietnamese.txt	26858	7895	7899	Mình					1	1	0	0
+Texts	Vietnamese.txt	26858	7922	7926	Mình					1	1	0	0
+Texts	Vietnamese.txt	26858	7969	7972	bạn					1	0	0	1
+Texts	Vietnamese.txt	26858	7969	7972	bạn					1	0	1	0
+Texts	Vietnamese.txt	26859	7984	7988	Mình					1	1	0	0
+Texts	Vietnamese.txt	26859	8034	8038	mình					1	1	0	0
+Texts	Vietnamese.txt	26860	8060	8063	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26861	8102	8106	Mình					1	1	0	0
+Texts	Vietnamese.txt	26862	8154	8157	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26863	8195	8199	Mình					1	1	0	0
+Texts	Vietnamese.txt	26863	8242	8246	Mình					1	1	0	0
+Texts	Vietnamese.txt	26864	8285	8288	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26865	8322	8326	mình					1	1	0	0
+Texts	Vietnamese.txt	26866	8390	8393	bạn					1	0	1	0
+Texts	Vietnamese.txt	26869	8589	8591	Em					1	1	0	0
+Texts	Vietnamese.txt	26869	8601	8605	thầy					1	0	0	1
+Texts	Vietnamese.txt	26869	8601	8605	thầy					1	0	1	0
+Texts	Vietnamese.txt	26869	8609	8611	Em					1	1	0	0
+Texts	Vietnamese.txt	26869	8626	8628	Em					1	1	0	0
+Texts	Vietnamese.txt	26870	9007	9010	tôi					1	1	0	0
+Texts	Vietnamese.txt	26870	9022	9024	em					1	0	1	0
+Texts	Vietnamese.txt	26871	9044	9046	em					1	1	0	0
+Texts	Vietnamese.txt	26872	9098	9100	em					1	0	1	0
+Texts	Vietnamese.txt	26873	9129	9131	em					1	1	0	0
+Texts	Vietnamese.txt	26873	9183	9187	Thầy					1	0	1	0
+Texts	Vietnamese.txt	26873	9210	9212	em					1	1	0	0
+Texts	Vietnamese.txt	26874	9309	9311	em					1	0	1	0
+Texts	Vietnamese.txt	26875	9361	9363	em					1	1	0	0
+Texts	Vietnamese.txt	26875	9378	9380	em					1	1	0	0
+Texts	Vietnamese.txt	26875	9406	9408	em					1	1	0	0
+Texts	Vietnamese.txt	26875	9714	9716	em					1	1	0	0
+Texts	Vietnamese.txt	26876	9769	9771	em					1	0	1	0
+Texts	Vietnamese.txt	26876	9816	9818	em					1	0	1	0
+Texts	Vietnamese.txt	26877	9848	9850	Em					1	1	0	0
+Texts	Vietnamese.txt	26877	9914	9916	em					1	1	0	0
+Texts	Vietnamese.txt	26877	9934	9938	thầy					1	0	0	1
+Texts	Vietnamese.txt	26877	9934	9938	thầy					1	0	1	0
+Texts	Vietnamese.txt	26879	10012	10015	bạn					1	0	1	0
+Texts	Vietnamese.txt	26880	10086	10089	tôi					1	1	0	0
+Texts	Vietnamese.txt	26880	10111	10114	tôi					1	1	0	0
+Texts	Vietnamese.txt	26882	10292	10295	tôi					1	1	0	0
+Texts	Vietnamese.txt	26890	10631	10641	anh Takuma					1	0	1	0
+Texts	Vietnamese.txt	26890	10656	10665	chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26891	10693	10696	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26891	10744	10752	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26892	10793	10796	Anh					1	0	1	0
+Texts	Vietnamese.txt	26893	10851	10854	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26893	10881	10884	tôi					1	1	0	0
+Texts	Vietnamese.txt	26894	10901	10904	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26894	10925	10928	tôi					1	1	0	0
+Texts	Vietnamese.txt	26895	10971	10979	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26897	11059	11067	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26898	11104	11112	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26899	11151	11154	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26899	11179	11187	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26900	11233	11241	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26901	11321	11329	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26902	11353	11356	Anh					1	0	1	0
+Texts	Vietnamese.txt	26904	11441	11444	anh					1	0	1	0
+Texts	Vietnamese.txt	26906	11530	11539	chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26907	11599	11606	các bạn					1	0	1	0
+Texts	Vietnamese.txt	26910	11695	11704	Chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26911	11754	11761	các bạn					1	0	1	0
+Texts	Vietnamese.txt	26912	11793	11802	Chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26914	11853	11856	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26914	11869	11878	chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26915	11899	11902	tôi					1	1	0	0
+Texts	Vietnamese.txt	26917	12034	12037	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26917	12087	12094	các bạn					1	0	1	0
+Texts	Vietnamese.txt	26919	12196	12204	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26920	12268	12277	chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26921	12297	12300	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26921	12317	12323	ba bạn					1	0	1	0
+Texts	Vietnamese.txt	26922	12348	12357	chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26923	12410	12417	các bạn					1	0	1	0
+Texts	Vietnamese.txt	26924	12517	12526	chúng tôi					1	1	0	0
+Texts	Vietnamese.txt	26925	12592	12600	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26926	12679	12682	bạn					1	0	1	0
+Texts	Vietnamese.txt	26926	12698	12706	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26927	12766	12769	tôi					1	1	0	0
+Texts	Vietnamese.txt	26927	12782	12785	tôi					1	1	0	0
+Texts	Vietnamese.txt	26928	12822	12825	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26928	12834	12842	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26929	12907	12915	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26931	13037	13041	Koji					1	0	0	1
+Texts	Vietnamese.txt	26931	13037	13041	Koji					1	0	1	0
+Texts	Vietnamese.txt	26931	13054	13057	bạn					1	0	1	0
+Texts	Vietnamese.txt	26933	13148	13151	bạn					1	0	1	0
+Texts	Vietnamese.txt	26934	13180	13183	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26934	13226	13229	bạn					1	0	0	1
+Texts	Vietnamese.txt	26934	13226	13229	bạn					1	0	1	0
+Texts	Vietnamese.txt	26935	13241	13244	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26936	13285	13288	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26937	13317	13320	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26938	13348	13351	bạn					1	0	1	0
+Texts	Vietnamese.txt	26939	13399	13402	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26941	13499	13502	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26941	13531	13534	tôi					1	1	0	0
+Texts	Vietnamese.txt	26941	13547	13554	các bạn					1	0	1	0
+Texts	Vietnamese.txt	26944	13684	13687	tôi					1	1	0	0
+Texts	Vietnamese.txt	26945	13740	13742	cô					1	0	1	0
+Texts	Vietnamese.txt	26947	13836	13838	Cô					1	0	1	0
+Texts	Vietnamese.txt	26949	13972	13974	cô					1	0	1	0
+Texts	Vietnamese.txt	26952	14181	14184	anh					1	0	1	0
+Texts	Vietnamese.txt	26952	14191	14194	anh					1	0	0	1
+Texts	Vietnamese.txt	26952	14191	14194	anh					1	0	1	0
+Texts	Vietnamese.txt	26954	14277	14283	Haruka					1	0	0	1
+Texts	Vietnamese.txt	26954	14277	14283	Haruka					1	0	1	0
+Texts	Vietnamese.txt	26954	14292	14297	mình					1	1	0	0
+Texts	Vietnamese.txt	26955	14324	14327	Lan					1	0	1	0
+Texts	Vietnamese.txt	26956	14365	14369	mình					1	1	0	0
+Texts	Vietnamese.txt	26956	14416	14420	mình					1	1	0	0
+Texts	Vietnamese.txt	26959	14659	14662	Lan					1	0	1	0
+Texts	Vietnamese.txt	26964	15121	15125	Mình					1	1	0	0
+Texts	Vietnamese.txt	26964	15182	15188	Haruka					1	0	1	0
+Texts	Vietnamese.txt	26966	15267	15273	Haruka					1	0	0	1
+Texts	Vietnamese.txt	26966	15267	15273	Haruka					1	0	1	0
+Texts	Vietnamese.txt	26969	15446	15450	mình					1	1	0	0
+Texts	Vietnamese.txt	26970	15500	15504	Mình					1	1	0	0
+Texts	Vietnamese.txt	26971	15590	15593	Lan					1	0	1	0
+Texts	Vietnamese.txt	26973	15688	15691	Lan					1	0	1	0
+Texts	Vietnamese.txt	26974	15769	15773	mình					1	1	0	0
+Texts	Vietnamese.txt	26974	15791	15797	Haruka					1	0	1	0
+Texts	Vietnamese.txt	26975	15837	15840	Lan					1	0	0	1
+Texts	Vietnamese.txt	26975	15837	15840	Lan					1	0	1	0
+Texts	Vietnamese.txt	26977	15899	15902	Lâm					1	0	0	1
+Texts	Vietnamese.txt	26977	15899	15902	Lâm					1	0	1	0
+Texts	Vietnamese.txt	26977	15908	15911	bạn					1	0	1	0
+Texts	Vietnamese.txt	26978	15950	15954	Mình					1	1	0	0
+Texts	Vietnamese.txt	26979	15995	15998	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26980	16025	16029	Mình					1	1	0	0
+Texts	Vietnamese.txt	26982	16099	16103	Mình					1	1	0	0
+Texts	Vietnamese.txt	26983	16137	16141	Mình					1	1	0	0
+Texts	Vietnamese.txt	26983	16181	16189	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26984	16216	16219	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26984	16225	16233	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26985	16299	16303	Mình					1	1	0	0
+Texts	Vietnamese.txt	26986	16379	16387	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	26988	16496	16499	Bạn					1	0	1	0
+Texts	Vietnamese.txt	26988	16523	16527	mình					1	1	0	0
+Texts	Vietnamese.txt	26988	16537	16541	mình					1	1	0	0
+Texts	Vietnamese.txt	26990	16631	16638	Anh Lâm					1	0	0	1
+Texts	Vietnamese.txt	26990	16631	16638	Anh Lâm					1	0	1	0
+Texts	Vietnamese.txt	26990	16674	16677	anh					1	0	0	1
+Texts	Vietnamese.txt	26990	16674	16677	anh					1	0	1	0
+Texts	Vietnamese.txt	26991	16686	16689	Tôi					1	1	0	0
+Texts	Vietnamese.txt	26991	16709	16712	Anh					1	0	1	0
+Texts	Vietnamese.txt	26992	16745	16748	tôi					1	1	0	0
+Texts	Vietnamese.txt	26992	16773	16776	anh					1	0	1	0
+Texts	Vietnamese.txt	26992	16778	16782	tôi 					1	1	0	0
+Texts	Vietnamese.txt	26998	17157	17160	anh					1	0	0	1
+Texts	Vietnamese.txt	26998	17157	17160	anh					1	0	1	0
+Texts	Vietnamese.txt	26999	17211	17214	anh					1	0	1	0
+Texts	Vietnamese.txt	27000	17250	17253	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27000	17271	17274	anh					1	0	1	0
+Texts	Vietnamese.txt	27002	17336	17338	cô					1	0	0	1
+Texts	Vietnamese.txt	27002	17336	17338	cô					1	0	1	0
+Texts	Vietnamese.txt	27002	17340	17343	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27003	17391	17394	Anh					1	0	1	0
+Texts	Vietnamese.txt	27004	17445	17448	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27004	17475	17477	cô					1	0	0	1
+Texts	Vietnamese.txt	27004	17475	17477	cô					1	0	1	0
+Texts	Vietnamese.txt	27006	17584	17587	tôi					1	1	0	0
+Texts	Vietnamese.txt	27006	17598	17600	Cô					1	0	1	0
+Texts	Vietnamese.txt	27006	17616	17619	tôi					1	1	0	0
+Texts	Vietnamese.txt	27007	17644	17647	Anh					1	0	1	0
+Texts	Vietnamese.txt	27009	17743	17746	anh					1	0	1	0
+Texts	Vietnamese.txt	27010	17800	17803	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27010	17843	17845	cô					1	0	0	1
+Texts	Vietnamese.txt	27010	17843	17845	cô					1	0	1	0
+Texts	Vietnamese.txt	27011	17909	17912	anh					1	0	1	0
+Texts	Vietnamese.txt	27012	17936	17938	cô					1	0	1	0
+Texts	Vietnamese.txt	27014	18005	18008	anh					1	0	0	1
+Texts	Vietnamese.txt	27014	18005	18008	anh					1	0	1	0
+Texts	Vietnamese.txt	27014	18010	18013	Anh					1	0	1	0
+Texts	Vietnamese.txt	27015	18037	18040	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27016	18130	18133	anh					1	0	1	0
+Texts	Vietnamese.txt	27017	18189	18191	cô					1	0	0	1
+Texts	Vietnamese.txt	27017	18189	18191	cô					1	0	1	0
+Texts	Vietnamese.txt	27021	18385	18387	cô					1	0	1	0
+Texts	Vietnamese.txt	27021	18392	18396	tôi 					1	1	0	0
+Texts	Vietnamese.txt	27022	18443	18446	anh					1	0	1	0
+Texts	Vietnamese.txt	27024	18535	18537	cô					1	0	0	1
+Texts	Vietnamese.txt	27024	18535	18537	cô					1	0	1	0
+Texts	Vietnamese.txt	27024	18539	18541	Cô					1	0	1	0
+Texts	Vietnamese.txt	27025	18560	18563	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27026	18705	18707	cô					1	0	1	0
+Texts	Vietnamese.txt	27027	18727	18730	Chị					1	0	1	0
+Texts	Vietnamese.txt	27027	18735	18738	tôi					1	1	0	0
+Texts	Vietnamese.txt	27030	18996	18998	Cô					1	0	1	0
+Texts	Vietnamese.txt	27031	19034	19037	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27031	19063	19066	Chị					1	0	1	0
+Texts	Vietnamese.txt	27033	19168	19171	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27034	19233	19235	cô					1	0	1	0
+Texts	Vietnamese.txt	27036	19330	19333	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27037	19397	19400	Bạn					1	0	1	0
+Texts	Vietnamese.txt	27038	19469	19472	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27038	19513	19516	anh					1	0	1	0
+Texts	Vietnamese.txt	27039	19546	19549	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27040	19618	19621	bạn					1	0	1	0
+Texts	Vietnamese.txt	27040	19664	19667	bạn					1	0	1	0
+Texts	Vietnamese.txt	27041	19700	19703	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27041	19745	19748	Bạn					1	0	1	0
+Texts	Vietnamese.txt	27041	19757	19760	bạn					1	0	1	0
+Texts	Vietnamese.txt	27042	19852	19855	bạn					1	0	1	0
+Texts	Vietnamese.txt	27042	19873	19876	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27044	20022	20025	bạn					1	0	1	0
+Texts	Vietnamese.txt	27044	20040	20043	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27046	20118	20125	anh chị					1	0	1	0
+Texts	Vietnamese.txt	27047	20156	20159	tôi					1	1	0	0
+Texts	Vietnamese.txt	27049	20226	20229	anh					1	0	1	0
+Texts	Vietnamese.txt	27049	20231	20237	Takuma					1	0	1	0
+Texts	Vietnamese.txt	27049	20231	20238	Takuma 					1	0	0	1
+Texts	Vietnamese.txt	27049	20243	20246	bạn					1	0	1	0
+Texts	Vietnamese.txt	27050	20280	20283	tôi					1	1	0	0
+Texts	Vietnamese.txt	27050	20322	20325	Bạn					1	0	1	0
+Texts	Vietnamese.txt	27051	20372	20375	tôi					1	1	0	0
+Texts	Vietnamese.txt	27051	20381	20389	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27052	20443	20446	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27053	20487	20490	anh					1	0	1	0
+Texts	Vietnamese.txt	27053	20495	20498	tôi					1	1	0	0
+Texts	Vietnamese.txt	27054	20586	20593	anh chị					1	0	1	0
+Texts	Vietnamese.txt	27055	20617	20620	tôi					1	1	0	0
+Texts	Vietnamese.txt	27055	20644	20651	Takuma 					1	0	1	0
+Texts	Vietnamese.txt	27056	20675	20678	tôi					1	1	0	0
+Texts	Vietnamese.txt	27057	20736	20743	anh chị					1	0	1	0
+Texts	Vietnamese.txt	27061	20920	20927	các chị					1	0	1	0
+Texts	Vietnamese.txt	27062	20947	20950	Anh					1	0	1	0
+Texts	Vietnamese.txt	27062	20955	20958	tôi					1	1	0	0
+Texts	Vietnamese.txt	27062	20985	20988	Mai					1	0	0	1
+Texts	Vietnamese.txt	27062	20985	20988	Mai					1	0	1	0
+Texts	Vietnamese.txt	27062	20990	20993	bạn					1	0	1	0
+Texts	Vietnamese.txt	27063	21015	21018	tôi					1	1	0	0
+Texts	Vietnamese.txt	27064	21053	21059	Hanako					1	0	0	1
+Texts	Vietnamese.txt	27064	21053	21059	Hanako					1	0	1	0
+Texts	Vietnamese.txt	27064	21061	21064	bạn					1	0	1	0
+Texts	Vietnamese.txt	27065	21118	21121	anh					1	0	0	1
+Texts	Vietnamese.txt	27065	21118	21121	anh					1	0	1	0
+Texts	Vietnamese.txt	27067	21218	21221	anh					1	0	1	0
+Texts	Vietnamese.txt	27067	21226	21229	tôi					1	1	0	0
+Texts	Vietnamese.txt	27068	21287	21294	các chị					1	0	1	0
+Texts	Vietnamese.txt	27070	21432	21439	các chị					1	0	1	0
+Texts	Vietnamese.txt	27072	21510	21517	các bạn					1	0	1	0
+Texts	Vietnamese.txt	27072	21533	21541	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27072	21556	21559	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27073	21614	21617	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27073	21639	21642	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27074	21673	21676	tôi					1	1	0	0
+Texts	Vietnamese.txt	27075	21733	21736	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27076	21793	21801	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27081	22042	22045	tôi					1	1	0	0
+Texts	Vietnamese.txt	27082	22088	22091	bạn					1	0	1	0
+Texts	Vietnamese.txt	27082	22108	22116	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27083	22188	22196	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27085	22259	22262	anh					1	0	1	0
+Texts	Vietnamese.txt	27086	22291	22294	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27087	22334	22337	anh					1	0	1	0
+Texts	Vietnamese.txt	27088	22350	22353	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27089	22417	22420	anh					1	0	1	0
+Texts	Vietnamese.txt	27089	22448	22451	Anh					1	0	1	0
+Texts	Vietnamese.txt	27090	22496	22499	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27091	22530	22533	Anh					1	0	1	0
+Texts	Vietnamese.txt	27092	22562	22565	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27093	22637	22640	Anh					1	0	1	0
+Texts	Vietnamese.txt	27096	22838	22841	tôi					1	1	0	0
+Texts	Vietnamese.txt	27098	22958	22965	Các bạn					1	0	0	1
+Texts	Vietnamese.txt	27098	22958	22965	Các bạn					1	0	1	0
+Texts	Vietnamese.txt	27101	23080	23088	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27102	23141	23144	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27105	23302	23306	Mình					1	1	0	0
+Texts	Vietnamese.txt	27106	23370	23378	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27108	23466	23469	Bạn					1	0	1	0
+Texts	Vietnamese.txt	27109	23516	23519	tôi					1	1	0	0
+Texts	Vietnamese.txt	27110	23562	23570	chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27114	23777	23785	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27117	23924	23927	tôi					1	1	0	0
+Texts	Vietnamese.txt	27117	23949	23952	Tôi					1	1	0	0
+Texts	Vietnamese.txt	27118	24051	24054	bạn					1	0	1	0
+Texts	Vietnamese.txt	27120	24155	24163	Chúng ta					1	1	0	0
+Texts	Vietnamese.txt	27120	24178	24181	tôi					1	1	0	0

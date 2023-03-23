@@ -13,6 +13,6 @@
 |  5 | [Corpus of Malay Varieties: Colloquial Standard Malay](https://github.com/matbahasa/Melayu_Standard_Lisan) | Malay | CC BY 4.0 | [Link](https://github.com/matbahasa/Melayu_Standard_Lisan/tree/master/NorHashimah) |
 |  6 | [MALINDO Parallel](https://github.com/matbahasa/MALINDO_Parallel/) | Malay | CC BY 4.0 | [Link](https://github.com/matbahasa/MALINDO_Parallel/tree/master/GogekiTUFS)|
 |  7 | []() | Indonesian | CC BY 4.0 | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/ind) |
-|  8 | []() | Thai | open, pending copyright clearance | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/tha) |
+|  8 | [BKD (Bangkok Data) Corpus Collection]() | Thai | Apache 2.0, pending copyright clearance | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/tha) |
 |  9 | []() | Vietnamese | open, pending copyright clearance | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/tha) |
 | 10 | []() | Burmese | open | [Link](https://github.com/matbahasa/ProSub/tree/main/annotations/myn) |

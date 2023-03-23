@@ -21,7 +21,7 @@ The development of a corpus with pronoun substitute and address term annotations
 ## Format
 The annotation is provided in a tab-delimited text format.  The first line is a header explaining the content in each column.
 
-## Acknowledgement
+## Acknowledgements
 This work was supported by the Thailand Science Research and Innovation Fundamental Fund, Contract Number TUFF19/2564 and TUFF24/2565, and by JSPS KAKENHI Grant Number JP20H01255. We would like to extend our appreciation to Dr. Sorarat Jirabawornvisut, Khunying Vinita Diteeyont (aka V. Vinichaikul), and Tipthida Satthathip for the valuable contributions of their writings for this study. Additionally, we would like to acknowledge the publishers, Amarin Printing and Publishing PCL. and BEC World PCL., who have graciously allowed us to use their works in our research.
 
 ## References

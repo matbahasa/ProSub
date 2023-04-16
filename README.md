@@ -128,6 +128,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 
 ## Codes and tags
 ### Language codes
+The [ISO 639-3](https://iso639-3.sil.org) codes are used.
 - `jpn` Japanese
 - `kor` Korean
 - `ind` Indonesian
@@ -147,4 +148,4 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `yes` acceptable, available, possible
 - `no` unacceptable, unavailable, impossible
 - `*` acceptable if used together with a title, but not by itself
-- `?` uncertain, requires cheking
+- `?` uncertain, requires checking

@@ -3,7 +3,7 @@
 ## このページで公開するファイルについて
 このページではアノテーションファイルのみを公開しています。コーパスデータは国立国語研究所から購入して下さい。[https://www2.ninjal.ac.jp/conversation/cejc/contract.html](https://www2.ninjal.ac.jp/conversation/cejc/contract.html)
 
-- `ver0`フォルダーには、Nomoto et al. (2023)で報告した2つのグループに別れ、独立して行ったアノテーションが入っています。アノテーター間不一致があります。
+- `ver0`フォルダーには、[Nomoto et al. (2023)](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P9-4.pdf)で報告した2つのグループに別れ、独立して行ったアノテーションが入っています。アノテーター間不一致があります。
 - `ver1`フォルダーには、`ver0`のアノテーター間不一致を確認・検討を行った最終的なアノテーションが入っています。
 
 ## アノテーションファイルとコーパスデータの統合法

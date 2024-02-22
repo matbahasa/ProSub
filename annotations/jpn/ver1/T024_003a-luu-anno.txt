@@ -1,0 +1,23 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T024_003a-luu-anno.txt	1	2789	2792	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	2	3140	3143	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	3	3166	3170	竜)くん					1	0	0	1
+Texts	T024_003a-luu-anno.txt	4	3218	3219	俺					1	1	0	0
+Texts	T024_003a-luu-anno.txt	5	3524	3527	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	6	5475	5478	あなた					1	0	1	0
+Texts	T024_003a-luu-anno.txt	7	7018	7019	僕	引用　子供視点で				1	0	1	0
+Texts	T024_003a-luu-anno.txt	8	8187	8191	秀)くん					1	0	1	0
+Texts	T024_003a-luu-anno.txt	9	8352	8355	わたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	10	8537	8540	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	11	8895	8900	秀)ちゃん					1	0	1	0
+Texts	T024_003a-luu-anno.txt	12	9157	9160	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	13	9515	9518	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	14	9976	9982	絵美)ちゃん					1	0	0	1
+Texts	T024_003a-luu-anno.txt	22	10643	10646	みんな	or 2nd(あなたたち)?				1	1	0	0
+Texts	T024_003a-luu-anno.txt	15	11645	11647	ママ	01				1	0	0	1
+Texts	T024_003a-luu-anno.txt	16	13161	13164	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	17	13461	13465	秀)くん					1	0	1	0
+Texts	T024_003a-luu-anno.txt	18	13729	13732	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	19	14372	14374	秀人					1	0	1	0
+Texts	T024_003a-luu-anno.txt	20	15113	15116	あたし					1	1	0	0
+Texts	T024_003a-luu-anno.txt	21	16058	16061	あたし					1	1	0	0

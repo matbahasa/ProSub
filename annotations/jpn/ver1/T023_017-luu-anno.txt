@@ -1,0 +1,10 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T023_017-luu-anno.txt	1	363	365	お前	引用(回想)				1	0	0	1
+Texts	T023_017-luu-anno.txt	2	2025	2026	俺					1	1	0	0
+Texts	T023_017-luu-anno.txt	3	4145	4148	あんた	フィラー？				1	0	0	1
+Texts	T023_017-luu-anno.txt	4	4875	4878	うちら					1	1	0	0
+Texts	T023_017-luu-anno.txt	5	5584	5585	僕					1	1	0	0
+Texts	T023_017-luu-anno.txt	6	5873	5876	あんた					1	0	1	0
+Texts	T023_017-luu-anno.txt	7	6009	6010	僕					1	1	0	0
+Texts	T023_017-luu-anno.txt	8	13303	13308	指田)さん					1	0	1	0
+Texts	T023_017-luu-anno.txt	9	14520	14523	わたし					1	1	0	0

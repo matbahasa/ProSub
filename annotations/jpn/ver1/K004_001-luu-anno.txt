@@ -1,0 +1,44 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K004_001-luu-anno.txt	1	1721	1724	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	42	2832	2835	わたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	2	3842	3845	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	3	7376	7379	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	43	7443	7446	あんた					1	0	1	0
+Texts	K004_001-luu-anno.txt	4	7542	7545	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	5	8108	8112	お母さん	03				1	1	0	0
+Texts	K004_001-luu-anno.txt	6	8313	8317	お母さん	01　464の倒置？				1	0	1	0
+Texts	K004_001-luu-anno.txt	7	8440	8443	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	8	8474	8477	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	9	9071	9075	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	10	9192	9195	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	11	9227	9230	あんた					1	0	1	0
+Texts	K004_001-luu-anno.txt	12	9319	9322	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	13	10254	10257	あんた					1	0	1	0
+Texts	K004_001-luu-anno.txt	14	11106	11109	わたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	15	13608	13611	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	16	20566	20567	俺	引用				1	1	0	0
+Texts	K004_001-luu-anno.txt	17	22205	22209	お母さん	03				1	0	1	0
+Texts	K004_001-luu-anno.txt	18	22274	22278	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	19	22818	22822	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	24	23743	23747	お母さん	03				1	1	0	0
+Texts	K004_001-luu-anno.txt	20	24317	24321	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	22	24519	24523	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	23	26038	26042	お母さん	03				1	1	0	0
+Texts	K004_001-luu-anno.txt	21	26588	26592	お母さん	03				1	1	0	0
+Texts	K004_001-luu-anno.txt	25	26756	26760	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	26	27059	27063	お母さん	03				1	1	0	0
+Texts	K004_001-luu-anno.txt	27	27983	27986	佳奈恵					1	0	1	0
+Texts	K004_001-luu-anno.txt	28	28031	28034	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	29	28035	28038	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	44	28829	28832	あたし					1	1	0	0
+Texts	K004_001-luu-anno.txt	31	29040	29044	お母さん	01				1	0	0	1
+Texts	K004_001-luu-anno.txt	32	29780	29784	お母さん	01				1	0	0	1
+Texts	K004_001-luu-anno.txt	33	29881	29885	お母さん	03				1	0	1	0
+Texts	K004_001-luu-anno.txt	34	30291	30295	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	30	30347	30351	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	35	30407	30411	お父さん	01				1	0	0	1
+Texts	K004_001-luu-anno.txt	36	30523	30524	俺	引用				1	1	0	0
+Texts	K004_001-luu-anno.txt	37	30524	30526	お前	引用				1	0	1	0
+Texts	K004_001-luu-anno.txt	38	30534	30535	俺	引用				1	1	0	0
+Texts	K004_001-luu-anno.txt	39	30933	30937	お母さん	01				1	0	1	0
+Texts	K004_001-luu-anno.txt	40	31031	31035	お母さん	03				1	1	0	0

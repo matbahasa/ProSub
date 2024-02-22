@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S002_003-luu-anno.txt	1	302	303	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	3	440	441	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	5	517	518	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	6	724	725	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	7	946	947	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	8	962	963	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	9	994	995	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	10	2838	2841	君たち					1	0	1	0
+Texts	S002_003-luu-anno.txt	11	3405	3406	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	12	4579	4580	僕					1	1	0	0
+Texts	S002_003-luu-anno.txt	13	5377	5378	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	14	5875	5876	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	15	5911	5912	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	16	5944	5945	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	17	5961	5962	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	18	5992	5993	僕					1	1	0	0
+Texts	S002_003-luu-anno.txt	19	7646	7647	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	20	8633	8634	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	21	8641	8642	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	22	8651	8652	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	23	8782	8783	僕					1	1	0	0
+Texts	S002_003-luu-anno.txt	24	8965	8966	俺					1	1	0	0
+Texts	S002_003-luu-anno.txt	25	9008	9009	俺					1	1	0	0

@@ -1,0 +1,34 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K002_012-luu-anno.txt	1	808	811	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	2	812	814	自分					1	1	0	0
+Texts	K002_012-luu-anno.txt	3	857	862	さっちょん					1	0	1	0
+Texts	K002_012-luu-anno.txt	33	884	887	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	4	975	978	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	5	1769	1774	さっちょん					1	0	1	0
+Texts	K002_012-luu-anno.txt	6	2352	2355	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	7	2358	2360	自分					1	1	0	0
+Texts	K002_012-luu-anno.txt	8	3347	3350	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	9	3426	3429	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	10	3602	3607	さっちょん					1	0	1	0
+Texts	K002_012-luu-anno.txt	11	3836	3841	さっちょん					1	0	1	0
+Texts	K002_012-luu-anno.txt	32	6185	6187	自分					1	1	0	0
+Texts	K002_012-luu-anno.txt	12	7541	7544	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	13	7762	7767	さっちょん					1	0	1	0
+Texts	K002_012-luu-anno.txt	24	10331	10333	うち					1	1	0	0
+Texts	K002_012-luu-anno.txt	25	14056	14061	さっちょん	あだ名？				1	0	1	0
+Texts	K002_012-luu-anno.txt	14	14074	14077	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	28	15630	15636	早苗))さん					1	0	1	0
+Texts	K002_012-luu-anno.txt	15	15742	15745	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	16	15798	15803	さっちょん					1	0	1	0
+Texts	K002_012-luu-anno.txt	26	16223	16226	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	17	16379	16382	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	18	17939	17942	あたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	27	20617	20619	うち					1	1	0	0
+Texts	K002_012-luu-anno.txt	29	21773	21778	早苗)さん					1	0	1	0
+Texts	K002_012-luu-anno.txt	19	23285	23288	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	20	23575	23580	さっちょん					1	0	0	1
+Texts	K002_012-luu-anno.txt	21	23879	23882	わたし					1	1	0	0
+Texts	K002_012-luu-anno.txt	22	24801	24806	早苗)さん	言いかけの可能性あり				1	0	1	0
+Texts	K002_012-luu-anno.txt	23	25255	25260	早苗)さん					1	0	1	0
+Texts	K002_012-luu-anno.txt	30	25539	25541	朔也					1	0	0	1
+Texts	K002_012-luu-anno.txt	31	26967	26969	朔也					1	0	0	1

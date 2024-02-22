@@ -1,0 +1,11 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T004_005a-luu-anno.txt	1	63	66	奥さん	他人の妻				1	0	0	1
+Texts	T004_005a-luu-anno.txt	2	365	378	遠藤)(W カイショ|会長					1	0	0	1
+Texts	T004_005a-luu-anno.txt	3	796	798	会長					1	0	1	0
+Texts	T004_005a-luu-anno.txt	4	1592	1595	あんた					1	0	1	0
+Texts	T004_005a-luu-anno.txt	5	1710	1713	あたし					1	1	0	0
+Texts	T004_005a-luu-anno.txt	6	1754	1756	会長					1	0	0	1
+Texts	T004_005a-luu-anno.txt	7	2177	2178	俺					1	1	0	0
+Texts	T004_005a-luu-anno.txt	8	2843	2845	自分					1	1	0	0
+Texts	T004_005a-luu-anno.txt	9	3247	3249	会長					1	0	0	1
+Texts	T004_005a-luu-anno.txt	10	7271	7272	俺					1	1	0	0

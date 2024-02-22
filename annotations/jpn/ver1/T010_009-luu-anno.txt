@@ -1,0 +1,59 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T010_009-luu-anno.txt	3	1036	1038	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	6	1122	1124	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	1	1198	1200	僕ら					1	1	0	0
+Texts	T010_009-luu-anno.txt	2	1229	1231	僕ら					1	1	0	0
+Texts	T010_009-luu-anno.txt	4	1240	1242	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	5	1288	1290	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	7	1443	1444	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	8	1607	1609	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	10	1845	1847	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	9	1938	1939	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	11	2325	2326	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	13	2437	2440	こっち					1	1	0	0
+Texts	T010_009-luu-anno.txt	14	3479	3480	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	15	3830	3833	こちら					1	1	0	0
+Texts	T010_009-luu-anno.txt	16	3903	3906	こっち					1	1	0	0
+Texts	T010_009-luu-anno.txt	17	3972	3974	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	18	4627	4629	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	19	5248	5250	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	20	5959	5961	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	21	6232	6234	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	22	6267	6269	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	23	6324	6326	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	24	7158	7159	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	25	7311	7313	僕ら					1	1	0	0
+Texts	T010_009-luu-anno.txt	26	7428	7430	僕ら					1	1	0	0
+Texts	T010_009-luu-anno.txt	27	8087	8091	自分たち					1	1	0	0
+Texts	T010_009-luu-anno.txt	59	8121	8123	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	28	8202	8204	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	29	8353	8357	自分たち					1	1	0	0
+Texts	T010_009-luu-anno.txt	30	8603	8607	自分:ら					1	1	0	0
+Texts	T010_009-luu-anno.txt	31	8875	8878	自分ら					1	1	0	0
+Texts	T010_009-luu-anno.txt	32	9544	9545	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	33	9642	9644	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	34	10806	10808	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	35	10858	10860	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	37	11515	11516	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	38	11611	11613	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	39	12002	12003	俺					1	1	0	0
+Texts	T010_009-luu-anno.txt	40	12331	12333	我々					1	1	0	0
+Texts	T010_009-luu-anno.txt	41	12355	12357	我々					1	1	0	0
+Texts	T010_009-luu-anno.txt	12	14460	14462	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	42	14653	14655	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	43	15036	15038	先生	01				1	0	1	0
+Texts	T010_009-luu-anno.txt	44	15975	15977	先生	01				1	1	0	0
+Texts	T010_009-luu-anno.txt	45	16300	16302	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	46	16853	16856	みんな					1	1	0	0
+Texts	T010_009-luu-anno.txt	47	18170	18173	みんな					1	1	0	0
+Texts	T010_009-luu-anno.txt	48	18915	18918	わたし					1	1	0	0
+Texts	T010_009-luu-anno.txt	49	18919	18921	我々					1	1	0	0
+Texts	T010_009-luu-anno.txt	50	19311	19314	お前ら					1	0	1	0
+Texts	T010_009-luu-anno.txt	51	19610	19611	俺					1	1	0	0
+Texts	T010_009-luu-anno.txt	52	19616	19619	みんな					1	1	0	0
+Texts	T010_009-luu-anno.txt	53	20061	20062	僕					1	1	0	0
+Texts	T010_009-luu-anno.txt	55	20853	20856	みんな					1	1	0	0
+Texts	T010_009-luu-anno.txt	54	20903	20906	みんな					1	1	0	0
+Texts	T010_009-luu-anno.txt	56	22111	22113	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	57	23520	23522	自分					1	1	0	0
+Texts	T010_009-luu-anno.txt	58	24603	24605	自分					1	1	0	0

@@ -1,0 +1,72 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T005_001-luu-anno.txt	1	553	554	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	2	590	595	石井)さん	その場にはいない				1	0	0	1
+Texts	T005_001-luu-anno.txt	3	668	674	石井))さん	その場にはいない				1	0	0	0
+Texts	T005_001-luu-anno.txt	4	759	760	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	5	2121	2127	石橋))さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	6	2391	2392	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	7	4756	4758	我々					1	1	0	0
+Texts	T005_001-luu-anno.txt	8	5451	5452	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	9	5637	5639	我々					1	1	0	0
+Texts	T005_001-luu-anno.txt	10	5741	5746	星野)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	11	5841	5842	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	12	5849	5854	服部)さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	13	6349	6354	服部)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	14	7976	7978	我々					1	1	0	0
+Texts	T005_001-luu-anno.txt	15	9225	9226	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	16	9725	9728	皆さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	17	9925	9930	小池)さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	18	15205	15210	星野)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	19	15214	15219	星野)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	20	15232	15237	星野)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	21	15596	15601	星野)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	22	18058	18059	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	23	18195	18196	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	24	18344	18345	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	25	18452	18453	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	26	20575	20576	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	27	20742	20747	石橋)さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	28	21212	21217	星野)さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	70	21700	21706	小池))さん					1	0	1	0
+Texts	T005_001-luu-anno.txt	29	21838	21839	僕					1	1	0	0
+Texts	T005_001-luu-anno.txt	30	22307	22308	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	31	22464	22465	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	32	22734	22735	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	71	23501	23505	圭)さん	おそらく永井のこと				1	0	1	0
+Texts	T005_001-luu-anno.txt	33	23547	23552	小池)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	34	23680	23685	星野)さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	35	23764	23765	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	36	24371	24372	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	37	24457	24458	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	38	24542	24543	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	39	24585	24586	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	40	24755	24758	皆さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	41	24849	24855	かめ)ちゃん					1	0	0	1
+Texts	T005_001-luu-anno.txt	42	24888	24889	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	43	25084	25085	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	44	25091	25092	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	45	25840	25843	皆さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	46	25944	25947	皆さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	47	25993	25999	かめ)ちゃん					1	0	1	0
+Texts	T005_001-luu-anno.txt	48	26142	26143	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	49	26947	26948	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	50	27825	27827	僕ら					1	1	0	0
+Texts	T005_001-luu-anno.txt	51	28322	28325	皆さん					1	0	0	1
+Texts	T005_001-luu-anno.txt	52	29923	29924	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	53	30356	30357	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	54	31025	31026	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	55	31265	31266	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	56	31306	31308	お前					1	0	0	1
+Texts	T005_001-luu-anno.txt	57	31583	31584	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	58	31669	31670	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	59	31882	31883	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	60	31887	31888	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	61	31933	31934	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	62	32720	32722	お前	フィラー				1	0	0	1
+Texts	T005_001-luu-anno.txt	63	32734	32736	お前					1	0	1	0
+Texts	T005_001-luu-anno.txt	64	32931	32933	お前	フィラー				1	0	0	1
+Texts	T005_001-luu-anno.txt	65	33084	33087	わたし	引用				1	1	0	0
+Texts	T005_001-luu-anno.txt	66	33308	33310	お前	フィラー				1	0	0	1
+Texts	T005_001-luu-anno.txt	67	33594	33596	お前	フィラー				1	0	0	1
+Texts	T005_001-luu-anno.txt	68	34225	34226	俺					1	1	0	0
+Texts	T005_001-luu-anno.txt	69	34467	34470	わたし					1	1	0	0

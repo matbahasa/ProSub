@@ -1,0 +1,20 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T008_017b-luu-anno.txt	1	457	463	父ちゃんさん	04				1	0	1	0
+Texts	T008_017b-luu-anno.txt	3	492	496	父ちゃん	03				1	0	1	0
+Texts	T008_017b-luu-anno.txt	2	516	517	俺					1	1	0	0
+Texts	T008_017b-luu-anno.txt	4	659	662	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	5	705	708	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	6	884	887	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	7	5112	5114	自分					1	1	0	0
+Texts	T008_017b-luu-anno.txt	8	6103	6105	顧問					1	0	1	0
+Texts	T008_017b-luu-anno.txt	9	7397	7400	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	10	8402	8404	お前					1	0	1	0
+Texts	T008_017b-luu-anno.txt	11	8690	8693	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	12	9278	9282	お母さん	02				1	0	1	0
+Texts	T008_017b-luu-anno.txt	13	11024	11027	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	14	13200	13203	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	15	13952	13955	あたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	16	15726	15729	わたし					1	1	0	0
+Texts	T008_017b-luu-anno.txt	17	15946	15948	自分					1	1	0	0
+Texts	T008_017b-luu-anno.txt	18	16592	16594	自分					1	1	0	0
+Texts	T008_017b-luu-anno.txt	19	16835	16837	自分					1	1	0	0

@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S002_011-luu-anno.txt	1	405	406	君					1	0	1	0
+Texts	S002_011-luu-anno.txt	2	466	467	俺					1	1	0	0
+Texts	S002_011-luu-anno.txt	3	954	957	僕たち					1	1	0	0
+Texts	S002_011-luu-anno.txt	4	1184	1185	俺					1	1	0	0
+Texts	S002_011-luu-anno.txt	5	1608	1609	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	6	2758	2759	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	7	2798	2799	君	引用（アニメのタイトル？）				1	0	1	0
+Texts	S002_011-luu-anno.txt	8	2800	2801	君	引用（アニメのタイトル？）				1	0	1	0
+Texts	S002_011-luu-anno.txt	9	3287	3292	健一)さん					1	0	0	1
+Texts	S002_011-luu-anno.txt	10	3377	3382	健一)さん					1	0	1	0
+Texts	S002_011-luu-anno.txt	11	3487	3488	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	12	3594	3599	健一)さん					1	0	1	0
+Texts	S002_011-luu-anno.txt	13	3688	3690	お前					1	0	0	1
+Texts	S002_011-luu-anno.txt	14	3691	3693	お前					1	0	1	0
+Texts	S002_011-luu-anno.txt	15	3696	3698	お前					1	0	1	0
+Texts	S002_011-luu-anno.txt	16	3774	3779	健一)さん					1	0	0	1
+Texts	S002_011-luu-anno.txt	17	4002	4005	あなた					1	0	1	0
+Texts	S002_011-luu-anno.txt	18	4051	4054	わたし					1	1	0	0
+Texts	S002_011-luu-anno.txt	19	4069	4072	わたし					1	1	0	0
+Texts	S002_011-luu-anno.txt	20	4141	4144	お前ら					1	0	1	0
+Texts	S002_011-luu-anno.txt	21	4171	4174	わたし					1	1	0	0
+Texts	S002_011-luu-anno.txt	22	4378	4381	おめえ					1	0	1	0
+Texts	S002_011-luu-anno.txt	23	4796	4801	健一)さん					1	0	1	0
+Texts	S002_011-luu-anno.txt	24	4957	4958	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	25	5025	5026	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	26	5028	5029	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	27	5031	5032	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	28	5313	5314	俺					1	1	0	0
+Texts	S002_011-luu-anno.txt	29	6010	6016	ぐっち)さん					1	0	0	1
+Texts	S002_011-luu-anno.txt	30	6020	6026	ぐっち)さん					1	0	0	1
+Texts	S002_011-luu-anno.txt	31	6694	6695	俺					1	1	0	0
+Texts	S002_011-luu-anno.txt	32	7023	7029	ぐっち)さん					1	0	1	0
+Texts	S002_011-luu-anno.txt	33	7518	7520	白松					1	0	1	0
+Texts	S002_011-luu-anno.txt	34	9430	9431	君					1	0	1	0
+Texts	S002_011-luu-anno.txt	35	9536	9538	神沢					1	1	0	0
+Texts	S002_011-luu-anno.txt	36	9762	9763	僕					1	1	0	0
+Texts	S002_011-luu-anno.txt	37	9812	9813	俺					1	1	0	0

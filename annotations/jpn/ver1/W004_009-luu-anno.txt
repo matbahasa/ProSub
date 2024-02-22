@@ -1,0 +1,22 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W004_009-luu-anno.txt	1	172	173	僕					1	1	0	0
+Texts	W004_009-luu-anno.txt	2	232	234	沖田					1	0	1	0
+Texts	W004_009-luu-anno.txt	3	1766	1769	皆さん					1	0	1	0
+Texts	W004_009-luu-anno.txt	4	2188	2191	あたし					1	1	0	0
+Texts	W004_009-luu-anno.txt	5	2823	2829	とも)ちゃん					1	0	1	0
+Texts	W004_009-luu-anno.txt	6	3885	3886	僕					1	1	0	0
+Texts	W004_009-luu-anno.txt	7	4458	4463	間島)さん					1	0	1	0
+Texts	W004_009-luu-anno.txt	8	5208	5212	わ:たし					1	1	0	0
+Texts	W004_009-luu-anno.txt	9	5575	5576	僕					1	1	0	0
+Texts	W004_009-luu-anno.txt	10	5616	5617	僕					1	1	0	0
+Texts	W004_009-luu-anno.txt	11	6199	6201	自分					1	1	0	0
+Texts	W004_009-luu-anno.txt	12	6468	6471	わたし					1	1	0	0
+Texts	W004_009-luu-anno.txt	13	6889	6892	わたし					1	1	0	0
+Texts	W004_009-luu-anno.txt	14	8638	8639	僕					1	1	0	0
+Texts	W004_009-luu-anno.txt	15	9743	9745	大原					1	0	1	0
+Texts	W004_009-luu-anno.txt	16	10248	10250	菅井					1	0	1	0
+Texts	W004_009-luu-anno.txt	17	11025	11028	あたし					1	1	0	0
+Texts	W004_009-luu-anno.txt	18	11402	11404	菅井					1	0	1	0
+Texts	W004_009-luu-anno.txt	19	11938	11939	僕					1	1	0	0
+Texts	W004_009-luu-anno.txt	20	12046	12048	君ら					1	0	1	0
+Texts	W004_009-luu-anno.txt	21	12790	12791	僕					1	1	0	0

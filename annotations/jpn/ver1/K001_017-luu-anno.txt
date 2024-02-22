@@ -1,0 +1,40 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K001_017-luu-anno.txt	35	3722	3724	自分					1	0	1	0
+Texts	K001_017-luu-anno.txt	1	3763	3766	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	2	4473	4475	自分					1	1	0	0
+Texts	K001_017-luu-anno.txt	3	6020	6023	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	4	6097	6100	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	5	6696	6699	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	6	7017	7020	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	7	7048	7051	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	8	7389	7392	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	36	7714	7717	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	9	7884	7887	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	10	8522	8525	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	11	9362	9365	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	12	9892	9897	あたしたち					1	1	0	0
+Texts	K001_017-luu-anno.txt	13	9919	9922	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	14	10294	10297	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	15	10802	10807	あたしたち					1	1	0	0
+Texts	K001_017-luu-anno.txt	16	10868	10871	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	17	11688	11691	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	18	11998	12001	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	19	12081	12084	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	20	13106	13109	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	37	14046	14048	先生	01				1	0	0	1
+Texts	K001_017-luu-anno.txt	21	14972	14975	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	22	15662	15665	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	23	15835	15838	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	24	17311	17315	先生たち	01				1	0	1	0
+Texts	K001_017-luu-anno.txt	25	17787	17790	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	26	18695	18698	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	27	18906	18909	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	39	20552	20554	うち					1	1	0	0
+Texts	K001_017-luu-anno.txt	28	21981	21984	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	29	22120	22123	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	38	22371	22374	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	30	22822	22825	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	31	23121	23124	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	32	23417	23420	わたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	33	23871	23874	あたし					1	1	0	0
+Texts	K001_017-luu-anno.txt	34	25969	25972	あたし					1	1	0	0

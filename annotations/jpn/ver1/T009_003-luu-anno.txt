@@ -1,0 +1,40 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_003-luu-anno.txt	1	395	398	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	2	1337	1340	シュン					1	0	1	0
+Texts	T009_003-luu-anno.txt	3	1673	1676	シュン					1	0	0	1
+Texts	T009_003-luu-anno.txt	4	1806	1809	わたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	5	2143	2146	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	6	2877	2880	わたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	7	3442	3446	お姉さん	02				1	0	1	0
+Texts	T009_003-luu-anno.txt	8	3722	3723	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	9	3742	3746	お兄さん	02				1	0	1	0
+Texts	T009_003-luu-anno.txt	10	4201	4202	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	11	4953	4954	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	12	5028	5031	シュン					1	0	1	0
+Texts	T009_003-luu-anno.txt	13	5052	5053	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	14	5296	5299	シュン					1	0	1	0
+Texts	T009_003-luu-anno.txt	15	5505	5508	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	16	7216	7219	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	17	8948	8949	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	18	9071	9074	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	19	9743	9744	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	20	10208	10211	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	21	10439	10440	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	22	10747	10748	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	23	10931	10934	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	24	11195	11196	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	25	11209	11210	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	26	11235	11236	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	27	11791	11792	君					1	0	1	0
+Texts	T009_003-luu-anno.txt	28	11932	11933	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	29	12081	12084	シュン					1	0	1	0
+Texts	T009_003-luu-anno.txt	30	12168	12169	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	31	12592	12595	あたし					1	1	0	0
+Texts	T009_003-luu-anno.txt	32	12781	12782	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	33	12993	12994	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	34	13182	13185	シュン					1	0	1	0
+Texts	T009_003-luu-anno.txt	35	13265	13266	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	36	13310	13311	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	37	13388	13391	シュン					1	0	1	0
+Texts	T009_003-luu-anno.txt	38	13514	13515	俺					1	1	0	0
+Texts	T009_003-luu-anno.txt	39	13850	13853	シュン					1	0	1	0

@@ -1,0 +1,31 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T024_010-luu-anno.txt	1	857	858	俺					1	1	0	0
+Texts	T024_010-luu-anno.txt	2	1380	1382	先生	01				1	0	1	0
+Texts	T024_010-luu-anno.txt	3	1478	1481	わたし					1	1	0	0
+Texts	T024_010-luu-anno.txt	4	3186	3187	俺					1	1	0	0
+Texts	T024_010-luu-anno.txt	5	4289	4295	ファン)さん					1	0	0	1
+Texts	T024_010-luu-anno.txt	6	9109	9111	先生	01				1	0	0	1
+Texts	T024_010-luu-anno.txt	7	9883	9884	僕					1	1	0	0
+Texts	T024_010-luu-anno.txt	8	11410	11411	俺					1	1	0	0
+Texts	T024_010-luu-anno.txt	9	11494	11496	先生	01				1	0	0	1
+Texts	T024_010-luu-anno.txt	10	13817	13822	青島)さん					1	0	0	1
+Texts	T024_010-luu-anno.txt	11	13953	13958	青島)さん					1	0	1	0
+Texts	T024_010-luu-anno.txt	12	16073	16075	僕ら					1	1	0	0
+Texts	T024_010-luu-anno.txt	13	16078	16080	僕ら					1	1	0	0
+Texts	T024_010-luu-anno.txt	14	20585	20587	先生	01				1	0	0	1
+Texts	T024_010-luu-anno.txt	15	23120	23121	俺					1	1	0	0
+Texts	T024_010-luu-anno.txt	16	23145	23148	わたし					1	1	0	0
+Texts	T024_010-luu-anno.txt	17	23317	23318	俺					1	1	0	0
+Texts	T024_010-luu-anno.txt	30	23985	23988	皆さん					1	0	1	0
+Texts	T024_010-luu-anno.txt	18	25902	25908	ファン)さん					1	0	1	0
+Texts	T024_010-luu-anno.txt	19	27379	27380	僕					1	1	0	0
+Texts	T024_010-luu-anno.txt	20	27934	27936	先生	01 引用				1	0	1	0
+Texts	T024_010-luu-anno.txt	21	28426	28428	先生	01				1	0	1	0
+Texts	T024_010-luu-anno.txt	22	29616	29617	僕					1	1	0	0
+Texts	T024_010-luu-anno.txt	23	29717	29719	先生	01				1	0	0	1
+Texts	T024_010-luu-anno.txt	24	31734	31736	先生	01				1	0	0	1
+Texts	T024_010-luu-anno.txt	25	31790	31792	先生	01				1	0	0	1
+Texts	T024_010-luu-anno.txt	26	31919	31922	わたし					1	1	0	0
+Texts	T024_010-luu-anno.txt	27	32241	32246	青島)さん					1	0	1	0
+Texts	T024_010-luu-anno.txt	28	35700	35701	僕					1	1	0	0
+Texts	T024_010-luu-anno.txt	29	35927	35928	僕					1	1	0	0

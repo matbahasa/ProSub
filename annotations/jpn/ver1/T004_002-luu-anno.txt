@@ -1,0 +1,56 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T004_002-luu-anno.txt	1	2086	2088	自分					1	1	0	0
+Texts	T004_002-luu-anno.txt	2	2295	2298	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	3	4598	4601	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	4	5215	5218	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	5	6828	6831	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	52	8079	8082	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	6	8785	8790	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	7	10795	10796	君	引用？				1	0	1	0
+Texts	T004_002-luu-anno.txt	8	11430	11433	わたし	引用？				1	1	0	0
+Texts	T004_002-luu-anno.txt	9	13885	13888	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	10	13987	13990	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	11	14217	14222	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	12	15113	15118	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	13	15406	15411	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	14	15601	15603	自分	引用？				1	1	0	0
+Texts	T004_002-luu-anno.txt	16	17063	17065	ユカ					1	0	1	0
+Texts	T004_002-luu-anno.txt	15	17070	17074	由香りん					1	0	1	0
+Texts	T004_002-luu-anno.txt	17	17512	17515	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	19	17917	17921	自分たち					1	1	0	0
+Texts	T004_002-luu-anno.txt	18	17942	17944	自分					1	1	0	0
+Texts	T004_002-luu-anno.txt	53	19052	19055	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	20	19081	19084	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	21	19114	19117	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	22	19975	19978	こっち					1	1	0	0
+Texts	T004_002-luu-anno.txt	23	20184	20187	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	24	20423	20428	あたし自身					1	1	0	0
+Texts	T004_002-luu-anno.txt	25	20561	20564	みんな					1	0	1	0
+Texts	T004_002-luu-anno.txt	27	21648	21653	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	28	21655	21660	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	29	21703	21708	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	56	22995	22998	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	30	24007	24010	あなた	引用				1	0	1	0
+Texts	T004_002-luu-anno.txt	31	25103	25106	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	32	25799	25802	わたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	33	26131	26134	お前ら	引用				1	0	0	1
+Texts	T004_002-luu-anno.txt	34	26226	26227	僕	引用				1	1	0	0
+Texts	T004_002-luu-anno.txt	35	26253	26255	君ら	引用				1	0	1	0
+Texts	T004_002-luu-anno.txt	36	28811	28816	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	57	29677	29680	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	37	29745	29748	あなた	引用				1	0	1	0
+Texts	T004_002-luu-anno.txt	38	30586	30589	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	39	30609	30612	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	40	31910	31915	あたしたち					1	1	0	0
+Texts	T004_002-luu-anno.txt	41	33077	33083	早紀)ちゃん					1	0	1	0
+Texts	T004_002-luu-anno.txt	42	33473	33476	わたし	引用				1	1	0	0
+Texts	T004_002-luu-anno.txt	43	33588	33594	早紀)ちゃん					1	0	1	0
+Texts	T004_002-luu-anno.txt	44	33595	33598	わたし	引用				1	1	0	0
+Texts	T004_002-luu-anno.txt	46	34759	34762	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	54	35596	35598	自分	引用				1	1	0	0
+Texts	T004_002-luu-anno.txt	47	37001	37004	わたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	48	38733	38739	早紀)ちゃん					1	0	1	0
+Texts	T004_002-luu-anno.txt	49	38911	38913	お前	引用				1	0	1	0
+Texts	T004_002-luu-anno.txt	55	38932	38935	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	50	39197	39200	あたし					1	1	0	0
+Texts	T004_002-luu-anno.txt	51	39214	39217	わたし					1	1	0	0

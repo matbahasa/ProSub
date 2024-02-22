@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S002_009-luu-anno.txt	1	247	252	バルサ:ン					1	0	1	0
+Texts	S002_009-luu-anno.txt	2	350	353	わたし					1	1	0	0
+Texts	S002_009-luu-anno.txt	3	1366	1367	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	4	3261	3262	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	5	3476	3477	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	6	4220	4226	ぐっち)さん					1	0	1	0
+Texts	S002_009-luu-anno.txt	7	4835	4836	君					1	0	1	0
+Texts	S002_009-luu-anno.txt	8	4890	4891	僕					1	1	0	0
+Texts	S002_009-luu-anno.txt	9	4930	4937	ぐち)パンマン	あだ名（もじり）				1	0	0	1
+Texts	S002_009-luu-anno.txt	10	7306	7307	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	11	7945	7946	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	12	8265	8266	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	13	9410	9412	お前					1	0	1	0
+Texts	S002_009-luu-anno.txt	14	10046	10047	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	15	10097	10100	君たち					1	0	1	0
+Texts	S002_009-luu-anno.txt	16	10142	10143	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	17	10231	10237	ぐっち)先生					1	0	1	0
+Texts	S002_009-luu-anno.txt	18	10347	10353	ぐっち)先生					1	0	1	0
+Texts	S002_009-luu-anno.txt	19	11110	11113	わたし					1	1	0	0
+Texts	S002_009-luu-anno.txt	20	13683	13687	バルサン					1	0	1	0
+Texts	S002_009-luu-anno.txt	21	14011	14012	俺					1	1	0	0
+Texts	S002_009-luu-anno.txt	22	14592	14593	君					1	0	1	0
+Texts	S002_009-luu-anno.txt	23	14771	14772	俺					1	1	0	0

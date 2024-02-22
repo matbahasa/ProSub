@@ -1,0 +1,37 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T023_009-luu-anno.txt	1	344	345	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	2	460	461	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	3	579	580	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	4	705	711	うしじ)さん					1	0	0	1
+Texts	T023_009-luu-anno.txt	5	782	783	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	6	908	909	僕					1	1	0	0
+Texts	T023_009-luu-anno.txt	7	1496	1498	うち					1	1	0	0
+Texts	T023_009-luu-anno.txt	8	2695	2696	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	9	2701	2704	みんな					1	0	1	0
+Texts	T023_009-luu-anno.txt	10	3047	3050	わたし					1	1	0	0
+Texts	T023_009-luu-anno.txt	11	3070	3072	お前	引用				1	0	1	0
+Texts	T023_009-luu-anno.txt	12	3083	3085	お前	フィラー？　引用				1	0	0	1
+Texts	T023_009-luu-anno.txt	13	3818	3819	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	14	3867	3869	自分					1	1	0	0
+Texts	T023_009-luu-anno.txt	15	5831	5833	自分					1	1	0	0
+Texts	T023_009-luu-anno.txt	16	7831	7832	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	17	8097	8098	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	18	8246	8247	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	19	8298	8299	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	20	8409	8410	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	21	8581	8582	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	22	8654	8655	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	23	9514	9515	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	24	9518	9519	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	25	12552	12553	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	26	14826	14827	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	27	15140	15146	くろ)ちゃん					1	0	1	0
+Texts	T023_009-luu-anno.txt	28	16423	16424	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	29	16425	16426	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	30	16506	16507	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	31	16865	16866	皆					1	0	0	1
+Texts	T023_009-luu-anno.txt	32	16867	16870	皆さん					1	0	0	1
+Texts	T023_009-luu-anno.txt	33	17113	17114	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	34	18114	18115	俺					1	1	0	0
+Texts	T023_009-luu-anno.txt	35	21186	21188	黒森					1	0	1	0
+Texts	T023_009-luu-anno.txt	36	23823	23824	俺					1	1	0	0

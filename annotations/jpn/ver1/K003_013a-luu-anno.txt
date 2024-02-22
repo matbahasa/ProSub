@@ -1,0 +1,35 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K003_013a-luu-anno.txt	1	49	55	しー)ちゃん					1	0	0	1
+Texts	K003_013a-luu-anno.txt	2	432	435	わたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	3	640	643	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	4	1128	1131	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	5	3233	3236	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	6	3259	3263	あ%たし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	7	3727	3730	わたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	8	3891	3894	うちら					1	1	0	0
+Texts	K003_013a-luu-anno.txt	9	3996	3998	うち					1	1	0	0
+Texts	K003_013a-luu-anno.txt	10	4391	4394	あんた					1	0	1	0
+Texts	K003_013a-luu-anno.txt	11	5425	5428	お前ら	引用				1	0	1	0
+Texts	K003_013a-luu-anno.txt	12	6344	6350	しー)ちゃん					1	0	1	0
+Texts	K003_013a-luu-anno.txt	13	6530	6531	俺					1	1	0	0
+Texts	K003_013a-luu-anno.txt	14	6679	6680	俺					1	1	0	0
+Texts	K003_013a-luu-anno.txt	15	6962	6964	ムテ					1	1	0	0
+Texts	K003_013a-luu-anno.txt	16	7171	7177	詩織)ちゃん					1	0	0	1
+Texts	K003_013a-luu-anno.txt	17	8327	8329	ママ	01				1	0	1	0
+Texts	K003_013a-luu-anno.txt	18	8492	8495	わたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	33	9011	9013	うち					1	1	0	0
+Texts	K003_013a-luu-anno.txt	19	9356	9359	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	20	9591	9594	うちら					1	1	0	0
+Texts	K003_013a-luu-anno.txt	34	9703	9706	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	21	10376	10382	しー)ちゃん					1	0	1	0
+Texts	K003_013a-luu-anno.txt	22	10596	10598	パパ	03				1	1	0	0
+Texts	K003_013a-luu-anno.txt	23	11090	11093	わたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	24	11215	11221	しー)ちゃん					1	0	1	0
+Texts	K003_013a-luu-anno.txt	25	11368	11370	ママ	01				1	0	1	0
+Texts	K003_013a-luu-anno.txt	26	11376	11378	ママ	01				1	0	1	0
+Texts	K003_013a-luu-anno.txt	27	11440	11442	パパ	01				1	0	1	0
+Texts	K003_013a-luu-anno.txt	28	11517	11520	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	29	11539	11540	俺					1	1	0	0
+Texts	K003_013a-luu-anno.txt	30	12290	12293	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	31	12403	12406	あたし					1	1	0	0
+Texts	K003_013a-luu-anno.txt	32	12935	12937	ママ	01				1	0	0	1

@@ -1,0 +1,42 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W001_004-luu-anno.txt	1	322	330	末松)(U さん					1	0	0	1
+Texts	W001_004-luu-anno.txt	2	1265	1277	仲居)(Y センセ|先生	01				1	0	0	1
+Texts	W001_004-luu-anno.txt	3	1289	1295	葉山))先生	01				1	0	0	1
+Texts	W001_004-luu-anno.txt	4	1550	1555	末松)さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	5	3490	3495	末松)さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	6	7137	7142	末松)さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	7	7436	7439	皆さん					1	0	0	1
+Texts	W001_004-luu-anno.txt	8	8612	8617	折本)さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	9	10139	10144	わたしたち					1	1	0	0
+Texts	W001_004-luu-anno.txt	10	10346	10349	皆さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	11	10533	10536	皆さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	12	11333	11336	わたし					1	1	0	0
+Texts	W001_004-luu-anno.txt	13	11981	11984	皆さま					1	0	1	0
+Texts	W001_004-luu-anno.txt	14	13597	13600	皆さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	15	14278	14280	先生	01				1	0	0	1
+Texts	W001_004-luu-anno.txt	16	16434	16435	俺					1	1	0	0
+Texts	W001_004-luu-anno.txt	17	17442	17445	皆さま					1	0	1	0
+Texts	W001_004-luu-anno.txt	18	17791	17794	先生方	01				1	0	1	0
+Texts	W001_004-luu-anno.txt	19	18330	18333	皆さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	20	23203	23208	葉山)先生	01				1	0	1	0
+Texts	W001_004-luu-anno.txt	21	24155	24157	先生	01				1	0	0	1
+Texts	W001_004-luu-anno.txt	22	24220	24231	わ+(0.499)たし					1	1	0	0
+Texts	W001_004-luu-anno.txt	23	25831	25833	自分					1	0	1	0
+Texts	W001_004-luu-anno.txt	24	26346	26362	仲居)))(W セン|(U 先生	01				1	0	0	1
+Texts	W001_004-luu-anno.txt	25	26552	26555	わたし					1	1	0	0
+Texts	W001_004-luu-anno.txt	26	30056	30059	みんな					1	1	0	0
+Texts	W001_004-luu-anno.txt	27	31472	31475	わたし					1	1	0	0
+Texts	W001_004-luu-anno.txt	28	31729	31734	神辺)先生	01				1	0	1	0
+Texts	W001_004-luu-anno.txt	29	34481	34484	おたく	引用				1	0	1	0
+Texts	W001_004-luu-anno.txt	30	35760	35763	こちら					1	1	0	0
+Texts	W001_004-luu-anno.txt	31	36295	36298	わたし					1	1	0	0
+Texts	W001_004-luu-anno.txt	32	36430	36435	仲居)さん					1	0	1	0
+Texts	W001_004-luu-anno.txt	34	38381	38384	わたし	引用				1	1	0	0
+Texts	W001_004-luu-anno.txt	35	38922	38923	俺					1	1	0	0
+Texts	W001_004-luu-anno.txt	37	40894	40899	仲居)先生					1	0	1	0
+Texts	W001_004-luu-anno.txt	38	41499	41503	わたくし					1	1	0	0
+Texts	W001_004-luu-anno.txt	39	41713	41715	ここ					1	1	0	0
+Texts	W001_004-luu-anno.txt	40	42889	42894	仲居)先生	01				1	0	1	0
+Texts	W001_004-luu-anno.txt	41	44204	44207	わたし					1	1	0	0
+Texts	W001_004-luu-anno.txt	42	44375	44378	わたし					1	1	0	0
+Texts	W001_004-luu-anno.txt	43	45261	45266	北園)課長					1	0	1	0

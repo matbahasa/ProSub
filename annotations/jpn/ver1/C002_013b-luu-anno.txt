@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C002_013b-luu-anno.txt	1	1022	1026	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	2	1030	1033	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	3	1846	1849	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	4	2001	2004	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	5	2039	2042	あんた					1	0	1	0
+Texts	C002_013b-luu-anno.txt	6	2410	2414	お母さん	01　倒置？				1	0	1	0
+Texts	C002_013b-luu-anno.txt	7	3740	3744	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	8	3781	3785	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	9	6121	6125	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	10	6844	6847	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	11	6902	6906	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	12	7089	7093	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	13	7305	7309	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	14	7501	7504	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	15	7732	7735	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	16	8181	8184	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	17	8774	8777	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	18	8954	8958	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	19	9016	9019	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	20	9143	9146	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	21	9307	9311	お母さん	01				1	0	1	0
+Texts	C002_013b-luu-anno.txt	22	9418	9421	あたし					1	1	0	0
+Texts	C002_013b-luu-anno.txt	23	10498	10501	あたし					1	1	0	0

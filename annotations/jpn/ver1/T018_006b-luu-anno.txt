@@ -1,0 +1,83 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T018_006b-luu-anno.txt	1	327	329	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	2	911	914	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	3	2536	2538	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	4	2892	2895	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	5	3019	3022	う%ち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	6	3535	3538	わたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	7	3629	3631	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	8	4057	4059	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	9	4393	4394	僕					1	1	0	0
+Texts	T018_006b-luu-anno.txt	10	4395	4398	君たち					1	0	1	0
+Texts	T018_006b-luu-anno.txt	11	5338	5340	紫音					1	1	0	0
+Texts	T018_006b-luu-anno.txt	12	5741	5743	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	13	6384	6385	俺					1	1	0	0
+Texts	T018_006b-luu-anno.txt	14	6487	6489	お前					1	0	0	1
+Texts	T018_006b-luu-anno.txt	15	6677	6679	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	16	7350	7352	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	17	7857	7859	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	18	7977	7980	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	19	8137	8140	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	20	8200	8202	紫音					1	0	0	1
+Texts	T018_006b-luu-anno.txt	21	8762	8763	俺					1	1	0	0
+Texts	T018_006b-luu-anno.txt	22	8834	8836	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	23	9819	9820	俺					1	1	0	0
+Texts	T018_006b-luu-anno.txt	24	9893	9896	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	25	10068	10070	未羽					1	1	0	0
+Texts	T018_006b-luu-anno.txt	26	10149	10151	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	27	10739	10742	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	28	10956	10959	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	29	11208	11210	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	30	11414	11417	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	31	13084	13086	先生	01				1	0	0	1
+Texts	T018_006b-luu-anno.txt	32	13164	13166	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	33	14925	14927	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	34	15045	15047	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	35	15399	15401	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	36	15929	15931	うち	1st？この「うち」の役割が不明だが一応付与した				1	1	0	0
+Texts	T018_006b-luu-anno.txt	37	16693	16695	紫音					1	1	0	0
+Texts	T018_006b-luu-anno.txt	38	16883	16885	未羽					1	0	0	1
+Texts	T018_006b-luu-anno.txt	39	16890	16892	紫音					1	1	0	0
+Texts	T018_006b-luu-anno.txt	40	17383	17385	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	41	17407	17409	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	42	17626	17628	お前					1	0	0	1
+Texts	T018_006b-luu-anno.txt	43	17720	17723	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	44	17767	17770	わたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	45	17807	17810	わたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	46	17933	17935	お前					1	0	0	1
+Texts	T018_006b-luu-anno.txt	47	18179	18181	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	48	18630	18632	先生	01				1	0	0	1
+Texts	T018_006b-luu-anno.txt	49	19388	19391	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	50	19411	19414	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	51	19540	19542	先生	01				1	0	0	1
+Texts	T018_006b-luu-anno.txt	52	19572	19574	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	53	20374	20377	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	54	20867	20869	自分					1	1	0	0
+Texts	T018_006b-luu-anno.txt	55	22517	22522	未羽)たち					1	0	1	0
+Texts	T018_006b-luu-anno.txt	56	22560	22565	未羽)たち					1	0	1	0
+Texts	T018_006b-luu-anno.txt	57	23232	23235	あんた					1	0	1	0
+Texts	T018_006b-luu-anno.txt	58	23272	23275	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	59	23859	23860	俺					1	1	0	0
+Texts	T018_006b-luu-anno.txt	60	24241	24243	先生	01				1	0	0	1
+Texts	T018_006b-luu-anno.txt	61	25516	25518	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	62	25687	25689	紫音					1	0	0	1
+Texts	T018_006b-luu-anno.txt	63	27680	27684	うちたち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	64	27870	27872	未羽					1	0	0	1
+Texts	T018_006b-luu-anno.txt	65	27924	27926	未羽					1	0	0	1
+Texts	T018_006b-luu-anno.txt	66	28143	28145	自分					1	0	1	0
+Texts	T018_006b-luu-anno.txt	67	29177	29179	先生	01				1	0	1	0
+Texts	T018_006b-luu-anno.txt	68	30305	30307	自分					1	1	0	0
+Texts	T018_006b-luu-anno.txt	69	30411	30413	自分					1	1	0	0
+Texts	T018_006b-luu-anno.txt	70	31273	31275	紫音					1	0	1	0
+Texts	T018_006b-luu-anno.txt	71	31410	31413	あたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	72	31736	31738	お前					1	0	0	1
+Texts	T018_006b-luu-anno.txt	73	33286	33288	うち					1	1	0	0
+Texts	T018_006b-luu-anno.txt	74	33664	33667	みんな					1	0	0	1
+Texts	T018_006b-luu-anno.txt	79	33825	33827	紫音	紫音宛てか先生宛てかは不明				1	0	1	0
+Texts	T018_006b-luu-anno.txt	80	33872	33874	紫音	紫音宛てか先生宛てかは不明				1	0	1	0
+Texts	T018_006b-luu-anno.txt	81	33975	33977	紫音	紫音宛てか先生宛てかは不明				1	0	1	0
+Texts	T018_006b-luu-anno.txt	82	34071	34073	紫音	紫音宛てか先生宛てかは不明				1	0	1	0
+Texts	T018_006b-luu-anno.txt	75	35127	35129	先生	01				1	0	0	1
+Texts	T018_006b-luu-anno.txt	76	35393	35395	先生	01				1	0	0	1
+Texts	T018_006b-luu-anno.txt	77	35651	35654	わたし					1	1	0	0
+Texts	T018_006b-luu-anno.txt	78	35753	35755	お前					1	0	0	1

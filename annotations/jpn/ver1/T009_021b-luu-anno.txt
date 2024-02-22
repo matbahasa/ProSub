@@ -1,0 +1,29 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_021b-luu-anno.txt	1	766	768	自分					1	0	1	0
+Texts	T009_021b-luu-anno.txt	2	5154	5157	こっち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	3	5213	5216	こっち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	4	6816	6821	わたしたち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	5	6971	6976	わたしたち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	6	7955	7960	ルリ)さん					1	0	1	0
+Texts	T009_021b-luu-anno.txt	7	8244	8247	あたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	8	8860	8863	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	9	9675	9677	自分					1	1	0	0
+Texts	T009_021b-luu-anno.txt	10	9679	9681	自分					1	1	0	0
+Texts	T009_021b-luu-anno.txt	11	10071	10073	自分					1	0	1	0
+Texts	T009_021b-luu-anno.txt	12	11251	11253	若菜					1	0	1	0
+Texts	T009_021b-luu-anno.txt	13	12747	12750	こっち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	14	13351	13352	僕					1	1	0	0
+Texts	T009_021b-luu-anno.txt	15	13743	13748	ルリ)さん					1	0	1	0
+Texts	T009_021b-luu-anno.txt	16	15779	15782	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	28	16088	16091	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	17	17658	17663	あなたたち					1	0	1	0
+Texts	T009_021b-luu-anno.txt	18	18081	18084	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	19	18145	18147	若菜					1	0	1	0
+Texts	T009_021b-luu-anno.txt	20	22889	22894	わたしたち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	21	23274	23284	あなた(D タ)たち					1	0	1	0
+Texts	T009_021b-luu-anno.txt	22	23590	23593	こっち					1	1	0	0
+Texts	T009_021b-luu-anno.txt	23	23886	23889	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	24	24034	24037	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	25	24450	24453	わたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	26	25494	25497	あたし					1	1	0	0
+Texts	T009_021b-luu-anno.txt	27	28120	28122	代表					1	0	1	0

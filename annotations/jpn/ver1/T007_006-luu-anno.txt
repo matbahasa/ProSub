@@ -1,0 +1,31 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T007_006-luu-anno.txt	1	174	179	誠))くん					1	0	0	1
+Texts	T007_006-luu-anno.txt	2	1277	1282	佳代)さん					1	0	1	0
+Texts	T007_006-luu-anno.txt	3	1397	1398	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	4	2334	2340	お佳代)さん					1	0	1	0
+Texts	T007_006-luu-anno.txt	6	2462	2467	佳代)さん					1	0	1	0
+Texts	T007_006-luu-anno.txt	5	2471	2472	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	7	6551	6554	わたし					1	1	0	0
+Texts	T007_006-luu-anno.txt	31	8185	8188	兄さん	02				1	0	1	0
+Texts	T007_006-luu-anno.txt	8	8847	8848	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	9	10482	10490	佳代)さんた%ち					1	0	1	0
+Texts	T007_006-luu-anno.txt	10	10560	10561	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	11	10592	10597	佳代)さん					1	0	1	0
+Texts	T007_006-luu-anno.txt	12	10939	10944	わたしたち					1	1	0	0
+Texts	T007_006-luu-anno.txt	13	11049	11054	佳代)さん					1	0	0	1
+Texts	T007_006-luu-anno.txt	14	11094	11097	俺たち					1	1	0	0
+Texts	T007_006-luu-anno.txt	15	11391	11392	誠					1	0	1	0
+Texts	T007_006-luu-anno.txt	16	11613	11614	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	17	12322	12326	お宅さま					1	0	1	0
+Texts	T007_006-luu-anno.txt	18	13258	13265	佳代)さんたち					1	0	1	0
+Texts	T007_006-luu-anno.txt	19	14532	14537	塚田)さん					1	0	0	1
+Texts	T007_006-luu-anno.txt	20	15229	15234	塚田)さん					1	0	0	1
+Texts	T007_006-luu-anno.txt	21	15264	15267	兄さん	02				1	1	0	0
+Texts	T007_006-luu-anno.txt	22	16311	16312	僕					1	1	0	0
+Texts	T007_006-luu-anno.txt	23	16533	16534	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	24	16603	16604	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	25	17897	17899	うち					1	1	0	0
+Texts	T007_006-luu-anno.txt	26	22872	22873	俺					1	1	0	0
+Texts	T007_006-luu-anno.txt	27	23155	23158	あなた					1	0	1	0
+Texts	T007_006-luu-anno.txt	28	23161	23165	お前たち					1	0	1	0
+Texts	T007_006-luu-anno.txt	30	25218	25221	兄さん	02				1	0	1	0

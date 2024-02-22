@@ -1,0 +1,24 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W003_001-luu-anno.txt	1	29	32	皆さん					1	0	0	1
+Texts	W003_001-luu-anno.txt	2	160	163	皆さん					1	0	1	0
+Texts	W003_001-luu-anno.txt	3	444	447	わたし					1	1	0	0
+Texts	W003_001-luu-anno.txt	4	614	617	みんな					1	1	0	0
+Texts	W003_001-luu-anno.txt	5	906	909	あたし					1	1	0	0
+Texts	W003_001-luu-anno.txt	6	1435	1438	みんな					1	0	0	1
+Texts	W003_001-luu-anno.txt	7	2250	2253	わたし					1	1	0	0
+Texts	W003_001-luu-anno.txt	8	3037	3040	皆さん					1	0	1	0
+Texts	W003_001-luu-anno.txt	9	3184	3189	宍戸)さん					1	0	0	1
+Texts	W003_001-luu-anno.txt	10	3490	3495	種川)さん					1	0	1	0
+Texts	W003_001-luu-anno.txt	11	4519	4522	わたし					1	1	0	0
+Texts	W003_001-luu-anno.txt	12	4573	4576	わたし					1	1	0	0
+Texts	W003_001-luu-anno.txt	13	4859	4863	皆)さん					1	0	1	0
+Texts	W003_001-luu-anno.txt	14	4930	4933	みんな					1	0	1	0
+Texts	W003_001-luu-anno.txt	15	5154	5157	みんな					1	0	1	0
+Texts	W003_001-luu-anno.txt	16	5286	5291	わたしたち					1	1	0	0
+Texts	W003_001-luu-anno.txt	17	6318	6321	みんな					1	0	1	0
+Texts	W003_001-luu-anno.txt	18	6905	6907	自分					1	1	0	0
+Texts	W003_001-luu-anno.txt	19	7471	7477	寺島)さ:ん					1	0	1	0
+Texts	W003_001-luu-anno.txt	20	7482	7487	種川)さん					1	0	1	0
+Texts	W003_001-luu-anno.txt	21	7761	7766	種川)さん					1	0	1	0
+Texts	W003_001-luu-anno.txt	22	8532	8537	わたしたち					1	1	0	0
+Texts	W003_001-luu-anno.txt	23	9173	9176	皆さん					1	0	1	0

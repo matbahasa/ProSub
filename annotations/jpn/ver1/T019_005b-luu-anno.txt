@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T019_005b-luu-anno.txt	1	3285	3290	三島)さん					1	0	0	1
+Texts	T019_005b-luu-anno.txt	2	3301	3306	三島)さん					1	0	1	0
+Texts	T019_005b-luu-anno.txt	3	3453	3454	僕					1	1	0	0
+Texts	T019_005b-luu-anno.txt	4	6145	6148	わたし					1	1	0	0
+Texts	T019_005b-luu-anno.txt	5	6901	6906	並木)さん					1	0	0	1
+Texts	T019_005b-luu-anno.txt	6	7301	7306	三島)さん					1	0	0	1
+Texts	T019_005b-luu-anno.txt	7	8882	8885	みんな					1	0	1	0
+Texts	T019_005b-luu-anno.txt	8	9045	9047	自分					1	0	1	0
+Texts	T019_005b-luu-anno.txt	9	9122	9127	三島)さん					1	0	1	0
+Texts	T019_005b-luu-anno.txt	10	9342	9343	俺					1	1	0	0
+Texts	T019_005b-luu-anno.txt	11	9683	9684	僕					1	1	0	0
+Texts	T019_005b-luu-anno.txt	12	10194	10197	わたし					1	1	0	0
+Texts	T019_005b-luu-anno.txt	13	10398	10403	三島)さん					1	0	1	0
+Texts	T019_005b-luu-anno.txt	14	10692	10695	わたし					1	1	0	0
+Texts	T019_005b-luu-anno.txt	15	10775	10778	みんな					1	0	1	0
+Texts	T019_005b-luu-anno.txt	16	13023	13025	うち					1	1	0	0
+Texts	T019_005b-luu-anno.txt	17	23180	23182	うち					1	1	0	0
+Texts	T019_005b-luu-anno.txt	18	25531	25532	僕					1	1	0	0
+Texts	T019_005b-luu-anno.txt	19	28663	28668	並木)さん					1	0	1	0
+Texts	T019_005b-luu-anno.txt	20	30433	30436	みんな					1	0	1	0

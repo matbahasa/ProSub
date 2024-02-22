@@ -1,0 +1,39 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T002_011c-luu-anno.txt	1	400	403	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	2	404	407	わたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	3	978	981	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	4	2158	2159	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	5	2478	2481	わたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	6	2698	2701	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	7	2832	2833	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	8	3418	3419	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	9	5015	5016	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	10	6045	6048	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	11	8222	8224	自分					1	1	0	0
+Texts	T002_011c-luu-anno.txt	12	8385	8386	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	13	8502	8505	あんた	引用				1	0	1	0
+Texts	T002_011c-luu-anno.txt	14	8631	8634	わたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	15	8682	8684	自分	再帰代名詞？				1	0	1	0
+Texts	T002_011c-luu-anno.txt	16	11430	11431	僕					1	1	0	0
+Texts	T002_011c-luu-anno.txt	17	12568	12572	直也)君					1	0	1	0
+Texts	T002_011c-luu-anno.txt	18	12636	12639	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	19	13301	13304	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	20	13914	13915	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	21	14372	14373	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	22	15478	15481	わたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	23	15913	15916	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	24	16265	16268	わたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	25	16709	16712	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	26	16812	16814	自分					1	1	0	0
+Texts	T002_011c-luu-anno.txt	27	16870	16871	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	28	16894	16895	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	29	16949	16960	直也)(K ク:ン|君					1	0	0	1
+Texts	T002_011c-luu-anno.txt	30	17188	17191	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	31	17195	17199	直也)君					1	0	1	0
+Texts	T002_011c-luu-anno.txt	32	17391	17392	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	33	18560	18563	あたし					1	1	0	0
+Texts	T002_011c-luu-anno.txt	34	18815	18816	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	35	19869	19870	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	36	21095	21097	先生	01 引用				1	0	1	0
+Texts	T002_011c-luu-anno.txt	37	22867	22868	俺					1	1	0	0
+Texts	T002_011c-luu-anno.txt	38	23004	23005	俺					1	1	0	0

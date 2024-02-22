@@ -1,0 +1,60 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S001_012-luu-anno.txt	1	163	168	翔子)さん					1	0	0	1
+Texts	S001_012-luu-anno.txt	2	287	289	智之					1	0	0	1
+Texts	S001_012-luu-anno.txt	3	330	332	翔子					1	0	0	1
+Texts	S001_012-luu-anno.txt	4	336	338	智之					1	0	0	1
+Texts	S001_012-luu-anno.txt	5	386	394	翔子)(U さん					1	0	0	1
+Texts	S001_012-luu-anno.txt	6	438	440	智之					1	0	0	1
+Texts	S001_012-luu-anno.txt	7	444	446	翔子					1	0	0	1
+Texts	S001_012-luu-anno.txt	8	486	488	翔子					1	0	0	1
+Texts	S001_012-luu-anno.txt	9	604	607	わたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	10	695	698	わたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	11	1088	1089	舞					1	0	0	1
+Texts	S001_012-luu-anno.txt	12	1405	1408	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	13	1554	1558	お父さん	03				1	0	1	0
+Texts	S001_012-luu-anno.txt	14	1691	1696	翔子)さん					1	0	1	0
+Texts	S001_012-luu-anno.txt	17	3229	3232	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	15	3284	3289	松尾)さん					1	0	1	0
+Texts	S001_012-luu-anno.txt	16	3302	3303	健					1	0	1	0
+Texts	S001_012-luu-anno.txt	23	3733	3736	こっち	対称？他称？				1	0	1	0
+Texts	S001_012-luu-anno.txt	18	3837	3842	翔子)さん					1	0	0	1
+Texts	S001_012-luu-anno.txt	19	3851	3854	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	20	3890	3895	翔子)さん					1	0	1	0
+Texts	S001_012-luu-anno.txt	21	3915	3919	舞)さん					1	0	1	0
+Texts	S001_012-luu-anno.txt	22	3927	3930	わたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	59	4056	4058	うち					1	1	0	0
+Texts	S001_012-luu-anno.txt	53	4354	4358	お母さん	03? 04?				1	0	0	1
+Texts	S001_012-luu-anno.txt	24	4435	4438	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	51	4453	4457	お父さん	03				1	0	0	1
+Texts	S001_012-luu-anno.txt	52	4499	4503	お父さん	03				1	0	1	0
+Texts	S001_012-luu-anno.txt	54	4601	4605	お父さん	03? 04?				1	0	0	1
+Texts	S001_012-luu-anno.txt	25	9427	9430	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	26	9547	9550	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	27	9819	9820	僕					1	1	0	0
+Texts	S001_012-luu-anno.txt	28	10072	10073	僕					1	1	0	0
+Texts	S001_012-luu-anno.txt	29	10592	10595	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	55	11400	11404	お父さん	03				1	1	0	0
+Texts	S001_012-luu-anno.txt	30	13500	13503	あなた					1	0	1	0
+Texts	S001_012-luu-anno.txt	31	14146	14149	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	32	14205	14208	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	33	14253	14256	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	34	14624	14627	あんた	引用（回想）				1	0	1	0
+Texts	S001_012-luu-anno.txt	35	14635	14638	あんた	引用（回想）				1	0	1	0
+Texts	S001_012-luu-anno.txt	36	14668	14671	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	37	15579	15582	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	56	15956	15960	智之)君	??				1	1	0	0
+Texts	S001_012-luu-anno.txt	57	16159	16163	智之)君	??				1	1	0	0
+Texts	S001_012-luu-anno.txt	38	16271	16274	あなた					1	0	1	0
+Texts	S001_012-luu-anno.txt	39	16483	16484	僕	引用				1	1	0	0
+Texts	S001_012-luu-anno.txt	40	17547	17550	わたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	41	17884	17887	あんた	引用（回想）				1	0	1	0
+Texts	S001_012-luu-anno.txt	42	20201	20204	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	43	22098	22099	僕					1	1	0	0
+Texts	S001_012-luu-anno.txt	44	22919	22923	お母さん	03? 04?				1	0	0	1
+Texts	S001_012-luu-anno.txt	45	24186	24190	お母さん	03? 04?				1	0	1	0
+Texts	S001_012-luu-anno.txt	46	25547	25551	お父さん	03				1	0	1	0
+Texts	S001_012-luu-anno.txt	47	26406	26409	あたし					1	1	0	0
+Texts	S001_012-luu-anno.txt	58	27495	27497	うち					1	1	0	0
+Texts	S001_012-luu-anno.txt	48	29389	29394	健)さ:ん					1	0	0	1
+Texts	S001_012-luu-anno.txt	49	29395	29400	あたしたち					1	1	0	0
+Texts	S001_012-luu-anno.txt	50	30184	30188	お父さん	01? 03? 04?				1	0	0	1

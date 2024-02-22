@@ -1,0 +1,18 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K007_016-luu-anno.txt	1	201	202	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	2	225	230	湯本)くん					1	0	1	0
+Texts	K007_016-luu-anno.txt	3	267	268	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	4	1109	1111	お前	フィラーの可能性もあり?				1	0	0	1
+Texts	K007_016-luu-anno.txt	5	2168	2172	ササシン					1	0	1	0
+Texts	K007_016-luu-anno.txt	6	2919	2924	湯本)くん	前文の主語を後置?				1	0	1	0
+Texts	K007_016-luu-anno.txt	7	2934	2935	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	8	3663	3664	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	9	4156	4158	自分	引用				1	0	1	0
+Texts	K007_016-luu-anno.txt	10	5389	5390	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	11	6359	6360	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	12	9135	9136	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	13	9240	9241	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	14	9733	9735	俺ら					1	1	0	0
+Texts	K007_016-luu-anno.txt	15	11823	11824	俺					1	1	0	0
+Texts	K007_016-luu-anno.txt	16	12227	12228	僕					1	1	0	0
+Texts	K007_016-luu-anno.txt	17	12545	12546	俺					1	1	0	0

@@ -1,0 +1,50 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_018-luu-anno.txt	1	556	558	パパ	01　31 倒置				1	0	1	0
+Texts	T003_018-luu-anno.txt	2	640	642	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	3	666	669	マ:マ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	4	725	728	マ:マ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	5	765	770	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	6	780	785	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	49	1330	1332	我々					1	1	0	0
+Texts	T003_018-luu-anno.txt	7	1444	1446	パパ	01				1	0	1	0
+Texts	T003_018-luu-anno.txt	8	3519	3521	我々					1	1	0	0
+Texts	T003_018-luu-anno.txt	10	3888	3892	ナビくん	対ナビ				1	0	0	1
+Texts	T003_018-luu-anno.txt	11	3923	3927	ナビくん	対ナビ				1	0	0	1
+Texts	T003_018-luu-anno.txt	9	3939	3942	あんた	対ナビ				1	0	1	0
+Texts	T003_018-luu-anno.txt	12	4620	4622	大和					1	0	0	1
+Texts	T003_018-luu-anno.txt	13	5540	5542	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	14	5572	5577	やっ)くん	あだ名？				1	0	0	1
+Texts	T003_018-luu-anno.txt	15	5717	5719	ママ					1	0	0	1
+Texts	T003_018-luu-anno.txt	16	5744	5747	あんた					1	0	1	0
+Texts	T003_018-luu-anno.txt	17	5829	5833	拓)くん					1	0	1	0
+Texts	T003_018-luu-anno.txt	18	5852	5853	俺					1	1	0	0
+Texts	T003_018-luu-anno.txt	19	5877	5881	拓)くん					1	0	1	0
+Texts	T003_018-luu-anno.txt	20	6804	6806	拓人					1	0	0	1
+Texts	T003_018-luu-anno.txt	21	7368	7370	大和					1	0	0	1
+Texts	T003_018-luu-anno.txt	22	7828	7830	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	23	8088	8092	拓)くん					1	0	1	0
+Texts	T003_018-luu-anno.txt	24	8279	8284	やっ)くん	あだ名？				1	0	0	1
+Texts	T003_018-luu-anno.txt	25	8325	8326	俺					1	1	0	0
+Texts	T003_018-luu-anno.txt	26	8355	8360	やっ)くん	あだ名				1	1	0	0
+Texts	T003_018-luu-anno.txt	27	8964	8966	お前					1	0	1	0
+Texts	T003_018-luu-anno.txt	28	9552	9557	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	29	9666	9668	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	30	10483	10485	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	31	10615	10616	俺					1	1	0	0
+Texts	T003_018-luu-anno.txt	32	11072	11077	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	33	11408	11412	拓)くん					1	0	0	1
+Texts	T003_018-luu-anno.txt	34	11650	11652	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	35	11749	11751	ママ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	36	11835	11836	俺					1	1	0	0
+Texts	T003_018-luu-anno.txt	37	11853	11858	やっ)くん	あだ名？				1	0	1	0
+Texts	T003_018-luu-anno.txt	38	11933	11935	お前					1	0	0	1
+Texts	T003_018-luu-anno.txt	39	12294	12296	大和					1	1	0	0
+Texts	T003_018-luu-anno.txt	40	12407	12409	拓人					1	0	0	1
+Texts	T003_018-luu-anno.txt	41	13771	13776	やっ)くん	あだ名？				1	0	1	0
+Texts	T003_018-luu-anno.txt	42	14666	14668	お前					1	0	1	0
+Texts	T003_018-luu-anno.txt	43	15478	15483	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	44	15754	15759	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	45	16056	16061	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	46	16122	16127	やっ)くん	あだ名？				1	1	0	0
+Texts	T003_018-luu-anno.txt	47	16610	16612	パパ	01				1	0	0	1
+Texts	T003_018-luu-anno.txt	48	16830	16835	やっ)くん	あだ名？				1	0	0	1

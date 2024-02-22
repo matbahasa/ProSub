@@ -1,0 +1,23 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W001_003d-luu-anno.txt	1	472	488	折本)(D ス)(0.26)さん					1	0	1	0
+Texts	W001_003d-luu-anno.txt	2	988	993	神辺)先生	01				1	0	1	0
+Texts	W001_003d-luu-anno.txt	3	1063	1065	自分					1	1	0	0
+Texts	W001_003d-luu-anno.txt	4	1328	1340	仲居)(Y センセ|先生	01				1	0	1	0
+Texts	W001_003d-luu-anno.txt	5	3114	3116	うち					1	1	0	0
+Texts	W001_003d-luu-anno.txt	6	3429	3431	自分					1	0	1	0
+Texts	W001_003d-luu-anno.txt	7	3443	3446	ご自身					1	0	1	0
+Texts	W001_003d-luu-anno.txt	8	8203	8206	わたし					1	1	0	0
+Texts	W001_003d-luu-anno.txt	9	8234	8239	仲居)さん					1	0	0	1
+Texts	W001_003d-luu-anno.txt	10	8249	8252	わたし					1	1	0	0
+Texts	W001_003d-luu-anno.txt	11	12345	12348	わたし					1	1	0	0
+Texts	W001_003d-luu-anno.txt	12	13258	13273	葉山)(T (Y センセ|先生	01				1	0	1	0
+Texts	W001_003d-luu-anno.txt	13	14339	14342	こちら					1	1	0	0
+Texts	W001_003d-luu-anno.txt	14	16900	16903	わたし					1	1	0	0
+Texts	W001_003d-luu-anno.txt	20	17281	17284	皆さん					1	0	1	0
+Texts	W001_003d-luu-anno.txt	21	17528	17531	皆さま					1	0	1	0
+Texts	W001_003d-luu-anno.txt	16	18733	18736	みんな					1	1	0	0
+Texts	W001_003d-luu-anno.txt	15	18825	18827	課長					1	0	1	0
+Texts	W001_003d-luu-anno.txt	22	19511	19514	皆さん					1	0	1	0
+Texts	W001_003d-luu-anno.txt	17	19721	19724	わたし					1	1	0	0
+Texts	W001_003d-luu-anno.txt	18	19892	19895	わたし					1	1	0	0
+Texts	W001_003d-luu-anno.txt	19	19906	19909	皆さん					1	0	1	0

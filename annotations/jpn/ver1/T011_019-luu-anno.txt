@@ -1,0 +1,32 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T011_019-luu-anno.txt	30	30	32	早人					1	0	1	0
+Texts	T011_019-luu-anno.txt	1	287	292	早)ちゃん					1	0	1	0
+Texts	T011_019-luu-anno.txt	2	368	370	早人					1	0	1	0
+Texts	T011_019-luu-anno.txt	3	680	681	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	4	1003	1005	ママ	03				1	1	0	0
+Texts	T011_019-luu-anno.txt	5	1066	1068	早人					1	0	1	0
+Texts	T011_019-luu-anno.txt	6	1339	1341	お前					1	0	0	1
+Texts	T011_019-luu-anno.txt	7	1697	1698	僕					1	1	0	0
+Texts	T011_019-luu-anno.txt	8	1835	1837	佐竹					1	0	1	0
+Texts	T011_019-luu-anno.txt	9	2029	2032	あんた					1	0	1	0
+Texts	T011_019-luu-anno.txt	10	2967	2968	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	31	3577	3579	清隆					1	0	1	0
+Texts	T011_019-luu-anno.txt	11	3957	3959	ママ	03				1	1	0	0
+Texts	T011_019-luu-anno.txt	12	4309	4314	あんたたち					1	0	1	0
+Texts	T011_019-luu-anno.txt	13	4988	4989	早					1	0	0	1
+Texts	T011_019-luu-anno.txt	14	4994	4995	早					1	0	0	1
+Texts	T011_019-luu-anno.txt	15	5000	5005	早)ちゃん					1	0	0	1
+Texts	T011_019-luu-anno.txt	16	5247	5248	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	17	5471	5482	あなた(W ッチ|たち					1	0	1	0
+Texts	T011_019-luu-anno.txt	18	5801	5802	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	19	6515	6518	僕たち					1	1	0	0
+Texts	T011_019-luu-anno.txt	20	9218	9222	この野郎					1	0	0	1
+Texts	T011_019-luu-anno.txt	21	9537	9542	早)ちゃん					1	0	1	0
+Texts	T011_019-luu-anno.txt	22	10721	10723	お前					1	0	0	1
+Texts	T011_019-luu-anno.txt	23	12444	12447	あんた					1	0	1	0
+Texts	T011_019-luu-anno.txt	24	12553	12554	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	25	12556	12557	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	26	12683	12684	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	27	12802	12807	早)ちゃん					1	0	1	0
+Texts	T011_019-luu-anno.txt	28	13419	13420	俺					1	1	0	0
+Texts	T011_019-luu-anno.txt	29	13868	13869	僕					1	1	0	0

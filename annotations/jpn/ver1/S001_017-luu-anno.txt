@@ -1,0 +1,108 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S001_017-luu-anno.txt	1	243	244	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	2	633	634	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	3	722	725	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	4	1848	1849	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	5	2103	2105	二人					1	0	1	0
+Texts	S001_017-luu-anno.txt	6	2372	2375	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	7	2550	2552	先生	真下？				1	0	1	0
+Texts	S001_017-luu-anno.txt	8	2848	2849	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	9	3753	3756	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	10	4277	4278	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	11	4473	4477	お父さん	03				1	0	0	1
+Texts	S001_017-luu-anno.txt	12	4922	4927	静香)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	13	6138	6142	お父さん	03				1	0	0	1
+Texts	S001_017-luu-anno.txt	14	6890	6893	僕たち					1	1	0	0
+Texts	S001_017-luu-anno.txt	15	7179	7184	お%母さん	03? 04?				1	0	0	1
+Texts	S001_017-luu-anno.txt	16	7465	7468	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	17	7862	7868	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	18	8010	8014	お母さん	03? 04?				1	0	0	1
+Texts	S001_017-luu-anno.txt	19	8684	8689	栄子)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	20	9086	9090	お母さん	03				1	0	0	1
+Texts	S001_017-luu-anno.txt	21	9519	9522	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	22	10567	10573	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	23	11636	11640	あたしら					1	1	0	0
+Texts	S001_017-luu-anno.txt	24	12162	12168	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	25	12643	12646	皆さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	26	12670	12671	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	27	12690	12696	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	28	14994	14996	能勢					1	0	1	0
+Texts	S001_017-luu-anno.txt	29	17129	17134	翔子)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	30	17435	17438	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	31	17756	17759	健)君					1	0	1	0
+Texts	S001_017-luu-anno.txt	32	17857	17860	みんな					1	0	1	0
+Texts	S001_017-luu-anno.txt	33	17952	17953	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	34	18210	18211	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	35	18514	18517	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	36	18858	18861	みんな					1	0	1	0
+Texts	S001_017-luu-anno.txt	37	19331	19333	先生	01?				1	0	0	1
+Texts	S001_017-luu-anno.txt	38	19820	19822	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	39	20085	20089	健)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	40	20108	20112	お母さん	03? 04?				1	0	0	1
+Texts	S001_017-luu-anno.txt	41	20131	20132	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	42	21061	21065	健)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	43	21199	21201	自分					1	1	0	0
+Texts	S001_017-luu-anno.txt	44	21451	21453	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	45	21579	21585	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	46	21615	21620	高柳)先生	01?				1	0	0	1
+Texts	S001_017-luu-anno.txt	47	21975	21979	お父さん	03? 04?				1	0	0	1
+Texts	S001_017-luu-anno.txt	48	22413	22415	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	49	22570	22573	父さん	01				1	0	1	0
+Texts	S001_017-luu-anno.txt	50	22695	22700	戸倉)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	51	22763	22768	戸倉)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	52	23183	23185	先生	01?				1	0	0	1
+Texts	S001_017-luu-anno.txt	53	23325	23327	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	54	23351	23357	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	55	23442	23444	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	56	23531	23533	先生	01?				1	0	0	1
+Texts	S001_017-luu-anno.txt	57	24297	24302	静香)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	58	25247	25252	戸倉)さん	??				1	0	0	1
+Texts	S001_017-luu-anno.txt	59	25416	25419	健)君					1	0	0	1
+Texts	S001_017-luu-anno.txt	60	25589	25594	能勢)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	61	25703	25708	戸倉)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	62	25949	25951	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	63	25969	25971	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	64	26238	26241	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	65	26310	26313	先生)	01?				1	0	0	1
+Texts	S001_017-luu-anno.txt	66	26350	26352	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	67	26452	26460	けん:じ))さん	誰？				1	0	0	0
+Texts	S001_017-luu-anno.txt	68	27257	27269	真下)(Y センセ|先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	69	27661	27674	翔+(0.112)子)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	70	29551	29555	健)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	71	29952	29955	みんな					1	0	1	0
+Texts	S001_017-luu-anno.txt	72	30108	30111	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	73	30174	30175	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	74	30776	30780	わ)たし					1	1	0	0
+Texts	S001_017-luu-anno.txt	75	32358	32360	先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	76	32506	32507	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	77	32759	32766	健)(U さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	78	32960	32963	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	79	34168	34172	お父さん	03? 04?				1	0	1	0
+Texts	S001_017-luu-anno.txt	80	34918	34922	健)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	81	35167	35171	お父さん	03				1	0	1	0
+Texts	S001_017-luu-anno.txt	82	35191	35192	僕					1	1	0	0
+Texts	S001_017-luu-anno.txt	83	36153	36158	栄子)さん					1	0	0	1
+Texts	S001_017-luu-anno.txt	84	36962	36965	みんな	1st? 2nd? （倒置法？）				1	0	1	0
+Texts	S001_017-luu-anno.txt	85	37859	37862	あなた					1	0	1	0
+Texts	S001_017-luu-anno.txt	86	38126	38129	皆さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	87	38254	38260	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	88	38663	38666	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	89	38753	38759	美春)ちゃん					1	0	1	0
+Texts	S001_017-luu-anno.txt	90	38815	38827	真下)(Y センセ|先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	91	38844	38856	真下)(Y センセ|先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	92	38873	38881	真下)(U 先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	93	39736	39741	高柳)先生	01?				1	0	0	1
+Texts	S001_017-luu-anno.txt	94	39808	39811	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	95	39842	39847	真下)先生	01?				1	0	1	0
+Texts	S001_017-luu-anno.txt	96	39936	39941	栄子)さん					1	0	1	0
+Texts	S001_017-luu-anno.txt	97	40040	40043	みんな					1	0	1	0
+Texts	S001_017-luu-anno.txt	98	40432	40435	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	99	41972	41975	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	100	42167	42170	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	101	43205	43208	わたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	102	43492	43495	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	103	43507	43510	あたし					1	1	0	0
+Texts	S001_017-luu-anno.txt	104	45280	45286	翔子)ちゃん					1	0	0	1
+Texts	S001_017-luu-anno.txt	105	45514	45518	お父さん	01				1	0	0	1
+Texts	S001_017-luu-anno.txt	106	45688	45689	俺					1	1	0	0
+Texts	S001_017-luu-anno.txt	107	45737	45740	わたし					1	1	0	0

@@ -1,0 +1,174 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K003_005-luu-anno.txt	1	609	612	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	2	1040	1043	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	3	1772	1775	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	4	2041	2043	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	5	2205	2207	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	160	2389	2391	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	161	2478	2480	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	162	2578	2580	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	163	2821	2823	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	164	3307	3309	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	159	3694	3697	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	6	4034	4037	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	7	4947	4950	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	8	6422	6425	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	9	6427	6429	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	10	6467	6469	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	11	6551	6554	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	12	6605	6608	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	13	6613	6615	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	14	7034	7036	お前	自分を客観しして話している				1	0	1	0
+Texts	K003_005-luu-anno.txt	15	7910	7913	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	16	8039	8042	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	17	8434	8437	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	18	9007	9009	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	19	9105	9108	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	20	9838	9841	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	21	11194	11199	わたしたち					1	1	0	0
+Texts	K003_005-luu-anno.txt	165	11309	11311	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	22	11545	11548	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	23	11921	11924	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	24	12938	12941	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	25	13305	13308	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	26	13562	13565	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	27	13589	13592	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	28	13917	13919	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	29	13983	13985	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	30	14099	14101	お前	自分を客観視して話しかけている				1	0	1	0
+Texts	K003_005-luu-anno.txt	31	14228	14230	お前	自分を客観視して話しかけている				1	0	1	0
+Texts	K003_005-luu-anno.txt	32	14354	14356	お前	自分を客観しして話しかけている				1	0	1	0
+Texts	K003_005-luu-anno.txt	33	14404	14406	お前	自分を客観しして話しかけている				1	0	1	0
+Texts	K003_005-luu-anno.txt	34	14903	14905	お前	自分を客観視して話しかけている				1	0	1	0
+Texts	K003_005-luu-anno.txt	35	15179	15181	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	36	15337	15340	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	37	15621	15624	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	38	15858	15860	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	39	15918	15919	俺	引用				1	1	0	0
+Texts	K003_005-luu-anno.txt	40	15957	15959	お前	引用(回想)				1	0	1	0
+Texts	K003_005-luu-anno.txt	41	15990	15993	こっち					1	1	0	0
+Texts	K003_005-luu-anno.txt	42	16267	16268	俺	引用				1	1	0	0
+Texts	K003_005-luu-anno.txt	43	16327	16329	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	44	16337	16339	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	45	16340	16342	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	46	16404	16406	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	48	16722	16724	お前	引用(回想)				1	0	1	0
+Texts	K003_005-luu-anno.txt	50	17079	17082	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	51	17408	17411	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	52	18295	18297	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	53	18498	18500	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	54	18541	18543	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	55	18638	18641	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	56	18947	18949	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	57	19140	19143	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	58	19173	19175	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	59	19579	19582	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	60	19849	19852	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	47	19886	19888	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	62	19941	19943	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	61	20926	20928	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	63	21040	21042	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	166	21565	21567	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	64	22528	22530	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	65	23119	23121	お前	引用(回想)				1	0	1	0
+Texts	K003_005-luu-anno.txt	66	24157	24159	お前	引用(回想)				1	0	1	0
+Texts	K003_005-luu-anno.txt	67	24509	24512	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	68	25027	25030	あなた					1	0	1	0
+Texts	K003_005-luu-anno.txt	69	25152	25154	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	70	25762	25765	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	71	26170	26173	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	72	26395	26398	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	73	26791	26793	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	49	26908	26910	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	74	27203	27206	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	75	27241	27244	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	76	27637	27640	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	77	28392	28394	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	167	28499	28502	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	78	28676	28678	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	79	28858	28861	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	80	28949	28952	あたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	81	29010	29013	坂ちょ					1	0	1	0
+Texts	K003_005-luu-anno.txt	82	29341	29344	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	83	29410	29412	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	84	29468	29471	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	85	29625	29629	坂ちょん					1	0	1	0
+Texts	K003_005-luu-anno.txt	86	30230	30233	坂ちょ					1	0	1	0
+Texts	K003_005-luu-anno.txt	87	30291	30294	わたし	引用				1	1	0	0
+Texts	K003_005-luu-anno.txt	88	30770	30773	あたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	89	30832	30835	あたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	90	31761	31764	あたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	91	32660	32663	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	92	33521	33524	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	168	34075	34078	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	93	34494	34496	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	94	34560	34562	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	95	35011	35014	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	96	35544	35547	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	97	35583	35585	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	98	35620	35622	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	99	36085	36087	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	100	36586	36588	お前	引用				1	0	0	1
+Texts	K003_005-luu-anno.txt	101	36695	36697	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	102	36728	36730	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	103	36896	36898	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	104	37419	37421	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	105	37451	37453	お前					1	0	1	0
+Texts	K003_005-luu-anno.txt	106	37509	37512	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	107	37837	37840	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	108	37975	37978	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	109	38006	38008	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	110	38085	38087	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	111	38247	38250	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	112	38321	38324	うちら					1	1	0	0
+Texts	K003_005-luu-anno.txt	113	38389	38392	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	114	38510	38513	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	115	38768	38771	あかり	1698の倒置？				1	0	1	0
+Texts	K003_005-luu-anno.txt	116	39081	39084	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	117	39607	39610	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	118	40517	40519	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	119	40999	41001	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	120	41128	41130	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	121	42688	42691	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	122	43520	43523	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	123	43961	43964	こっち					1	1	0	0
+Texts	K003_005-luu-anno.txt	124	44474	44476	お前	自分を客観視して話しかけている				1	0	1	0
+Texts	K003_005-luu-anno.txt	126	44760	44762	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	125	44774	44776	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	127	44986	44993	あかり)ちゃん					1	0	1	0
+Texts	K003_005-luu-anno.txt	128	45079	45082	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	129	45157	45159	お前	フィラー？				1	0	0	1
+Texts	K003_005-luu-anno.txt	173	45162	45164	自分					1	0	1	0
+Texts	K003_005-luu-anno.txt	130	45904	45907	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	131	46412	46415	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	132	47167	47170	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	133	47193	47195	お前	フィラー				1	0	0	1
+Texts	K003_005-luu-anno.txt	134	47364	47367	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	135	47415	47418	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	136	47481	47484	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	137	47729	47732	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	138	48218	48221	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	140	48343	48347	お父さん	引用(回想)				1	0	0	1
+Texts	K003_005-luu-anno.txt	139	48353	48356	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	141	48558	48560	お前	引用				1	0	1	0
+Texts	K003_005-luu-anno.txt	142	48704	48707	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	143	48766	48769	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	144	49329	49332	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	145	49721	49724	うちら					1	1	0	0
+Texts	K003_005-luu-anno.txt	146	49901	49904	うちら					1	1	0	0
+Texts	K003_005-luu-anno.txt	147	50439	50442	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	148	50575	50578	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	149	51684	51686	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	150	51853	51855	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	151	51862	51865	あかり					1	0	1	0
+Texts	K003_005-luu-anno.txt	152	52280	52282	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	153	52404	52407	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	154	53196	53198	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	169	53529	53531	うち					1	1	0	0
+Texts	K003_005-luu-anno.txt	170	53537	53539	自分					1	1	0	0
+Texts	K003_005-luu-anno.txt	155	54087	54090	あたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	171	54631	54635	お姉さん	02 引用				1	0	0	1
+Texts	K003_005-luu-anno.txt	156	54895	54898	わたし					1	1	0	0
+Texts	K003_005-luu-anno.txt	172	55687	55691	お姉さん	02 引用				1	0	0	1
+Texts	K003_005-luu-anno.txt	157	56963	56967	お姉さん	02 引用				1	0	0	1
+Texts	K003_005-luu-anno.txt	158	56968	56972	お姉さん	02 引用				1	0	0	1

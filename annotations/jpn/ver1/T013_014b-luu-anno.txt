@@ -1,0 +1,36 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T013_014b-luu-anno.txt	1	1427	1429	自分					1	0	0	1
+Texts	T013_014b-luu-anno.txt	2	2026	2032	まー)ちゃん					1	0	0	1
+Texts	T013_014b-luu-anno.txt	3	2053	2059	まー)ちゃん					1	0	0	1
+Texts	T013_014b-luu-anno.txt	4	2200	2206	まー)ちゃん					1	0	0	1
+Texts	T013_014b-luu-anno.txt	5	2344	2347	あたし					1	1	0	0
+Texts	T013_014b-luu-anno.txt	6	3381	3386	内山)さん					1	0	1	0
+Texts	T013_014b-luu-anno.txt	7	5108	5110	先生	01				1	0	1	0
+Texts	T013_014b-luu-anno.txt	8	5202	5203	僕					1	1	0	0
+Texts	T013_014b-luu-anno.txt	9	5799	5801	先生	01				1	0	1	0
+Texts	T013_014b-luu-anno.txt	10	6350	6352	うち					1	1	0	0
+Texts	T013_014b-luu-anno.txt	11	6641	6643	自分	「自分」が指し示す人物が不明だが、とりあえず「自分自身」の意味であると解釈				1	1	0	0
+Texts	T013_014b-luu-anno.txt	35	6841	6843	自分					1	1	0	0
+Texts	T013_014b-luu-anno.txt	12	7270	7271	俺					1	1	0	0
+Texts	T013_014b-luu-anno.txt	13	7860	7862	うち					1	1	0	0
+Texts	T013_014b-luu-anno.txt	14	8603	8606	あたし					1	1	0	0
+Texts	T013_014b-luu-anno.txt	15	9109	9110	僕					1	1	0	0
+Texts	T013_014b-luu-anno.txt	16	9112	9113	僕					1	1	0	0
+Texts	T013_014b-luu-anno.txt	17	10087	10090	おめえ					1	0	1	0
+Texts	T013_014b-luu-anno.txt	18	10104	10107	おめえ					1	0	1	0
+Texts	T013_014b-luu-anno.txt	19	10493	10495	先生	01				1	0	1	0
+Texts	T013_014b-luu-anno.txt	20	11693	11696	皆さん					1	0	1	0
+Texts	T013_014b-luu-anno.txt	21	11752	11755	皆さん					1	0	1	0
+Texts	T013_014b-luu-anno.txt	22	11782	11783	僕					1	1	0	0
+Texts	T013_014b-luu-anno.txt	23	11903	11908	田辺)さん					1	0	1	0
+Texts	T013_014b-luu-anno.txt	24	12631	12634	君たち					1	0	1	0
+Texts	T013_014b-luu-anno.txt	25	12742	12745	皆さん					1	0	1	0
+Texts	T013_014b-luu-anno.txt	26	12952	12953	僕					1	1	0	0
+Texts	T013_014b-luu-anno.txt	27	13666	13667	僕					1	1	0	0
+Texts	T013_014b-luu-anno.txt	28	13902	13905	僕たち					1	1	0	0
+Texts	T013_014b-luu-anno.txt	29	15170	15173	あなた					1	0	1	0
+Texts	T013_014b-luu-anno.txt	30	15579	15581	先生	01				1	0	1	0
+Texts	T013_014b-luu-anno.txt	31	15601	15604	あっし					1	1	0	0
+Texts	T013_014b-luu-anno.txt	32	15650	15653	わたし					1	1	0	0
+Texts	T013_014b-luu-anno.txt	33	15986	15989	あなた					1	0	1	0
+Texts	T013_014b-luu-anno.txt	34	16014	16017	わたし					1	1	0	0

@@ -1,0 +1,97 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K002_017-luu-anno.txt	1	27	31	お母さん	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	2	160	162	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	3	310	316	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	4	390	396	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	5	441	443	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	6	1161	1163	朔也					1	0	1	0
+Texts	K002_017-luu-anno.txt	7	1307	1309	ママ	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	93	1397	1401	お母さん	01				1	0	1	0
+Texts	K002_017-luu-anno.txt	8	1505	1507	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	9	1613	1619	さー)ちゃん					1	1	0	0
+Texts	K002_017-luu-anno.txt	10	1645	1647	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	11	2066	2068	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	84	2145	2147	ママ	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	12	2284	2290	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	13	2815	2821	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	14	3418	3419	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	94	3425	3429	お母さん	01				1	0	1	0
+Texts	K002_017-luu-anno.txt	15	3580	3582	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	16	3631	3635	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	95	3895	3901	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	17	3941	3943	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	18	3972	3974	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	19	4036	4038	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	20	4141	4143	朔也					1	0	1	0
+Texts	K002_017-luu-anno.txt	21	4733	4734	朔					1	0	1	0
+Texts	K002_017-luu-anno.txt	91	4924	4928	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	22	5062	5064	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	23	5212	5218	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	24	5535	5539	朔)くん					1	0	0	1
+Texts	K002_017-luu-anno.txt	96	5769	5771	自分					1	1	0	0
+Texts	K002_017-luu-anno.txt	85	5970	5972	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	86	5983	5985	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	87	6020	6022	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	25	6259	6264	朔)く:ん					1	0	0	1
+Texts	K002_017-luu-anno.txt	26	6342	6344	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	27	6425	6427	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	88	6810	6816	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	28	7393	7395	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	29	8378	8380	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	30	8417	8419	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	89	8521	8523	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	31	8591	8593	朔也					1	0	1	0
+Texts	K002_017-luu-anno.txt	32	8728	8730	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	33	8934	8940	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	34	9006	9008	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	35	9342	9344	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	36	9432	9434	ママ	01				1	0	1	0
+Texts	K002_017-luu-anno.txt	37	9459	9461	朔也					1	0	1	0
+Texts	K002_017-luu-anno.txt	38	9486	9492	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	90	9743	9745	ママ	01				1	0	1	0
+Texts	K002_017-luu-anno.txt	39	9842	9843	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	40	9901	9903	朔也					1	0	1	0
+Texts	K002_017-luu-anno.txt	41	9920	9924	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	42	9979	9981	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	43	10158	10164	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	44	10283	10287	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	45	10306	10310	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	46	10334	10336	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	47	10369	10373	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	92	10402	10404	朔也					1	0	1	0
+Texts	K002_017-luu-anno.txt	48	10570	10571	朔					1	0	0	1
+Texts	K002_017-luu-anno.txt	49	11016	11020	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	50	11220	11226	さー)ちゃん					1	1	0	0
+Texts	K002_017-luu-anno.txt	51	11246	11251	さっ)くん					1	1	0	0
+Texts	K002_017-luu-anno.txt	52	11266	11267	朔					1	0	1	0
+Texts	K002_017-luu-anno.txt	53	11285	11291	さー)ちゃん					1	1	0	0
+Texts	K002_017-luu-anno.txt	54	11360	11366	さー)ちゃん					1	1	0	0
+Texts	K002_017-luu-anno.txt	55	11462	11464	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	56	11548	11554	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	57	11836	11839	あたし					1	1	0	0
+Texts	K002_017-luu-anno.txt	58	11893	11899	さー)ちゃん					1	0	1	0
+Texts	K002_017-luu-anno.txt	59	11986	11992	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	60	12110	12112	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	61	12166	12172	さー)ちゃん					1	0	0	1
+Texts	K002_017-luu-anno.txt	62	12285	12287	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	63	12301	12305	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	64	12400	12402	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	65	12660	12662	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	66	12680	12682	朔也					1	1	0	0
+Texts	K002_017-luu-anno.txt	67	12726	12728	ママ	01				1	0	0	1
+Texts	K002_017-luu-anno.txt	68	13049	13051	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	69	13240	13244	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	70	13282	13283	朔					1	0	0	1
+Texts	K002_017-luu-anno.txt	71	13469	13471	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	72	13649	13650	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	73	13714	13715	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	74	13716	13717	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	75	13718	13719	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	76	13720	13721	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	77	13805	13806	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	78	13807	13808	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	79	13809	13810	俺					1	1	0	0
+Texts	K002_017-luu-anno.txt	80	13824	13826	朔也					1	0	0	1
+Texts	K002_017-luu-anno.txt	81	13939	13944	朔也)さま					1	1	0	0
+Texts	K002_017-luu-anno.txt	82	14077	14081	お母さん	03				1	1	0	0
+Texts	K002_017-luu-anno.txt	83	14188	14192	お母さん	03				1	1	0	0

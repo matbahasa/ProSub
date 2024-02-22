@@ -1,0 +1,40 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K013_019-luu-anno.txt	1	46	51	おばあさん	01？				1	0	1	0
+Texts	K013_019-luu-anno.txt	2	691	692	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	3	794	795	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	4	1631	1636	おばあさん	01？				1	0	1	0
+Texts	K013_019-luu-anno.txt	5	1763	1768	おばあさん	01？				1	0	1	0
+Texts	K013_019-luu-anno.txt	6	5095	5107	お(W ワー|ばあ)さん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	7	5109	5114	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	8	6724	6729	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	9	8261	8262	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	10	9753	9758	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	11	9867	9872	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	12	11460	11465	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	13	12116	12121	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	14	12172	12177	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	15	13766	13778	お(W カー|ばあ)さん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	16	14403	14408	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	17	14517	14522	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	18	19232	19237	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	19	20101	20106	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	20	23851	23856	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	21	25721	25726	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	39	25853	25856	おばあ	言いかけ　03?				1	0	1	0
+Texts	K013_019-luu-anno.txt	22	25857	25862	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	23	26296	26301	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	24	26372	26377	おばあさん	01?				1	0	1	0
+Texts	K013_019-luu-anno.txt	25	26682	26687	おばあさん	03?				1	1	0	0
+Texts	K013_019-luu-anno.txt	26	28052	28053	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	27	30509	30513	雪)たち					1	1	0	0
+Texts	K013_019-luu-anno.txt	28	31110	31111	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	29	32142	32143	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	30	36771	36772	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	31	36967	36968	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	32	37466	37467	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	33	37488	37489	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	34	39237	39238	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	35	39674	39675	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	36	40102	40103	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	37	40728	40729	雪					1	1	0	0
+Texts	K013_019-luu-anno.txt	38	43441	43446	おばあさん	03?				1	1	0	0

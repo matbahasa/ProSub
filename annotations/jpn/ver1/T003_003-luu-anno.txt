@@ -1,0 +1,22 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_003-luu-anno.txt	1	164	167	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	2	6403	6406	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	3	6490	6493	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	4	14141	14144	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	5	14236	14239	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	6	14281	14284	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	7	16922	16927	牧野)さん					1	0	1	0
+Texts	T003_003-luu-anno.txt	8	16991	16993	自分	1st?				1	1	0	0
+Texts	T003_003-luu-anno.txt	9	17094	17096	自分	1st?				1	1	0	0
+Texts	T003_003-luu-anno.txt	10	25853	25858	わたしたち					1	1	0	0
+Texts	T003_003-luu-anno.txt	11	30284	30289	あなたたち	引用				1	0	1	0
+Texts	T003_003-luu-anno.txt	12	31434	31439	牧野)さん					1	0	1	0
+Texts	T003_003-luu-anno.txt	13	35542	35547	牧野)さん					1	0	1	0
+Texts	T003_003-luu-anno.txt	14	42515	42520	牧野)さん					1	0	1	0
+Texts	T003_003-luu-anno.txt	15	42630	42633	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	16	43081	43084	わたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	18	45536	45538	自分					1	1	0	0
+Texts	T003_003-luu-anno.txt	17	45550	45553	わたし	引用				1	1	0	0
+Texts	T003_003-luu-anno.txt	19	46018	46021	あたし					1	1	0	0
+Texts	T003_003-luu-anno.txt	20	47614	47619	あたしたち					1	1	0	0
+Texts	T003_003-luu-anno.txt	21	51146	51149	わたし					1	1	0	0

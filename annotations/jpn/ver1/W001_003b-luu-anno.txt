@@ -1,0 +1,2 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W001_003b-luu-anno.txt	1	179	184	葉山)先生	01				1	0	1	0

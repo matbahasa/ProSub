@@ -1,0 +1,41 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T009_002-luu-anno.txt	1	44	48	お嬢さん					1	0	0	1
+Texts	T009_002-luu-anno.txt	2	57	61	お嬢さん					1	0	0	1
+Texts	T009_002-luu-anno.txt	5	188	190	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	3	393	399	米山)さ:ん					1	0	0	1
+Texts	T009_002-luu-anno.txt	4	863	869	ルリ)ちゃん					1	0	0	1
+Texts	T009_002-luu-anno.txt	6	1109	1111	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	7	1120	1122	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	8	1131	1133	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	9	1160	1162	ママ	02				1	1	0	0
+Texts	T009_002-luu-anno.txt	10	1251	1253	コタ					1	0	1	0
+Texts	T009_002-luu-anno.txt	11	1287	1290	あたし					1	1	0	0
+Texts	T009_002-luu-anno.txt	12	1375	1378	あなた					1	0	0	1
+Texts	T009_002-luu-anno.txt	14	1423	1424	俺					1	1	0	0
+Texts	T009_002-luu-anno.txt	15	1438	1439	俺					1	1	0	0
+Texts	T009_002-luu-anno.txt	16	1471	1473	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	17	1709	1710	君					1	0	1	0
+Texts	T009_002-luu-anno.txt	18	1862	1863	僕					1	1	0	0
+Texts	T009_002-luu-anno.txt	19	1921	1927	ルリ)ちゃん					1	0	0	1
+Texts	T009_002-luu-anno.txt	20	2217	2219	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	21	2338	2340	ママ	02				1	1	0	0
+Texts	T009_002-luu-anno.txt	22	2432	2436	コタロウ					1	0	0	1
+Texts	T009_002-luu-anno.txt	23	2654	2658	コタロウ					1	0	0	1
+Texts	T009_002-luu-anno.txt	24	2682	2684	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	25	2769	2775	ルリ)ちゃん					1	0	0	1
+Texts	T009_002-luu-anno.txt	26	3661	3663	ルリ					1	0	1	0
+Texts	T009_002-luu-anno.txt	27	3850	3852	ママ	01				1	0	1	0
+Texts	T009_002-luu-anno.txt	28	4128	4131	あなた					1	0	1	0
+Texts	T009_002-luu-anno.txt	29	4228	4231	あなた					1	0	0	1
+Texts	T009_002-luu-anno.txt	30	4273	4275	本人					1	0	1	0
+Texts	T009_002-luu-anno.txt	31	4542	4545	あたし					1	1	0	0
+Texts	T009_002-luu-anno.txt	32	4936	4938	ママ	01				1	1	0	0
+Texts	T009_002-luu-anno.txt	33	5207	5212	桃)ちゃん					1	0	0	1
+Texts	T009_002-luu-anno.txt	34	5941	5943	ママ	01				1	0	1	0
+Texts	T009_002-luu-anno.txt	35	6575	6577	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	36	6609	6614	お姉ちゃん					1	1	0	0
+Texts	T009_002-luu-anno.txt	37	6855	6860	お姉ちゃん					1	1	0	0
+Texts	T009_002-luu-anno.txt	38	6888	6889	俺					1	1	0	0
+Texts	T009_002-luu-anno.txt	39	7110	7112	コタ					1	0	0	1
+Texts	T009_002-luu-anno.txt	40	7141	7144	あなた					1	0	1	0
+Texts	T009_002-luu-anno.txt	41	7491	7493	コタ					1	0	0	1

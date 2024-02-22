@@ -1,0 +1,64 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T010_006a-luu-anno.txt	1	68	71	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	60	126	129	皆さん					1	0	1	0
+Texts	T010_006a-luu-anno.txt	2	540	544	母ちゃん	01				1	0	1	0
+Texts	T010_006a-luu-anno.txt	3	1960	1964	とっ)君					1	0	1	0
+Texts	T010_006a-luu-anno.txt	4	2265	2269	母ちゃん	01				1	0	1	0
+Texts	T010_006a-luu-anno.txt	5	2296	2297	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	6	3069	3070	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	7	3450	3452	お前					1	0	0	1
+Texts	T010_006a-luu-anno.txt	8	4016	4020	母ちゃん	01				1	0	1	0
+Texts	T010_006a-luu-anno.txt	9	4834	4836	お前					1	0	0	1
+Texts	T010_006a-luu-anno.txt	10	5047	5050	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	11	5856	5857	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	12	5877	5880	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	13	5915	5916	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	14	5978	5980	お前					1	0	0	1
+Texts	T010_006a-luu-anno.txt	15	6163	6164	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	61	6223	6225	兄者					1	0	1	0
+Texts	T010_006a-luu-anno.txt	16	6254	6255	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	17	6488	6490	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	18	6555	6556	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	19	6813	6814	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	20	7097	7099	兄者	1				1	0	1	0
+Texts	T010_006a-luu-anno.txt	21	7187	7189	そう					1	0	1	0
+Texts	T010_006a-luu-anno.txt	22	7231	7232	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	23	7290	7292	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	62	7481	7483	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	63	7493	7496	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	24	7511	7512	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	25	7580	7582	お前					1	0	0	1
+Texts	T010_006a-luu-anno.txt	26	7591	7592	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	27	7625	7626	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	28	7635	7637	兄者					1	0	1	0
+Texts	T010_006a-luu-anno.txt	29	7657	7660	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	30	7667	7670	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	31	7755	7757	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	32	7758	7759	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	33	7786	7787	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	34	8207	8208	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	35	8258	8260	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	36	8336	8339	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	37	8433	8434	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	38	8625	8631	サブ)ちゃん					1	0	1	0
+Texts	T010_006a-luu-anno.txt	39	9266	9270	マーたん					1	0	0	1
+Texts	T010_006a-luu-anno.txt	40	9541	9543	パパ	02				1	0	0	1
+Texts	T010_006a-luu-anno.txt	41	9579	9584	お兄ちゃん	02				1	0	0	1
+Texts	T010_006a-luu-anno.txt	42	9798	9801	准)君					1	0	1	0
+Texts	T010_006a-luu-anno.txt	43	10563	10564	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	44	10720	10723	お前ら					1	0	1	0
+Texts	T010_006a-luu-anno.txt	45	10743	10744	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	46	10804	10808	とっ)君					1	0	0	1
+Texts	T010_006a-luu-anno.txt	47	10912	10914	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	48	10977	10978	徹					1	0	1	0
+Texts	T010_006a-luu-anno.txt	49	11126	11130	とっ)君					1	0	0	1
+Texts	T010_006a-luu-anno.txt	50	11134	11138	とっ)君					1	0	0	1
+Texts	T010_006a-luu-anno.txt	51	11208	11210	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	52	11703	11705	お前					1	0	1	0
+Texts	T010_006a-luu-anno.txt	53	11739	11740	俺					1	1	0	0
+Texts	T010_006a-luu-anno.txt	54	11951	11954	みんな					1	1	0	0
+Texts	T010_006a-luu-anno.txt	55	12198	12200	まめ					1	0	0	1
+Texts	T010_006a-luu-anno.txt	56	12831	12834	わたし					1	1	0	0
+Texts	T010_006a-luu-anno.txt	57	12904	12909	まめちゃん					1	0	0	1
+Texts	T010_006a-luu-anno.txt	58	12955	12957	まめ					1	0	0	1
+Texts	T010_006a-luu-anno.txt	59	13031	13034	みんな					1	1	0	0

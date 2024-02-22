@@ -1,0 +1,33 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T023_011-luu-anno.txt	1	2353	2356	わたし					1	1	0	0
+Texts	T023_011-luu-anno.txt	2	2947	2953	さく)ちゃん	引用(さくちゃん目線？)				1	1	0	0
+Texts	T023_011-luu-anno.txt	3	3039	3045	さく)ちゃん	引用(さくちゃん目線？)				1	1	0	0
+Texts	T023_011-luu-anno.txt	4	5311	5313	パパ	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	5	5568	5573	かずちゅう	あだ名？				1	0	1	0
+Texts	T023_011-luu-anno.txt	6	6377	6382	かずちゅう	あだ名？				1	0	1	0
+Texts	T023_011-luu-anno.txt	7	8092	8094	パパ	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	8	11852	11855	みんな					1	1	0	0
+Texts	T023_011-luu-anno.txt	9	13010	13016	お父さんたち	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	10	13178	13180	パパ	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	11	13397	13403	お姉)ちゃん	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	12	13625	13632	さく))ちゃん					1	0	0	1
+Texts	T023_011-luu-anno.txt	13	15481	15485	お父さん	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	14	18859	18861	パパ	01? 03?				1	1	0	0
+Texts	T023_011-luu-anno.txt	15	18935	18937	パパ	01? 03?				1	1	0	0
+Texts	T023_011-luu-anno.txt	16	19011	19014	みんな					1	1	0	0
+Texts	T023_011-luu-anno.txt	17	19443	19449	か%ずちゅう	あだ名？				1	0	0	1
+Texts	T023_011-luu-anno.txt	18	20754	20756	うち					1	1	0	0
+Texts	T023_011-luu-anno.txt	19	23034	23039	かずちゅう	あだ名？				1	0	1	0
+Texts	T023_011-luu-anno.txt	20	23106	23111	かずちゅう	あだ名？				1	0	1	0
+Texts	T023_011-luu-anno.txt	21	23312	23315	あたし					1	1	0	0
+Texts	T023_011-luu-anno.txt	22	23454	23461	和恵)ちゃ:ん	引用				1	0	0	1
+Texts	T023_011-luu-anno.txt	23	23586	23589	あんた					1	0	1	0
+Texts	T023_011-luu-anno.txt	24	24439	24440	俺					1	1	0	0
+Texts	T023_011-luu-anno.txt	25	24701	24702	俺					1	1	0	0
+Texts	T023_011-luu-anno.txt	26	25107	25109	パパ	01? 03?				1	1	0	0
+Texts	T023_011-luu-anno.txt	27	29198	29201	わたし					1	1	0	0
+Texts	T023_011-luu-anno.txt	28	29658	29661	こっち					1	1	0	0
+Texts	T023_011-luu-anno.txt	29	29939	29944	かずちゅう	あだ名？				1	0	1	0
+Texts	T023_011-luu-anno.txt	30	30199	30202	あたし					1	1	0	0
+Texts	T023_011-luu-anno.txt	31	31646	31650	お父さん	01? 03?				1	0	1	0
+Texts	T023_011-luu-anno.txt	32	31831	31834	皆さん					1	0	1	0

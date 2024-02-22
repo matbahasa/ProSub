@@ -1,0 +1,66 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T001_019-luu-anno.txt	1	132	135	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	2	4308	4311	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	3	4781	4784	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	4	5852	5855	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	5	9172	9175	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	6	11783	11786	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	7	11969	11970	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	8	14572	14575	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	9	14880	14883	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	10	17031	17035	わ)たし					1	1	0	0
+Texts	T001_019-luu-anno.txt	11	17098	17101	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	12	17361	17364	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	13	18286	18292	優香)ちゃん	２nd?他称？				1	0	1	0
+Texts	T001_019-luu-anno.txt	14	18551	18554	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	15	22174	22177	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	16	22238	22241	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	17	22317	22320	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	18	22329	22332	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	19	22814	22817	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	20	23072	23075	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	21	23331	23334	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	22	23452	23457	わたしたち					1	1	0	0
+Texts	T001_019-luu-anno.txt	23	23530	23533	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	24	24282	24287	あたしたち					1	1	0	0
+Texts	T001_019-luu-anno.txt	26	25398	25403	あたしたち	当時の「あたしたち」				1	1	0	0
+Texts	T001_019-luu-anno.txt	27	25443	25448	あたしたち	当時の「あたしたち」				1	1	0	0
+Texts	T001_019-luu-anno.txt	25	25452	25457	あなたたち	引用（回想）				1	0	1	0
+Texts	T001_019-luu-anno.txt	28	26174	26179	あたしたち	当時の「あたしたち」				1	1	0	0
+Texts	T001_019-luu-anno.txt	29	26440	26443	うちら	当時の「うちら」				1	1	0	0
+Texts	T001_019-luu-anno.txt	30	26979	26985	優香)ちゃん					1	0	1	0
+Texts	T001_019-luu-anno.txt	31	27043	27046	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	32	27202	27205	こっち					1	1	0	0
+Texts	T001_019-luu-anno.txt	33	28173	28179	優香)ちゃん					1	0	1	0
+Texts	T001_019-luu-anno.txt	34	28472	28475	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	35	29414	29420	わ)たしたち					1	1	0	0
+Texts	T001_019-luu-anno.txt	36	30113	30116	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	37	30229	30235	郁子))さま					1	0	1	0
+Texts	T001_019-luu-anno.txt	38	30239	30244	優香)さま					1	0	1	0
+Texts	T001_019-luu-anno.txt	39	30258	30263	郁子)さま					1	0	1	0
+Texts	T001_019-luu-anno.txt	40	30266	30271	優香)さま					1	0	1	0
+Texts	T001_019-luu-anno.txt	41	30706	30709	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	42	31044	31049	かず)くん					1	0	1	0
+Texts	T001_019-luu-anno.txt	43	31419	31420	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	44	31465	31466	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	45	31630	31633	お二人					1	0	1	0
+Texts	T001_019-luu-anno.txt	46	31685	31686	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	47	31867	31870	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	48	31877	31882	かず)くん	２nd? 他称？				1	0	1	0
+Texts	T001_019-luu-anno.txt	49	31907	31908	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	50	32561	32562	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	51	32670	32673	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	52	32923	32928	わたしたち					1	1	0	0
+Texts	T001_019-luu-anno.txt	53	33457	33463	優香)ちゃん					1	0	1	0
+Texts	T001_019-luu-anno.txt	54	33761	33763	二人					1	0	1	0
+Texts	T001_019-luu-anno.txt	55	34160	34165	わたしたち					1	1	0	0
+Texts	T001_019-luu-anno.txt	56	35919	35925	かず)ちゃん					1	0	0	1
+Texts	T001_019-luu-anno.txt	57	37270	37273	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	58	38704	38707	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	59	38754	38756	優香	フィラー？？				1	0	0	1
+Texts	T001_019-luu-anno.txt	60	40021	40024	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	61	40132	40135	わたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	62	40875	40878	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	63	44701	44702	僕					1	1	0	0
+Texts	T001_019-luu-anno.txt	64	45155	45158	あたし					1	1	0	0
+Texts	T001_019-luu-anno.txt	65	45355	45356	僕					1	1	0	0

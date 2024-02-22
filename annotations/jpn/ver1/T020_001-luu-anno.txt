@@ -1,0 +1,22 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T020_001-luu-anno.txt	1	74	76	お前					1	0	0	1
+Texts	T020_001-luu-anno.txt	2	305	308	あなた					1	0	1	0
+Texts	T020_001-luu-anno.txt	3	772	774	槇原					1	0	0	1
+Texts	T020_001-luu-anno.txt	4	908	910	皐月					1	0	1	0
+Texts	T020_001-luu-anno.txt	5	985	987	皐月					1	0	1	0
+Texts	T020_001-luu-anno.txt	6	2010	2012	お前					1	0	0	1
+Texts	T020_001-luu-anno.txt	7	2189	2191	葉月					1	0	0	1
+Texts	T020_001-luu-anno.txt	8	2298	2300	お前					1	0	0	1
+Texts	T020_001-luu-anno.txt	9	3503	3505	菜桜					1	0	0	1
+Texts	T020_001-luu-anno.txt	10	3603	3605	菜桜					1	0	1	0
+Texts	T020_001-luu-anno.txt	11	4505	4507	葉月					1	0	0	1
+Texts	T020_001-luu-anno.txt	12	4629	4631	皐月					1	0	0	1
+Texts	T020_001-luu-anno.txt	13	4844	4846	皐月					1	0	1	0
+Texts	T020_001-luu-anno.txt	14	5082	5084	お前					1	0	0	1
+Texts	T020_001-luu-anno.txt	15	5201	5203	葉月					1	0	0	1
+Texts	T020_001-luu-anno.txt	16	5386	5388	はー					1	0	1	0
+Texts	T020_001-luu-anno.txt	17	5641	5642	僕					1	1	0	0
+Texts	T020_001-luu-anno.txt	18	5674	5676	菜桜					1	0	0	1
+Texts	T020_001-luu-anno.txt	19	5692	5694	皐月					1	0	1	0
+Texts	T020_001-luu-anno.txt	20	5792	5793	僕					1	1	0	0
+Texts	T020_001-luu-anno.txt	21	6102	6104	葉月					1	1	0	0

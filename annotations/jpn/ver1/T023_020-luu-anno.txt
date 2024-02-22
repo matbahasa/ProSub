@@ -1,0 +1,36 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T023_020-luu-anno.txt	1	33	38	指田)さん					1	0	1	0
+Texts	T023_020-luu-anno.txt	2	413	414	俺					1	1	0	0
+Texts	T023_020-luu-anno.txt	3	915	916	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	4	1121	1122	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	5	1160	1163	わたし	引用				1	1	0	0
+Texts	T023_020-luu-anno.txt	6	1296	1297	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	7	4020	4023	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	8	4102	4105	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	9	4687	4688	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	10	6704	6706	うち					1	1	0	0
+Texts	T023_020-luu-anno.txt	11	7233	7234	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	12	7606	7609	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	13	8301	8302	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	14	9755	9760	指田)さん					1	0	1	0
+Texts	T023_020-luu-anno.txt	15	9833	9834	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	16	10429	10430	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	17	11071	11076	指田)さん					1	0	1	0
+Texts	T023_020-luu-anno.txt	18	11118	11121	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	19	13257	13262	わたしたち					1	1	0	0
+Texts	T023_020-luu-anno.txt	20	13658	13661	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	21	13675	13677	自分					1	1	0	0
+Texts	T023_020-luu-anno.txt	22	14154	14155	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	23	14244	14247	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	24	15605	15610	わたしたち					1	1	0	0
+Texts	T023_020-luu-anno.txt	25	15614	15617	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	26	15968	15973	指田)さん					1	0	1	0
+Texts	T023_020-luu-anno.txt	27	16562	16563	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	28	17387	17390	わたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	29	17767	17770	あたし					1	1	0	0
+Texts	T023_020-luu-anno.txt	31	18949	18950	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	33	19058	19061	あなた	引用				1	0	1	0
+Texts	T023_020-luu-anno.txt	34	19300	19301	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	35	19734	19735	僕					1	1	0	0
+Texts	T023_020-luu-anno.txt	36	19830	19835	わたしたち					1	1	0	0
+Texts	T023_020-luu-anno.txt	37	19852	19857	指田)さん					1	0	1	0

@@ -1,0 +1,52 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W008_001c-luu-anno.txt	1	788	789	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	2	817	818	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	3	915	916	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	4	1406	1408	先生	01				1	0	0	1
+Texts	W008_001c-luu-anno.txt	5	1432	1435	みんな					1	1	0	0
+Texts	W008_001c-luu-anno.txt	6	1791	1792	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	7	1866	1867	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	8	4416	4419	あたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	9	4482	4483	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	10	5338	5341	あたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	11	5535	5546	峰)(Y センセ|先生	01				1	0	1	0
+Texts	W008_001c-luu-anno.txt	12	7676	7680	あたくし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	13	7696	7701	藤山)先生	01				1	0	1	0
+Texts	W008_001c-luu-anno.txt	14	7834	7837	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	15	8738	8742	峰)先生	01				1	0	1	0
+Texts	W008_001c-luu-anno.txt	16	8779	8780	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	17	8905	8906	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	18	9348	9349	僕					1	1	0	0
+Texts	W008_001c-luu-anno.txt	20	9381	9384	お二人					1	0	1	0
+Texts	W008_001c-luu-anno.txt	19	9563	9566	あたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	21	9629	9632	お二人					1	0	1	0
+Texts	W008_001c-luu-anno.txt	22	9679	9682	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	23	9957	9958	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	24	12474	12477	みんな					1	1	0	0
+Texts	W008_001c-luu-anno.txt	25	17903	17904	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	26	18331	18332	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	27	19079	19082	皆さん					1	0	0	1
+Texts	W008_001c-luu-anno.txt	28	19915	19916	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	29	20561	20564	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	30	21017	21020	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	31	23439	23442	あたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	32	23728	23732	先生)方	01				1	0	1	0
+Texts	W008_001c-luu-anno.txt	33	28232	28233	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	34	28542	28543	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	35	28613	28624	峰)(Y センセ|先生	01				1	0	1	0
+Texts	W008_001c-luu-anno.txt	36	29159	29163	わたくし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	37	29247	29250	あたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	38	29702	29705	あたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	39	30181	30184	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	40	30422	30425	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	42	30460	30465	山尾)さん					1	0	1	0
+Texts	W008_001c-luu-anno.txt	43	30485	30486	僕					1	1	0	0
+Texts	W008_001c-luu-anno.txt	44	31225	31226	君					1	0	1	0
+Texts	W008_001c-luu-anno.txt	45	37023	37026	皆さん					1	0	1	0
+Texts	W008_001c-luu-anno.txt	46	38218	38219	僕					1	1	0	0
+Texts	W008_001c-luu-anno.txt	47	46174	46176	我々					1	1	0	0
+Texts	W008_001c-luu-anno.txt	48	46430	46431	僕					1	1	0	0
+Texts	W008_001c-luu-anno.txt	49	46717	46718	俺					1	1	0	0
+Texts	W008_001c-luu-anno.txt	50	48648	48651	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	51	48690	48693	わたし					1	1	0	0
+Texts	W008_001c-luu-anno.txt	52	51515	51516	俺					1	1	0	0

@@ -1,0 +1,41 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T021_003-luu-anno.txt	1	506	512	おばあちゃん	03				1	0	1	0
+Texts	T021_003-luu-anno.txt	2	523	529	おばあちゃん	03				1	0	1	0
+Texts	T021_003-luu-anno.txt	3	604	605	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	4	635	641	おばあちゃん	03				1	1	0	0
+Texts	T021_003-luu-anno.txt	5	695	700	お兄ちゃん	03				1	0	0	1
+Texts	T021_003-luu-anno.txt	6	2028	2033	船戸)さん					1	0	0	1
+Texts	T021_003-luu-anno.txt	7	2068	2071	わたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	8	2571	2572	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	9	2668	2669	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	10	2749	2752	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	11	3183	3186	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	12	4002	4005	みんな					1	0	1	0
+Texts	T021_003-luu-anno.txt	13	4725	4726	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	14	6491	6494	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	15	6750	6751	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	16	6920	6921	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	17	7031	7032	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	18	7369	7370	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	19	7652	7655	あんた					1	0	0	1
+Texts	T021_003-luu-anno.txt	20	7836	7837	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	21	8618	8620	うち					1	1	0	0
+Texts	T021_003-luu-anno.txt	22	8861	8864	あんた					1	0	1	0
+Texts	T021_003-luu-anno.txt	23	9113	9114	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	24	9254	9259	お兄ちゃん	03				1	0	1	0
+Texts	T021_003-luu-anno.txt	25	9294	9297	わたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	26	9370	9371	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	27	9877	9880	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	28	11264	11268	兄ちゃん	03				1	0	1	0
+Texts	T021_003-luu-anno.txt	29	13252	13253	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	30	13337	13338	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	31	13939	13942	あなた					1	0	1	0
+Texts	T021_003-luu-anno.txt	32	14095	14096	僕					1	1	0	0
+Texts	T021_003-luu-anno.txt	33	15622	15625	こっち					1	1	0	0
+Texts	T021_003-luu-anno.txt	34	15941	15944	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	35	16151	16154	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	36	16405	16408	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	37	16475	16476	俺					1	1	0	0
+Texts	T021_003-luu-anno.txt	38	16747	16750	あたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	39	16946	16949	わたし					1	1	0	0
+Texts	T021_003-luu-anno.txt	40	17065	17066	僕					1	1	0	0

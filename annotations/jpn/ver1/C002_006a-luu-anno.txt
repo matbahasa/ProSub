@@ -1,0 +1,30 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C002_006a-luu-anno.txt	1	40	42	自分					1	1	0	0
+Texts	C002_006a-luu-anno.txt	27	1095	1101	智子)ちゃん					1	0	1	0
+Texts	C002_006a-luu-anno.txt	2	1131	1137	智子)ちゃん					1	0	1	0
+Texts	C002_006a-luu-anno.txt	3	1592	1595	あたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	4	2187	2190	あたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	5	5242	5245	あたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	7	5379	5381	二人					1	0	1	0
+Texts	C002_006a-luu-anno.txt	8	5495	5498	わたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	9	5591	5597	智子)ちゃん					1	0	1	0
+Texts	C002_006a-luu-anno.txt	10	5664	5667	あたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	11	5778	5782	わたくし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	12	5887	5893	智子)ちゃん					1	0	0	1
+Texts	C002_006a-luu-anno.txt	13	6167	6170	わたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	14	7271	7277	智子)ちゃん					1	0	1	0
+Texts	C002_006a-luu-anno.txt	15	7521	7523	ママ	01				1	0	1	0
+Texts	C002_006a-luu-anno.txt	16	7807	7810	あたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	17	8251	8253	ママ	01				1	0	1	0
+Texts	C002_006a-luu-anno.txt	18	9016	9018	ママ	01				1	0	1	0
+Texts	C002_006a-luu-anno.txt	19	9852	9854	うち					1	1	0	0
+Texts	C002_006a-luu-anno.txt	22	9862	9864	うち					1	1	0	0
+Texts	C002_006a-luu-anno.txt	28	10966	10968	うち					1	1	0	0
+Texts	C002_006a-luu-anno.txt	29	11213	11215	ママ	引用 03				1	0	0	1
+Texts	C002_006a-luu-anno.txt	20	11244	11247	わたし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	26	11359	11364	智子)さん					1	0	1	0
+Texts	C002_006a-luu-anno.txt	21	12134	12138	あ%たし					1	1	0	0
+Texts	C002_006a-luu-anno.txt	6	13862	13868	みー)ちゃま					1	0	0	1
+Texts	C002_006a-luu-anno.txt	23	13967	13973	みー)ちゃま					1	0	1	0
+Texts	C002_006a-luu-anno.txt	24	14104	14109	わたしたち					1	1	0	0
+Texts	C002_006a-luu-anno.txt	25	14159	14162	みんな					1	1	0	0

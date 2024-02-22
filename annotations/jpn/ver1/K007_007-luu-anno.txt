@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K007_007-luu-anno.txt	1	837	838	俺					1	1	0	0
+Texts	K007_007-luu-anno.txt	2	1257	1258	俺					1	1	0	0
+Texts	K007_007-luu-anno.txt	3	2496	2498	自分					1	1	0	0
+Texts	K007_007-luu-anno.txt	4	3811	3812	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	36	3816	3821	湯本)くん					1	0	1	0
+Texts	K007_007-luu-anno.txt	5	4134	4135	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	6	5082	5083	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	37	5102	5107	湯本)くん					1	0	1	0
+Texts	K007_007-luu-anno.txt	7	6061	6063	僕ら					1	1	0	0
+Texts	K007_007-luu-anno.txt	8	6142	6143	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	9	7409	7410	僕	引用				1	1	0	0
+Texts	K007_007-luu-anno.txt	10	7535	7538	皆さん	引用				1	0	1	0
+Texts	K007_007-luu-anno.txt	16	9165	9170	ミサキール					1	0	1	0
+Texts	K007_007-luu-anno.txt	11	9313	9316	皆さん					1	0	1	0
+Texts	K007_007-luu-anno.txt	12	10197	10198	俺					1	1	0	0
+Texts	K007_007-luu-anno.txt	13	10247	10248	俺					1	1	0	0
+Texts	K007_007-luu-anno.txt	15	12199	12204	ミサキール					1	0	1	0
+Texts	K007_007-luu-anno.txt	14	13311	13316	ミサキール					1	0	1	0
+Texts	K007_007-luu-anno.txt	17	14029	14030	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	18	14192	14195	みんな					1	0	1	0
+Texts	K007_007-luu-anno.txt	19	14202	14205	みんな					1	0	1	0
+Texts	K007_007-luu-anno.txt	20	14982	14987	ミサキール					1	0	1	0
+Texts	K007_007-luu-anno.txt	21	15424	15425	俺					1	1	0	0
+Texts	K007_007-luu-anno.txt	22	16087	16088	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	23	19372	19373	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	24	20254	20259	ミサキール					1	0	1	0
+Texts	K007_007-luu-anno.txt	25	20938	20939	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	26	22985	22986	俺					1	1	0	0
+Texts	K007_007-luu-anno.txt	27	23981	23983	僕ら					1	1	0	0
+Texts	K007_007-luu-anno.txt	28	24058	24062	僕ら自身					1	1	0	0
+Texts	K007_007-luu-anno.txt	29	25254	25255	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	30	25468	25469	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	31	25551	25553	僕ら					1	1	0	0
+Texts	K007_007-luu-anno.txt	32	27899	27904	湯本)さん	引用				1	0	1	0
+Texts	K007_007-luu-anno.txt	33	28122	28123	僕					1	1	0	0
+Texts	K007_007-luu-anno.txt	34	28438	28440	僕ら					1	1	0	0
+Texts	K007_007-luu-anno.txt	35	28751	28753	僕ら					1	1	0	0

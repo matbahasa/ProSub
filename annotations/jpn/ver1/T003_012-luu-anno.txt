@@ -1,0 +1,50 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_012-luu-anno.txt	48	638	640	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	49	733	735	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	1	846	848	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	2	858	860	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	3	1657	1662	やっ)くん	ニックネーム？				1	0	1	0
+Texts	T003_012-luu-anno.txt	4	2712	2714	ママ	01				1	0	1	0
+Texts	T003_012-luu-anno.txt	5	3334	3336	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	6	3374	3376	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	7	3473	3475	パパ	03				1	1	0	0
+Texts	T003_012-luu-anno.txt	8	3646	3648	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	9	3733	3735	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	10	4616	4618	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	11	5501	5503	お前	引用				1	0	1	0
+Texts	T003_012-luu-anno.txt	12	5552	5555	あなた	引用				1	0	1	0
+Texts	T003_012-luu-anno.txt	13	5686	5691	やっ)くん	ニックネーム				1	0	0	1
+Texts	T003_012-luu-anno.txt	14	5739	5741	お前	引用				1	0	1	0
+Texts	T003_012-luu-anno.txt	15	5797	5799	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	16	6517	6522	やっ)くん	ニックネーム？				1	1	0	0
+Texts	T003_012-luu-anno.txt	17	6576	6578	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	18	6589	6591	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	19	6657	6659	パパ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	20	7175	7177	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	21	8296	8298	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	22	8530	8532	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	23	8543	8545	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	24	8556	8558	パパ	01				1	1	0	0
+Texts	T003_012-luu-anno.txt	25	8803	8808	やっ)くん	ニックネーム？				1	0	1	0
+Texts	T003_012-luu-anno.txt	26	8828	8830	パパ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	27	8840	8842	ママ	01				1	0	1	0
+Texts	T003_012-luu-anno.txt	28	8939	8941	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	29	8976	8981	やっ)くん	ニックネーム？				1	0	0	1
+Texts	T003_012-luu-anno.txt	30	9545	9547	拓人					1	0	0	1
+Texts	T003_012-luu-anno.txt	39	10091	10093	ママ	03				1	1	0	0
+Texts	T003_012-luu-anno.txt	31	10838	10840	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	32	10851	10853	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	33	11142	11144	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	34	11168	11170	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	35	12022	12027	やっ)くん	ニックネーム？				1	1	0	0
+Texts	T003_012-luu-anno.txt	36	12098	12100	パパ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	37	12167	12172	やっ)くん	ニックネーム？				1	1	0	0
+Texts	T003_012-luu-anno.txt	47	12564	12565	拓					1	0	0	1
+Texts	T003_012-luu-anno.txt	38	12744	12746	ママ	03				1	1	0	0
+Texts	T003_012-luu-anno.txt	40	13654	13656	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	41	13765	13767	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	42	13778	13780	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	43	13935	13937	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	44	13969	13974	やっ)くん	ニックネーム？				1	0	0	1
+Texts	T003_012-luu-anno.txt	45	14375	14377	ママ	01				1	0	0	1
+Texts	T003_012-luu-anno.txt	46	14908	14912	あ:んた					1	0	1	0

@@ -1,0 +1,2 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K010_003b-luu-anno.txt	1	988	992	自分たち	引用				1	1	0	0

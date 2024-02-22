@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K005_006-luu-anno.txt	1	41	47	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	2	179	182	あたし					1	1	0	0
+Texts	K005_006-luu-anno.txt	3	594	600	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	4	1541	1547	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	5	1591	1595	わたくし					1	1	0	0
+Texts	K005_006-luu-anno.txt	6	2243	2249	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	36	2298	2301	あたし					1	1	0	0
+Texts	K005_006-luu-anno.txt	7	2867	2870	わたし					1	1	0	0
+Texts	K005_006-luu-anno.txt	8	2884	2890	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	9	2974	2980	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	10	3157	3163	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	35	4368	4374	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	11	4658	4664	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	12	4920	4926	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	37	5010	5016	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	13	5520	5523	あたし					1	1	0	0
+Texts	K005_006-luu-anno.txt	14	5697	5701	わたくし					1	1	0	0
+Texts	K005_006-luu-anno.txt	15	7130	7136	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	16	8087	8090	あたし					1	1	0	0
+Texts	K005_006-luu-anno.txt	17	8286	8292	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	18	8311	8317	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	19	8383	8389	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	20	8723	8729	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	21	10365	10371	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	22	10995	11001	おばあちゃん	03				1	1	0	0
+Texts	K005_006-luu-anno.txt	23	11870	11874	房)さん					1	0	0	1
+Texts	K005_006-luu-anno.txt	24	11877	11881	房)さん					1	0	0	1
+Texts	K005_006-luu-anno.txt	25	12087	12093	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	26	12955	12958	あんた	フィラー？				1	0	0	1
+Texts	K005_006-luu-anno.txt	27	13676	13682	おばあちゃん	01　フィラー？				1	0	0	1
+Texts	K005_006-luu-anno.txt	28	14648	14654	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	29	15132	15138	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	30	15380	15386	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	31	15408	15414	おばあちゃん	01				1	0	0	1
+Texts	K005_006-luu-anno.txt	32	15460	15463	あたし					1	1	0	0
+Texts	K005_006-luu-anno.txt	33	15970	15976	おばあちゃん	01				1	0	1	0
+Texts	K005_006-luu-anno.txt	34	16538	16544	おばあちゃん	01				1	0	1	0

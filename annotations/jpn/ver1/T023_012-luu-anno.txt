@@ -1,0 +1,12 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T023_012-luu-anno.txt	1	745	748	わたし					1	1	0	0
+Texts	T023_012-luu-anno.txt	2	1705	1708	わたし					1	1	0	0
+Texts	T023_012-luu-anno.txt	9	2525	2527	うち					1	1	0	0
+Texts	T023_012-luu-anno.txt	4	2787	2790	わたし					1	1	0	0
+Texts	T023_012-luu-anno.txt	7	3201	3204	あたし					1	1	0	0
+Texts	T023_012-luu-anno.txt	5	4619	4623	お母さん	01? 03?				1	0	0	1
+Texts	T023_012-luu-anno.txt	6	4659	4664	智香)さん	引用(回想)				1	0	0	1
+Texts	T023_012-luu-anno.txt	8	4886	4896	智香)(L ちゃ:ん	引用(回想)				1	0	0	1
+Texts	T023_012-luu-anno.txt	3	5490	5492	二人	＝あなたたち（指田を含むため2nd?）				1	0	1	0
+Texts	T023_012-luu-anno.txt	10	7649	7650	俺					1	1	0	0
+Texts	T023_012-luu-anno.txt	11	7967	7968	僕					1	1	0	0

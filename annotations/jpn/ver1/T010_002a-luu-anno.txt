@@ -1,0 +1,38 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T010_002a-luu-anno.txt	1	344	346	お前					1	0	1	0
+Texts	T010_002a-luu-anno.txt	18	539	543	お母さん	01				1	0	1	0
+Texts	T010_002a-luu-anno.txt	2	666	668	お前					1	0	1	0
+Texts	T010_002a-luu-anno.txt	17	1141	1145	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	3	1330	1332	お前					1	0	1	0
+Texts	T010_002a-luu-anno.txt	4	1487	1488	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	5	3128	3129	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	6	4209	4212	あたし					1	1	0	0
+Texts	T010_002a-luu-anno.txt	7	4292	4293	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	8	4886	4887	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	9	4952	4955	あたし					1	1	0	0
+Texts	T010_002a-luu-anno.txt	10	4960	4962	お前					1	0	1	0
+Texts	T010_002a-luu-anno.txt	11	4994	4996	お前					1	0	1	0
+Texts	T010_002a-luu-anno.txt	12	5054	5055	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	13	5673	5674	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	14	6131	6133	俺ら					1	1	0	0
+Texts	T010_002a-luu-anno.txt	15	7095	7096	君					1	0	1	0
+Texts	T010_002a-luu-anno.txt	16	7303	7306	あたし					1	1	0	0
+Texts	T010_002a-luu-anno.txt	19	7396	7400	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	20	7419	7423	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	21	7641	7643	お前					1	0	1	0
+Texts	T010_002a-luu-anno.txt	22	7666	7667	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	23	7794	7795	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	24	7919	7920	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	25	8206	8207	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	26	8393	8396	あたし					1	1	0	0
+Texts	T010_002a-luu-anno.txt	27	8634	8636	自分					1	1	0	0
+Texts	T010_002a-luu-anno.txt	28	9492	9493	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	29	9532	9533	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	30	9891	9895	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	31	10000	10001	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	32	10492	10496	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	33	10941	10943	自分					1	1	0	0
+Texts	T010_002a-luu-anno.txt	34	12004	12008	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	35	12783	12787	お母さん	01				1	1	0	0
+Texts	T010_002a-luu-anno.txt	36	13299	13300	俺					1	1	0	0
+Texts	T010_002a-luu-anno.txt	37	14418	14421	こっち					1	1	0	0

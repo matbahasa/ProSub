@@ -1,0 +1,11 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K008_002-luu-anno.txt	1	44	46	久美					1	1	0	0
+Texts	K008_002-luu-anno.txt	2	140	144	お母さん	01				1	0	0	1
+Texts	K008_002-luu-anno.txt	3	291	295	お母さん	01				1	0	1	0
+Texts	K008_002-luu-anno.txt	4	457	461	お母さん	01				1	0	1	0
+Texts	K008_002-luu-anno.txt	5	571	575	お母さん	01				1	0	1	0
+Texts	K008_002-luu-anno.txt	6	600	604	あたくし					1	1	0	0
+Texts	K008_002-luu-anno.txt	7	1087	1097	お(W カ|(U 母	01 「お母さん」の言いかけ?				1	0	1	0
+Texts	K008_002-luu-anno.txt	8	1579	1583	お母さん	01				1	0	1	0
+Texts	K008_002-luu-anno.txt	9	2468	2470	久美					1	1	0	0
+Texts	K008_002-luu-anno.txt	10	2493	2496	あたし					1	1	0	0

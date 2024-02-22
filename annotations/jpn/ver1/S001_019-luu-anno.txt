@@ -1,0 +1,27 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	S001_019-luu-anno.txt	1	504	505	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	2	591	592	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	3	612	613	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	4	622	623	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	5	888	889	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	6	921	922	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	7	1010	1011	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	8	1066	1067	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	9	3565	3566	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	10	3583	3584	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	11	3973	3978	落合)さん					1	0	1	0
+Texts	S001_019-luu-anno.txt	12	4089	4090	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	13	4379	4380	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	14	4624	4625	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	15	4689	4690	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	16	5127	5132	落合)さん					1	0	1	0
+Texts	S001_019-luu-anno.txt	26	8311	8312	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	17	11306	11307	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	18	13276	13277	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	19	13738	13739	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	20	14026	14027	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	21	14885	14888	あたし					1	1	0	0
+Texts	S001_019-luu-anno.txt	25	14906	14907	俺					1	1	0	0
+Texts	S001_019-luu-anno.txt	22	14931	14935	僕)たち					1	1	0	0
+Texts	S001_019-luu-anno.txt	23	15884	15885	僕					1	1	0	0
+Texts	S001_019-luu-anno.txt	24	17272	17277	落合)さん					1	0	1	0

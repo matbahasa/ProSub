@@ -1,0 +1,39 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K006_021-luu-anno.txt	1	128	133	広子)さん					1	0	1	0
+Texts	K006_021-luu-anno.txt	2	1099	1102	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	3	1631	1634	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	4	1933	1936	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	5	8857	8860	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	6	10540	10543	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	7	13624	13625	僕					1	1	0	0
+Texts	K006_021-luu-anno.txt	8	14019	14021	先生	01の可能性が高い				1	0	1	0
+Texts	K006_021-luu-anno.txt	9	15406	15409	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	36	15855	15857	先生	01?				1	0	1	0
+Texts	K006_021-luu-anno.txt	10	22169	22174	軽部)さん					1	0	0	1
+Texts	K006_021-luu-anno.txt	11	27198	27203	広子)さん					1	0	1	0
+Texts	K006_021-luu-anno.txt	12	28579	28584	軽部)さん					1	0	1	0
+Texts	K006_021-luu-anno.txt	13	28721	28722	僕					1	1	0	0
+Texts	K006_021-luu-anno.txt	14	29010	29011	俺					1	1	0	0
+Texts	K006_021-luu-anno.txt	15	30535	30538	わたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	16	32602	32605	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	17	33795	33798	わたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	18	33875	33876	僕					1	1	0	0
+Texts	K006_021-luu-anno.txt	19	33877	33881	わたくし					1	1	0	0
+Texts	K006_021-luu-anno.txt	20	34929	34932	あんた					1	0	1	0
+Texts	K006_021-luu-anno.txt	21	34947	34950	あんた					1	0	1	0
+Texts	K006_021-luu-anno.txt	22	35111	35115	わたくし					1	1	0	0
+Texts	K006_021-luu-anno.txt	23	35728	35730	先生	01の可能性が高い				1	0	1	0
+Texts	K006_021-luu-anno.txt	24	35761	35764	わたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	25	36038	36043	広子)さん					1	0	1	0
+Texts	K006_021-luu-anno.txt	37	40780	40782	うち					1	1	0	0
+Texts	K006_021-luu-anno.txt	26	41124	41127	わたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	27	42988	42990	先生	01の可能性が高い				1	0	0	1
+Texts	K006_021-luu-anno.txt	28	47013	47016	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	29	47130	47133	わたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	38	47676	47679	わたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	30	47736	47739	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	31	47867	47872	広子)さん					1	0	1	0
+Texts	K006_021-luu-anno.txt	32	48005	48008	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	33	48678	48683	広子)さん					1	0	1	0
+Texts	K006_021-luu-anno.txt	34	48756	48759	あたし					1	1	0	0
+Texts	K006_021-luu-anno.txt	35	49030	49033	あたし					1	1	0	0

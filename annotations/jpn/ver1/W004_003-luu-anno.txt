@@ -1,0 +1,47 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	W004_003-luu-anno.txt	1	398	400	自分					1	1	0	0
+Texts	W004_003-luu-anno.txt	45	744	746	うち	引用				1	1	0	0
+Texts	W004_003-luu-anno.txt	2	823	824	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	3	1398	1400	沖田					1	0	1	0
+Texts	W004_003-luu-anno.txt	4	1651	1653	自分					1	0	1	0
+Texts	W004_003-luu-anno.txt	5	2000	2001	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	6	2680	2682	僕ら					1	1	0	0
+Texts	W004_003-luu-anno.txt	7	3220	3222	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	8	3228	3229	君					1	0	1	0
+Texts	W004_003-luu-anno.txt	9	3241	3242	君					1	0	1	0
+Texts	W004_003-luu-anno.txt	10	3263	3264	君					1	0	1	0
+Texts	W004_003-luu-anno.txt	11	4605	4608	こちら					1	1	0	0
+Texts	W004_003-luu-anno.txt	12	5210	5212	菅井					1	0	1	0
+Texts	W004_003-luu-anno.txt	13	5295	5298	わたし					1	1	0	0
+Texts	W004_003-luu-anno.txt	14	5300	5303	わたし					1	1	0	0
+Texts	W004_003-luu-anno.txt	15	6759	6762	こっち					1	1	0	0
+Texts	W004_003-luu-anno.txt	16	7903	7904	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	46	7933	7935	うち					1	1	0	0
+Texts	W004_003-luu-anno.txt	17	9270	9272	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	18	9317	9319	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	19	9368	9369	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	20	9553	9554	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	21	9705	9707	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	22	9873	9874	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	23	9903	9905	自分					1	1	0	0
+Texts	W004_003-luu-anno.txt	24	9920	9922	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	25	10390	10392	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	26	11001	11002	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	27	11184	11186	沖田					1	0	1	0
+Texts	W004_003-luu-anno.txt	28	11462	11464	自分					1	1	0	0
+Texts	W004_003-luu-anno.txt	29	12364	12366	沖田					1	0	1	0
+Texts	W004_003-luu-anno.txt	30	13321	13322	俺					1	1	0	0
+Texts	W004_003-luu-anno.txt	31	14369	14370	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	32	15467	15469	自分					1	1	0	0
+Texts	W004_003-luu-anno.txt	33	15829	15831	先生	02　引用				1	0	1	0
+Texts	W004_003-luu-anno.txt	34	16162	16163	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	35	16347	16349	菅井					1	0	1	0
+Texts	W004_003-luu-anno.txt	36	16356	16358	大原					1	0	1	0
+Texts	W004_003-luu-anno.txt	37	16371	16373	鹿田					1	0	1	0
+Texts	W004_003-luu-anno.txt	38	16532	16534	沖田					1	0	1	0
+Texts	W004_003-luu-anno.txt	39	16571	16573	沖田					1	0	1	0
+Texts	W004_003-luu-anno.txt	40	16815	16817	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	41	16830	16831	僕					1	1	0	0
+Texts	W004_003-luu-anno.txt	42	16902	16904	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	43	16909	16911	君ら					1	0	1	0
+Texts	W004_003-luu-anno.txt	44	17497	17502	菅井)さん					1	0	0	1

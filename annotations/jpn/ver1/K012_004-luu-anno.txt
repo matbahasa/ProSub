@@ -1,0 +1,172 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K012_004-luu-anno.txt	1	41	47	竹)ちゃ:ん					1	0	0	1
+Texts	K012_004-luu-anno.txt	2	60	63	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	3	200	205	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	4	228	235	横須賀)ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	5	334	339	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	6	354	359	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	7	513	518	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	8	560	561	竹					1	0	0	1
+Texts	K012_004-luu-anno.txt	9	618	623	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	10	946	948	パパ	03				1	1	0	0
+Texts	K012_004-luu-anno.txt	11	995	1000	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	12	1011	1016	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	13	1766	1771	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	14	1818	1823	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	15	1893	1898	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	16	3172	3177	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	17	3650	3655	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	18	3677	3682	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	19	3906	3911	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	21	4067	4070	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	20	4090	4092	パパ	03				1	1	0	0
+Texts	K012_004-luu-anno.txt	22	4298	4303	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	23	4426	4429	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	24	4773	4778	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	25	6695	6698	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	26	7385	7388	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	27	7795	7798	あたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	28	8203	8208	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	29	8234	8237	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	30	8576	8581	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	31	8740	8745	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	32	8788	8791	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	33	9226	9231	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	34	9296	9302	竹)ちゃ:ん					1	0	0	1
+Texts	K012_004-luu-anno.txt	35	9335	9340	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	36	9454	9457	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	37	9572	9575	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	38	9785	9787	パパ	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	39	11057	11060	あたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	40	11565	11570	ゆっ)くん	あだな？				1	0	1	0
+Texts	K012_004-luu-anno.txt	41	12181	12186	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	165	12850	12856	竹太郎)くん					1	0	0	1
+Texts	K012_004-luu-anno.txt	166	12897	12903	竹太郎)くん					1	0	0	1
+Texts	K012_004-luu-anno.txt	167	12917	12922	竹)ちゃん	竹太郎のあだ名				1	0	0	1
+Texts	K012_004-luu-anno.txt	42	16510	16515	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	43	16545	16548	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	44	17391	17396	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	45	17680	17685	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	46	18565	18572	横須賀)ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	47	18715	18718	はばあ	01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	0
+Texts	K012_004-luu-anno.txt	48	18795	18800	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	49	19035	19040	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	50	19060	19065	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	51	19180	19185	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	52	19437	19442	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	53	19463	19468	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	54	19469	19471	パパ	01				1	1	0	0
+Texts	K012_004-luu-anno.txt	55	19561	19564	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	56	19577	19580	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	57	19666	19668	パパ	01				1	1	0	0
+Texts	K012_004-luu-anno.txt	58	19693	19694	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	59	19840	19843	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	60	19865	19868	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	61	20062	20067	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	62	20654	20655	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	63	21089	21090	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	64	21132	21133	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	65	22562	22567	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	66	25956	25957	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	67	27090	27097	横須賀)ばあば	01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	68	27232	27239	横須賀)ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	69	27811	27816	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	70	29509	29514	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	71	29527	29529	パパ	03				1	1	0	0
+Texts	K012_004-luu-anno.txt	72	29815	29820	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	73	30101	30106	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	74	30206	30211	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	75	30466	30471	ゆっ)くん					1	0	0	1
+Texts	K012_004-luu-anno.txt	76	30536	30537	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	77	30630	30633	あたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	78	30638	30641	あたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	79	31139	31140	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	80	31307	31312	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	81	31564	31569	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	82	32765	32770	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	83	34208	34213	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	84	35276	35281	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	85	37077	37082	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	86	37584	37589	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	87	37602	37605	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	89	38477	38479	ババ	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	88	38480	38481	婆	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	90	38581	38584	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	91	38647	38650	ばあば	引用　01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	92	39010	39015	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	93	39123	39128	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	94	39160	39165	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	95	39198	39203	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	96	41105	41106	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	97	41149	41154	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	98	42116	42118	自分	引用				1	1	0	0
+Texts	K012_004-luu-anno.txt	99	43145	43150	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	100	43615	43620	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	101	44095	44098	ばあば	引用　01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	102	44362	44365	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	103	45474	45479	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	104	46201	46203	パパ	01				1	0	1	0
+Texts	K012_004-luu-anno.txt	106	46373	46375	ババ	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	105	46376	46377	婆	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	107	48237	48242	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	108	49283	49288	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	109	49449	49454	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	110	50081	50086	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	111	50281	50286	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	112	50774	50777	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	113	50822	50827	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	114	50863	50868	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	115	50878	50883	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	116	51245	51248	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	117	51841	51845	竹)ちん					1	0	0	1
+Texts	K012_004-luu-anno.txt	118	51876	51880	竹)ちん					1	0	0	1
+Texts	K012_004-luu-anno.txt	119	51894	51898	竹)ちん					1	0	0	1
+Texts	K012_004-luu-anno.txt	120	52096	52100	竹)ちん					1	0	0	1
+Texts	K012_004-luu-anno.txt	121	52362	52367	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	122	52685	52688	わたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	123	54386	54391	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	124	54552	54553	俺					1	1	0	0
+Texts	K012_004-luu-anno.txt	168	55482	55487	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	125	57092	57097	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	126	57420	57425	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	127	57969	57972	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	128	58023	58028	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	129	59259	59262	わたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	130	59337	59342	竹)ちゃん	他称？				1	0	1	0
+Texts	K012_004-luu-anno.txt	131	59354	59359	竹)ちゃん	他称？				1	0	1	0
+Texts	K012_004-luu-anno.txt	132	59374	59376	パパ	他称？　03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	1	0
+Texts	K012_004-luu-anno.txt	133	59462	59464	パパ	他称？　2ndなら03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	1	0
+Texts	K012_004-luu-anno.txt	134	59491	59493	パパ	他称？　2ndなら01				1	0	0	1
+Texts	K012_004-luu-anno.txt	135	59510	59512	パパ	他称？　2ndなら01				1	0	1	0
+Texts	K012_004-luu-anno.txt	136	59622	59627	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	137	60147	60150	あたし					1	1	0	0
+Texts	K012_004-luu-anno.txt	138	60178	60183	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	139	61332	61337	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	140	62164	62167	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	141	62471	62476	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	142	62663	62668	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	143	63216	63219	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	144	63313	63316	ばあば	01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	145	64600	64608	横須賀)ばあば:	01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	146	64636	64644	横須賀)ばあば:	01の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	147	64846	64851	竹)ちゃん					1	1	0	0
+Texts	K012_004-luu-anno.txt	148	64872	64877	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	149	66455	66462	横須賀)ばあば	013の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	0	0	1
+Texts	K012_004-luu-anno.txt	169	68180	68185	竹)ちゃん					1	0	1	0
+Texts	K012_004-luu-anno.txt	150	68517	68522	竹)ちゃん	他称？				1	0	1	0
+Texts	K012_004-luu-anno.txt	151	69253	69256	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	152	69969	69974	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	153	70040	70043	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	154	70050	70053	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	170	70120	70122	パパ	03				1	1	0	0
+Texts	K012_004-luu-anno.txt	171	70268	70270	パパ	01				1	0	1	0
+Texts	K012_004-luu-anno.txt	155	70296	70298	パパ	03				1	1	0	0
+Texts	K012_004-luu-anno.txt	156	70330	70332	パパ	03				1	1	0	0
+Texts	K012_004-luu-anno.txt	157	70391	70393	パパ	01				1	0	0	1
+Texts	K012_004-luu-anno.txt	158	70405	70408	ばあば	03の可能性が高い　志麻子が竹太郎の親戚でなければ04				1	1	0	0
+Texts	K012_004-luu-anno.txt	159	70429	70431	パパ	01				1	0	0	1
+Texts	K012_004-luu-anno.txt	160	70469	70474	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	161	70717	70722	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	162	70737	70742	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	163	70840	70845	竹)ちゃん					1	0	0	1
+Texts	K012_004-luu-anno.txt	164	70865	70870	竹)ちゃん					1	0	1	0

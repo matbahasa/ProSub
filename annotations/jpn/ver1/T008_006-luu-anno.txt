@@ -1,0 +1,28 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T008_006-luu-anno.txt	1	122	123	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	2	1256	1259	わたし					1	1	0	0
+Texts	T008_006-luu-anno.txt	3	1521	1522	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	11	2464	2466	個人					1	0	1	0
+Texts	T008_006-luu-anno.txt	4	2615	2617	自分					1	0	1	0
+Texts	T008_006-luu-anno.txt	5	3936	3938	先生	02				1	0	1	0
+Texts	T008_006-luu-anno.txt	6	4274	4278	お姉さん	02				1	0	0	1
+Texts	T008_006-luu-anno.txt	7	4563	4566	あたし					1	1	0	0
+Texts	T008_006-luu-anno.txt	8	4671	4676	阿川)さん					1	0	1	0
+Texts	T008_006-luu-anno.txt	9	4759	4762	あたし					1	1	0	0
+Texts	T008_006-luu-anno.txt	10	4979	4980	僕					1	1	0	0
+Texts	T008_006-luu-anno.txt	12	6357	6358	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	13	6886	6888	お前					1	0	1	0
+Texts	T008_006-luu-anno.txt	14	7408	7409	僕					1	1	0	0
+Texts	T008_006-luu-anno.txt	15	8008	8009	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	16	8690	8691	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	17	9068	9069	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	18	9307	9308	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	19	10049	10050	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	20	10250	10251	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	21	10840	10842	お前					1	0	1	0
+Texts	T008_006-luu-anno.txt	22	10905	10907	お前					1	0	1	0
+Texts	T008_006-luu-anno.txt	23	11023	11024	僕					1	1	0	0
+Texts	T008_006-luu-anno.txt	24	11311	11312	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	25	11986	11987	俺					1	1	0	0
+Texts	T008_006-luu-anno.txt	26	12706	12711	国井)さん					1	0	1	0
+Texts	T008_006-luu-anno.txt	27	12818	12819	俺					1	1	0	0

@@ -1,0 +1,14 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T004_006-luu-anno.txt	1	965	968	あたし					1	1	0	0
+Texts	T004_006-luu-anno.txt	2	1323	1325	自分					1	1	0	0
+Texts	T004_006-luu-anno.txt	3	1368	1370	自分					1	1	0	0
+Texts	T004_006-luu-anno.txt	4	1871	1874	あたし					1	1	0	0
+Texts	T004_006-luu-anno.txt	5	7992	7995	わたし					1	1	0	0
+Texts	T004_006-luu-anno.txt	6	11981	11985	自分たち					1	0	1	0
+Texts	T004_006-luu-anno.txt	7	13736	13741	あたしたち					1	1	0	0
+Texts	T004_006-luu-anno.txt	8	15049	15051	自分	引用				1	1	0	0
+Texts	T004_006-luu-anno.txt	9	15419	15421	自分	引用				1	1	0	0
+Texts	T004_006-luu-anno.txt	10	17898	17901	わたし					1	1	0	0
+Texts	T004_006-luu-anno.txt	11	17971	17974	あたし					1	1	0	0
+Texts	T004_006-luu-anno.txt	12	18072	18075	あなた	引用				1	0	1	0
+Texts	T004_006-luu-anno.txt	13	20487	20492	あたしたち					1	1	0	0

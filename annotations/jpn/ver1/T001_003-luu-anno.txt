@@ -1,0 +1,53 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T001_003-luu-anno.txt	1	664	667	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	2	3520	3523	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	4	4109	4111	自分					1	1	0	0
+Texts	T001_003-luu-anno.txt	3	4132	4134	自分					1	1	0	0
+Texts	T001_003-luu-anno.txt	5	5657	5661	林))君					1	0	1	0
+Texts	T001_003-luu-anno.txt	6	5677	5678	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	7	5735	5740	広瀬)さん					1	0	1	0
+Texts	T001_003-luu-anno.txt	8	6000	6001	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	9	6164	6166	自分					1	1	0	0
+Texts	T001_003-luu-anno.txt	10	6369	6374	広瀬)さん					1	0	1	0
+Texts	T001_003-luu-anno.txt	11	6611	6613	自分					1	1	0	0
+Texts	T001_003-luu-anno.txt	12	7005	7008	わたし	引用				1	1	0	0
+Texts	T001_003-luu-anno.txt	13	7024	7027	わたし	引用				1	1	0	0
+Texts	T001_003-luu-anno.txt	14	7268	7269	僕					1	1	0	0
+Texts	T001_003-luu-anno.txt	15	8463	8466	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	16	8542	8545	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	17	8999	9000	俺	引用				1	1	0	0
+Texts	T001_003-luu-anno.txt	18	9001	9002	俺	引用				1	1	0	0
+Texts	T001_003-luu-anno.txt	19	9833	9834	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	20	10919	10920	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	21	11050	11051	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	22	11457	11458	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	23	14014	14017	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	24	14386	14389	林)君					1	0	1	0
+Texts	T001_003-luu-anno.txt	25	16608	16611	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	26	17302	17306	林)さん	引用				1	0	0	1
+Texts	T001_003-luu-anno.txt	27	19513	19516	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	28	21323	21324	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	29	21424	21427	あたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	30	21865	21870	広瀬)さん					1	0	1	0
+Texts	T001_003-luu-anno.txt	31	22719	22720	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	32	23104	23107	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	33	23255	23256	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	34	23305	23308	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	35	24813	24819	広瀬))さん					1	0	1	0
+Texts	T001_003-luu-anno.txt	36	25302	25307	広瀬)さん					1	0	1	0
+Texts	T001_003-luu-anno.txt	37	27989	27991	自分					1	1	0	0
+Texts	T001_003-luu-anno.txt	38	28937	28941	林))君					1	0	1	0
+Texts	T001_003-luu-anno.txt	39	30021	30022	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	40	31347	31348	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	41	31555	31556	僕					1	1	0	0
+Texts	T001_003-luu-anno.txt	42	31805	31808	わたし	引用				1	1	0	0
+Texts	T001_003-luu-anno.txt	43	31946	31947	僕					1	1	0	0
+Texts	T001_003-luu-anno.txt	44	32833	32838	広瀬)さん					1	0	1	0
+Texts	T001_003-luu-anno.txt	45	35629	35632	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	46	35837	35838	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	47	35909	35912	わたし					1	1	0	0
+Texts	T001_003-luu-anno.txt	48	37008	37013	広瀬)さん					1	0	0	1
+Texts	T001_003-luu-anno.txt	49	37052	37053	俺					1	1	0	0
+Texts	T001_003-luu-anno.txt	50	39555	39557	お前	比喩？				1	0	1	0
+Texts	T001_003-luu-anno.txt	51	43223	43227	林))君					1	0	1	0
+Texts	T001_003-luu-anno.txt	52	43778	43783	わたしたち					1	1	0	0

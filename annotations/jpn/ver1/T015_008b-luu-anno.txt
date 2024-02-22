@@ -1,0 +1,13 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T015_008b-luu-anno.txt	1	289	290	俺					1	1	0	0
+Texts	T015_008b-luu-anno.txt	2	657	658	俺					1	1	0	0
+Texts	T015_008b-luu-anno.txt	3	805	806	俺					1	1	0	0
+Texts	T015_008b-luu-anno.txt	4	1829	1830	俺					1	1	0	0
+Texts	T015_008b-luu-anno.txt	6	2866	2871	太郎ちゃん					1	0	0	1
+Texts	T015_008b-luu-anno.txt	7	2881	2887	太郎ちゃ:ん					1	0	0	1
+Texts	T015_008b-luu-anno.txt	5	3139	3144	太郎ちゃん					1	0	1	0
+Texts	T015_008b-luu-anno.txt	12	3758	3761	おたく					1	0	1	0
+Texts	T015_008b-luu-anno.txt	8	4955	4956	俺					1	1	0	0
+Texts	T015_008b-luu-anno.txt	9	7157	7160	こっち	「こっち」は「私たち」の意味？				1	1	0	0
+Texts	T015_008b-luu-anno.txt	10	7218	7224	寺島))さん					1	0	0	1
+Texts	T015_008b-luu-anno.txt	11	8203	8206	みんな					1	1	0	0

@@ -1,0 +1,59 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	C001_013-luu-anno.txt	1	899	900	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	2	907	908	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	3	924	925	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	4	1262	1265	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	6	1743	1746	わたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	5	1759	1762	わたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	24	2727	2731	タッツー					1	0	1	0
+Texts	C001_013-luu-anno.txt	60	2910	2915	玲子)さん	引用				1	0	0	1
+Texts	C001_013-luu-anno.txt	7	3005	3008	わたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	8	3260	3263	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	9	3404	3407	わたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	10	6165	6169	自分たち					1	1	0	0
+Texts	C001_013-luu-anno.txt	11	6272	6274	自分					1	1	0	0
+Texts	C001_013-luu-anno.txt	25	7237	7238	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	15	7510	7512	自分					1	1	0	0
+Texts	C001_013-luu-anno.txt	26	7628	7629	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	16	7709	7710	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	27	7714	7719	玲子)さん					1	0	1	0
+Texts	C001_013-luu-anno.txt	28	8267	8268	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	29	8700	8705	辰嶋)さん	引用				1	0	0	1
+Texts	C001_013-luu-anno.txt	18	9155	9156	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	19	9171	9176	玲子)さん					1	0	1	0
+Texts	C001_013-luu-anno.txt	20	9386	9388	我々					1	1	0	0
+Texts	C001_013-luu-anno.txt	21	9401	9403	我々					1	1	0	0
+Texts	C001_013-luu-anno.txt	22	9405	9406	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	23	10971	10976	玲子)さん					1	0	1	0
+Texts	C001_013-luu-anno.txt	30	12836	12839	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	31	13102	13105	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	12	13391	13394	わたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	32	14392	14397	わたしたち					1	1	0	0
+Texts	C001_013-luu-anno.txt	33	15102	15103	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	34	15890	15891	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	35	16589	16592	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	36	16824	16829	玲子)さん					1	0	1	0
+Texts	C001_013-luu-anno.txt	37	17359	17364	玲子)さん					1	0	1	0
+Texts	C001_013-luu-anno.txt	38	17382	17387	玲子)さん					1	0	0	1
+Texts	C001_013-luu-anno.txt	39	17391	17396	玲子)さん					1	0	0	1
+Texts	C001_013-luu-anno.txt	40	17403	17409	玲子))さん					1	0	0	1
+Texts	C001_013-luu-anno.txt	41	17416	17422	玲子))さん					1	0	0	1
+Texts	C001_013-luu-anno.txt	42	17713	17716	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	43	17764	17765	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	44	17926	17929	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	45	18100	18101	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	46	18995	19000	玲子)さん					1	0	1	0
+Texts	C001_013-luu-anno.txt	47	19652	19653	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	48	19946	19947	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	49	20096	20099	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	50	20574	20575	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	51	20678	20679	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	52	20887	20888	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	53	21490	21491	僕					1	1	0	0
+Texts	C001_013-luu-anno.txt	54	22848	22850	パパ	03 引用				1	1	0	0
+Texts	C001_013-luu-anno.txt	59	22917	22919	自分	引用				1	1	0	0
+Texts	C001_013-luu-anno.txt	55	23566	23569	あたし					1	1	0	0
+Texts	C001_013-luu-anno.txt	56	23594	23595	俺					1	1	0	0
+Texts	C001_013-luu-anno.txt	13	23698	23700	自分					1	1	0	0
+Texts	C001_013-luu-anno.txt	58	23986	23991	あたしたち					1	1	0	0
+Texts	C001_013-luu-anno.txt	14	27573	27575	うち					1	1	0	0

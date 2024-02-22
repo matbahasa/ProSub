@@ -1,0 +1,42 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T018_001-luu-anno.txt	1	1311	1314	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	2	1379	1382	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	3	1423	1426	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	4	2281	2283	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	5	2292	2294	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	6	2573	2575	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	7	4999	5002	あなた					1	0	1	0
+Texts	T018_001-luu-anno.txt	8	5502	5504	先生	01				1	0	1	0
+Texts	T018_001-luu-anno.txt	9	6124	6126	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	10	8290	8292	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	11	8451	8453	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	12	8964	8966	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	13	8982	8984	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	14	9731	9733	未羽					1	1	0	0
+Texts	T018_001-luu-anno.txt	15	9761	9763	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	16	10465	10467	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	17	10476	10478	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	18	11345	11348	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	19	11865	11867	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	20	12145	12150	瀬戸)さん	「瀬戸」が未羽の苗字である可能性を考慮				1	0	1	0
+Texts	T018_001-luu-anno.txt	21	13227	13229	うち					1	1	0	0
+Texts	T018_001-luu-anno.txt	22	13493	13496	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	23	13596	13599	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	24	13804	13807	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	25	14954	14956	先生	01				1	0	1	0
+Texts	T018_001-luu-anno.txt	26	16113	16115	先生	01				1	0	0	1
+Texts	T018_001-luu-anno.txt	27	17252	17254	先生	01				1	0	1	0
+Texts	T018_001-luu-anno.txt	28	17349	17352	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	29	17353	17355	自分					1	1	0	0
+Texts	T018_001-luu-anno.txt	30	17482	17484	先生	01				1	0	0	1
+Texts	T018_001-luu-anno.txt	31	18180	18182	お前					1	0	1	0
+Texts	T018_001-luu-anno.txt	32	18187	18188	俺					1	1	0	0
+Texts	T018_001-luu-anno.txt	33	18375	18378	ベリ子					1	0	0	1
+Texts	T018_001-luu-anno.txt	34	18379	18382	ベリ子					1	0	0	1
+Texts	T018_001-luu-anno.txt	35	18416	18419	ベリ子					1	0	0	1
+Texts	T018_001-luu-anno.txt	36	18489	18491	お前					1	0	1	0
+Texts	T018_001-luu-anno.txt	37	18497	18498	俺					1	1	0	0
+Texts	T018_001-luu-anno.txt	38	19600	19603	あたし					1	1	0	0
+Texts	T018_001-luu-anno.txt	39	21680	21693	根本))(Y センセ|先生	01				1	0	1	0
+Texts	T018_001-luu-anno.txt	40	21822	21824	先生	01				1	0	0	1
+Texts	T018_001-luu-anno.txt	41	23053	23055	うち					1	1	0	0

@@ -1,0 +1,72 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T004_010b-luu-anno.txt	1	963	966	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	2	1107	1110	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	3	1679	1682	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	4	2076	2079	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	5	2326	2329	わたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	6	4332	4335	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	7	4498	4501	姉さん	02(はるか？)				1	0	0	1
+Texts	T004_010b-luu-anno.txt	8	5616	5619	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	9	8912	8915	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	65	9309	9311	うち					1	1	0	0
+Texts	T004_010b-luu-anno.txt	10	9393	9396	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	66	9405	9407	うち					1	1	0	0
+Texts	T004_010b-luu-anno.txt	11	9881	9884	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	12	9963	9966	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	67	10241	10243	うち					1	1	0	0
+Texts	T004_010b-luu-anno.txt	13	11328	11331	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	14	11397	11403	八重)姉さん	02				1	0	0	1
+Texts	T004_010b-luu-anno.txt	15	11459	11462	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	16	11678	11681	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	68	11720	11723	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	17	12234	12237	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	18	12686	12689	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	19	12842	12845	わたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	20	12846	12849	わたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	69	13121	13124	みんな					1	0	1	0
+Texts	T004_010b-luu-anno.txt	21	13690	13693	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	22	14149	14155	八重)姉さん	02				1	0	1	0
+Texts	T004_010b-luu-anno.txt	23	14492	14498	八重)姉さん	02				1	0	1	0
+Texts	T004_010b-luu-anno.txt	24	14956	14959	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	25	14985	14988	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	26	15130	15135	あたしたち					1	1	0	0
+Texts	T004_010b-luu-anno.txt	27	15213	15216	姉さん	02				1	0	0	1
+Texts	T004_010b-luu-anno.txt	28	15456	15459	姉さん	02				1	0	0	1
+Texts	T004_010b-luu-anno.txt	29	15630	15633	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	30	15675	15678	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	31	16272	16275	わたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	32	16458	16461	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	33	16463	16466	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	34	16609	16614	中)ちゃん					1	0	1	0
+Texts	T004_010b-luu-anno.txt	35	17295	17298	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	36	17540	17543	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	37	17550	17553	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	38	17553	17555	自分					1	1	0	0
+Texts	T004_010b-luu-anno.txt	39	17863	17866	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	40	19354	19357	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	41	19364	19367	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	70	19706	19708	うち					1	1	0	0
+Texts	T004_010b-luu-anno.txt	42	20181	20184	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	43	20383	20386	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	44	20758	20761	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	45	20770	20772	先生	01 引用（回想）				1	0	0	1
+Texts	T004_010b-luu-anno.txt	46	21988	21991	わたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	47	22105	22112	ゆかり)ちゃん					1	0	1	0
+Texts	T004_010b-luu-anno.txt	48	22171	22174	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	49	22374	22377	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	50	23521	23526	中)ちゃん					1	0	1	0
+Texts	T004_010b-luu-anno.txt	51	23780	23783	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	52	23957	23960	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	53	24138	24141	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	54	25379	25382	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	55	25583	25588	中)ちゃん					1	0	1	0
+Texts	T004_010b-luu-anno.txt	56	25767	25770	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	57	25867	25870	みんな					1	0	1	0
+Texts	T004_010b-luu-anno.txt	58	26107	26110	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	59	26525	26528	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	71	26544	26546	うち					1	1	0	0
+Texts	T004_010b-luu-anno.txt	60	27044	27047	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	61	27248	27251	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	62	27253	27256	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	63	28247	28250	あたし					1	1	0	0
+Texts	T004_010b-luu-anno.txt	64	28419	28422	あたし					1	1	0	0

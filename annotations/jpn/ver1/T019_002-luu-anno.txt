@@ -1,0 +1,65 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T019_002-luu-anno.txt	1	61	63	パパ	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	2	126	129	パ%パ	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	3	303	305	兄々	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	4	315	317	兄々	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	5	701	706	麗央)くん					1	0	0	1
+Texts	T019_002-luu-anno.txt	6	857	859	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	7	977	982	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	8	1897	1900	わたし					1	1	0	0
+Texts	T019_002-luu-anno.txt	9	2954	2956	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	10	5212	5214	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	11	5333	5334	俺					1	1	0	0
+Texts	T019_002-luu-anno.txt	12	5599	5601	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	13	5745	5747	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	14	6078	6083	お兄ちゃん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	15	6102	6104	おら					1	1	0	0
+Texts	T019_002-luu-anno.txt	16	7487	7489	うち					1	1	0	0
+Texts	T019_002-luu-anno.txt	17	8096	8098	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	18	8209	8214	お兄ちゃん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	19	8498	8505	お兄:ちゃ:ん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	20	8684	8692	お:兄:ちゃ:ん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	21	8747	8752	お兄ちゃん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	22	9036	9042	お兄ちゃ:ん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	23	9648	9654	お:兄ちゃん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	24	9785	9787	パパ	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	25	9957	9962	お兄ちゃん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	26	10028	10032	お兄たん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	27	10067	10069	ママ	03				1	1	0	0
+Texts	T019_002-luu-anno.txt	28	10138	10142	お兄たん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	29	10454	10455	俺					1	1	0	0
+Texts	T019_002-luu-anno.txt	30	10541	10554	お(K ニ:イ:|兄)たん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	31	10669	10671	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	32	10683	10685	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	33	11038	11042	お兄たん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	34	11113	11117	お兄たん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	35	11182	11187	お兄ちゃん	03				1	0	0	1
+Texts	T019_002-luu-anno.txt	36	12191	12192	俺					1	1	0	0
+Texts	T019_002-luu-anno.txt	37	12697	12702	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	38	12950	12955	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	39	13048	13053	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	40	13121	13123	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	41	13370	13376	お兄:ちゃん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	42	13576	13582	お兄ちゃ:ん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	43	13930	13935	お:兄たん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	44	13977	13979	晴哉					1	0	1	0
+Texts	T019_002-luu-anno.txt	62	14169	14171	パパ	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	46	14202	14207	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	45	14294	14296	パパ	03				1	1	0	0
+Texts	T019_002-luu-anno.txt	63	14308	14310	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	47	14503	14505	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	48	14815	14817	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	64	15329	15331	麗央					1	0	1	0
+Texts	T019_002-luu-anno.txt	49	15396	15399	わたし					1	1	0	0
+Texts	T019_002-luu-anno.txt	50	15478	15484	お兄ちゃ:ん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	51	15867	15872	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	52	16473	16477	自分たち					1	0	1	0
+Texts	T019_002-luu-anno.txt	55	16928	16932	お兄たん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	53	16986	16991	麗央)たち					1	0	1	0
+Texts	T019_002-luu-anno.txt	54	17004	17006	パパ	03				1	1	0	0
+Texts	T019_002-luu-anno.txt	56	17690	17695	お兄ちゃん	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	57	18525	18530	お兄:たん	01				1	0	0	1
+Texts	T019_002-luu-anno.txt	58	22977	22978	俺					1	1	0	0
+Texts	T019_002-luu-anno.txt	59	24579	24581	麗央					1	1	0	0
+Texts	T019_002-luu-anno.txt	60	24583	24585	パパ	01				1	0	1	0
+Texts	T019_002-luu-anno.txt	61	24948	24953	麗央)くん					1	0	1	0

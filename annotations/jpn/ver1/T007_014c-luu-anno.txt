@@ -1,0 +1,26 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T007_014c-luu-anno.txt	1	228	232	お父さん	01				1	0	0	1
+Texts	T007_014c-luu-anno.txt	2	286	291	お%母さん	01				1	1	0	0
+Texts	T007_014c-luu-anno.txt	3	510	514	お父さん	01				1	0	1	0
+Texts	T007_014c-luu-anno.txt	4	905	909	お父さん	02				1	0	0	1
+Texts	T007_014c-luu-anno.txt	5	1369	1372	あたし					1	1	0	0
+Texts	T007_014c-luu-anno.txt	7	1434	1436	うち					1	1	0	0
+Texts	T007_014c-luu-anno.txt	6	1444	1447	わたし					1	1	0	0
+Texts	T007_014c-luu-anno.txt	8	1516	1520	お父さん	02				1	0	0	1
+Texts	T007_014c-luu-anno.txt	9	2131	2135	お父さん	01				1	0	1	0
+Texts	T007_014c-luu-anno.txt	10	2549	2553	お父さん	02				1	0	1	0
+Texts	T007_014c-luu-anno.txt	11	3316	3320	お母さん	01				1	0	1	0
+Texts	T007_014c-luu-anno.txt	12	3565	3569	お母さん	01				1	0	0	1
+Texts	T007_014c-luu-anno.txt	13	4358	4361	わたし					1	1	0	0
+Texts	T007_014c-luu-anno.txt	14	4798	4801	わたし					1	1	0	0
+Texts	T007_014c-luu-anno.txt	15	5155	5159	お父さん	03				1	0	1	0
+Texts	T007_014c-luu-anno.txt	16	5519	5522	あなた					1	0	0	1
+Texts	T007_014c-luu-anno.txt	17	6361	6365	お父さん	01				1	0	1	0
+Texts	T007_014c-luu-anno.txt	18	6908	6914	ゆう)ちゃん					1	0	1	0
+Texts	T007_014c-luu-anno.txt	19	7305	7309	お父さん	01				1	0	0	1
+Texts	T007_014c-luu-anno.txt	20	7865	7871	ゆう)ちゃん					1	0	1	0
+Texts	T007_014c-luu-anno.txt	21	8207	8213	ゆう)ちゃん					1	0	1	0
+Texts	T007_014c-luu-anno.txt	22	8287	8293	ゆう)ちゃん					1	0	1	0
+Texts	T007_014c-luu-anno.txt	23	9200	9203	あんた					1	0	1	0
+Texts	T007_014c-luu-anno.txt	24	9400	9406	ゆう)ちゃん					1	0	1	0
+Texts	T007_014c-luu-anno.txt	25	9519	9522	あたし					1	1	0	0

@@ -1,0 +1,32 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	T003_019-luu-anno.txt	1	31	32	俺					1	1	0	0
+Texts	T003_019-luu-anno.txt	2	83	85	パパ	01				1	0	0	1
+Texts	T003_019-luu-anno.txt	3	209	218	やっ)(W ク|君	あだ名？				1	0	0	1
+Texts	T003_019-luu-anno.txt	4	589	593	やっ)君	あだ名？				1	0	0	1
+Texts	T003_019-luu-anno.txt	5	624	626	拓人					1	0	1	0
+Texts	T003_019-luu-anno.txt	6	649	651	拓人					1	0	1	0
+Texts	T003_019-luu-anno.txt	7	697	701	やっ)君					1	1	0	0
+Texts	T003_019-luu-anno.txt	8	726	728	大和					1	0	1	0
+Texts	T003_019-luu-anno.txt	9	774	776	拓人					1	0	1	0
+Texts	T003_019-luu-anno.txt	10	800	802	拓人					1	0	0	1
+Texts	T003_019-luu-anno.txt	11	815	819	やっ)君					1	1	0	0
+Texts	T003_019-luu-anno.txt	12	838	840	拓人					1	0	1	0
+Texts	T003_019-luu-anno.txt	13	918	922	やっ)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	14	1089	1093	やっ)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	15	1181	1185	やっ)君					1	1	0	0
+Texts	T003_019-luu-anno.txt	16	1235	1239	やっ)君					1	1	0	0
+Texts	T003_019-luu-anno.txt	17	1255	1259	やっ)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	18	1311	1315	やっ)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	19	1423	1427	やっ)君	他称？				1	0	1	0
+Texts	T003_019-luu-anno.txt	20	1528	1532	やっ)君					1	1	0	0
+Texts	T003_019-luu-anno.txt	21	1663	1674	やっ)(K ク:ン|君					1	0	0	1
+Texts	T003_019-luu-anno.txt	22	1807	1810	あんた					1	0	1	0
+Texts	T003_019-luu-anno.txt	23	2132	2136	やっ)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	24	2695	2698	拓)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	25	2795	2797	お前					1	0	0	1
+Texts	T003_019-luu-anno.txt	26	2876	2879	拓)君					1	0	1	0
+Texts	T003_019-luu-anno.txt	27	3049	3050	俺					1	1	0	0
+Texts	T003_019-luu-anno.txt	28	3071	3075	やっ)君					1	0	0	1
+Texts	T003_019-luu-anno.txt	29	3102	3104	拓人					1	0	0	1
+Texts	T003_019-luu-anno.txt	30	3193	3196	拓)君					1	0	1	0
+Texts	T003_019-luu-anno.txt	31	3200	3204	やっ)君					1	0	1	0

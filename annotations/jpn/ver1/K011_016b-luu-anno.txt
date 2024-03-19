@@ -1,0 +1,25 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	K011_016b-luu-anno.txt	1	52	59	美代子)ちゃん					1	0	0	1
+Texts	K011_016b-luu-anno.txt	2	829	832	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	3	1278	1281	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	4	3304	3307	あんた					1	0	1	0
+Texts	K011_016b-luu-anno.txt	5	3311	3314	あんた					1	0	1	0
+Texts	K011_016b-luu-anno.txt	6	4144	4147	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	7	4342	4345	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	8	4426	4429	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	9	5797	5800	奥さん	02				1	0	1	0
+Texts	K011_016b-luu-anno.txt	10	5971	5974	あんた					1	0	1	0
+Texts	K011_016b-luu-anno.txt	11	5994	5997	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	12	8762	8765	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	13	10614	10617	わたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	14	16232	16235	あんた					1	0	0	1
+Texts	K011_016b-luu-anno.txt	15	16426	16429	あんた					1	0	0	1
+Texts	K011_016b-luu-anno.txt	16	16586	16591	わたしたち					1	1	0	0
+Texts	K011_016b-luu-anno.txt	17	17983	17986	わたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	18	19608	19611	あんた					1	0	0	1
+Texts	K011_016b-luu-anno.txt	19	23352	23355	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	20	23388	23391	あんた					1	0	1	0
+Texts	K011_016b-luu-anno.txt	21	23948	23951	あんた					1	0	0	1
+Texts	K011_016b-luu-anno.txt	22	24871	24874	わたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	23	24968	24971	あたし					1	1	0	0
+Texts	K011_016b-luu-anno.txt	24	25196	25199	わたし					1	1	0	0

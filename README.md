@@ -44,8 +44,10 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
 
 ## Contents
 - `common_questionnaire.tsv` A common questionnaire for investigating pronoun substitutes and address terms
-- `data_all_v1.0.tsv` Data in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the tag-separated format.  English translations are not complete.  Ensure that the encoding is set as UTF-8 when you open the file with MS Excel.
-- `data_all_v1.0.json` Data in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the json format.  English translations are not complete.
+- `data_all_v1.0.tsv` Initial data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the tag-separated format.  English translations are not complete.  Ensure that the encoding is set as UTF-8 when you open the file with MS Excel.
+- `data_all_v1.0.json` Initial data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the json format.  English translations are not complete.
+- `data_all_v2.0.tsv` Revised data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the tag-separated format.  Ensure that the encoding is set as UTF-8 when you open the file with MS Excel.
+- `data_all_v2.0.json` Revised data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the json format.
 
 ## Format
 ### common_questionnaire.tsv
@@ -54,10 +56,10 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
 The semantic categories are based on the [feature system](https://github.com/matbahasa/TALPCo/blob/master/features.pdf) proposed by:  
 Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo)](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/D4-4.pdf).  _Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing_, 846-849.
 
-### data_all_v1.0.tsv
+### data_all_v1.0.tsv, data_all_v2.0.tsv
 `language code [TAB] concept ID [TAB] concept (Japanese) [TAB] concept (English) [TAB] semantic category [TAB] expression [TAB] Japanese translation of expression [TAB] English translation of expression [TAB] function [TAB] judgement [TAB] example [TAB] Japanese translation of example [TAB] English translation of example [TAB] source [TAB] notes`
 
-### data_all_v1.0.json
+### data_all_v1.0.json, data_all_v2.0.json
 ```json
 {
      "language code": {

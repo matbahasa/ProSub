@@ -48,7 +48,7 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
 - `data_all_v1.0.json` Initial data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the json format.  English translations are not complete.
 - `data_all_v2.0.tsv` Revised data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the tag-separated format.  Ensure that the encoding is set as UTF-8 when you open the file with MS Excel.
 - `data_all_v2.0.json` Revised data based on the common questionnaire in Japanese, Korean, Indonesian, Malay, Javanese, Thai, Vietnamese and Thai in the json format.
-- `full_data.json` Full data collected by the project, which includes not only the data based on the common questionnaire but also data from other sources.
+- `full_data.json` Full data collected by the project, which includes not only the data based on the common questionnaire but also the data from other sources.
 
 ## Format
 ### common_questionnaire.tsv
@@ -217,7 +217,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 }
 ```
 
-The values of the meaning features are as in the table below.  The absence of the feature means that the relevant feature is unspecified (or the creator did not provide the information).
+The values of the meaning features are as in the table below.  The absence of a feature means that the relevant feature is unspecified (or the creator did not provide the information).
 
 | Feature | Values |
 |---------|--------|

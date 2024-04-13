@@ -1,0 +1,16 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address	1.chuumokuyoukyuu	2.chinjyutsu	3.shikou	4.ishi	5.ganbou	6.kouiyoukyuu	7.teian	8.shitsumon	9.outouchinjyutsu	10.doui	11.fudoui	12.hyouka	13.kansha	14.kanjyou	15.hairyo	16.jyoudan	17.sonota	1.1_nashi	1.2_chinjyutsu	1.3_shikou	1.4_ishi	1.5_ganbou	1.6_kouiyoukyuu	1.7_teian	1.8_shitsumon	1.9_outouchinjyutsu	1.10_doui	1.11_fudoui	1.12_hyouka	1.13_kansha	1.14_kanjyou	1.15_hairyo	1.16_jyoudan	1.17_sonota
+Texts	W004_009-luu-anno.txt	5	2823	2829	とも)ちゃん					1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	6	3885	3886	僕					1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	7	4458	4463	間島)さん					1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	8	5208	5212	わ:たし	「わたしも銃殺(される)じゃない」？				1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	9	5575	5576	僕					1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	12	6468	6471	わたし	「私は～したつもりだった」				1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	13	6889	6892	わたし					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	14	8638	8639	僕	「僕が言ってはいけないよね」という独り言で、「いけない」が思考				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	15	9743	9745	大原					1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	16	10248	10250	菅井					1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	17	11025	11028	あたし	515と合わせて「私は～と言うつもりだ」で意思				1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	18	11402	11404	菅井					1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	19	11938	11939	僕					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	20	12046	12048	君ら					1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_009-luu-anno.txt	21	12790	12791	僕	僕はいつも全員に対して同じようにやっているわけじゃないという意味である可能性				1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

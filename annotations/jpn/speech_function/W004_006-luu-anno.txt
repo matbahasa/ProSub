@@ -1,0 +1,19 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address	1.chuumokuyoukyuu	2.chinjyutsu	3.shikou	4.ishi	5.ganbou	6.kouiyoukyuu	7.teian	8.shitsumon	9.outouchinjyutsu	10.doui	11.fudoui	12.hyouka	13.kansha	14.kanjyou	15.hairyo	16.jyoudan	17.sonota	1.1_nashi	1.2_chinjyutsu	1.3_shikou	1.4_ishi	1.5_ganbou	1.6_kouiyoukyuu	1.7_teian	1.8_shitsumon	1.9_outouchinjyutsu	1.10_doui	1.11_fudoui	1.12_hyouka	1.13_kansha	1.14_kanjyou	1.15_hairyo	1.16_jyoudan	1.17_sonota
+Texts	W004_006-luu-anno.txt	1	505	508	うちら	「うちらは信者ばかりだ」				1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	2	1478	1480	君ら					1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	3	2503	2505	菅井					1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	4	2581	2583	菅井					1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	5	3986	3988	沖田					1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	6	4431	4433	先生	02				1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	8	5869	5874	わたし自身					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	9	6548	6551	あたし	335 336に対する応答				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	10	6593	6596	あたし	335 336に対する応答				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	11	7394	7397	わたし					1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	12	7613	7616	皆さん					1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	14	9260	9263	あたし	477 478 (480)に対する応答				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	15	9278	9281	あたし	477 478 (480)に対する応答				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	16	9297	9300	あたし	477 478 (480)に対する応答				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	17	9311	9314	あたし	477 478 (480)に対する応答				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	22	10289	10291	菅井	直接引用なら他称だから対象外だが、おそらく間接引用(あなたに置き換えられる)なので2nd
+＋「(もし)菅井が～～ていたら、(菅井は)歌っているだろう」という推測で思考				1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	W004_006-luu-anno.txt	24	12336	12338	お前	急に菅井に対して当てたのでaddress、「こら」があることから、「ちゃんと聞け」という要求だと判断				1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0

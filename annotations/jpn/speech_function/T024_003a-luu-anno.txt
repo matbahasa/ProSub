@@ -1,0 +1,21 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address	1.chuumokuyoukyuu	2.chinjyutsu	3.shikou	4.ishi	5.ganbou	6.kouiyoukyuu	7.teian	8.shitsumon	9.outouchinjyutsu	10.doui	11.fudoui	12.hyouka	13.kansha	14.kanjyou	15.hairyo	16.jyoudan	17.sonota	1.1_nashi	1.2_chinjyutsu	1.3_shikou	1.4_ishi	1.5_ganbou	1.6_kouiyoukyuu	1.7_teian	1.8_shitsumon	1.9_outouchinjyutsu	1.10_doui	1.11_fudoui	1.12_hyouka	1.13_kansha	1.14_kanjyou	1.15_hairyo	1.16_jyoudan	1.17_sonota
+Texts	T024_003a-luu-anno.txt	1	2789	2792	あたし	154に対して				1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	2	3140	3143	あたし					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	3	3166	3170	竜)くん					1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	4	3218	3219	俺	183に対して				1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	5	3524	3527	あたし					1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	7	7018	7019	僕	引用　子供視点で				1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	8	8187	8191	秀)くん					1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	10	8537	8540	あたし					1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	11	8895	8900	秀)ちゃん					1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	12	9157	9160	あたし					1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	13	9515	9518	あたし					1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	14	9976	9982	絵美)ちゃん					1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	22	10643	10646	みんな	or 2nd(あなたたち)?				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	15	11645	11647	ママ	01				1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	16	13161	13164	あたし					1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	17	13461	13465	秀)くん					1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	18	13729	13732	あたし					1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	19	14372	14374	秀人					1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	20	15113	15116	あたし					1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T024_003a-luu-anno.txt	21	16058	16061	あたし					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

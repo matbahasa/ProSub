@@ -10,6 +10,8 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
   谷口龍子, 大久保弥, 野元裕樹, 南潤珍. 2022. [「代名詞代用・呼びかけ表現の多言語データセット」](https://www.ls-japan.org/modules/documents/LSJpapers/meeting/164/handouts/p/P-6_164.pdf).『日本言語学会第164回大会予稿集』, 307-313.
 - (Corpus annotations)  
   Nomoto, Hiroki, Ryuko Taniguchi, Shiori Nakamura, Yunjin Nam, Sri Budi Lestari, Sunisa Wittayapanyanon (Saito), Virach Sornlertlamvanich, Atsushi Kasuga, Kenji Okano and Thuzar Hlaing. 2023. [Pronoun substitute annotation in seven Asian languages](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P9-4.pdf). _Proceedings of the Twenty-Ninth Annual Meeting of the Association for Natural Language Processing_, 2242-2247.
+- (Speech function annotation in Japanese)  
+  中村栞, 梅田里菜, 谷口龍子. 2024.「発話機能の種類と自称詞・対称詞の明示化」東京外国語大学国際日本研究センター対照日本語学部門主催『外国語と日本語との対照言語学的研究』第40回研究会における発表論文.
 
 ```bib
 @InProceedings{OkanoEtAl22,
@@ -39,6 +41,14 @@ This repository contains resources developed by the JSPS KAKENHI project "A cros
     booktitle = {Proceedings of the Twenty-Ninth Annual Meeting of the {A}ssociation for {N}atural {L}anguage {P}rocessing},
     pages = {2242-2247},
     url = {https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P9-4.pdf}
+}
+
+@misc{NakamuraEtAl24,
+    author = {Nakamura, Shiori and Umeda, Rina and Taniguchi, Ryuko},
+    year = {2024},
+    title = {Hatsuwakinoo no shurui to jishooshi, taishooshi no meijika},
+    howpublished = {Paper presented at the 40th research seminar on "Contrastive Studies of Japanese and Other Languages", Contrastive Japanese Division, International Center for Japanese Studies, Tokyo University of Foreign Studies},
+    note = {Speech function types and the explict realization of speaker- and addressee-referring expressions}
 }
 ```
 

@@ -1,0 +1,10 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address	1.chuumokuyoukyuu	2.chinjyutsu	3.shikou	4.ishi	5.ganbou	6.kouiyoukyuu	7.teian	8.shitsumon	9.outouchinjyutsu	10.doui	11.fudoui	12.hyouka	13.kansha	14.kanjyou	15.hairyo	16.jyoudan	17.sonota	1.1_nashi	1.2_chinjyutsu	1.3_shikou	1.4_ishi	1.5_ganbou	1.6_kouiyoukyuu	1.7_teian	1.8_shitsumon	1.9_outouchinjyutsu	1.10_doui	1.11_fudoui	1.12_hyouka	1.13_kansha	1.14_kanjyou	1.15_hairyo	1.16_jyoudan	1.17_sonota
+Texts	T004_005a-luu-anno.txt	1	63	66	奥さん	他人の妻				1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	2	365	378	遠藤)(W カイショ|会長	おいてください、の意				1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	3	796	798	会長					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	4	1592	1595	あんた	引用				1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	5	1710	1713	あたし					1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	6	1754	1756	会長					1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	7	2177	2178	俺					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	8	2843	2845	自分					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T004_005a-luu-anno.txt	9	3247	3249	会長					1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,19 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address	1.chuumokuyoukyuu	2.chinjyutsu	3.shikou	4.ishi	5.ganbou	6.kouiyoukyuu	7.teian	8.shitsumon	9.outouchinjyutsu	10.doui	11.fudoui	12.hyouka	13.kansha	14.kanjyou	15.hairyo	16.jyoudan	17.sonota	1.1_nashi	1.2_chinjyutsu	1.3_shikou	1.4_ishi	1.5_ganbou	1.6_kouiyoukyuu	1.7_teian	1.8_shitsumon	1.9_outouchinjyutsu	1.10_doui	1.11_fudoui	1.12_hyouka	1.13_kansha	1.14_kanjyou	1.15_hairyo	1.16_jyoudan	1.17_sonota
+Texts	T023_008a-luu-anno.txt	2	936	937	僕					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	3	2374	2377	僕自身					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	5	4635	4636	僕					1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	6	4840	4841	僕					1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	7	5583	5584	僕					1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	9	6949	6950	僕	304に対して				1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	11	7499	7500	僕	主語が続くので「ひらいてみて」に着目				1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	14	8508	8509	僕					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	16	9021	9024	わたし	引用　自説の主張				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	17	9543	9544	僕					1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	20	12942	12943	僕	565に対して				1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	21	14547	14550	わたし	引用　言い訳				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	23	14764	14767	わたし	引用　言い訳				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	25	14913	14916	わたし	引用　言い訳				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	26	14933	14936	わたし	引用　言い訳				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	27	14962	14965	あたし	引用　言い訳				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	29	16643	16646	わたし					1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	T023_008a-luu-anno.txt	30	17389	17392	わたし	自説の主張				1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

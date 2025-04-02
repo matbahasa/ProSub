@@ -21,131 +21,153 @@ def ETA2doccano(summary):
                 labels = ""
                 if items[-33]:
                     words = items[-33].split(";")
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"1st"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"1st"')
+                        current_position = e
                 if items[-25]:
                     words = items[-25].split(";")
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"1st"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"1st"')
+                        current_position = e
                 if items[-23]:
                     words = items[-25].split(";")
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"1st"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"1st"')
+                        current_position = e
                 if items[-13]:
                     words = items[-25].split(";")
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"1st"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"1st"')
+                        current_position = e
                 if items[-7]:
                     words = items[-7].split(";")
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"1st"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"1st"')
+                        current_position = e
                 if items[-31]:
                     words = items[-31].split(";")
 #                    print(words)
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"2nd"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"2nd"')
+                        current_position = e
                 if items[-21]:
                     words = items[-21].split(";")
 #                    print(words)
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"2nd"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"2nd"')
+                        current_position = e
                 if items[-19]:
                     words = items[-19].split(";")
 #                    print(words)
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"2nd"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"2nd"')
+                        current_position = e
                 if items[-11]:
                     words = items[-11].split(";")
 #                    print(words)
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"2nd"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"2nd"')
+                        current_position = e
                 if items[-5]:
                     words = items[-5].split(";")
 #                    print(words)
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"2nd"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"2nd"')
+                        current_position = e
                 if items[-27]:
                     words = items[-27].split(";")
 #                    print(words)
+                    current_position = 0 #where in the text to start searching from
                     for w in words:
                         if "【" in w: #exclude comments
                             w = w[:w.index("【")]
-                        s = text.index(w)
+                        s = text[current_position:].index(w) + current_position
                         e = s + len(w)
                         if labels:
                             labels += ",[{},{},{}]".format(str(s),str(e),'"address"')
                         else:
                             labels += "[{},{},{}]".format(str(s),str(e),'"address"')
+                        current_position = e
                 text = text.replace("\t","\\t")
                 string = '{"id":'+str(count)+',"text":"'+text+'","label":['+labels+']}'
                 json.append(string)

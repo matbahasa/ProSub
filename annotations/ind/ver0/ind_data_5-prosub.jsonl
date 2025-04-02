@@ -52,7 +52,7 @@
 {"id":51,"text":"52\tRully\tKan gak ada Cika di sini. Kalo ada Cika se-angkatan.","label":[]}
 {"id":52,"text":"53\tDessy\tMbak... mbak... mbak Acur aja masi ini kok... Orang cuma beda setaun... dua taun sama Cika","label":[]}
 {"id":53,"text":"54\tRully\tDua taun ya? @@@","label":[]}
-{"id":54,"text":"55\tDessy\tGua kan masi beda dua taun sama Cika? Gua biang gitu. @@@","label":[[9,12,"1st"],[9,12,"1st"]]}
+{"id":54,"text":"55\tDessy\tGua kan masi beda dua taun sama Cika? Gua biang gitu. @@@","label":[[9,12,"1st"],[47,50,"1st"]]}
 {"id":55,"text":"56\tDessy\tWaktu tau Cika umur berapa gitu kan, ooh cuma beda dua taun? Waktu cepet banget. @@@ Tampak, bener-bener ekspresinya tuh cepet banget jawabnya. Ya... masuk!","label":[]}
 {"id":56,"text":"57\tDessy\tCuma emang Lampung ini banget sih ya... apa namanya? Orangnya cukup variatif.","label":[]}
 {"id":57,"text":"58\tEcha\tKayak Taman Mininya Indonesia.","label":[]}
@@ -120,7 +120,7 @@
 {"id":119,"text":"120\tEcha\tEh di sana sendiri ya?","label":[]}
 {"id":120,"text":"121\tGocheng\tIf you want to improve your understanding, artinya kamu gabakalan ngerti.","label":[[63,67,"2nd"]]}
 {"id":121,"text":"122\tDessy\tArtinya sama aja lo jangan makan sabun.","label":[[27,29,"2nd"]]}
-{"id":122,"text":"123\tRully\tJadi dia gak ngomong jangan malem-malem, waktu saya bilang mau main "jangan malem-malem".","label":[[57,61,"1st"]]}
+{"id":122,"text":"123\tRully\tJadi dia gak ngomong jangan malem-malem, waktu saya bilang mau main \"jangan malem-malem\".","label":[[57,61,"1st"]]}
 {"id":123,"text":"124\tEcha\tKalo enggak keluarnya di atas jam 9.","label":[]}
 {"id":124,"text":"125\tRully\tHe'eh.","label":[]}
 {"id":125,"text":"126\tEcha\tSore.","label":[]}
@@ -211,7 +211,7 @@
 {"id":210,"text":"211\tEcha\tBuat apa sih kayak gini ni?? Buat apa?","label":[]}
 {"id":211,"text":"212\tTari\tBuat ###","label":[]}
 {"id":212,"text":"213\tDessy\tSekolah lagi atau kerjaan?","label":[]}
-{"id":213,"text":"214\tTari\tKerjaan ini. Di sana kan penilaiannya berdasarkan hasil karya gitu loh. Kalo kita misalnya mau apply job, kita harus kasih, kita udah nulis apa aja.","label":[[86,90,"1st"],[86,90,"1st"],[86,90,"1st"]]}
+{"id":213,"text":"214\tTari\tKerjaan ini. Di sana kan penilaiannya berdasarkan hasil karya gitu loh. Kalo kita misalnya mau apply job, kita harus kasih, kita udah nulis apa aja.","label":[[86,90,"1st"],[115,119,"1st"],[133,137,"1st"]]}
 {"id":214,"text":"215\tDessy\tHmm.","label":[]}
 {"id":215,"text":"216\tTari\tJadi harus tetep, berkarya. @@@","label":[]}
 {"id":216,"text":"217\tDessy\tYang tadi itu?","label":[]}
@@ -230,7 +230,7 @@
 {"id":229,"text":"230\tDessy\tGimana caranyaa.. Kontak balik @@@","label":[]}
 {"id":230,"text":"231\tTari\t0817786919 yah.","label":[]}
 {"id":231,"text":"232\tDessy\tHongkong bahasanya gak kayak gini.","label":[]}
-{"id":232,"text":"233\tEcha\t"Ini ngomong opo toh iki"","label":[]}
+{"id":232,"text":"233\tEcha\t\"Ini ngomong opo toh iki\"","label":[]}
 {"id":233,"text":"234\tDessy\t@@@","label":[]}
 {"id":234,"text":"235\tTari\tPak gak coba ngomong ini @@@","label":[[9,12,"address"]]}
 {"id":235,"text":"236\tDessy\tAduuhhhh.","label":[]}
@@ -286,7 +286,7 @@
 {"id":285,"text":"286\tDessy\t3 kali.","label":[]}
 {"id":286,"text":"287\tRully\tJadi gausah di masuk yang ke dua dan ketiga kalinya.","label":[]}
 {"id":287,"text":"288\tEcha\tYang kedua gausah dimasukin lagi ###","label":[]}
-{"id":288,"text":"289\tDessy\tSampe yang ketiga. Nanti kalau yang udah pakai tiga kali, mau pakai yang ke empat, nanti kabarin aku aja ya, nanti aku kasih promo card lagi. @@@","label":[[107,110,"1st"],[107,110,"1st"]]}
+{"id":288,"text":"289\tDessy\tSampe yang ketiga. Nanti kalau yang udah pakai tiga kali, mau pakai yang ke empat, nanti kabarin aku aja ya, nanti aku kasih promo card lagi. @@@","label":[[107,110,"1st"],[125,128,"1st"]]}
 {"id":289,"text":"290\tTari\tGak bisa de, dia harus bikin baru lagi.","label":[[18,20,"address"]]}
 {"id":290,"text":"291\tRully\tEh? Pake kartu lain gak bisa? Oh gak bisa.","label":[]}
 {"id":291,"text":"292\tDessy\tYaahh dia ngintip dong.","label":[]}
@@ -298,7 +298,7 @@
 {"id":297,"text":"298\tDessy\tHe, eh.","label":[]}
 {"id":298,"text":"299\tRully\t@@@","label":[]}
 {"id":299,"text":"300\tEcha\tIni aneh kamu, bisa gak nangkepin aku ikan. ###","label":[[43,46,"1st"],[18,22,"2nd"]]}
-{"id":300,"text":"301\tDessy\t### depan aku si Romi itu loh, jadi dia nengok gitu kebelakang "eh nomor ini dong". @@@ gak ngerti aku juga. "ya lu liat dong sebelah lu". Tulisannya Arab loh, gak ngerti. @@@ udah gilaa. ###","label":[[20,23,"1st"],[123,125,"2nd"]]}
+{"id":300,"text":"301\tDessy\t### depan aku si Romi itu loh, jadi dia nengok gitu kebelakang \"eh nomor ini dong\". @@@ gak ngerti aku juga. \"ya lu liat dong sebelah lu\". Tulisannya Arab loh, gak ngerti. @@@ udah gilaa. ###","label":[[20,23,"1st"],[123,125,"2nd"]]}
 {"id":301,"text":"302\tRully\t@@@","label":[]}
 {"id":302,"text":"303\tTari\tJadi ni maksud dia, aku tuh disuruh nyontekin sebelahku, jawabannya apa. Lah gua gak ngerti jawabannya, tulisannya Arab semua gitu @@@ ### busett.","label":[[29,32,"1st"],[86,89,"1st"]]}
 {"id":303,"text":"304\tDessy\tAnjrit.","label":[]}
@@ -484,7 +484,7 @@
 {"id":483,"text":"484\tDessy\tNgebacain iya, bacain atau ngebacain.","label":[]}
 {"id":484,"text":"485\tRully\tKalo bacain itu... kadang-kadang itu nanti rancu sama bacain Jawa itu loh, apa sih, kaya kita ngomongin bacain anak itu kayak, kalo misalnya kayak hari wetonnya ### suka bikin bacaan... Kalo mbacain itu yang itu artinya jadi bisa bacain itu..","label":[[99,103,"1st"]]}
 {"id":485,"text":"486\tEcha\tLagi baca... lagi mbacain, lagi mbacain anak.","label":[]}
-{"id":486,"text":"487\tDessy\tLagi mengapakah kamu, lagi ngapain kamu.. Gitu kan hehehe.","label":[[26,30,"2nd"],[26,30,"2nd"]]}
+{"id":486,"text":"487\tDessy\tLagi mengapakah kamu, lagi ngapain kamu.. Gitu kan hehehe.","label":[[26,30,"2nd"],[45,49,"2nd"]]}
 {"id":487,"text":"488\tEcha\tSekarang lebih...","label":[]}
 {"id":488,"text":"489\tTari\tApa yang sedang kamu lakukan gitu, kita gak pernah ngomong yaa... Ngapain ya.. Lagi ngapain?","label":[[44,48,"1st"],[25,29,"2nd"]]}
 {"id":489,"text":"490\tDessy\tApa yang.....","label":[]}
@@ -511,7 +511,7 @@
 {"id":510,"text":"511\tDessy\tTapi perasaan banyak juga kan belajar di sini ###","label":[]}
 {"id":511,"text":"512\tEcha\tHarus ini sih, yaa jangan banyak bertanya, yaa dinikmati aja, dipakai sesuai yang didenger.","label":[]}
 {"id":512,"text":"513\tTari\tKalo baku.. Terlalu baku itu.","label":[]}
-{"id":513,"text":"514\tDessy\tTapi ada loh, temen ku anak UI itu ngomongnya bener-bener baku "kamu kenapa jangan menangis" gitu, maksudnya mungkin supaya, kayak kita di jalan bahasa yang enak gitu ya, misalnya ngomong ke anak itu, bahasa yang bener.","label":[[141,145,"1st"],[74,78,"2nd"]]}
+{"id":513,"text":"514\tDessy\tTapi ada loh, temen ku anak UI itu ngomongnya bener-bener baku \"kamu kenapa jangan menangis\" gitu, maksudnya mungkin supaya, kayak kita di jalan bahasa yang enak gitu ya, misalnya ngomong ke anak itu, bahasa yang bener.","label":[[141,145,"1st"],[74,78,"2nd"]]}
 {"id":514,"text":"515\tRully\tBiar dia berpikir itu santun gitu, tapi sebenernya santun kan tidak..","label":[]}
 {"id":515,"text":"516\tEcha\tDan terlalu formal, gak biasanya","label":[]}
 {"id":516,"text":"517\tDessy\tDan mungkin di sini juga..","label":[]}
@@ -546,12 +546,12 @@
 {"id":545,"text":"546\tEcha\tNgeri tapi.","label":[]}
 {"id":546,"text":"547\tDessy\tNgeri apa?","label":[]}
 {"id":547,"text":"548\tEcha\tKalo nganter-nganter penumpang gitu kan..","label":[]}
-{"id":548,"text":"549\tTari\tKan kita bisa milih, misalnya mau kita gak mau ambil...","label":[[13,17,"1st"],[13,17,"1st"]]}
+{"id":548,"text":"549\tTari\tKan kita bisa milih, misalnya mau kita gak mau ambil...","label":[[13,17,"1st"],[43,47,"1st"]]}
 {"id":549,"text":"550\tDessy\tCewe aja gituu ya?","label":[]}
 {"id":550,"text":"551\tRully\tTapi kayak dibandingkan supir taksi biasa, taksi-taksi apalagi taksi gelap gitu kan ada kan yang kayak bandara banyak.. Lebih aman ya, kan ada sistem penilaiannya, jadi gak berani aneh-aneh gitu.","label":[]}
 {"id":551,"text":"552\tEcha\tIya.","label":[]}
 {"id":552,"text":"553\tDessy\tDan itu kan jelas.. maksudnya legal kan, maksudnya ada kalo misalnya ada terjadi apa-apa gitu juga bisa contact ke grabnya atau gojeknya gitu-gitu kan.","label":[]}
-{"id":553,"text":"554\tEcha\tKemaren sempet dapet tuh yang bagus, maksudnya dia juga ngobrolnya enak tapi terakhir pas mau turun dia bilang "mbak nanti tolong bintang 5 ya" gitu.. Males dehh heheh.","label":[[121,125,"address"]]}
+{"id":553,"text":"554\tEcha\tKemaren sempet dapet tuh yang bagus, maksudnya dia juga ngobrolnya enak tapi terakhir pas mau turun dia bilang \"mbak nanti tolong bintang 5 ya\" gitu.. Males dehh heheh.","label":[[121,125,"address"]]}
 {"id":554,"text":"555\tTari\t@@@","label":[]}
 {"id":555,"text":"556\tDessy\tIyaaa..","label":[]}
 {"id":556,"text":"557\tRully\tKalo yang ngomong gitu mungkin gak aku kasih bintang 5.","label":[[45,48,"1st"]]}
@@ -672,7 +672,7 @@
 {"id":671,"text":"672\tDessy\tIya.","label":[]}
 {"id":672,"text":"673\tRully\tGak ada yang ngeliat?","label":[]}
 {"id":673,"text":"674\tEcha\tMatinya kan gak sakit, kereta kan kenceng-kenceng kalo di Jepang.","label":[]}
-{"id":674,"text":"675\tTari\tYang ngeliat juga kan udah gak bisa mencegah lagi.. Kadang-kadang kalau misalnya di perlintasan gitu, kalo di apa sih di peron gitu kan cepet banget dia, kan gak bisa dicegah. Kadang-kadang ada yang di perlintasan itu orangnya udah nunggu kan di situ.. Udah masang dirinya di situ, terus ada orang yang care gitu misalnya "jangan-jangan". Mau nolong, eh kasusnya dua-duanya kena. Dua-duanya ketabrak, jadi yang nolong juga ikut.","label":[]}
+{"id":674,"text":"675\tTari\tYang ngeliat juga kan udah gak bisa mencegah lagi.. Kadang-kadang kalau misalnya di perlintasan gitu, kalo di apa sih di peron gitu kan cepet banget dia, kan gak bisa dicegah. Kadang-kadang ada yang di perlintasan itu orangnya udah nunggu kan di situ.. Udah masang dirinya di situ, terus ada orang yang care gitu misalnya \"jangan-jangan\". Mau nolong, eh kasusnya dua-duanya kena. Dua-duanya ketabrak, jadi yang nolong juga ikut.","label":[]}
 {"id":675,"text":"676\tDessy\tKeretanya lambat matinya sakit loh.","label":[]}
 {"id":676,"text":"677\tRully\tIya kalo di situ kan.","label":[]}
 {"id":677,"text":"678\tEcha\t60 gerbong lagi kan.","label":[]}
@@ -718,7 +718,7 @@
 {"id":717,"text":"718\tEcha\tPake tali?","label":[]}
 {"id":718,"text":"719\tTari\t### ya orang emaknya kan jualan sayur di deket sekolahannya Rio... ada yang ngasih tau emaknya itu, cuman ngomongnya kecelakaan. Gitu ajaa ngomongnya, bukan gantung diri.","label":[]}
 {"id":719,"text":"720\tDessy\tIyalah.","label":[]}
-{"id":720,"text":"721\tRully\tBapaknya pulang hari itu dari Liwa, emang udah ngomong sebelumnya udah telfon-telfonan kan sama ibunya besok mau pulang "ini aku banyak nih panen gini-gini" emang punya kebon di sana. Ini buahnya lagi bagus gini-gini. Nah rencananya pengen pas bapaknya pulang itu anaknya mau jemput, siangnya, nah terus kan di jemput sama sodaranya, tapi gak diceritain sama sodaranya itu kalau anaknya udah kayak gitu di rumah. Kapan masuk deket rumah itu, ada bendera kuning, gitu. baru bapaknya ngeh, masuk rumah anaknya udah di taro di ruang tamu itu. bawa ayamlah, bawa inilah sayuran, ini-ini akhirnya di pakainya untuk masak-masak yasinan.","label":[]}
+{"id":720,"text":"721\tRully\tBapaknya pulang hari itu dari Liwa, emang udah ngomong sebelumnya udah telfon-telfonan kan sama ibunya besok mau pulang \"ini aku banyak nih panen gini-gini\" emang punya kebon di sana. Ini buahnya lagi bagus gini-gini. Nah rencananya pengen pas bapaknya pulang itu anaknya mau jemput, siangnya, nah terus kan di jemput sama sodaranya, tapi gak diceritain sama sodaranya itu kalau anaknya udah kayak gitu di rumah. Kapan masuk deket rumah itu, ada bendera kuning, gitu. baru bapaknya ngeh, masuk rumah anaknya udah di taro di ruang tamu itu. bawa ayamlah, bawa inilah sayuran, ini-ini akhirnya di pakainya untuk masak-masak yasinan.","label":[]}
 {"id":721,"text":"722\tEcha\tFirasat ya.","label":[]}
 {"id":722,"text":"723\tTari\tDia ada nulis-nulis juga orang-orang yang gak di sukain sama dia karena, karena ini itu gitu kan. Ada nama bapaknya juga di situ. Anaknya tuh diem banget, gak neko-neko enggak, bagus-bagus aja.","label":[]}
 {"id":723,"text":"724\tDessy\tDisimpen ama dia..","label":[]}
@@ -738,16 +738,16 @@
 {"id":737,"text":"738\tEcha\tGara-gara itu, putus cinta anak kecil.","label":[]}
 {"id":738,"text":"739\tTari\tYa Allah diputusin..","label":[]}
 {"id":739,"text":"740\tDessy\tKarena rumahnya deket situ.","label":[]}
-{"id":740,"text":"741\tRully\tGua liat facebooknya ampun gua bilang, orang kampung kaya gini kesel gua, masih SD, ceweknya anak SMP.","label":[[10,13,"1st"],[37,40,"1st"],[37,40,"1st"]]}
+{"id":740,"text":"741\tRully\tGua liat facebooknya ampun gua bilang, orang kampung kaya gini kesel gua, masih SD, ceweknya anak SMP.","label":[[10,13,"1st"],[37,40,"1st"],[79,82,"1st"]]}
 {"id":741,"text":"742\tEcha\tAstaga.","label":[]}
 {"id":742,"text":"743\tTari\tKakak gua cuman ###, ya lu mah gila ###, nanti emaknya gak terima ribut lagi gua bilang gitu kan, akhirnya sekarang handphonenya diambil ama bapak gua. Gua bilang bodolah urusan rumah.","label":[[15,18,"1st"],[161,164,"1st"],[33,35,"2nd"]]}
-{"id":743,"text":"744\tDessy\tOrang lagi TK aja ada temen-temennya yang ngomongin misalnya dia ama siapa tuh namanya, yang cewek itu. "eh Rio pacaran ya sama itu ya". Hah!! Apa pacaran-pacaran, masih TK pacaran-pacaran.","label":[]}
-{"id":744,"text":"745\tRully\tCeweknya SMP, ceweknya itu comment kan dia punya ###. Ibunya kan TWK, kakak gua sekali-sekali nengokin sama mbahnya kan dia, mereka mainan handphone di kamar. Makanya kata emak gua, ya ngomong aja ama emaknya, kalo selama ini gak boleh dibawa ke sini kan emaknya, sebenernya kan dari emaknya berangkat itu, kalo yang cewek.","label":[[86,89,"1st"],[86,89,"1st"]]}
+{"id":743,"text":"744\tDessy\tOrang lagi TK aja ada temen-temennya yang ngomongin misalnya dia ama siapa tuh namanya, yang cewek itu. \"eh Rio pacaran ya sama itu ya\". Hah!! Apa pacaran-pacaran, masih TK pacaran-pacaran.","label":[]}
+{"id":744,"text":"745\tRully\tCeweknya SMP, ceweknya itu comment kan dia punya ###. Ibunya kan TWK, kakak gua sekali-sekali nengokin sama mbahnya kan dia, mereka mainan handphone di kamar. Makanya kata emak gua, ya ngomong aja ama emaknya, kalo selama ini gak boleh dibawa ke sini kan emaknya, sebenernya kan dari emaknya berangkat itu, kalo yang cewek.","label":[[86,89,"1st"],[187,190,"1st"]]}
 {"id":745,"text":"746\tEcha\tSiapa yang ke TWK itu?? Agus?? Adek ipar?","label":[]}
 {"id":746,"text":"747\tTari\tKakak.. Kakak ipar.","label":[]}
 {"id":747,"text":"748\tDessy\tKalo anak cewek itu kan lebih bisa diatur yaa, kalo adeknya itu bisa diomongin, handphone ya dipakai seperlunya, gak yang ### dia punya Facebook tapi jarang dia mainin, berarti kan emang dia gak begitu suka mainan handphone kalo adeknya.","label":[]}
 {"id":748,"text":"749\tRully\tBeda-beda orang sih yaa.. Emang harus di pantau.","label":[]}
-{"id":749,"text":"750\tEcha\tPertama tuh yang ngambil handphone itu mbahnya kan, karena ketauan. Dibilangin sama mbahnya gak mau, gua yang ngambil handphone. Jadi dia siang-siang nangislah ama eyang, "uti hp aku diambil bude Rully" hah, kata emak gua. Kapan anak itu ke sana, kan rumahnya di Pekalongan sana lagi. ###lah Rully kan kerja. "Iya HPnya diambil sama bude Rully" ###, akhirnya gua yaa hubungin emak, kok gua dibawa-bawa. Orang gua gak tau handphonennya di mana, terus udah kakak gua dateng bawa handphonenya, serahin sama orangnya. Ngeri sih emang kalau gak di ini... apa sih ya, diawasin.","label":[[110,113,"1st"],[110,113,"1st"],[110,113,"1st"],[110,113,"1st"],[110,113,"1st"],[181,184,"address"]]}
+{"id":749,"text":"750\tEcha\tPertama tuh yang ngambil handphone itu mbahnya kan, karena ketauan. Dibilangin sama mbahnya gak mau, gua yang ngambil handphone. Jadi dia siang-siang nangislah ama eyang, \"uti hp aku diambil bude Rully\" hah, kata emak gua. Kapan anak itu ke sana, kan rumahnya di Pekalongan sana lagi. ###lah Rully kan kerja. \"Iya HPnya diambil sama bude Rully\" ###, akhirnya gua yaa hubungin emak, kok gua dibawa-bawa. Orang gua gak tau handphonennya di mana, terus udah kakak gua dateng bawa handphonenya, serahin sama orangnya. Ngeri sih emang kalau gak di ini... apa sih ya, diawasin.","label":[[110,113,"1st"],[227,230,"1st"],[368,371,"1st"],[395,398,"1st"],[418,421,"1st"],[181,184,"address"]]}
 {"id":750,"text":"751\tTari\tDipantau..","label":[]}
 {"id":751,"text":"752\tDessy\tApa lagi di kampung.","label":[]}
 {"id":752,"text":"753\tRully\tIya apa lagi di kampung.. Iya kata gua ih anak kampung parah amat sih ya.","label":[[45,48,"1st"]]}

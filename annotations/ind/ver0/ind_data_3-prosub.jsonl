@@ -1,11 +1,11 @@
 {"id":0,"text":"1\tBu Tari\tYa, oke. Dhifa dan Adinda ya? Oke... Silahkan, 10 menit ya. Saya tinggal dulu ya.","label":[[70,74,"1st"]]}
 {"id":1,"text":"2\tDhifa\tYa bu.","label":[[11,14,"address"]]}
-{"id":2,"text":"3\tDinda\tLu duluan Dhif. Lu duluan. Apa ya?","label":[[8,10,"2nd"],[8,10,"2nd"],[18,22,"address"]]}
+{"id":2,"text":"3\tDinda\tLu duluan Dhif. Lu duluan. Apa ya?","label":[[8,10,"2nd"],[24,26,"2nd"],[18,22,"address"]]}
 {"id":3,"text":"4\tDhifa\tGini deh, kan, ini mirip final report soalnya.","label":[]}
 {"id":4,"text":"5\tDinda\tYa udah, ya udah.","label":[]}
-{"id":5,"text":"6\tDhifa\tYa udah jadi kan aku.. aku kan harus bikin final report ku, presentasinya kan 50% dari.. nilai akhirku kan. Tapi tentang Jokowi gitu loh. Terus sebenernya kayak ngebahas. Apa? Kayak ngebahas, kan si bapaknya punya vlog.","label":[[25,28,"1st"],[25,28,"1st"],[26,28,"1st"],[26,28,"1st"]]}
+{"id":5,"text":"6\tDhifa\tYa udah jadi kan aku.. aku kan harus bikin final report ku, presentasinya kan 50% dari.. nilai akhirku kan. Tapi tentang Jokowi gitu loh. Terus sebenernya kayak ngebahas. Apa? Kayak ngebahas, kan si bapaknya punya vlog.","label":[[25,28,"1st"],[31,34,"1st"],[64,66,"1st"],[108,110,"1st"]]}
 {"id":6,"text":"7\tDinda\tYa terus?","label":[]}
-{"id":7,"text":"8\tDhifa\tTerus kita kayak.. bukan kita sih, gue.","label":[[14,18,"1st"],[14,18,"1st"],[43,46,"1st"]]}
+{"id":7,"text":"8\tDhifa\tTerus kita kayak.. bukan kita sih, gue.","label":[[14,18,"1st"],[33,37,"1st"],[43,46,"1st"]]}
 {"id":8,"text":"9\tDinda\tGue, hahahah.","label":[[8,11,"1st"]]}
 {"id":9,"text":"10\tDhifa\tBukan.. bukan. Ah, jadi kayak harus ngebahas vlognya gitu. Cuman, tau...","label":[]}
 {"id":10,"text":"11\tDinda\tYa udah terus?","label":[]}
@@ -83,7 +83,7 @@
 {"id":82,"text":"83\tDinda\tHe'eh.","label":[]}
 {"id":83,"text":"84\tDhifa\tTerus, jadi kayak.. apa? Makanya di vlognya tuh kayak, dia nunjukin dia orangnya kayak gimana, apa semua kayak gitu sih. Maksudnya si bapak Jokowinya.","label":[]}
 {"id":84,"text":"85\tDinda\tHmm.","label":[]}
-{"id":85,"text":"86\tDhifa\tTerus, yang konyolnya adalah.. aku kepikiran pengen masukin respon aku sendiri terhadap vlognya. Karna...","label":[[40,43,"1st"],[40,43,"1st"]]}
+{"id":85,"text":"86\tDhifa\tTerus, yang konyolnya adalah.. aku kepikiran pengen masukin respon aku sendiri terhadap vlognya. Karna...","label":[[40,43,"1st"],[76,79,"1st"]]}
 {"id":86,"text":"87\tDinda\tEmangnya ga boleh?","label":[]}
 {"id":87,"text":"88\tDhifa\tYa gatau, cuma kan kayak kocak aja ga sih. Soalnya kayak, itu aturan riset. Soalnya aku pas nonton kayak.. ih bapaknya ternyata emang begini.","label":[[93,96,"1st"]]}
 {"id":88,"text":"89\tDinda\tIya iya, ah. Tapi kayaknya gapapa deh? Masukin aja.","label":[]}
@@ -100,9 +100,9 @@
 {"id":99,"text":"100\tDhifa\tEh sepi loh beneran loh.","label":[]}
 {"id":100,"text":"101\tDinda\tKamu mau makan jadinya?","label":[[10,14,"2nd"]]}
 {"id":101,"text":"102\tDhifa\tEngga ah.","label":[]}
-{"id":102,"text":"103\tDinda\tAku tuh kenyang. Aku tuh, pengen...","label":[[10,13,"1st"],[10,13,"1st"]]}
+{"id":102,"text":"103\tDinda\tAku tuh kenyang. Aku tuh, pengen...","label":[[10,13,"1st"],[27,30,"1st"]]}
 {"id":103,"text":"104\tDhifa\tGa ada duit. Haha.","label":[]}
-{"id":104,"text":"105\tDinda\tAku tuh pengen.. kayaknya aku ada duit gitu di dalem student ID. Kemaren aku ngecharge ga? Ooh kemaren aku ga ngecharge.","label":[[10,13,"1st"],[36,39,"1st"],[36,39,"1st"],[36,39,"1st"]]}
+{"id":104,"text":"105\tDinda\tAku tuh pengen.. kayaknya aku ada duit gitu di dalem student ID. Kemaren aku ngecharge ga? Ooh kemaren aku ga ngecharge.","label":[[10,13,"1st"],[36,39,"1st"],[83,86,"1st"],[113,116,"1st"]]}
 {"id":105,"text":"106\tDhifa\tKamu ngecharge seribu.","label":[[10,14,"2nd"]]}
 {"id":106,"text":"107\tDinda\tNgga, ngga ngga, ga jadi. Soalnya itu pas gitu.","label":[]}
 {"id":107,"text":"108\tDhifa\tNapa sih itu tasnya gitu semua?","label":[]}
@@ -111,11 +111,11 @@
 {"id":110,"text":"111\tDinda\tOoh. Makan ramen?","label":[]}
 {"id":111,"text":"112\tDhifa\tApa.. otsukare dinner.","label":[]}
 {"id":112,"text":"113\tDinda\tIya, iya. Gw...","label":[]}
-{"id":113,"text":"114\tDhifa\tEh, makan ramen. Semalem aku cerita ke Indi kan. Aku bilang, apa namanya, "kemaren aku makan ramen bareng Dinda ama Pecut." "Tuh kan! Ga ngajak! Heh! Ga ngajak!"","label":[[35,38,"1st"],[59,62,"1st"],[35,38,"1st"]]}
+{"id":113,"text":"114\tDhifa\tEh, makan ramen. Semalem aku cerita ke Indi kan. Aku bilang, apa namanya, \"kemaren aku makan ramen bareng Dinda ama Pecut.\" \"Tuh kan! Ga ngajak! Heh! Ga ngajak!\"","label":[[35,38,"1st"],[59,62,"1st"],[93,96,"1st"]]}
 {"id":114,"text":"115\tDinda\tHahaha.","label":[]}
-{"id":115,"text":"116\tDhifa\tDigituin. Eh engga deh, aku bilang dulu "aku ama Pecut".","label":[[34,37,"1st"],[34,37,"1st"]]}
+{"id":115,"text":"116\tDhifa\tDigituin. Eh engga deh, aku bilang dulu \"aku ama Pecut\".","label":[[34,37,"1st"],[51,54,"1st"]]}
 {"id":116,"text":"117\tDinda\tHe'eh.","label":[]}
-{"id":117,"text":"118\tDhifa\tTerus abis itu, dia bilang "ooh yaudah", dia masih biasa aja. Aku bilang, "tapi ama Dinda juga sih". Langsung ngambek dia.","label":[[72,75,"1st"]]}
+{"id":117,"text":"118\tDhifa\tTerus abis itu, dia bilang \"ooh yaudah\", dia masih biasa aja. Aku bilang, \"tapi ama Dinda juga sih\". Langsung ngambek dia.","label":[[72,75,"1st"]]}
 {"id":118,"text":"119\tDinda\tHahaha. Ya sih, itu sudah... itu Indi sih.","label":[]}
 {"id":119,"text":"120\tDhifa\tYa gimana ya?","label":[]}
 {"id":120,"text":"121\tDinda\tUdah di pre... ter-prediksi kan bakal...","label":[]}
@@ -126,15 +126,15 @@
 {"id":125,"text":"126\tDhifa\tAku juga mau Purunima!","label":[[10,13,"1st"]]}
 {"id":126,"text":"127\tDinda\tOh iya demi apa?","label":[]}
 {"id":127,"text":"128\tDhifa\tIya, kamu ga suka?","label":[[15,19,"2nd"]]}
-{"id":128,"text":"129\tDinda\tEngga, aku tuh udah makan.. engga sih aku makan Purunima kayaknya bulan lalu deh. Cuman kayak, udah keseringan gitu. Gatau.","label":[[17,20,"1st"],[17,20,"1st"]]}
+{"id":128,"text":"129\tDinda\tEngga, aku tuh udah makan.. engga sih aku makan Purunima kayaknya bulan lalu deh. Cuman kayak, udah keseringan gitu. Gatau.","label":[[17,20,"1st"],[48,51,"1st"]]}
 {"id":129,"text":"130\tDhifa\tAku suka, tapi Purunima mahal.","label":[[10,13,"1st"]]}
 {"id":130,"text":"131\tDinda\tHmm. Aku sukanya Ruanmai.","label":[[15,18,"1st"]]}
 {"id":131,"text":"132\tDhifa\tAku ngga.. tau ga gw ga pernah makan Ruanmai.","label":[[10,13,"1st"],[28,30,"1st"]]}
-{"id":132,"text":"133\tDinda\tCuman mahal... Jadi aku juga kemaren tuh pas temen-temen aku yang di baito kan mau Ruanmai. Cuma bener-bener kalo kita mo makan Ruanmai...","label":[[30,33,"1st"],[30,33,"1st"],[124,128,"1st"]]}
+{"id":132,"text":"133\tDinda\tCuman mahal... Jadi aku juga kemaren tuh pas temen-temen aku yang di baito kan mau Ruanmai. Cuma bener-bener kalo kita mo makan Ruanmai...","label":[[30,33,"1st"],[67,70,"1st"],[124,128,"1st"]]}
 {"id":133,"text":"134\tDhifa\tBukannya ada ya?","label":[]}
 {"id":134,"text":"135\tDinda\tKita harus ngajak orang.","label":[[10,14,"1st"]]}
 {"id":135,"text":"136\tDhifa\tIya lanjut dulu. Lanjut lanjut, nanti nanti nanti lanjut lanjut lanjut lanjut.","label":[]}
-{"id":136,"text":"137\tDinda\tIya ya ya ya ya. Kita harus ngajak orang, karna mahal. Jadi harus makan rame-rame gitu loh. At least five people gitu. Karna kalo cuma berdua, "eh yuk makan Ruan Mai" kayak, hah ngga bisa...","label":[[27,31,"1st"]]}
+{"id":136,"text":"137\tDinda\tIya ya ya ya ya. Kita harus ngajak orang, karna mahal. Jadi harus makan rame-rame gitu loh. At least five people gitu. Karna kalo cuma berdua, \"eh yuk makan Ruan Mai\" kayak, hah ngga bisa...","label":[[27,31,"1st"]]}
 {"id":137,"text":"138\tDhifa\tSedih gitu ya?","label":[]}
 {"id":138,"text":"139\tDinda\tMahal. Jadi kita harus ngajak-ngajak gitu. Nada mana?","label":[[22,26,"1st"]]}
 {"id":139,"text":"140\tDhifa\tTadi kayaknya.. dia make jilbab pink. Hahaha.","label":[]}
@@ -165,9 +165,9 @@
 {"id":164,"text":"165\tDinda\tOh iya maaf ya, haha.","label":[]}
 {"id":165,"text":"166\tDhifa\tEnak ya baunya!","label":[]}
 {"id":166,"text":"167\tNada\tMau ga?","label":[]}
-{"id":167,"text":"168\tDhifa\tEnak ya! Kayak Indi tiap malem, "enak ya".","label":[]}
+{"id":167,"text":"168\tDhifa\tEnak ya! Kayak Indi tiap malem, \"enak ya\".","label":[]}
 {"id":168,"text":"169\tDinda\tEnak ya!","label":[]}
-{"id":169,"text":"170\tDhifa\tEnak ya! Bisa tiba-tiba masuk kamar ku buka pintu langsung, "enak ya!" apa sih...","label":[[46,48,"1st"]]}
+{"id":169,"text":"170\tDhifa\tEnak ya! Bisa tiba-tiba masuk kamar ku buka pintu langsung, \"enak ya!\" apa sih...","label":[[46,48,"1st"]]}
 {"id":170,"text":"171\tDinda\tHahaha... Gapake nasi?","label":[]}
 {"id":171,"text":"172\tDhifa\tKamu makan.. kamu makan nasi dong.","label":[[10,14,"2nd"],[23,27,"2nd"]]}
 {"id":172,"text":"173\tDinda\tTapi cara tau udah 10 menit gimana ya beb?","label":[[48,51,"address"]]}
@@ -188,7 +188,7 @@
 {"id":187,"text":"188\tDinda\tAku juga ga pernah.. pernah ga ya?","label":[[10,13,"1st"]]}
 {"id":188,"text":"189\tDhifa\tEngga, ga. Aku pernah, aku pernah.","label":[[21,24,"1st"],[33,36,"1st"]]}
 {"id":189,"text":"190\tDinda\tPedes soalnya.","label":[]}
-{"id":190,"text":"191\tDhifa\tAku pernah kemaren mau coba makan chicken steak. Katanya chicken steak enak kan. Tapi masih pake tag halal, terus dateng, "chicken steak onegaishimasu!" Tapi ngasih tag halal, terus dibales "halal jyanaiyo". Hahaha.. malu.","label":[[10,13,"1st"]]}
+{"id":190,"text":"191\tDhifa\tAku pernah kemaren mau coba makan chicken steak. Katanya chicken steak enak kan. Tapi masih pake tag halal, terus dateng, \"chicken steak onegaishimasu!\" Tapi ngasih tag halal, terus dibales \"halal jyanaiyo\". Hahaha.. malu.","label":[[10,13,"1st"]]}
 {"id":191,"text":"192\tDinda\tMalu beb.","label":[]}
 {"id":192,"text":"193\tDhifa\tMalu banget, lagi mau makan siang, terus gw jadi kayak eh.. oke... Nenek-neneknya nge gas.","label":[[51,53,"1st"]]}
 {"id":193,"text":"194\tNada\tKalian abis ngapain?","label":[[9,15,"2nd"]]}
@@ -204,7 +204,7 @@
 {"id":203,"text":"204\tDinda\tBaito. Itsumo, itsumo, itsumo.","label":[]}
 {"id":204,"text":"205\tDhifa\tDinda mah baito mulu.","label":[]}
 {"id":205,"text":"206\tDinda\tEngga kok, kenapa sih orang-orang pada...","label":[]}
-{"id":206,"text":"207\tDhifa\tEh aku tuh besok ga punya jilbab item loh. Kamu punya ga? Boleh aku pinjem ga?","label":[[13,16,"1st"],[13,16,"1st"],[53,57,"2nd"]]}
+{"id":206,"text":"207\tDhifa\tEh aku tuh besok ga punya jilbab item loh. Kamu punya ga? Boleh aku pinjem ga?","label":[[13,16,"1st"],[74,77,"1st"],[53,57,"2nd"]]}
 {"id":207,"text":"208\tDinda\tKayaknya belom gw cuci deh.","label":[[25,27,"1st"]]}
 {"id":208,"text":"209\tNada\tPunyanya pashmina. Iya ya, ga mungkin pake jilbab warna pink gitu. Hahaha.","label":[]}
 {"id":209,"text":"210\tDhifa\tIya, soalnya besok make baju item besok kita tampil.","label":[[50,54,"1st"]]}
@@ -217,14 +217,14 @@
 {"id":216,"text":"217\tDhifa\tYa cuci hari ini deh kalo kering. Oh iya bener, bener, bener. Tapi gw pulang malem banget lho.","label":[[77,79,"1st"]]}
 {"id":217,"text":"218\tDinda\tYa udah, ga papa.","label":[]}
 {"id":218,"text":"219\tDhifa\tYa udahlah, udahlah, ya udahlah serahlah.","label":[]}
-{"id":219,"text":"220\tNada\tAku ada pashmina, tapi dua. Aku ada...","label":[[9,12,"1st"],[9,12,"1st"]]}
+{"id":219,"text":"220\tNada\tAku ada pashmina, tapi dua. Aku ada...","label":[[9,12,"1st"],[37,40,"1st"]]}
 {"id":220,"text":"221\tDhifa\tAda apa?","label":[]}
 {"id":221,"text":"222\tNada\tAku ada item dua, tapi pashmina.","label":[[9,12,"1st"]]}
 {"id":222,"text":"223\tDhifa\tPashmina yang panjang gitu?","label":[]}
 {"id":223,"text":"224\tNada\tYa... engga. Yang.. yang biasa.","label":[]}
 {"id":224,"text":"225\tDhifa\tBukan persegi kan jadinya?","label":[]}
 {"id":225,"text":"226\tNada\tBukan persegi.","label":[]}
-{"id":226,"text":"227\tDhifa\tBisa ga ya? Aku dulu pake pashmina sih. Tapi maksudnya, pake nari. Aku ga pernah pake pashmina buat nari.","label":[[22,25,"1st"],[22,25,"1st"]]}
+{"id":226,"text":"227\tDhifa\tBisa ga ya? Aku dulu pake pashmina sih. Tapi maksudnya, pake nari. Aku ga pernah pake pashmina buat nari.","label":[[22,25,"1st"],[77,80,"1st"]]}
 {"id":227,"text":"228\tDinda\tRempong ga sih? Pashmina?","label":[]}
 {"id":228,"text":"229\tDhifa\tIya.","label":[]}
 {"id":229,"text":"230\tNada\tTakutnya rempong.","label":[]}
@@ -271,5 +271,5 @@
 {"id":270,"text":"271\tDhifa\tHah?","label":[]}
 {"id":271,"text":"272\tDinda\tOh karate?","label":[]}
 {"id":272,"text":"273\tNada\tIya, di APU.","label":[]}
-{"id":273,"text":"274\tDhifa\tIbu saya ga tau matiinya di mana, langsung di sini aja? Belom dimatiin bu.","label":[[14,18,"1st"],[10,13,"address"],[11,13,"address"]]}
+{"id":273,"text":"274\tDhifa\tIbu saya ga tau matiinya di mana, langsung di sini aja? Belom dimatiin bu.","label":[[14,18,"1st"],[10,13,"address"],[81,83,"address"]]}
 {"id":274,"text":"275\tDinda\tGa tau bu udah sepuluh menit atau belom.","label":[[17,19,"address"]]}

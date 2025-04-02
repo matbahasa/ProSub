@@ -13,7 +13,7 @@
 {"id":12,"text":"13\tLaki-laki 2\tBerhenti!","label":[]}
 {"id":13,"text":"14\tLaki-laki 2\tKami ingin masuk!","label":[[15,19,"1st"]]}
 {"id":14,"text":"15\tLaki-laki 2\tDan bertemu dengan pemilik pabrik!","label":[]}
-{"id":15,"text":"16\tLaki-laki 2\tBiarkan kami masuk atau kami masuk dengan paksa.","label":[[23,27,"1st"],[23,27,"1st"]]}
+{"id":15,"text":"16\tLaki-laki 2\tBiarkan kami masuk atau kami masuk dengan paksa.","label":[[23,27,"1st"],[39,43,"1st"]]}
 {"id":16,"text":"17\tLaki-laki 3\tBukakan pintunya!","label":[]}
 {"id":17,"text":"18\tLaki-laki 2\tSudah!","label":[]}
 {"id":18,"text":"19\tLaki-laki 2\tSudah!","label":[]}
@@ -76,7 +76,7 @@
 {"id":75,"text":"72\tSancaka\tIbu.","label":[[11,14,"address"]]}
 {"id":76,"text":"73\tKurniati\tSancaka, pergi sekarang ke pabrik.","label":[[12,19,"address"]]}
 {"id":77,"text":"74\tKurniati\tKasih tahu Bapak mereka dijebak.","label":[]}
-{"id":78,"text":"75.1\tKurniati\tPergi, Sancaka! Bapak kamu dalam bahaya, Sancaka.","label":[[21,28,"address"],[21,28,"address"]]}
+{"id":78,"text":"75.1\tKurniati\tPergi, Sancaka! Bapak kamu dalam bahaya, Sancaka.","label":[[21,28,"address"],[55,62,"address"]]}
 {"id":79,"text":"75.2\tLaki-laki 2\tApakah kalian takut? - Tidak!","label":[[24,30,"2nd"]]}
 {"id":80,"text":"75.3\tLaki-laki 2\tKalian siap mati? - Ya!","label":[[17,23,"2nd"]]}
 {"id":81,"text":"76\tSancaka\tBapak!","label":[[11,16,"address"]]}
@@ -90,7 +90,7 @@
 {"id":89,"text":"84\tSancaka\tBapak.","label":[[11,16,"address"]]}
 {"id":90,"text":"85\tSancaka\tJangan mati, pak.","label":[[24,27,"address"]]}
 {"id":91,"text":"86\tSancaka\tBapak.","label":[[11,16,"address"]]}
-{"id":92,"text":"87\tSancaka\tPak, jangan mati, Pak.","label":[[11,14,"address"],[11,14,"address"]]}
+{"id":92,"text":"87\tSancaka\tPak, jangan mati, Pak.","label":[[11,14,"address"],[29,32,"address"]]}
 {"id":93,"text":"88\tSancaka\tBangun, Pak.","label":[[19,22,"address"]]}
 {"id":94,"text":"89\tLaki-laki 5\tHei, bantuin! Bantuin!","label":[]}
 {"id":95,"text":"90\tKurniati\tSancaka.","label":[[12,19,"address"]]}
@@ -103,7 +103,7 @@
 {"id":102,"text":"97\tKurniati\tDuit Ibu sudah hampir abis.","label":[[17,20,"1st"]]}
 {"id":103,"text":"98\tKurniati\tIbu harus cari duit.","label":[[12,15,"address"]]}
 {"id":104,"text":"99\tSancaka\tCuman sehari kan?","label":[]}
-{"id":105,"text":"100\tKurniati\tIya, besok kamu pulang sekolah Ibu sudah ada di rumah masakin buat kamu.","label":[[24,28,"2nd"],[24,28,"2nd"],[44,47,"address"]]}
+{"id":105,"text":"100\tKurniati\tIya, besok kamu pulang sekolah Ibu sudah ada di rumah masakin buat kamu.","label":[[24,28,"2nd"],[80,84,"2nd"],[44,47,"address"]]}
 {"id":106,"text":"101\tKurniati\tBerani kan?","label":[]}
 {"id":107,"text":"102\tKurniati\tJangan main di luar ya. Lagi sering hujan.","label":[]}
 {"id":108,"text":"103\tKurniati\tNanti kamu kesamber petir lagi dan sakit kayak dulu.","label":[[19,23,"2nd"]]}
@@ -118,17 +118,17 @@
 {"id":117,"text":"112\tPerempuan 1\tIni, aku bawain makanan.","label":[[21,24,"1st"]]}
 {"id":118,"text":"113\tAnak 1\tTai! Bosan hidup elo?","label":[[28,31,"2nd"]]}
 {"id":119,"text":"114\tAnak 2\tAwas...","label":[]}
-{"id":120,"text":"115\tAnak 3\tKaki elo pendek, elo pasti tertangkap!","label":[[16,19,"2nd"],[16,19,"2nd"]]}
+{"id":120,"text":"115\tAnak 3\tKaki elo pendek, elo pasti tertangkap!","label":[[16,19,"2nd"],[28,31,"2nd"]]}
 {"id":121,"text":"116\tAwang\tNgapain elo sampe dikejar-kejar mereka?","label":[[18,21,"2nd"]]}
 {"id":122,"text":"117\tSancaka\tMereka gangguin anak perempuan.","label":[]}
 {"id":123,"text":"118\tSancaka\tPengamen juga.","label":[]}
 {"id":124,"text":"119\tSancaka\tTerus (mereka) gue lempar.","label":[[27,30,"1st"]]}
 {"id":125,"text":"120\tAwang\tBelajar buat urus hidup elo sendiri.","label":[[34,37,"2nd"]]}
-{"id":126,"text":"121\tAwang\tKarena kalau elo ikut campur urusan orang lain, hidup elo bakal susah.","label":[[23,26,"2nd"],[23,26,"2nd"]]}
+{"id":126,"text":"121\tAwang\tKarena kalau elo ikut campur urusan orang lain, hidup elo bakal susah.","label":[[23,26,"2nd"],[64,67,"2nd"]]}
 {"id":127,"text":"122\tSancaka\tKok elo tolongin gue?","label":[[29,32,"1st"],[16,19,"2nd"]]}
 {"id":128,"text":"123\tAwang\tYa, makanya hidup gue bakal susah.","label":[[28,31,"1st"]]}
 {"id":129,"text":"124\tAwang\tItu anak, kalau cuman lima anak doang, gue bisa ladenin.","label":[[49,52,"1st"]]}
-{"id":130,"text":"125\tAwang\tKalau satu kelompok nyariin gue, mati juga gue.","label":[[38,41,"1st"],[38,41,"1st"]]}
+{"id":130,"text":"125\tAwang\tKalau satu kelompok nyariin gue, mati juga gue.","label":[[38,41,"1st"],[53,56,"1st"]]}
 {"id":131,"text":"126\tSancaka\tMaaf, bikin hidup elo susah.","label":[[30,33,"2nd"]]}
 {"id":132,"text":"127\tAwang\tGue Awang.","label":[[10,13,"1st"]]}
 {"id":133,"text":"128\tSancaka\tSancaka.","label":[]}
@@ -166,7 +166,7 @@
 {"id":165,"text":"160\tAwang\tSegini saja elo udah ngerepotin.","label":[[22,25,"2nd"]]}
 {"id":166,"text":"161\tSancaka\tIbu?","label":[[12,15,"address"]]}
 {"id":167,"text":"162\tKurniati\tSancaka.","label":[[13,20,"address"]]}
-{"id":168,"text":"163\tSancaka\tIbu, Sancaka kangen sama Ibu.","label":[[4,11,"1st"],[12,15,"address"],[12,15,"address"]]}
+{"id":168,"text":"163\tSancaka\tIbu, Sancaka kangen sama Ibu.","label":[[4,11,"1st"],[12,15,"address"],[37,40,"address"]]}
 {"id":169,"text":"164\tSancaka\tJangan pergi lagi, ya.","label":[]}
 {"id":170,"text":"165\tAwang\tElo yakin mau pergi sama gue?","label":[[35,38,"1st"],[10,13,"2nd"]]}
 {"id":171,"text":"166\tSancaka\tIya.","label":[]}
@@ -224,7 +224,7 @@
 {"id":223,"text":"218\tLaki-laki 7\tBerisik elo!","label":[[24,27,"2nd"]]}
 {"id":224,"text":"219\tLaki-laki 10\tBang, Abang!","label":[[17,21,"address"],[23,28,"address"]]}
 {"id":225,"text":"220\tLaki-laki 7\tElo punya apaan?","label":[[16,19,"2nd"]]}
-{"id":226,"text":"221\tLaki-laki 10\tNggak ada, Bang, baju doang, Bang.","label":[[28,32,"address"],[28,32,"address"]]}
+{"id":226,"text":"221\tLaki-laki 10\tNggak ada, Bang, baju doang, Bang.","label":[[28,32,"address"],[46,50,"address"]]}
 {"id":227,"text":"222\tLaki-laki 7\tSudah serahin semua.","label":[]}
 {"id":228,"text":"223\tLaki-laki 10\tBang.","label":[[17,21,"address"]]}
 {"id":229,"text":"224\tLaki-laki 10\tBaju doang, Bang.","label":[[29,33,"address"]]}
@@ -280,7 +280,7 @@
 {"id":279,"text":"273\tDirga\tKalau kita nggak mau berteman dengan","label":[[16,20,"1st"]]}
 {"id":280,"text":"274\tDirga\tmafia-mafia kayak gitu dianggap nggak cerdas....","label":[]}
 {"id":281,"text":"275\tDirga\tSaya nggak keberatan mas jadi orang paling bodoh.","label":[[10,14,"1st"],[31,34,"address"]]}
-{"id":282,"text":"276\tDirga\tMas, kita ini rame, Mas, dia cuman satu. Kenapa kita harus takut?","label":[[15,19,"1st"],[10,13,"address"],[10,13,"address"]]}
+{"id":282,"text":"276\tDirga\tMas, kita ini rame, Mas, dia cuman satu. Kenapa kita harus takut?","label":[[15,19,"1st"],[10,13,"address"],[30,33,"address"]]}
 {"id":283,"text":"277\tRidwan\tDulu,","label":[]}
 {"id":284,"text":"278\tRidwan\tDulu adik ayahnya sengaja memasukkannya ke panti asuhan yang terkenal","label":[]}
 {"id":285,"text":"279\tRidwan\tDikelola oleh pengurus yang sadis, supaya dia mati di sana.","label":[]}
@@ -309,7 +309,7 @@
 {"id":308,"text":"301\tLaki-laki 12\tPermisi pak.","label":[[25,28,"address"]]}
 {"id":309,"text":"302\tSasha\tMa, boleh aku kasih uang nggak?","label":[[20,23,"1st"],[10,12,"address"]]}
 {"id":310,"text":"303\tSadha\tEmang kamu punya uang?","label":[[16,20,"2nd"]]}
-{"id":311,"text":"304\tLaki-laki 12\tPak, permisi, Pak.","label":[[17,20,"address"],[17,20,"address"]]}
+{"id":311,"text":"304\tLaki-laki 12\tPak, permisi, Pak.","label":[[17,20,"address"],[31,34,"address"]]}
 {"id":312,"text":"305\tRahayu\tAdek, jangan dekat-deket jendela, Dek.","label":[[11,15,"address"],[45,48,"address"]]}
 {"id":313,"text":"306\tRahayu\tPa, kok malah dikasih?","label":[[11,13,"address"]]}
 {"id":314,"text":"307\tDirga\tNggak apa-apalah.","label":[]}
@@ -332,10 +332,10 @@
 {"id":331,"text":"321\tDirga\tKamu kunci pintunya.","label":[[10,14,"2nd"]]}
 {"id":332,"text":"322\tKamal\tSare...","label":[]}
 {"id":333,"text":"323\tDirga\tSadha! Sasha!","label":[[10,15,"address"],[17,22,"address"]]}
-{"id":334,"text":"324\tPengkor\tApa yang sudah saya perbuat sampai saya layak dihina oleh orang lain?","label":[[27,31,"1st"],[27,31,"1st"]]}
+{"id":334,"text":"324\tPengkor\tApa yang sudah saya perbuat sampai saya layak dihina oleh orang lain?","label":[[27,31,"1st"],[47,51,"1st"]]}
 {"id":335,"text":"325\tPengkor\tSaya selalu berbuat baik sebagai warga negara.","label":[[12,16,"1st"]]}
 {"id":336,"text":"326\tPengkor\tSaya selalu membantu orang yang harus dibantu.","label":[[12,16,"1st"]]}
-{"id":337,"text":"327\tDirga\tSaya mohon. Saya mohon lepaskan keluarga saya!","label":[[10,14,"1st"],[10,14,"1st"]]}
+{"id":337,"text":"327\tDirga\tSaya mohon. Saya mohon lepaskan keluarga saya!","label":[[10,14,"1st"],[22,26,"1st"]]}
 {"id":338,"text":"328\tPengkor\tSaya harus kasih contoh","label":[[12,16,"1st"]]}
 {"id":339,"text":"329\tPengkor\tBuat wakil rakyat yang tidak bisa menghormati rakyat.","label":[]}
 {"id":340,"text":"330\tDirga\tTolong jangan. Tolong, tolong saya jangan.","label":[[40,44,"1st"]]}
@@ -356,7 +356,7 @@
 {"id":355,"text":"345\tPengkor\tBuat apa dia menerima pesan kalau dia lalu mati.","label":[]}
 {"id":356,"text":"346\tPengkor\tKamu tahu kenapa aku tidak takut mati?","label":[[29,32,"1st"]]}
 {"id":357,"text":"347\tPengkor\tKarena aku tidak tahu ada apa setelah mati.","label":[[19,22,"1st"]]}
-{"id":358,"text":"348\tPengkor\tMungkin jiwa kita tetap hidup, dan ingatan selama kita hidup tetap ada.","label":[[25,29,"1st"],[25,29,"1st"]]}
+{"id":358,"text":"348\tPengkor\tMungkin jiwa kita tetap hidup, dan ingatan selama kita hidup tetap ada.","label":[[25,29,"1st"],[62,66,"1st"]]}
 {"id":359,"text":"349\tPengkor\tAku mau pastikan jiwanya hidup terus dalam penyesalan.","label":[[12,15,"1st"]]}
 {"id":360,"text":"350\tLaki-laki 13\tAyo, keluar!","label":[]}
 {"id":361,"text":"351\tLaki-laki 13\tKalau nggak gue dobrak ini pintu!","label":[[29,32,"1st"]]}
@@ -462,7 +462,7 @@
 {"id":461,"text":"451\tPengkor\tSekarang kembalilah kerja.","label":[]}
 {"id":462,"text":"452\tGhazul\tSaya nggak percaya mereka semua mau nurut sama kita.","label":[[11,15,"1st"],[58,62,"1st"]]}
 {"id":463,"text":"453\tPengkor\tNggak lama lagi, mereka harus menuruti kita.","label":[[51,55,"1st"]]}
-{"id":464,"text":"454\tLaki-laki 16\tPak, mobil mundur, Pak!","label":[[17,20,"address"],[17,20,"address"]]}
+{"id":464,"text":"454\tLaki-laki 16\tPak, mobil mundur, Pak!","label":[[17,20,"address"],[36,39,"address"]]}
 {"id":465,"text":"455\tSancaka\tSudah berapa lama pindah kesini?","label":[]}
 {"id":466,"text":"456\tTeddy\tDua minggu.","label":[]}
 {"id":467,"text":"457\tSancaka\tIbu kamu ke mana?","label":[]}
@@ -522,7 +522,7 @@
 {"id":521,"text":"510\tAgung\tJadi benar dia berantem sama banyak preman?","label":[]}
 {"id":522,"text":"511\tWulan\tTiga puluh, dan kabarnya mereka akan datang lagi.","label":[]}
 {"id":523,"text":"512\tWulan\tLebih banyak lagi. Jadi kamu harus bantu kami","label":[[34,38,"2nd"]]}
-{"id":524,"text":"513\tSancaka\tAku bukan jagoan. Aku juga nggak tahu","label":[[12,15,"1st"],[12,15,"1st"]]}
+{"id":524,"text":"513\tSancaka\tAku bukan jagoan. Aku juga nggak tahu","label":[[12,15,"1st"],[30,33,"1st"]]}
 {"id":525,"text":"514\tSancaka\tgimana caranya tadi aku melawan mereka.","label":[[32,35,"1st"]]}
 {"id":526,"text":"515\tNemo\tKarena kamu kuat.","label":[[16,20,"2nd"]]}
 {"id":527,"text":"516\tNemo\tKan tadi luka-luka, sekarang lukanya sudah hilang.","label":[]}
@@ -542,7 +542,7 @@
 {"id":541,"text":"530\tSancaka\tOh, kalau saya yang bicara Bapak nggak percaya?","label":[[22,26,"1st"]]}
 {"id":542,"text":"531\tSancaka\tAduh!","label":[]}
 {"id":543,"text":"532\tAgung\tCuman supaya yakin saja.","label":[]}
-{"id":544,"text":"533\tSancaka\tBu! Bu, jangan masuk!","label":[[12,14,"address"],[12,14,"address"]]}
+{"id":544,"text":"533\tSancaka\tBu! Bu, jangan masuk!","label":[[12,14,"address"],[16,18,"address"]]}
 {"id":545,"text":"534\tSancaka\tJangan masuk! Bahaya!","label":[]}
 {"id":546,"text":"535\tWulan\tNggak ada yang mau tolong mereka-mereka ini.","label":[]}
 {"id":547,"text":"536\tSancaka\tKalau pun aku datang lebih awal semalam,","label":[[22,25,"1st"]]}
@@ -578,7 +578,7 @@
 {"id":577,"text":"566\tSancaka\tSakit, Pak?","label":[[19,22,"address"]]}
 {"id":578,"text":"567\tAgung\tOrang tua masih harus terbang-terbang. Aduh.","label":[]}
 {"id":579,"text":"568\tSancaka\tMaaf, Pak.","label":[[18,21,"address"]]}
-{"id":580,"text":"569\tSancaka\tSoalnya dipasar saya ditendang dan saya menjadi kuat.","label":[[28,32,"1st"],[28,32,"1st"]]}
+{"id":580,"text":"569\tSancaka\tSoalnya dipasar saya ditendang dan saya menjadi kuat.","label":[[28,32,"1st"],[47,51,"1st"]]}
 {"id":581,"text":"570\tAgung\tMungkin kamu makan apa gitu?","label":[[18,22,"2nd"]]}
 {"id":582,"text":"571\tSancaka\tSaya nggak makan apa-apa, Pak.","label":[[12,16,"1st"],[38,41,"address"]]}
 {"id":583,"text":"572\tAgung\tMungkin gara-gara itu. Gara-gara lapar.","label":[]}
@@ -601,7 +601,7 @@
 {"id":600,"text":"589\tLaki-laki 13\tOh nggak-nggak. Ngobrol sama kita dulu saja. Ada apa?","label":[[46,50,"1st"]]}
 {"id":601,"text":"590\tNemo\tNggak ada urusan sama elo!","label":[[31,34,"2nd"]]}
 {"id":602,"text":"591\tNemo\tUrusan kita sama Ganda Hamdan.","label":[[16,20,"1st"]]}
-{"id":603,"text":"592\tLaki-laki 13\tUrusan Pak Hamdan adalah urusan kita juga. Sudah, ngomong saja sama kita.","label":[[49,53,"1st"],[49,53,"1st"]]}
+{"id":603,"text":"592\tLaki-laki 13\tUrusan Pak Hamdan adalah urusan kita juga. Sudah, ngomong saja sama kita.","label":[[49,53,"1st"],[85,89,"1st"]]}
 {"id":604,"text":"593\tPerempuan 7\tIni ada apaan? Ribut diacara gue seenak jidat saja elo!","label":[[45,48,"1st"],[67,70,"2nd"]]}
 {"id":605,"text":"594\tLaki-laki 13\tKamu kebelakang saja deh, bukan urusan kamu.","label":[[17,21,"2nd"],[56,60,"2nd"]]}
 {"id":606,"text":"595\tPerempuan 7\tMaksud elo?","label":[[23,26,"2nd"]]}
@@ -624,9 +624,9 @@
 {"id":623,"text":"612\tLaki-laki 18\tNggak beranilah aku bohong sama kamu,","label":[[33,36,"1st"],[49,53,"2nd"]]}
 {"id":624,"text":"613\tLaki-laki 18\tbisa mati aku bohong sama kamu, Sayang.","label":[[27,30,"1st"],[43,47,"2nd"],[49,55,"address"]]}
 {"id":625,"text":"614\tPerempuan 8\tAduh!","label":[]}
-{"id":626,"text":"615\tLaki-laki 19\tMbak, Mbak!","label":[[17,21,"address"],[17,21,"address"]]}
+{"id":626,"text":"615\tLaki-laki 19\tMbak, Mbak!","label":[[17,21,"address"],[23,27,"address"]]}
 {"id":627,"text":"616\tLaki-laki 19\tTolong! Tolong!","label":[]}
-{"id":628,"text":"617\tPerempuan 9\tNas, kamu kenapa, mas Nas? Nas! Mas! Mas!","label":[[16,19,"address"],[34,37,"address"],[16,19,"address"],[16,19,"address"],[48,51,"address"],[48,51,"address"]]}
+{"id":628,"text":"617\tPerempuan 9\tNas, kamu kenapa, mas Nas? Nas! Mas! Mas!","label":[[16,19,"address"],[34,37,"address"],[38,41,"address"],[43,46,"address"],[48,51,"address"],[53,56,"address"]]}
 {"id":629,"text":"618\tLaki-laki 20\tIbu?","label":[[17,20,"address"]]}
 {"id":630,"text":"619\tLaki-laki 20\tIbu?","label":[[17,20,"address"]]}
 {"id":631,"text":"620\tLaki-laki 20\tBapak, panggil ambulans, Pak!","label":[[17,22,"address"],[42,45,"address"]]}
@@ -732,7 +732,7 @@
 {"id":731,"text":"719\tRidwan\tCek background perusahaan farmasi yang disebutkan tadi.","label":[]}
 {"id":732,"text":"720\tHasbi\tBaik, Pak.","label":[[16,19,"address"]]}
 {"id":733,"text":"721\tRidwan\tKalian dengar soal orang yang menghadapi para penjarah di berita kan?","label":[[11,17,"2nd"]]}
-{"id":734,"text":"722\tRidwan\tKita harus cari tahu siapa dia. Kita mungkin butuh bantuannya.","label":[[11,15,"1st"],[11,15,"1st"]]}
+{"id":734,"text":"722\tRidwan\tKita harus cari tahu siapa dia. Kita mungkin butuh bantuannya.","label":[[11,15,"1st"],[43,47,"1st"]]}
 {"id":735,"text":"723\tHasbi\tBaik, Pak, akan saya cari tahu.","label":[[16,19,"address"]]}
 {"id":736,"text":"724\tTeddy\tJangan ditanya kenapa dia masak, nanti dia malu.","label":[]}
 {"id":737,"text":"725\tSancaka\tKenapa?","label":[]}
@@ -743,7 +743,7 @@
 {"id":742,"text":"730\tWulan\tYa sudah deh. Aku ganti dulu.","label":[[24,27,"1st"]]}
 {"id":743,"text":"731\tWulan\tNgapain kalian kesini lagi?","label":[[18,24,"2nd"]]}
 {"id":744,"text":"732\tWulan\tNggak cukup tuh pasar kalian bakar semuanya?","label":[[32,38,"2nd"]]}
-{"id":745,"text":"733\tWulan\tElo mau matiin gue? Matiin gue! Gue nggak takut!","label":[[25,28,"1st"],[25,28,"1st"],[42,45,"1st"],[10,13,"2nd"]]}
+{"id":745,"text":"733\tWulan\tElo mau matiin gue? Matiin gue! Gue nggak takut!","label":[[25,28,"1st"],[37,40,"1st"],[42,45,"1st"],[10,13,"2nd"]]}
 {"id":746,"text":"734\tLaki-laki 13\tElo mau tahu kan siapa yang bakar pasar?","label":[[17,20,"2nd"]]}
 {"id":747,"text":"735\tLaki-laki 13\tGue ada infonya.","label":[[17,20,"1st"]]}
 {"id":748,"text":"736\tLaki-laki 13\tHei. Sini!","label":[]}
@@ -770,7 +770,7 @@
 {"id":769,"text":"757\tSancaka\tKenapa elo bakar pasar?","label":[[19,22,"2nd"]]}
 {"id":770,"text":"758\tAdi\tMaksudnya?","label":[]}
 {"id":771,"text":"759\tSancaka\tGue tanya sekali lagi, jawab pertanyaan gue.","label":[[12,15,"1st"],[52,55,"1st"]]}
-{"id":772,"text":"760\tSancaka\tKalau elo ngga jawab gue patahin tangan elo.","label":[[18,21,"2nd"],[18,21,"2nd"]]}
+{"id":772,"text":"760\tSancaka\tKalau elo ngga jawab gue patahin tangan elo.","label":[[18,21,"2nd"],[52,55,"2nd"]]}
 {"id":773,"text":"761\tSancaka\tSupaya nggak bisa main musik lagi","label":[]}
 {"id":774,"text":"762\tAdi\tTolong jangan.","label":[]}
 {"id":775,"text":"763\tAdi\tGue pernah dikasi tahu bakal ada satu","label":[[8,11,"1st"]]}
@@ -794,7 +794,7 @@
 {"id":793,"text":"781\tRidwan\tMenunggu anak-anak lahir, tanpa bisa membedakan baik dan buruk?","label":[]}
 {"id":794,"text":"782\tRidwan\tBegitu?","label":[]}
 {"id":795,"text":"783\tPengkor\tAnda terlalu menyepelekan otak manusia.","label":[[12,16,"2nd"]]}
-{"id":796,"text":"784\tRidwan\tSaya tidak punya waktu untuk berdebat. Saya harus ikut sidang. Maaf.","label":[[11,15,"1st"],[11,15,"1st"]]}
+{"id":796,"text":"784\tRidwan\tSaya tidak punya waktu untuk berdebat. Saya harus ikut sidang. Maaf.","label":[[11,15,"1st"],[50,54,"1st"]]}
 {"id":797,"text":"785\tRidwan\tDia pasti sudah bicara begitu seperti ini kepada anggota lain.","label":[]}
 {"id":798,"text":"786\tFerry\tSemoga nggak semua dari kita takut mati.","label":[[34,38,"1st"]]}
 {"id":799,"text":"787\tRidwan\tSidang memang memakan waktu yang panjang.","label":[]}
@@ -916,7 +916,7 @@
 {"id":915,"text":"903\tWulan\tDulu waktu di Tenggara, aku kerja sebagai perawat di rumah sakit.","label":[[34,37,"1st"]]}
 {"id":916,"text":"904\tWulan\tAku kenal sama ibu kamu.","label":[[10,13,"1st"]]}
 {"id":917,"text":"905\tWulan\tDia kembali ke rumah kamu, Sancaka.","label":[[37,44,"address"]]}
-{"id":918,"text":"906\tWulan\tDia nyariin kamu setelah kamu pergi.","label":[[22,26,"2nd"],[22,26,"2nd"]]}
+{"id":918,"text":"906\tWulan\tDia nyariin kamu setelah kamu pergi.","label":[[22,26,"2nd"],[35,39,"2nd"]]}
 {"id":919,"text":"907\tWulan\tBerminggu-minggu dia nungguin kamu di rumah.","label":[[40,44,"2nd"]]}
 {"id":920,"text":"908\tWulan\tCariin kamu di panti-panti asuhan, ke rumah-rumah sosial.","label":[[17,21,"2nd"]]}
 {"id":921,"text":"909\tWulan\tSetiap hari dia ngomongin kamu.","label":[]}
@@ -953,7 +953,7 @@
 {"id":952,"text":"940\tHasbi\tPak, saya sudah berhasil menemukan satu nomer.","label":[[15,19,"1st"],[10,13,"address"]]}
 {"id":953,"text":"941\tHasbi\tMungkin jagoan kita di sana, Pak.","label":[[25,29,"1st"],[39,42,"address"]]}
 {"id":954,"text":"942\tRidwan\tKirim ke saya. Sekarang!","label":[[20,24,"1st"]]}
-{"id":955,"text":"943\tHasbi\tIya, Pak. Baik, Pak.","label":[[15,18,"address"],[15,18,"address"]]}
+{"id":955,"text":"943\tHasbi\tIya, Pak. Baik, Pak.","label":[[15,18,"address"],[26,29,"address"]]}
 {"id":956,"text":"944\tRidwan\tSemoga saya berbicara dengan orang yang benar.","label":[[18,22,"1st"]]}
 {"id":957,"text":"945\tRidwan\tTidak ada serum amoral.","label":[]}
 {"id":958,"text":"946\tRidwan\tItu semua akal-akalan Pengkor supaya kita menyebarkan obatnya,","label":[]}

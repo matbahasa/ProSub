@@ -24,7 +24,7 @@ def doccano2UAM(jsonl,filename):
             start += len(item["text"]) + 2 #Windows line break \r\n
 #    check.close()
     with open(filename[:-4]+"-prosub.txt", "w", encoding="utf-8") as out:
-        print("Subcorp\t\Filename\tID\tStart\tEnd\tText\tComment\tRole\tParentID\tdoc_completeness\tprosub\t1st\t2nd\taddress", file=out)
+        print("Subcorp\tFilename\tID\tStart\tEnd\tText\tComment\tRole\tParentID\tdoc_completeness\tprosub\t1st\t2nd\taddress", file=out)
         for a in annotations:
             ID,s,e,text,tag = a
             if tag == "Speaker":
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 #    filename = "data_tha.txt"
 #    doccano2UAM(f, filename)
 
-    ETA to jsonl
-    f = "./jpn/data_jpn-summary.txt"
-    f = "data_jav-summary.txt"
-    ETA2doccano(f)
+    #ETA to jsonl
+    #f = "./jpn/data_jpn-summary.txt"
+    #f = "data_jav-summary.txt"
+    #ETA2doccano(f)

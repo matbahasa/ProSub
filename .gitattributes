@@ -1,1 +1,6 @@
 common_questionnaire.tsv text eol=lf
+data_all_v1.0.tsv text eol=lf
+data_all_v2.0.tsv text eol=lf
+data_all_v1.0.json text eol=lf
+data_all_v2.0.json text eol=lf
+full_data.json text eol=lf

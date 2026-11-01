@@ -252,7 +252,7 @@ The [ISO 639-3](https://iso639-3.sil.org) codes are used.
 - `jav` Javanese
 - `tha` Thai
 - `vie` Vietnamese
-- `myn` Burmese
+- `mya` Burmese
 
 ### Functions
 - `1st` speaker reference, first person

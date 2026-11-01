@@ -117,3 +117,10 @@ if __name__ == "__main__":
     #f = "./jpn/data_jpn-summary.txt"
     #f = "data_jav-summary.txt"
     #ETA2doccano(f)
+    import glob
+    files = glob.glob("C:/Users/Hiroki/Dropbox/Malay_KL/Melayu_Standard_Lisan/NorHashimah/2003/*-prodrop.jsonl")
+    for f in files:
+        print(f)
+#        ETA2doccano(f)
+        filename = f.replace("jsonl","txt")
+        doccano2UAM(f,filename)

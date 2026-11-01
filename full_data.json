@@ -129567,7 +129567,7 @@
     },
     {
         "id": "65675a1581609a52d98e99bc",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်လေး02",
         "romanization": "màuɴ‑lé",
         "trans_jpn": "弟、弟さん",
@@ -129652,7 +129652,7 @@
     },
     {
         "id": "65674af981609a52d98e99bb",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်02",
         "romanization": "màuɴ",
         "trans_jpn": "弟、弟さん",
@@ -129740,7 +129740,7 @@
     },
     {
         "id": "65637a0181609a52d98e99ba",
-        "language": "myn",
+        "language": "mya",
         "form": "အကျွန်ုပ်",
         "romanization": "ʔăʨănouʔ",
         "trans_jpn": "私、わたくし",
@@ -129828,7 +129828,7 @@
     },
     {
         "id": "653d4d6e81609a52d98e99b8",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာကြီး02",
         "romanization": "sʰăyàdʑí",
         "trans_jpn": "校長",
@@ -129913,7 +129913,7 @@
     },
     {
         "id": "653d4c3c81609a52d98e99b7",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာကြီး01",
         "romanization": "sʰăyàdʑí",
         "trans_jpn": "教授（職位としての「教授」、大学の先生一般ではない）",
@@ -129998,7 +129998,7 @@
     },
     {
         "id": "653d4ae381609a52d98e99b6",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာမကြီး01",
         "romanization": "sʰăyàmâdʑí",
         "trans_jpn": "校長",
@@ -130083,7 +130083,7 @@
     },
     {
         "id": "653d41cd81609a52d98e99b5",
-        "language": "myn",
+        "language": "mya",
         "form": "တီချယ်ကြီး02",
         "romanization": "tìtɕʰɛ̀dʑí",
         "trans_jpn": "校長（女性）",
@@ -130168,7 +130168,7 @@
     },
     {
         "id": "653d40a981609a52d98e99b4",
-        "language": "myn",
+        "language": "mya",
         "form": "တီချယ်ကြီး01",
         "romanization": "tìtɕʰɛ̀dʑí",
         "trans_jpn": "教授（職位としての「教授」、大学の先生一般ではない）",
@@ -130253,7 +130253,7 @@
     },
     {
         "id": "653d3ecb81609a52d98e99b3",
-        "language": "myn",
+        "language": "mya",
         "form": "ပီ",
         "romanization": "pì",
         "trans_jpn": "教授（職位としての「教授」、大学の先生一般ではない）",
@@ -130338,7 +130338,7 @@
     },
     {
         "id": "653d3e0981609a52d98e99b2",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖရော်ဖက်ဆာ",
         "romanization": "părɔ̀fɛʔsʰà",
         "trans_jpn": "教授（職位としての「教授」、大学の先生一般ではない）",
@@ -130426,7 +130426,7 @@
     },
     {
         "id": "653d38df81609a52d98e99b1",
-        "language": "myn",
+        "language": "mya",
         "form": "ချယ်",
         "romanization": "tɕʰɛ̀",
         "trans_jpn": "女性の先生",
@@ -130521,7 +130521,7 @@
     },
     {
         "id": "653d35c581609a52d98e99b0",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘွားအေ02",
         "romanization": "pʰwáʔè~bwáʔè",
         "trans_jpn": "祖母（母の母）",
@@ -130606,7 +130606,7 @@
     },
     {
         "id": "653d354d81609a52d98e99af",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘွားအေ01",
         "romanization": "pʰwáʔè~bwáʔè",
         "trans_jpn": "祖母（父の母）",
@@ -130691,7 +130691,7 @@
     },
     {
         "id": "653d34d181609a52d98e99ae",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးအေ02",
         "romanization": "pʰóʔè~bóʔè",
         "trans_jpn": "祖父（母の父）",
@@ -130779,7 +130779,7 @@
     },
     {
         "id": "653d345381609a52d98e99ad",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးအေ01",
         "romanization": "pʰóʔè~bóʔè",
         "trans_jpn": "祖父（父の父）",
@@ -130867,7 +130867,7 @@
     },
     {
         "id": "653d2f5d81609a52d98e99ac",
-        "language": "myn",
+        "language": "mya",
         "form": "အေတို့",
         "romanization": "ʔɛ̀dô",
         "trans_jpn": "親友たち",
@@ -130957,7 +130957,7 @@
     },
     {
         "id": "653d2cff81609a52d98e99ab",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘော်ဒါ",
         "romanization": "bɔ̀dà",
         "trans_jpn": "友達、友人",
@@ -131042,7 +131042,7 @@
     },
     {
         "id": "652a648881609a52d98e99aa",
-        "language": "myn",
+        "language": "mya",
         "form": "ပီဒီအက်ဖ်",
         "romanization": "pìdìʔɛ̂făˌ PDF",
         "trans_jpn": "兵士、市民防衛隊の兵士",
@@ -131130,7 +131130,7 @@
     },
     {
         "id": "652a583e81609a52d98e99a9",
-        "language": "myn",
+        "language": "mya",
         "form": "ရိုးရင်း",
         "romanization": "yóyíɴ",
         "trans_jpn": "友達、晩年にできた友人",
@@ -131218,7 +131218,7 @@
     },
     {
         "id": "652a56b381609a52d98e99a8",
-        "language": "myn",
+        "language": "mya",
         "form": "ရောင်းရင်း",
         "romanization": "yáuɴyíɴ",
         "trans_jpn": "友達、幼い馴染み",
@@ -131306,7 +131306,7 @@
     },
     {
         "id": "652a53dd81609a52d98e99a7",
-        "language": "myn",
+        "language": "mya",
         "form": "အိမ်သူ",
         "romanization": "ʔèiɴd̪ù",
         "trans_jpn": "妻、家内",
@@ -131396,7 +131396,7 @@
     },
     {
         "id": "65217f7281609a52d98e99a6",
-        "language": "myn",
+        "language": "mya",
         "form": "ချစ်သောလေး",
         "romanization": "tɕʰiʔt̪ɔ́lé",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -131481,7 +131481,7 @@
     },
     {
         "id": "64f5f4bb782eec4b128042f8",
-        "language": "myn",
+        "language": "mya",
         "form": "အစ်ကို03",
         "romanization": "ʔăkò",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -131571,7 +131571,7 @@
     },
     {
         "id": "64f5f43b782eec4b128042f7",
-        "language": "myn",
+        "language": "mya",
         "form": "ကို",
         "romanization": "kò",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -131661,7 +131661,7 @@
     },
     {
         "id": "64f5f3ad782eec4b128042f6",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်03",
         "romanization": "màuɴ",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -131751,7 +131751,7 @@
     },
     {
         "id": "64f5ed01782eec4b128042f5",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်ကြီး",
         "romanization": "màuɴɡí",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -131841,7 +131841,7 @@
     },
     {
         "id": "64f5eb70782eec4b128042f4",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်သား02",
         "romanization": "dăbɛ̂d̪á",
         "trans_jpn": "使用人（従う側）",
@@ -131926,7 +131926,7 @@
     },
     {
         "id": "64f4c03c782eec4b128042f3",
-        "language": "myn",
+        "language": "mya",
         "form": "ရှင်မ",
         "romanization": "ɕìɴmâ",
         "trans_jpn": "妻",
@@ -132016,7 +132016,7 @@
     },
     {
         "id": "64f4bf31782eec4b128042f2",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်သား",
         "romanization": "dăbɛ̂d̪á",
         "trans_jpn": "部下",
@@ -132101,7 +132101,7 @@
     },
     {
         "id": "64f4bb9b782eec4b128042f1",
-        "language": "myn",
+        "language": "mya",
         "form": "မ-",
         "romanization": "mâ~ maʔ",
         "trans_jpn": "～さん,～様, ～氏",
@@ -132186,7 +132186,7 @@
     },
     {
         "id": "64f4baee782eec4b128042f0",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်-",
         "romanization": "màuɴ-",
         "trans_jpn": "～さん,～様, ～氏",
@@ -132274,7 +132274,7 @@
     },
     {
         "id": "64f4b904782eec4b128042ef",
-        "language": "myn",
+        "language": "mya",
         "form": "ကို-",
         "romanization": "kò",
         "trans_jpn": "～さん,～様, ～氏",
@@ -132366,7 +132366,7 @@
     },
     {
         "id": "64f4b6e2782eec4b128042ee",
-        "language": "myn",
+        "language": "mya",
         "form": "သမီးတော်",
         "romanization": "t̪ămídɔ̀",
         "trans_jpn": "王女",
@@ -132451,7 +132451,7 @@
     },
     {
         "id": "64f4b587782eec4b128042ed",
-        "language": "myn",
+        "language": "mya",
         "form": "သားတော်",
         "romanization": "t̪ádɔ̀",
         "trans_jpn": "王子",
@@ -132536,7 +132536,7 @@
     },
     {
         "id": "64f4b4b9782eec4b128042ec",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုယ်တော်02",
         "romanization": "kòdɔ̀",
         "trans_jpn": "王子",
@@ -132624,7 +132624,7 @@
     },
     {
         "id": "64f4b2ff782eec4b128042eb",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုယ်တော်01",
         "romanization": "kòdɔ̀",
         "trans_jpn": "僧侶、住職、和尚",
@@ -132712,7 +132712,7 @@
     },
     {
         "id": "64f4b1de782eec4b128042ea",
-        "language": "myn",
+        "language": "mya",
         "form": "ကားမောင်းသမား",
         "romanization": "kámáuɴd̪ămá",
         "trans_jpn": "運転手",
@@ -132797,7 +132797,7 @@
     },
     {
         "id": "64f4b180782eec4b128042e9",
-        "language": "myn",
+        "language": "mya",
         "form": "ကားသမား",
         "romanization": "kád̪ămá",
         "trans_jpn": "運転手",
@@ -132882,7 +132882,7 @@
     },
     {
         "id": "64f4b125782eec4b128042e8",
-        "language": "myn",
+        "language": "mya",
         "form": "အမျိုးသမီးဒရိုက်ဘာ",
         "romanization": "ʔămyód̪ămídăyaiʔbà",
         "trans_jpn": "運転手",
@@ -132967,7 +132967,7 @@
     },
     {
         "id": "64f4b0a0782eec4b128042e7",
-        "language": "myn",
+        "language": "mya",
         "form": "ကားဆရာ",
         "romanization": "kásʰăyà",
         "trans_jpn": "運転手",
@@ -133052,7 +133052,7 @@
     },
     {
         "id": "64f4b012782eec4b128042e6",
-        "language": "myn",
+        "language": "mya",
         "form": "ကားမောင်းသူ",
         "romanization": "kámáuɴd̪ù",
         "trans_jpn": "運転手",
@@ -133137,7 +133137,7 @@
     },
     {
         "id": "64f4aabd782eec4b128042e5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာမကြီး",
         "romanization": "sʰăyàmâdʑí",
         "trans_jpn": "校長",
@@ -133222,7 +133222,7 @@
     },
     {
         "id": "64f4aa2f782eec4b128042e4",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာကြီး",
         "romanization": "sʰăyàdʑí",
         "trans_jpn": "校長",
@@ -133310,7 +133310,7 @@
     },
     {
         "id": "64f4a777782eec4b128042e3",
-        "language": "myn",
+        "language": "mya",
         "form": "အမှုထမ်း",
         "romanization": "ʔăhmûdáɴ",
         "trans_jpn": "職員（役所などの）、公務員",
@@ -133402,7 +133402,7 @@
     },
     {
         "id": "64f4a5dd782eec4b128042e2",
-        "language": "myn",
+        "language": "mya",
         "form": "စတာ့ဖ်01",
         "romanization": "sătâ",
         "trans_jpn": "使用人（従う側）",
@@ -133487,7 +133487,7 @@
     },
     {
         "id": "64f4a3ab782eec4b128042e1",
-        "language": "myn",
+        "language": "mya",
         "form": "စတာ့ဖ်02",
         "romanization": "sătâ",
         "trans_jpn": "職員（役所などの）",
@@ -133572,7 +133572,7 @@
     },
     {
         "id": "64f4a0f5782eec4b128042e0",
-        "language": "myn",
+        "language": "mya",
         "form": "ကာကာ",
         "romanization": "kàkà",
         "trans_jpn": "客",
@@ -133667,7 +133667,7 @@
     },
     {
         "id": "64f49eec782eec4b128042df",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘော့စ်01",
         "romanization": "bɔ̂",
         "trans_jpn": "上司",
@@ -133752,7 +133752,7 @@
     },
     {
         "id": "64f49d8d782eec4b128042de",
-        "language": "myn",
+        "language": "mya",
         "form": "ချစ်လှစွာသော-",
         "romanization": "ʨʰiʔ=hlâ=zwà=d̪ɔ̀",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -133840,7 +133840,7 @@
     },
     {
         "id": "64f49ce9782eec4b128042dd",
-        "language": "myn",
+        "language": "mya",
         "form": "ချစ်-",
         "romanization": "ʨʰiʔ-",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -133937,7 +133937,7 @@
     },
     {
         "id": "64f49c4c782eec4b128042dc",
-        "language": "myn",
+        "language": "mya",
         "form": "သည်း",
         "romanization": "t̪ɛ́",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -134027,7 +134027,7 @@
     },
     {
         "id": "64f49bee782eec4b128042db",
-        "language": "myn",
+        "language": "mya",
         "form": "အသည်း",
         "romanization": "ʔăt̪ɛ́",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -134112,7 +134112,7 @@
     },
     {
         "id": "64f49b5b782eec4b128042da",
-        "language": "myn",
+        "language": "mya",
         "form": "ချစ်",
         "romanization": "ʨʰiʔ",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -134197,7 +134197,7 @@
     },
     {
         "id": "64f49a60782eec4b128042d9",
-        "language": "myn",
+        "language": "mya",
         "form": "အချစ်",
         "romanization": "ʔăʨʰiʔ",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -134285,7 +134285,7 @@
     },
     {
         "id": "64f46186782eec4b128042d0",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်လေး04",
         "romanization": "dɔ̀lé",
         "trans_jpn": "叔母（母の妹）",
@@ -134370,7 +134370,7 @@
     },
     {
         "id": "64f4611c782eec4b128042cf",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်လေး03",
         "romanization": "dɔ̀lé",
         "trans_jpn": "叔母（母の妹）",
@@ -134462,7 +134462,7 @@
     },
     {
         "id": "64f46078782eec4b128042cd",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်ဒေါ်04",
         "romanization": "dɔ̀lé",
         "trans_jpn": "叔母（母の妹）",
@@ -134550,7 +134550,7 @@
     },
     {
         "id": "64f4601c782eec4b128042cc",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်ဒေါ်03",
         "romanization": "dɔ̀dɔ̀",
         "trans_jpn": "叔母（父の妹）",
@@ -134635,7 +134635,7 @@
     },
     {
         "id": "64f45f28782eec4b128042cb",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘွားဘွား03",
         "romanization": "pʰwápʰwá",
         "trans_jpn": "祖母（父の母）",
@@ -134720,7 +134720,7 @@
     },
     {
         "id": "64f45e46782eec4b128042ca",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးဘိုး04",
         "romanization": "pʰópʰó",
         "trans_jpn": "祖父（母の父）",
@@ -134805,7 +134805,7 @@
     },
     {
         "id": "64f45de1782eec4b128042c9",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးဘိုး03",
         "romanization": "pʰópʰó",
         "trans_jpn": "祖父（父の父）",
@@ -134890,7 +134890,7 @@
     },
     {
         "id": "64f45ae4782eec4b128042c8",
-        "language": "myn",
+        "language": "mya",
         "form": "အကြီး04",
         "romanization": "ʔătɕí",
         "trans_jpn": "伯母（母の姉）",
@@ -134975,7 +134975,7 @@
     },
     {
         "id": "64f45a89782eec4b128042c7",
-        "language": "myn",
+        "language": "mya",
         "form": "အကြီး03",
         "romanization": "ʔătɕí",
         "trans_jpn": "伯母（父の姉）",
@@ -135060,7 +135060,7 @@
     },
     {
         "id": "64f45a25782eec4b128042c6",
-        "language": "myn",
+        "language": "mya",
         "form": "အကြီး02",
         "romanization": "ʔătɕí",
         "trans_jpn": "伯母（母の姉）",
@@ -135145,7 +135145,7 @@
     },
     {
         "id": "64f459c1782eec4b128042c5",
-        "language": "myn",
+        "language": "mya",
         "form": "အကြီး01",
         "romanization": "ʔătɕí",
         "trans_jpn": "伯母（父の姉）",
@@ -135230,7 +135230,7 @@
     },
     {
         "id": "64f45095782eec4b128042c4",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ08",
         "romanization": "ʔàɴtì",
         "trans_jpn": "叔母（母の妹）",
@@ -135315,7 +135315,7 @@
     },
     {
         "id": "64f4502e782eec4b128042c3",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ07",
         "romanization": "ʔàɴtì",
         "trans_jpn": "叔母（父の妹）",
@@ -135400,7 +135400,7 @@
     },
     {
         "id": "64f44fbb782eec4b128042c2",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ06",
         "romanization": "ʔàɴtì",
         "trans_jpn": "伯母（母の姉）",
@@ -135485,7 +135485,7 @@
     },
     {
         "id": "64f44f1b782eec4b128042c1",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ05",
         "romanization": "ʔàɴtì",
         "trans_jpn": "伯母（父の姉）",
@@ -135570,7 +135570,7 @@
     },
     {
         "id": "64f446a2782eec4b128042c0",
-        "language": "myn",
+        "language": "mya",
         "form": "တစ်ဝမ်းကွဲညီအစ်ကို",
         "romanization": "tăwáɴɡwéɲìʔăkò",
         "trans_jpn": "いとこ（従兄弟）",
@@ -135644,7 +135644,7 @@
     },
     {
         "id": "64f4465c782eec4b128042bf",
-        "language": "myn",
+        "language": "mya",
         "form": "တစ်ဝမ်းကွဲမောင်နှမ",
         "romanization": "tăwáɴɡwémàuɴhnămâ",
         "trans_jpn": "いとこ",
@@ -135718,7 +135718,7 @@
     },
     {
         "id": "64f44606782eec4b128042be",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီအစ်ကိုတစ်ဝမ်းကွဲ",
         "romanization": "ɲìʔăkòtăwáɴɡwé",
         "trans_jpn": "いとこ（従兄弟）",
@@ -135792,7 +135792,7 @@
     },
     {
         "id": "64f44534782eec4b128042bd",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်နှမတစ်ဝမ်းကွဲ",
         "romanization": "màuɴhnămâtăwáɴɡwé",
         "trans_jpn": "いとこ",
@@ -135877,7 +135877,7 @@
     },
     {
         "id": "64f36573782eec4b128042bc",
-        "language": "myn",
+        "language": "mya",
         "form": "ချာတိတ်မ",
         "romanization": "ʨʰàteiʔmâ",
         "trans_jpn": "若い女性（10代後半～20代、女）",
@@ -135962,7 +135962,7 @@
     },
     {
         "id": "64f3636e782eec4b128042bb",
-        "language": "myn",
+        "language": "mya",
         "form": "အမိ02",
         "romanization": "ʔămî",
         "trans_jpn": "若い女性（10代後半～20代、女）",
@@ -136047,7 +136047,7 @@
     },
     {
         "id": "64f35e17782eec4b128042ba",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီမငယ်01",
         "romanization": "ɲămâŋɛ̀",
         "trans_jpn": "妹、妹さん",
@@ -136132,7 +136132,7 @@
     },
     {
         "id": "64f35cfb782eec4b128042b9",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီမလေး01",
         "romanization": "ɲămâlé",
         "trans_jpn": "妹、妹さん",
@@ -136224,7 +136224,7 @@
     },
     {
         "id": "64f24efb782eec4b128042b8",
-        "language": "myn",
+        "language": "mya",
         "form": "$ရူး",
         "romanization": "sauʔyú",
         "trans_jpn": "まぬけ",
@@ -136309,7 +136309,7 @@
     },
     {
         "id": "64f24e53782eec4b128042b7",
-        "language": "myn",
+        "language": "mya",
         "form": "$ပေါ",
         "romanization": "sauʔpɔ́",
         "trans_jpn": "まぬけ",
@@ -136394,7 +136394,7 @@
     },
     {
         "id": "64f21eeb782eec4b128042b6",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့တတွေ02",
         "romanization": "dô-dă=dwè",
         "trans_jpn": "私達",
@@ -136479,7 +136479,7 @@
     },
     {
         "id": "64f21e62782eec4b128042b5",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့တတွေ01",
         "romanization": "dô-dă=dwè",
         "trans_jpn": "私達",
@@ -136564,7 +136564,7 @@
     },
     {
         "id": "64f21d9d782eec4b128042b4",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့တွေ02",
         "romanization": "dô=dwè",
         "trans_jpn": "私達",
@@ -136649,7 +136649,7 @@
     },
     {
         "id": "64f21d41782eec4b128042b3",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့တွေ01",
         "romanization": "dô=dwè",
         "trans_jpn": "私達",
@@ -136734,7 +136734,7 @@
     },
     {
         "id": "64f21ca0782eec4b128042b2",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့03",
         "romanization": "dô",
         "trans_jpn": "私達（除外形）",
@@ -136822,7 +136822,7 @@
     },
     {
         "id": "64f21c08782eec4b128042b1",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျမတို့02",
         "romanization": "ʨămâ=dô",
         "trans_jpn": "私達（女性）",
@@ -136912,7 +136912,7 @@
     },
     {
         "id": "64f21b57782eec4b128042b0",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျမတို့01",
         "romanization": "ʨămâ=dô",
         "trans_jpn": "私達（女性）",
@@ -137002,7 +137002,7 @@
     },
     {
         "id": "64f21a9d782eec4b128042af",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျနော်တို့02",
         "romanization": "ʨănɔ̀=dô",
         "trans_jpn": "私達（男性）",
@@ -137092,7 +137092,7 @@
     },
     {
         "id": "64f21a2c782eec4b128042ae",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျနော်တို့01",
         "romanization": "ʨănɔ̀=dô",
         "trans_jpn": "私達（男性）",
@@ -137182,7 +137182,7 @@
     },
     {
         "id": "64f217bd782eec4b128042ad",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်တော်တို့02",
         "romanization": "ʨănɔ̀=dô",
         "trans_jpn": "私達（男性）",
@@ -137272,7 +137272,7 @@
     },
     {
         "id": "64f2173b782eec4b128042ac",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်တော်တို့01",
         "romanization": "ʨănɔ̀=dô",
         "trans_jpn": "私達（男性）",
@@ -137362,7 +137362,7 @@
     },
     {
         "id": "64f215f6782eec4b128042ab",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျုပ်တို့02",
         "romanization": "ʨouʔ=tô",
         "trans_jpn": "私達",
@@ -137447,7 +137447,7 @@
     },
     {
         "id": "64f21580782eec4b128042aa",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျုပ်တို့01",
         "romanization": "ʨouʔ=tô",
         "trans_jpn": "私達",
@@ -137532,7 +137532,7 @@
     },
     {
         "id": "64f2116a782eec4b128042a9",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်ုပ်တို့02",
         "romanization": "ʨănouʔ=tô",
         "trans_jpn": "私達",
@@ -137617,7 +137617,7 @@
     },
     {
         "id": "64f210da782eec4b128042a8",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်ုပ်တို့01",
         "romanization": "ʨănouʔ=tô",
         "trans_jpn": "私達",
@@ -137702,7 +137702,7 @@
     },
     {
         "id": "64f20fb6782eec4b128042a7",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒို့02",
         "romanization": "dô",
         "trans_jpn": "私達",
@@ -137790,7 +137790,7 @@
     },
     {
         "id": "64f20f34782eec4b128042a6",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့02",
         "romanization": "dô",
         "trans_jpn": "私達",
@@ -137875,7 +137875,7 @@
     },
     {
         "id": "64f20c8f782eec4b128042a5",
-        "language": "myn",
+        "language": "mya",
         "form": "သူတို့02",
         "romanization": "t̪ù=dô",
         "trans_jpn": "彼ら、彼女ら",
@@ -137960,7 +137960,7 @@
     },
     {
         "id": "64f20b20782eec4b128042a4",
-        "language": "myn",
+        "language": "mya",
         "form": "အသင်တို့",
         "romanization": "ʔăt̪ìɴ=dô",
         "trans_jpn": "あなた達",
@@ -138045,7 +138045,7 @@
     },
     {
         "id": "64f2080d782eec4b128042a3",
-        "language": "myn",
+        "language": "mya",
         "form": "အသင်",
         "romanization": "ʔăt̪ìɴ",
         "trans_jpn": "あなた",
@@ -138133,7 +138133,7 @@
     },
     {
         "id": "64f206d6782eec4b128042a2",
-        "language": "myn",
+        "language": "mya",
         "form": "ညဲ",
         "romanization": "ɲɛ̀",
         "trans_jpn": "あなた",
@@ -138223,7 +138223,7 @@
     },
     {
         "id": "64f203fe782eec4b128042a1",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျမ",
         "romanization": "ʨămâ",
         "trans_jpn": "私、あたし",
@@ -138327,7 +138327,7 @@
     },
     {
         "id": "64f202f9782eec4b128042a0",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျနော်",
         "romanization": "ʨănɔ̀",
         "trans_jpn": "私、俺",
@@ -138417,7 +138417,7 @@
     },
     {
         "id": "64f0bc37782eec4b1280429f",
-        "language": "myn",
+        "language": "mya",
         "form": "သားသမီး",
         "romanization": "t̪ád̪ămí",
         "trans_jpn": "子 、息子娘",
@@ -138505,7 +138505,7 @@
     },
     {
         "id": "64f0bb39782eec4b1280429e",
-        "language": "myn",
+        "language": "mya",
         "form": "နှမငယ်01",
         "romanization": "hnămâŋɛ̀",
         "trans_jpn": "妹（男性にとって）",
@@ -138595,7 +138595,7 @@
     },
     {
         "id": "64f0b9e8782eec4b1280429d",
-        "language": "myn",
+        "language": "mya",
         "form": "နှမလေး01",
         "romanization": "hnămâlé",
         "trans_jpn": "妹（ 男性にとって）",
@@ -138685,7 +138685,7 @@
     },
     {
         "id": "64f0b852782eec4b1280429c",
-        "language": "myn",
+        "language": "mya",
         "form": "နှမ01",
         "romanization": "hnămâ",
         "trans_jpn": "妹（ 男性にとって）",
@@ -138775,7 +138775,7 @@
     },
     {
         "id": "64f0b607782eec4b1280429b",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်မ",
         "romanization": "dăbɛ̂mâ",
         "trans_jpn": "学生（大学）",
@@ -138860,7 +138860,7 @@
     },
     {
         "id": "64f0b5c4782eec4b1280429a",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်မ02",
         "romanization": "dăbɛ̂mâ",
         "trans_jpn": "生徒（中学校、高校）",
@@ -138945,7 +138945,7 @@
     },
     {
         "id": "64f0b56b782eec4b12804299",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်မ01",
         "romanization": "dăbɛ̂mâ",
         "trans_jpn": "児童（小学校）",
@@ -139015,7 +139015,7 @@
     },
     {
         "id": "64f0b4c2782eec4b12804298",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်03",
         "romanization": "dăbɛ̂",
         "trans_jpn": "学生（大学）",
@@ -139100,7 +139100,7 @@
     },
     {
         "id": "64f0b45e782eec4b12804297",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်02",
         "romanization": "dăbɛ̂",
         "trans_jpn": "生徒（中学校、高校）",
@@ -139185,7 +139185,7 @@
     },
     {
         "id": "64f0b3f9782eec4b12804296",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်01",
         "romanization": "dăbɛ̂01",
         "trans_jpn": "児童（小学校）",
@@ -139270,7 +139270,7 @@
     },
     {
         "id": "64f0b24d782eec4b12804295",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်သား",
         "romanization": "dăbɛ̂d̪á",
         "trans_jpn": "部下",
@@ -139355,7 +139355,7 @@
     },
     {
         "id": "64f0b136782eec4b12804294",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်ရင်",
         "romanization": "màuɴyìɴ",
         "trans_jpn": "部下",
@@ -139440,7 +139440,7 @@
     },
     {
         "id": "64f0af2f782eec4b12804293",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘရားသား02",
         "romanization": "bărád̪á",
         "trans_jpn": "兄",
@@ -139530,7 +139530,7 @@
     },
     {
         "id": "64f0aed6782eec4b12804292",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘရို02",
         "romanization": "bărò",
         "trans_jpn": "兄",
@@ -139620,7 +139620,7 @@
     },
     {
         "id": "64f0ae4f782eec4b12804291",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘရို01",
         "romanization": "bărò",
         "trans_jpn": "兄",
@@ -139710,7 +139710,7 @@
     },
     {
         "id": "64f0acf3782eec4b12804290",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘရားသား01",
         "romanization": "bărád̪á",
         "trans_jpn": "兄",
@@ -139800,7 +139800,7 @@
     },
     {
         "id": "64f0ab69782eec4b1280428f",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုကို02",
         "romanization": "kòkò",
         "trans_jpn": "兄",
@@ -139885,7 +139885,7 @@
     },
     {
         "id": "64f0984b782eec4b1280428e",
-        "language": "myn",
+        "language": "mya",
         "form": "စစ်သမီး",
         "romanization": "siʔt̪ămí",
         "trans_jpn": "兵士（女）",
@@ -139973,7 +139973,7 @@
     },
     {
         "id": "64f09644782eec4b1280428d",
-        "language": "myn",
+        "language": "mya",
         "form": "စခ",
         "romanization": "sâkʰâ",
         "trans_jpn": "兵士、軍の犬",
@@ -140061,7 +140061,7 @@
     },
     {
         "id": "64f0931a782eec4b1280428c",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟျောင့်",
         "romanization": "hyâuɴ",
         "trans_jpn": "お前、君、あなた、奴",
@@ -140151,7 +140151,7 @@
     },
     {
         "id": "64ed0bce782eec4b1280428b",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီငယ်02",
         "romanization": "ŋì=ŋɛ̀",
         "trans_jpn": "(兄から見た）弟、弟さん",
@@ -140241,7 +140241,7 @@
     },
     {
         "id": "64ed0ac1782eec4b1280428a",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီငယ်01",
         "romanization": "ŋì-ŋɛ̀",
         "trans_jpn": "（兄から見た）弟、弟さん",
@@ -140331,7 +140331,7 @@
     },
     {
         "id": "64ed087c782eec4b12804289",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီလေး01",
         "romanization": "ŋì-lé",
         "trans_jpn": "（兄から見た）弟、弟さん",
@@ -140421,7 +140421,7 @@
     },
     {
         "id": "64ed0681782eec4b12804288",
-        "language": "myn",
+        "language": "mya",
         "form": "စစ်02",
         "romanization": "siʔ",
         "trans_jpn": "妹",
@@ -140509,7 +140509,7 @@
     },
     {
         "id": "64ed0580782eec4b12804287",
-        "language": "myn",
+        "language": "mya",
         "form": "စစ်01",
         "romanization": "siʔ",
         "trans_jpn": "姉",
@@ -140597,7 +140597,7 @@
     },
     {
         "id": "64ed02d8782eec4b12804286",
-        "language": "myn",
+        "language": "mya",
         "form": "မမ02",
         "romanization": "mâmâ",
         "trans_jpn": "姉",
@@ -140685,7 +140685,7 @@
     },
     {
         "id": "64ecfefa782eec4b12804285",
-        "language": "myn",
+        "language": "mya",
         "form": "နောင်တော်02",
         "romanization": "nauɴdɔ̀",
         "trans_jpn": "兄",
@@ -140784,7 +140784,7 @@
     },
     {
         "id": "64ecfd15782eec4b12804284",
-        "language": "myn",
+        "language": "mya",
         "form": "နောင်ကြီး02",
         "romanization": "nàuɴdʑí",
         "trans_jpn": "兄",
@@ -140893,7 +140893,7 @@
     },
     {
         "id": "64ecf8f1782eec4b12804283",
-        "language": "myn",
+        "language": "mya",
         "form": "နောင်တော်01",
         "romanization": "nàuɴdɔ̀",
         "trans_jpn": "兄",
@@ -140978,7 +140978,7 @@
     },
     {
         "id": "64ecf7cf782eec4b12804282",
-        "language": "myn",
+        "language": "mya",
         "form": "နောင်ကြီး01",
         "romanization": "nàuɴdʑí",
         "trans_jpn": "兄",
@@ -141077,7 +141077,7 @@
     },
     {
         "id": "64ecdafe782eec4b12804281",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုကို01",
         "romanization": "kòkò",
         "trans_jpn": "兄",
@@ -141165,7 +141165,7 @@
     },
     {
         "id": "64ecd850782eec4b12804280",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘွားဘွား02",
         "romanization": "pʰwápʰwá",
         "trans_jpn": "祖母（母の母）",
@@ -141250,7 +141250,7 @@
     },
     {
         "id": "64ecd7f4782eec4b1280427f",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘွားဘွား01",
         "romanization": "pʰwápʰwá",
         "trans_jpn": "祖母（父の母）",
@@ -141335,7 +141335,7 @@
     },
     {
         "id": "64ecd705782eec4b1280427e",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးဘိုး02",
         "romanization": "pʰópʰó",
         "trans_jpn": "祖父（母の父）",
@@ -141420,7 +141420,7 @@
     },
     {
         "id": "64ecd692782eec4b1280427d",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးဘိုး01",
         "romanization": "pʰópʰó",
         "trans_jpn": "祖父（父の父）",
@@ -141505,7 +141505,7 @@
     },
     {
         "id": "64ecd4a2782eec4b1280427c",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒွေးလေး",
         "romanization": "dwélé",
         "trans_jpn": "叔母（母の妹）",
@@ -141590,7 +141590,7 @@
     },
     {
         "id": "64ecd3d1782eec4b1280427b",
-        "language": "myn",
+        "language": "mya",
         "form": "အရီးလေး",
         "romanization": "ʔăyílé",
         "trans_jpn": "叔母（父の妹）",
@@ -141675,7 +141675,7 @@
     },
     {
         "id": "64ecd328782eec4b1280427a",
-        "language": "myn",
+        "language": "mya",
         "form": "အရီး",
         "romanization": "ʔăyí",
         "trans_jpn": "叔母（父の妹）",
@@ -141760,7 +141760,7 @@
     },
     {
         "id": "64ecd153782eec4b12804279",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ04",
         "romanization": "ʔàɴtì",
         "trans_jpn": "叔母（母の妹）",
@@ -141845,7 +141845,7 @@
     },
     {
         "id": "64ecd0d0782eec4b12804278",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ03",
         "romanization": "ʔàɴtì",
         "trans_jpn": "叔母（父の妹）",
@@ -141930,7 +141930,7 @@
     },
     {
         "id": "64ecd04d782eec4b12804277",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ02",
         "romanization": "ʔàɴtì",
         "trans_jpn": "伯母（母の姉）",
@@ -142015,7 +142015,7 @@
     },
     {
         "id": "64eccfcd782eec4b12804276",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်တီ01",
         "romanization": "ʔàɴtì",
         "trans_jpn": "伯母（父の姉）",
@@ -142100,7 +142100,7 @@
     },
     {
         "id": "64eccd1f782eec4b12804275",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်လေး02",
         "romanization": "dɔ̀lé",
         "trans_jpn": "叔母（母の妹）",
@@ -142192,7 +142192,7 @@
     },
     {
         "id": "64eccb2a782eec4b12804274",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်လေး01",
         "romanization": "dɔ̀lé",
         "trans_jpn": "叔母（父の妹）",
@@ -142284,7 +142284,7 @@
     },
     {
         "id": "64ecc99b782eec4b12804273",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်ဒေါ်02",
         "romanization": "dɔ̀dɔ̀",
         "trans_jpn": "叔母（母の妹）",
@@ -142372,7 +142372,7 @@
     },
     {
         "id": "64ecc8c8782eec4b12804272",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်ဒေါ်01",
         "romanization": "dɔ̀dɔ̀",
         "trans_jpn": "叔母（父の妹）",
@@ -142460,7 +142460,7 @@
     },
     {
         "id": "64e843cb782eec4b12804271",
-        "language": "myn",
+        "language": "mya",
         "form": "သူငယ်မ",
         "romanization": "t̪ăŋɛ̀mâ",
         "trans_jpn": "女の子、若い女性",
@@ -142545,7 +142545,7 @@
     },
     {
         "id": "64e19f9f782eec4b12804270",
-        "language": "myn",
+        "language": "mya",
         "form": "အဆွေတော်",
         "romanization": "ʔăshwèdɔ̀",
         "trans_jpn": "友達、友人",
@@ -142640,7 +142640,7 @@
     },
     {
         "id": "64e19d1e782eec4b1280426f",
-        "language": "myn",
+        "language": "mya",
         "form": "အဆွေ",
         "romanization": "ʔăshwè",
         "trans_jpn": "友達、友人",
@@ -142730,7 +142730,7 @@
     },
     {
         "id": "64e198a7782eec4b1280426e",
-        "language": "myn",
+        "language": "mya",
         "form": "အာစရိ",
         "romanization": "ʔàsărî",
         "trans_jpn": "先生、師匠",
@@ -142818,7 +142818,7 @@
     },
     {
         "id": "64e19657782eec4b1280426d",
-        "language": "myn",
+        "language": "mya",
         "form": "တီချယ်",
         "romanization": "tìtɕʰɛ̀",
         "trans_jpn": "女性の先生",
@@ -142913,7 +142913,7 @@
     },
     {
         "id": "64da073f782eec4b1280426c",
-        "language": "myn",
+        "language": "mya",
         "form": "လူကြီးမင်း",
         "romanization": "lùdʑímíɴ",
         "trans_jpn": "紳士諸君",
@@ -142993,7 +142993,7 @@
     },
     {
         "id": "64da00be782eec4b1280426b",
-        "language": "myn",
+        "language": "mya",
         "form": "ပသီ",
         "romanization": "păt̪ì",
         "trans_jpn": "スルタン",
@@ -143078,7 +143078,7 @@
     },
     {
         "id": "64d9e4fb782eec4b1280426a",
-        "language": "myn",
+        "language": "mya",
         "form": "အချင်းတို့",
         "romanization": "ʔătɕhíɴ=dô",
         "trans_jpn": "皆さん、君たち",
@@ -143163,7 +143163,7 @@
     },
     {
         "id": "64c62513782eec4b12804269",
-        "language": "myn",
+        "language": "mya",
         "form": "လူ",
         "romanization": "lù",
         "trans_jpn": "人",
@@ -143251,7 +143251,7 @@
     },
     {
         "id": "64c51999782eec4b12804261",
-        "language": "myn",
+        "language": "mya",
         "form": "အရှင်01",
         "romanization": "ʔăɕìɴ",
         "trans_jpn": "主人",
@@ -143339,7 +143339,7 @@
     },
     {
         "id": "64c5195a782eec4b1280425d",
-        "language": "myn",
+        "language": "mya",
         "form": "လူကြီးမင်းတို့",
         "romanization": "lùdʑímíɴ=dô",
         "trans_jpn": "紳士諸君",
@@ -143431,7 +143431,7 @@
     },
     {
         "id": "622dee2aaebf9a9f58be98f3",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့01",
         "romanization": "dô",
         "trans_jpn": "私",
@@ -143516,7 +143516,7 @@
     },
     {
         "id": "622dab79aebf9a9f58be98f2",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးကြီး04",
         "romanization": "tɕítɕí",
         "trans_jpn": "伯母（母の姉）",
@@ -143604,7 +143604,7 @@
     },
     {
         "id": "622daaf9aebf9a9f58be98f1",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးကြီး03",
         "romanization": "tɕítɕí",
         "trans_jpn": "伯母（父の姉）",
@@ -143692,7 +143692,7 @@
     },
     {
         "id": "622da6eaaebf9a9f58be98ef",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးကြီး02",
         "romanization": " tɕítɕí",
         "trans_jpn": "伯母（母の姉）",
@@ -143777,7 +143777,7 @@
     },
     {
         "id": "622da633aebf9a9f58be98ee",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးကြီး01",
         "romanization": "tɕítɕí",
         "trans_jpn": "伯母（父の姉）",
@@ -143862,7 +143862,7 @@
     },
     {
         "id": "622da4a0aebf9a9f58be98ed",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်ကယ်04",
         "romanization": "ʔàɴkɛ̀",
         "trans_jpn": "叔父（母の弟）",
@@ -143947,7 +143947,7 @@
     },
     {
         "id": "622da38caebf9a9f58be98ec",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးဦး04",
         "romanization": "ʔúʔú",
         "trans_jpn": "叔父（母の弟）",
@@ -144032,7 +144032,7 @@
     },
     {
         "id": "622da2dcaebf9a9f58be98eb",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးဦး03",
         "romanization": "ʔúʔú",
         "trans_jpn": "叔父（父の弟）",
@@ -144117,7 +144117,7 @@
     },
     {
         "id": "622da1d0aebf9a9f58be98ea",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘဘ04",
         "romanization": "bâbâ",
         "trans_jpn": "伯父（父の兄）",
@@ -144202,7 +144202,7 @@
     },
     {
         "id": "622da115aebf9a9f58be98e9",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘဘ03",
         "romanization": "bâbâ",
         "trans_jpn": "伯父（父の兄）",
@@ -144287,7 +144287,7 @@
     },
     {
         "id": "622d9aacaebf9a9f58be98e8",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘဘ02",
         "romanization": "bâbâ",
         "trans_jpn": "伯父（母の兄）",
@@ -144372,7 +144372,7 @@
     },
     {
         "id": "622d9976aebf9a9f58be98e7",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖ",
         "romanization": "ʔăpʰâ",
         "trans_jpn": "父親",
@@ -144457,7 +144457,7 @@
     },
     {
         "id": "622cd013aebf9a9f58be98e2",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်-",
         "romanization": "dɔ̀",
         "trans_jpn": "Ms.",
@@ -144542,7 +144542,7 @@
     },
     {
         "id": "622ccf77aebf9a9f58be98e1",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦး-",
         "romanization": "ʔú-",
         "trans_jpn": "～さん,～様, ～氏",
@@ -144634,7 +144634,7 @@
     },
     {
         "id": "622c979baebf9a9f58be98e0",
-        "language": "myn",
+        "language": "mya",
         "form": "ဝန်ထမ်း02",
         "romanization": "wìɴdáɴ~wùɴdáɴ",
         "trans_jpn": "職員（役所などの）",
@@ -144719,7 +144719,7 @@
     },
     {
         "id": "622c85b6aebf9a9f58be98df",
-        "language": "myn",
+        "language": "mya",
         "form": "သား03",
         "romanization": "t̪á",
         "trans_jpn": "息子",
@@ -144804,7 +144804,7 @@
     },
     {
         "id": "622c850caebf9a9f58be98de",
-        "language": "myn",
+        "language": "mya",
         "form": "သား02",
         "romanization": "t̪á",
         "trans_jpn": "息子",
@@ -144889,7 +144889,7 @@
     },
     {
         "id": "622c81b5aebf9a9f58be98dd",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘွားရဲ့ မြေး",
         "romanization": "ʔăpʰwáyɛ̂myí",
         "trans_jpn": "おばあちゃんの孫",
@@ -144977,7 +144977,7 @@
     },
     {
         "id": "622c3320aebf9a9f58be98dc",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးဦး02",
         "romanization": "ʔúʔú",
         "trans_jpn": "叔父（父の弟）",
@@ -145062,7 +145062,7 @@
     },
     {
         "id": "622c30e3aebf9a9f58be98db",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်ကယ်03",
         "romanization": "ʔàɴkɛ̀",
         "trans_jpn": "叔父（父の弟）",
@@ -145150,7 +145150,7 @@
     },
     {
         "id": "622c2fb4aebf9a9f58be98da",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးဦး01",
         "romanization": "ʔúʔú",
         "trans_jpn": "叔父（父の弟）",
@@ -145235,7 +145235,7 @@
     },
     {
         "id": "622c2ec1aebf9a9f58be98d9",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်ကယ်02",
         "romanization": "ʔàɴkɛ̀",
         "trans_jpn": "伯父（母の兄）",
@@ -145320,7 +145320,7 @@
     },
     {
         "id": "622c2b78aebf9a9f58be98d8",
-        "language": "myn",
+        "language": "mya",
         "form": "လူလေး",
         "romanization": "lùlé",
         "trans_jpn": "若い男性（10代後半～20代、男）",
@@ -145405,7 +145405,7 @@
     },
     {
         "id": "622c22bbaebf9a9f58be98d7",
-        "language": "myn",
+        "language": "mya",
         "form": "သူငယ်",
         "romanization": "t̪ăŋɛ̀",
         "trans_jpn": "若い男性（10代後半～20代、男）",
@@ -145500,7 +145500,7 @@
     },
     {
         "id": "622b0d81aebf9a9f58be98c8",
-        "language": "myn",
+        "language": "mya",
         "form": "အန်ကယ်01",
         "romanization": "ʔàɴkɛ̀",
         "trans_jpn": "伯父（父の兄）",
@@ -145585,7 +145585,7 @@
     },
     {
         "id": "622b095baebf9a9f58be98c7",
-        "language": "myn",
+        "language": "mya",
         "form": "အမိ01",
         "romanization": "ʔămî",
         "trans_jpn": "母",
@@ -145673,7 +145673,7 @@
     },
     {
         "id": "622b0821aebf9a9f58be98c6",
-        "language": "myn",
+        "language": "mya",
         "form": "မအေ",
         "romanization": " măʔè",
         "trans_jpn": "母親",
@@ -145761,7 +145761,7 @@
     },
     {
         "id": "622b0732aebf9a9f58be98c5",
-        "language": "myn",
+        "language": "mya",
         "form": "မိခင်",
         "romanization": "mîɡìɴ",
         "trans_jpn": "母",
@@ -145846,7 +145846,7 @@
     },
     {
         "id": "622b0589aebf9a9f58be98c4",
-        "language": "myn",
+        "language": "mya",
         "form": "မာမီ",
         "romanization": "màmì",
         "trans_jpn": "母",
@@ -145931,7 +145931,7 @@
     },
     {
         "id": "622b04e7aebf9a9f58be98c3",
-        "language": "myn",
+        "language": "mya",
         "form": "မေမေ",
         "romanization": "mèmè",
         "trans_jpn": "母",
@@ -146016,7 +146016,7 @@
     },
     {
         "id": "622b0011aebf9a9f58be98c2",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖအေ",
         "romanization": "pʰăʔè",
         "trans_jpn": "父親",
@@ -146101,7 +146101,7 @@
     },
     {
         "id": "622afda5aebf9a9f58be98c1",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖခင်",
         "romanization": "pʰâɡìɴ",
         "trans_jpn": "父親",
@@ -146186,7 +146186,7 @@
     },
     {
         "id": "622afaafaebf9a9f58be98c0",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒယ်ဒီ",
         "romanization": "dɛ̀dì",
         "trans_jpn": "父",
@@ -146271,7 +146271,7 @@
     },
     {
         "id": "622af5f2aebf9a9f58be98bf",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖေဖေ",
         "romanization": "pʰèpʰè",
         "trans_jpn": "父",
@@ -146359,7 +146359,7 @@
     },
     {
         "id": "6229a254aebf9a9f58be9837",
-        "language": "myn",
+        "language": "mya",
         "form": "ချာတိတ်02",
         "romanization": "tɕàteiʔ",
         "trans_jpn": "若者（10代後半～20代、男女問わず）",
@@ -146444,7 +146444,7 @@
     },
     {
         "id": "62299f1eaebf9a9f58be9836",
-        "language": "myn",
+        "language": "mya",
         "form": "ကောင်မလေး02",
         "romanization": "kàuɴmàlé",
         "trans_jpn": "若い女性（10代後半～20代、女）",
@@ -146546,7 +146546,7 @@
     },
     {
         "id": "62299bf0aebf9a9f58be9835",
-        "language": "myn",
+        "language": "mya",
         "form": "ကောင်လေး02",
         "romanization": "kàuɴlé",
         "trans_jpn": "若い男性（10代後半～20代、男）",
@@ -146631,7 +146631,7 @@
     },
     {
         "id": "62299953aebf9a9f58be9834",
-        "language": "myn",
+        "language": "mya",
         "form": "ကလေးမလေး",
         "romanization": "kʰălémâlé",
         "trans_jpn": "お嬢さん（10代後半から20代前半、女）",
@@ -146716,7 +146716,7 @@
     },
     {
         "id": "62298d56aebf9a9f58be9833",
-        "language": "myn",
+        "language": "mya",
         "form": "မီးမီးလေး",
         "romanization": "mímílé",
         "trans_jpn": "お嬢ちゃん（10歳くらいまでの年少者、女）",
@@ -146804,7 +146804,7 @@
     },
     {
         "id": "62298caaaebf9a9f58be9832",
-        "language": "myn",
+        "language": "mya",
         "form": "မီးမီး",
         "romanization": "mímí",
         "trans_jpn": "お嬢ちゃん（10歳くらいまでの年少者、女）",
@@ -146889,7 +146889,7 @@
     },
     {
         "id": "62298c02aebf9a9f58be9831",
-        "language": "myn",
+        "language": "mya",
         "form": "သမီးလေး",
         "romanization": "t̪ămílé",
         "trans_jpn": "お嬢ちゃん（10歳くらいまでの年少者、女）",
@@ -146974,7 +146974,7 @@
     },
     {
         "id": "62298956aebf9a9f58be9830",
-        "language": "myn",
+        "language": "mya",
         "form": "ချာတိတ်လေး",
         "romanization": "tɕàteiʔlé",
         "trans_jpn": "坊や",
@@ -147059,7 +147059,7 @@
     },
     {
         "id": "62298737aebf9a9f58be982f",
-        "language": "myn",
+        "language": "mya",
         "form": "သားသားလေး",
         "romanization": "t̪át̪álé",
         "trans_jpn": "坊や",
@@ -147144,7 +147144,7 @@
     },
     {
         "id": "622984c4aebf9a9f58be982e",
-        "language": "myn",
+        "language": "mya",
         "form": "သားသား",
         "romanization": "t̪á",
         "trans_jpn": "坊や",
@@ -147232,7 +147232,7 @@
     },
     {
         "id": "61b61f9caebf9a9f58be9721",
-        "language": "myn",
+        "language": "mya",
         "form": "ညည်းတို့",
         "romanization": "ɲí=dô",
         "trans_jpn": "あなた達",
@@ -147320,7 +147320,7 @@
     },
     {
         "id": "61b61d69aebf9a9f58be9720",
-        "language": "myn",
+        "language": "mya",
         "form": "ရှင်တို့",
         "romanization": "ɕìɴ=dô",
         "trans_jpn": "あなた達",
@@ -147410,7 +147410,7 @@
     },
     {
         "id": "61b61d10aebf9a9f58be971f",
-        "language": "myn",
+        "language": "mya",
         "form": "ခင်ဗျားတို့",
         "romanization": "kʰămyá=dô",
         "trans_jpn": "あなた達",
@@ -147500,7 +147500,7 @@
     },
     {
         "id": "61b61cc9aebf9a9f58be971e",
-        "language": "myn",
+        "language": "mya",
         "form": "မင်းတို့",
         "romanization": "míɴ=dô",
         "trans_jpn": "あなた達",
@@ -147588,7 +147588,7 @@
     },
     {
         "id": "61b61c67aebf9a9f58be971d",
-        "language": "myn",
+        "language": "mya",
         "form": "နင်တို့",
         "romanization": "nìɴ=dô",
         "trans_jpn": "あなた達",
@@ -147676,7 +147676,7 @@
     },
     {
         "id": "61b616f0aebf9a9f58be971c",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒို့01",
         "romanization": "dô",
         "trans_jpn": "私",
@@ -147764,7 +147764,7 @@
     },
     {
         "id": "61b6138aaebf9a9f58be971b",
-        "language": "myn",
+        "language": "mya",
         "form": "လူကုံထံ",
         "romanization": "lùɡòuɴd̪àɴ",
         "trans_jpn": "お金持ち（の人）",
@@ -147849,7 +147849,7 @@
     },
     {
         "id": "61b61337aebf9a9f58be971a",
-        "language": "myn",
+        "language": "mya",
         "form": "လူချမ်းသာ",
         "romanization": "lùtɕʰáɴd̪à",
         "trans_jpn": "お金持ち（の人）",
@@ -147934,7 +147934,7 @@
     },
     {
         "id": "61b612f8aebf9a9f58be9719",
-        "language": "myn",
+        "language": "mya",
         "form": "သူကြွယ်",
         "romanization": "d̪ăʥwè",
         "trans_jpn": "お金持ち（の人）",
@@ -148022,7 +148022,7 @@
     },
     {
         "id": "61b6122caebf9a9f58be9718",
-        "language": "myn",
+        "language": "mya",
         "form": "သောက်ပေါ",
         "romanization": "sauʔpɔ́",
         "trans_jpn": "まぬけ",
@@ -148114,7 +148114,7 @@
     },
     {
         "id": "61b611f9aebf9a9f58be9717",
-        "language": "myn",
+        "language": "mya",
         "form": "သောက်ရူး",
         "romanization": "sauʔyú",
         "trans_jpn": "ばか",
@@ -148206,7 +148206,7 @@
     },
     {
         "id": "61b61128aebf9a9f58be9716",
-        "language": "myn",
+        "language": "mya",
         "form": "အပေါ",
         "romanization": "ʔăpɔ́",
         "trans_jpn": "まぬけ",
@@ -148291,7 +148291,7 @@
     },
     {
         "id": "61b60fd3aebf9a9f58be9715",
-        "language": "myn",
+        "language": "mya",
         "form": "ငပေါ",
         "romanization": "ŋăpɔ́",
         "trans_jpn": "まぬけ",
@@ -148383,7 +148383,7 @@
     },
     {
         "id": "61b60eb0aebf9a9f58be9714",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီသုံးပါး",
         "romanization": "dìt̪óuɴbá",
         "trans_jpn": "このお三方",
@@ -148471,7 +148471,7 @@
     },
     {
         "id": "61b60e5faebf9a9f58be9713",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီသုံးဦး",
         "romanization": "dìt̪óuɴʔú",
         "trans_jpn": "この三名",
@@ -148556,7 +148556,7 @@
     },
     {
         "id": "61b60da7aebf9a9f58be9712",
-        "language": "myn",
+        "language": "mya",
         "form": "အိမ်စာ မတင်ရသေးတဲ့လူ",
         "romanization": "ʔèiɴzà mătìɴyâd̪éd̪ɛ̂ lù",
         "trans_jpn": "課題をまだ出していない人",
@@ -148644,7 +148644,7 @@
     },
     {
         "id": "61b60c01aebf9a9f58be9711",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖျားရှိတဲ့လူ",
         "romanization": "ʔăpʰyá ɕî dɛ̂ lù",
         "trans_jpn": "熱のある人（関係節を使う）",
@@ -148729,7 +148729,7 @@
     },
     {
         "id": "61b60b43aebf9a9f58be9710",
-        "language": "myn",
+        "language": "mya",
         "form": "မိချော",
         "romanization": "mîtɕʰɔ́",
         "trans_jpn": "美しいお姉さん",
@@ -148814,7 +148814,7 @@
     },
     {
         "id": "61b60a62aebf9a9f58be970f",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီနောက်ခုံက တစ်ယောက်",
         "romanization": "ʔɛ́dì nauʔkʰouɴɡâ tăyauʔ",
         "trans_jpn": "そこの後ろの席の方",
@@ -148902,7 +148902,7 @@
     },
     {
         "id": "61b609a7aebf9a9f58be970e",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုကောင်မလေး",
         "romanization": "hòkàuɴmâlé~ hòkàuɴmàlé",
         "trans_jpn": "そこのあなた",
@@ -148987,7 +148987,7 @@
     },
     {
         "id": "61b60946aebf9a9f58be970d",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုကောင်လေး",
         "romanization": "hòkàuɴlé",
         "trans_jpn": "そこのあなた",
@@ -149072,7 +149072,7 @@
     },
     {
         "id": "61b6077aaebf9a9f58be970c",
-        "language": "myn",
+        "language": "mya",
         "form": "ရေဒီယိုပရိသတ်",
         "romanization": "yèdìyòpăreiʔtaʔ",
         "trans_jpn": "ラジオのリスナー",
@@ -149160,7 +149160,7 @@
     },
     {
         "id": "61b606c9aebf9a9f58be970b",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖေဖေ့(ရဲ့)ကလေး",
         "romanization": "pʰèpʰê(yɛ̂)kʰăle",
         "trans_jpn": "お父さんの子",
@@ -149198,7 +149198,7 @@
     },
     {
         "id": "61b6067daebf9a9f58be970a",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖေ့ရဲ့ကလေး",
         "romanization": "ʔăpʰêyɛ̂kʰălé",
         "trans_jpn": "お父さんの子",
@@ -149286,7 +149286,7 @@
     },
     {
         "id": "61b603aaaebf9a9f58be9709",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖေဖေ့(ရဲ့)သမီး",
         "romanization": "pʰèpʰê(yɛ̂)t̪ămí",
         "trans_jpn": "お父さんの子",
@@ -149350,7 +149350,7 @@
     },
     {
         "id": "61b60356aebf9a9f58be9708",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖေ့ရဲ့သမီး",
         "romanization": "ʔăpʰêyɛ̂t̪ămí",
         "trans_jpn": "お父さんの子",
@@ -149438,7 +149438,7 @@
     },
     {
         "id": "61b60279aebf9a9f58be9707",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖေဖေ့(ရဲ့)သား",
         "romanization": "pʰèpʰê(yɛ̂)t̪á",
         "trans_jpn": "お父さんの子",
@@ -149528,7 +149528,7 @@
     },
     {
         "id": "61b5c8eaaebf9a9f58be9706",
-        "language": "myn",
+        "language": "mya",
         "form": "သင့်ရဲ့ဖခင်",
         "romanization": "t̪îɴyɛ̂ʔăpʰè",
         "trans_jpn": "あなたのお父さん",
@@ -149616,7 +149616,7 @@
     },
     {
         "id": "61b5c813aebf9a9f58be9705",
-        "language": "myn",
+        "language": "mya",
         "form": "ရှင့်ရဲ့အဖေ",
         "romanization": "ɕîɴyɛ̂ʔăpʰè",
         "trans_jpn": "あなたのお父さん",
@@ -149706,7 +149706,7 @@
     },
     {
         "id": "61b5c401aebf9a9f58be9704",
-        "language": "myn",
+        "language": "mya",
         "form": "မမဖြူဖြူ",
         "romanization": "mâmâpʰyùpʰyù",
         "trans_jpn": "ピューピュー姉さん",
@@ -149791,7 +149791,7 @@
     },
     {
         "id": "61b5c0dcaebf9a9f58be9703",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာမ ဒေါ်ဖြူဖြူ ",
         "romanization": null,
         "trans_jpn": "ピューピュー先生",
@@ -149876,7 +149876,7 @@
     },
     {
         "id": "61b5c076aebf9a9f58be9702",
-        "language": "myn",
+        "language": "mya",
         "form": "ဝန်ကြီးချုပ် ဒေါ်ဖြူဖြူ",
         "romanization": "wìɴdʑídʑouʔdɔ̀pʰyùpʰyù~wùɴdʑídʑouʔdɔ̀pʰyùpʰyù",
         "trans_jpn": "ピューピュー首相",
@@ -149961,7 +149961,7 @@
     },
     {
         "id": "61b5bf7faebf9a9f58be9701",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါ်ဖြူဖြူ",
         "romanization": "dɔ̀pʰyùpʰyù",
         "trans_jpn": "ピューピューさん",
@@ -150046,7 +150046,7 @@
     },
     {
         "id": "61b5b271aebf9a9f58be9700",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖြူဖြူ",
         "romanization": "phyùphyù",
         "trans_jpn": "ピューピュー（人名）",
@@ -150131,7 +150131,7 @@
     },
     {
         "id": "61b5b1a6aebf9a9f58be96ff",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟို-",
         "romanization": "hò-",
         "trans_jpn": "あの",
@@ -150216,7 +150216,7 @@
     },
     {
         "id": "61b5b070aebf9a9f58be96fe",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုဟာတွေရဲ့",
         "romanization": "hòdwèyɛ̂",
         "trans_jpn": "あれらの",
@@ -150301,7 +150301,7 @@
     },
     {
         "id": "61b5ac6caebf9a9f58be96fd",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီဟာတွေရဲ့",
         "romanization": "ʔɛ́dìhàdwèyɛ̂",
         "trans_jpn": "それらの",
@@ -150386,7 +150386,7 @@
     },
     {
         "id": "61b5ac28aebf9a9f58be96fc",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒါတွေရဲ့",
         "romanization": "ʔɛ́dàdwèyɛ̂",
         "trans_jpn": "それらの",
@@ -150471,7 +150471,7 @@
     },
     {
         "id": "61b5abf1aebf9a9f58be96fb",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီဟာတွေ",
         "romanization": "ʔɛ́dìhàdwè",
         "trans_jpn": "それら",
@@ -150556,7 +150556,7 @@
     },
     {
         "id": "61b5a8ecaebf9a9f58be96fa",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီဟာတွေရဲ့",
         "romanization": "dìhàdwèyɛ̂",
         "trans_jpn": "これらの",
@@ -150641,7 +150641,7 @@
     },
     {
         "id": "61b5a7e0aebf9a9f58be96f9",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒါတွေရဲ့",
         "romanization": "dàdwèyɛ̂",
         "trans_jpn": "これらの",
@@ -150726,7 +150726,7 @@
     },
     {
         "id": "61b5a788aebf9a9f58be96f8",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီဟာတွေ",
         "romanization": "dìhàdwè",
         "trans_jpn": "これら",
@@ -150811,7 +150811,7 @@
     },
     {
         "id": "61b5a671aebf9a9f58be96f7",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီ-",
         "romanization": "ʔɛ́dì-",
         "trans_jpn": "その",
@@ -150896,7 +150896,7 @@
     },
     {
         "id": "61b5a627aebf9a9f58be96f6",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီဟာ",
         "romanization": "ʔɛ́dìhà",
         "trans_jpn": "それ",
@@ -150970,7 +150970,7 @@
     },
     {
         "id": "61b5a51caebf9a9f58be96f5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီ-",
         "romanization": "dì-",
         "trans_jpn": "この",
@@ -151044,7 +151044,7 @@
     },
     {
         "id": "61b5a4b9aebf9a9f58be96f4",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီဟာ",
         "romanization": "dìhà",
         "trans_jpn": "これ",
@@ -151129,7 +151129,7 @@
     },
     {
         "id": "61b5a330aebf9a9f58be96f3",
-        "language": "myn",
+        "language": "mya",
         "form": "နှစ်ပါး",
         "romanization": "hnăpá",
         "trans_jpn": "お二方",
@@ -151214,7 +151214,7 @@
     },
     {
         "id": "61b5a220aebf9a9f58be96f2",
-        "language": "myn",
+        "language": "mya",
         "form": "နှစ်ဦး",
         "romanization": "hnăʔú",
         "trans_jpn": "二人、二名",
@@ -151299,7 +151299,7 @@
     },
     {
         "id": "61b30fcdaebf9a9f58be96f1",
-        "language": "myn",
+        "language": "mya",
         "form": "အရှင်မင်းကြီး",
         "romanization": "ʔăɕìɴmíɴdʑí",
         "trans_jpn": "王様",
@@ -151384,7 +151384,7 @@
     },
     {
         "id": "61b30f7faebf9a9f58be96f0",
-        "language": "myn",
+        "language": "mya",
         "form": "မင်းကြီး",
         "romanization": "míɴdʑí",
         "trans_jpn": "王様",
@@ -151469,7 +151469,7 @@
     },
     {
         "id": "61b30f3caebf9a9f58be96ef",
-        "language": "myn",
+        "language": "mya",
         "form": "အရှင်02",
         "romanization": "ʔăɕìɴ",
         "trans_jpn": "王",
@@ -151554,7 +151554,7 @@
     },
     {
         "id": "61b30df8aebf9a9f58be96ee",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖားသား",
         "romanization": " pʰád̪á",
         "trans_jpn": "神父",
@@ -151639,7 +151639,7 @@
     },
     {
         "id": "61b30d45aebf9a9f58be96ed",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘရင်ဂျီ",
         "romanization": "băyìɴʥì",
         "trans_jpn": "神父",
@@ -151727,7 +151727,7 @@
     },
     {
         "id": "61b30c2aaebf9a9f58be96ec",
-        "language": "myn",
+        "language": "mya",
         "form": "စော်ဘွား",
         "romanization": "sɔ̀bwá",
         "trans_jpn": "スルタン、藩王、藩侯",
@@ -151777,7 +151777,7 @@
     },
     {
         "id": "61b308e2aebf9a9f58be96eb",
-        "language": "myn",
+        "language": "mya",
         "form": " စစ်ခွေး",
         "romanization": "sîʔkʰwé",
         "trans_jpn": "兵士、軍の犬",
@@ -151867,7 +151867,7 @@
     },
     {
         "id": "61b30723aebf9a9f58be96e9",
-        "language": "myn",
+        "language": "mya",
         "form": "စစ်သည်",
         "romanization": "sîʔt̪ì",
         "trans_jpn": "兵士",
@@ -151955,7 +151955,7 @@
     },
     {
         "id": "61b3069aaebf9a9f58be96e8",
-        "language": "myn",
+        "language": "mya",
         "form": "စစ်သား",
         "romanization": "sîʔt̪á",
         "trans_jpn": "兵士",
@@ -152043,7 +152043,7 @@
     },
     {
         "id": "61b3063aaebf9a9f58be96e7",
-        "language": "myn",
+        "language": "mya",
         "form": "ခရီးသည်",
         "romanization": "kʰăyíd̪ɛ̀",
         "trans_jpn": "客, 旅客",
@@ -152128,7 +152128,7 @@
     },
     {
         "id": "61b3058daebf9a9f58be96e6",
-        "language": "myn",
+        "language": "mya",
         "form": "ဝယ်သူ",
         "romanization": "wɛ̀d̪ù",
         "trans_jpn": "客",
@@ -152213,7 +152213,7 @@
     },
     {
         "id": "61b302a1aebf9a9f58be96e5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဈေးဝယ်သူ",
         "romanization": "zéwɛ̀d̪ù",
         "trans_jpn": "客",
@@ -152301,7 +152301,7 @@
     },
     {
         "id": "61b30214aebf9a9f58be96e4",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖောက်သည်",
         "romanization": "pʰauʔt̪ɛ̀",
         "trans_jpn": "常連客、馴染みの客",
@@ -152389,7 +152389,7 @@
     },
     {
         "id": "61b30195aebf9a9f58be96e3",
-        "language": "myn",
+        "language": "mya",
         "form": " ကာစတာမာ",
         "romanization": "kàsătàmà",
         "trans_jpn": "客",
@@ -152477,7 +152477,7 @@
     },
     {
         "id": "61b30061aebf9a9f58be96e2",
-        "language": "myn",
+        "language": "mya",
         "form": "ဧည့်သည်01",
         "romanization": "ʔɛ̂d̪ɛ̀",
         "trans_jpn": "客",
@@ -152565,7 +152565,7 @@
     },
     {
         "id": "61b2f90aaebf9a9f58be96e1",
-        "language": "myn",
+        "language": "mya",
         "form": "အစိုးရဝန်ထမ်း",
         "romanization": "ʔăsóyâwìɴdáɴ~ʔăsóyâwùɴdáɴ",
         "trans_jpn": "職員（役所などの）, 公務員",
@@ -152653,7 +152653,7 @@
     },
     {
         "id": "61b2f788aebf9a9f58be96e0",
-        "language": "myn",
+        "language": "mya",
         "form": "ရုံးဝန်ထမ်း",
         "romanization": "yóuɴwìɴdáɴ~yóuɴwùɴdáɴ",
         "trans_jpn": "職員（役所などの）",
@@ -152741,7 +152741,7 @@
     },
     {
         "id": "61b09cfbaebf9a9f58be96dd",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါးသည်မ",
         "romanization": "ŋăd̪ɛ̀mâ",
         "trans_jpn": "魚屋（鮮魚販売業者）",
@@ -152826,7 +152826,7 @@
     },
     {
         "id": "61b09c23aebf9a9f58be96dc",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါးသည်",
         "romanization": "ŋăd̪ɛ̀",
         "trans_jpn": "魚屋（鮮魚販売業者）",
@@ -152911,7 +152911,7 @@
     },
     {
         "id": "61b09acdaebf9a9f58be96db",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါးစိမ်းသည်(မ)",
         "romanization": "ŋăzéiɴd̪ɛ̀(mâ)",
         "trans_jpn": "魚屋（鮮魚販売業者）",
@@ -152996,7 +152996,7 @@
     },
     {
         "id": "61b098a7aebf9a9f58be96da",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါးရောင်းသူ",
         "romanization": "ŋáyáuɴd̪ù",
         "trans_jpn": "魚屋（鮮魚販売業者）",
@@ -153081,7 +153081,7 @@
     },
     {
         "id": "61b028f8aebf9a9f58be96d7",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟင်းသီးဟင်းရွက်ရောင်းသူ",
         "romanization": "híɴd̪íhíɴyɛʔyáuɴd̪ù",
         "trans_jpn": "八百屋（青果物販売業者）",
@@ -153166,7 +153166,7 @@
     },
     {
         "id": "61af2ea3aebf9a9f58be96d6",
-        "language": "myn",
+        "language": "mya",
         "form": "ပလိပ်",
         "romanization": "păleiʔ",
         "trans_jpn": "警察官",
@@ -153251,7 +153251,7 @@
     },
     {
         "id": "61af2e1aaebf9a9f58be96d5",
-        "language": "myn",
+        "language": "mya",
         "form": "ရဲသား",
         "romanization": "yɛ́d̪á",
         "trans_jpn": "警察官",
@@ -153336,7 +153336,7 @@
     },
     {
         "id": "61af1eb8aebf9a9f58be96d4",
-        "language": "myn",
+        "language": "mya",
         "form": "ဈေးသည်",
         "romanization": "zéd̪ɛ̀",
         "trans_jpn": "物売り（売り買いで客の対となる概念）",
@@ -153421,7 +153421,7 @@
     },
     {
         "id": "61af1df6aebf9a9f58be96d3",
-        "language": "myn",
+        "language": "mya",
         "form": "ဈေးရောင်းသူ",
         "romanization": "zéyáuɴd̪ù",
         "trans_jpn": "物売り（売り買いで客の対となる概念）",
@@ -153506,7 +153506,7 @@
     },
     {
         "id": "61af1a29aebf9a9f58be96d1",
-        "language": "myn",
+        "language": "mya",
         "form": "ရဲအရာရှိ",
         "romanization": "yɛ́ʔăyàɕî",
         "trans_jpn": "警察官",
@@ -153591,7 +153591,7 @@
     },
     {
         "id": "61af16bcaebf9a9f58be96cf",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒရိုက်ဘာ",
         "romanization": "dăreiʔbà",
         "trans_jpn": "運転手",
@@ -153676,7 +153676,7 @@
     },
     {
         "id": "61af0dd2aebf9a9f58be96cb",
-        "language": "myn",
+        "language": "mya",
         "form": "မေးလ်နာစ်",
         "romanization": "ménaʔ",
         "trans_jpn": "看護師",
@@ -153761,7 +153761,7 @@
     },
     {
         "id": "61af0d34aebf9a9f58be96ca",
-        "language": "myn",
+        "language": "mya",
         "form": "နာစ်မ",
         "romanization": "naʔsămâ",
         "trans_jpn": "女性看護師",
@@ -153846,7 +153846,7 @@
     },
     {
         "id": "61af09e3aebf9a9f58be96c7",
-        "language": "myn",
+        "language": "mya",
         "form": "သူနာပြု",
         "romanization": "t̪ùnàpyû",
         "trans_jpn": "看護師",
@@ -153931,7 +153931,7 @@
     },
     {
         "id": "61af08dbaebf9a9f58be96c6",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါက်တာဒေါ်ဖြူဖြူ",
         "romanization": "dauʔtàdɔ̀pʰyùpʰyù",
         "trans_jpn": "ドクター・ピューピューさん",
@@ -154016,7 +154016,7 @@
     },
     {
         "id": "61af07dcaebf9a9f58be96c5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာဝန်",
         "romanization": "săyàwìɴ~ săyàwùɴ",
         "trans_jpn": "医者",
@@ -154101,7 +154101,7 @@
     },
     {
         "id": "61af0714aebf9a9f58be96c4",
-        "language": "myn",
+        "language": "mya",
         "form": "သမ္မတ",
         "romanization": "t̪ămăda",
         "trans_jpn": "大統領",
@@ -154186,7 +154186,7 @@
     },
     {
         "id": "61af056eaebf9a9f58be96c3",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျောင်းအုပ်ဆရာမကြီး",
         "romanization": "tɕáuɴʔouʔ sʰăyàmâdʑí",
         "trans_jpn": "校長",
@@ -154274,7 +154274,7 @@
     },
     {
         "id": "61af042aaebf9a9f58be96c2",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျောင်းအုပ်ဆရာကြီး",
         "romanization": "tɕáuɴʔouʔsʰăyàdʑí",
         "trans_jpn": "校長",
@@ -154362,7 +154362,7 @@
     },
     {
         "id": "61af0382aebf9a9f58be96c1",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျောင်းအုပ်",
         "romanization": "tɕáuɴʔouʔ",
         "trans_jpn": "校長",
@@ -154447,7 +154447,7 @@
     },
     {
         "id": "61af0131aebf9a9f58be96c0",
-        "language": "myn",
+        "language": "mya",
         "form": "ပါချုပ်",
         "romanization": "pàdʑouʔ",
         "trans_jpn": "学長",
@@ -154535,7 +154535,7 @@
     },
     {
         "id": "61af001baebf9a9f58be96bf",
-        "language": "myn",
+        "language": "mya",
         "form": "ပါမောက္ခချုပ်",
         "romanization": "pàmauʔkʰâdʑouʔ~ pàuɴmauʔkʰâdʑouʔ",
         "trans_jpn": "学長",
@@ -154627,7 +154627,7 @@
     },
     {
         "id": "61aceb42aebf9a9f58be96be",
-        "language": "myn",
+        "language": "mya",
         "form": "ဌာနမှူး",
         "romanization": "tʰànâhmú",
         "trans_jpn": "課長",
@@ -154712,7 +154712,7 @@
     },
     {
         "id": "61ace7b0aebf9a9f58be96bd",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘော့စ်02",
         "romanization": "bɔ̂",
         "trans_jpn": "president, Boss",
@@ -154797,7 +154797,7 @@
     },
     {
         "id": "61ace699aebf9a9f58be96bc",
-        "language": "myn",
+        "language": "mya",
         "form": "ကုမ္ပဏီသူဌေးမ ",
         "romanization": "kòuɴpănìt̪ătʰémâ~ kòuɴmănìt̪ătʰémâ",
         "trans_jpn": "社長",
@@ -154882,7 +154882,7 @@
     },
     {
         "id": "61ace555aebf9a9f58be96ba",
-        "language": "myn",
+        "language": "mya",
         "form": "အိမ်ဖော်",
         "romanization": "ʔèiɴpʰɔ̀~ʔèiɴbɔ̀",
         "trans_jpn": "使用人（従う側）",
@@ -154967,7 +154967,7 @@
     },
     {
         "id": "61ace4c4aebf9a9f58be96b9",
-        "language": "myn",
+        "language": "mya",
         "form": "အစေခံ",
         "romanization": "ʔăsèɡàɴ",
         "trans_jpn": "使用人（従う側）",
@@ -155052,7 +155052,7 @@
     },
     {
         "id": "61ace40caebf9a9f58be96b8",
-        "language": "myn",
+        "language": "mya",
         "form": "ဝန်ထမ်း01",
         "romanization": "wìɴdáɴ~wùɴdáɴ",
         "trans_jpn": "servant, worker",
@@ -155137,7 +155137,7 @@
     },
     {
         "id": "61ace33aaebf9a9f58be96b7",
-        "language": "myn",
+        "language": "mya",
         "form": "အလုပ်သမား",
         "romanization": "ʔălouʔt̪ămá",
         "trans_jpn": "worker",
@@ -155222,7 +155222,7 @@
     },
     {
         "id": "61acdb62aebf9a9f58be96b3",
-        "language": "myn",
+        "language": "mya",
         "form": "သခင်မ ",
         "romanization": " t̪ăkʰìɴmâ",
         "trans_jpn": "主人",
@@ -155317,7 +155317,7 @@
     },
     {
         "id": "61acbfeeaebf9a9f58be96b2",
-        "language": "myn",
+        "language": "mya",
         "form": "သခင် ",
         "romanization": "t̪ăkʰìɴ",
         "trans_jpn": "主人",
@@ -155412,7 +155412,7 @@
     },
     {
         "id": "61acbfa4aebf9a9f58be96b1",
-        "language": "myn",
+        "language": "mya",
         "form": "ဂျူနီယာ",
         "romanization": "jùnìyà",
         "trans_jpn": "後輩",
@@ -155497,7 +155497,7 @@
     },
     {
         "id": "61acbf2eaebf9a9f58be96b0",
-        "language": "myn",
+        "language": "mya",
         "form": "စီနီယာ",
         "romanization": "sìnìyà",
         "trans_jpn": "先輩",
@@ -155582,7 +155582,7 @@
     },
     {
         "id": "61acbee3aebf9a9f58be96af",
-        "language": "myn",
+        "language": "mya",
         "form": "လက်အောက်ငယ်သား",
         "romanization": "lɛʔʔăuʔŋɛ̀d̪á",
         "trans_jpn": "部下",
@@ -155656,7 +155656,7 @@
     },
     {
         "id": "61ac485baebf9a9f58be96ae",
-        "language": "myn",
+        "language": "mya",
         "form": "အထက်လူကြီး",
         "romanization": "ʔătʰɛʔlùdʑí",
         "trans_jpn": "上司、目上の人",
@@ -155741,7 +155741,7 @@
     },
     {
         "id": "61ac47f7aebf9a9f58be96ad",
-        "language": "myn",
+        "language": "mya",
         "form": "အထက်အရာရှိ",
         "romanization": "ʔăthɛʔʔăyàɕî",
         "trans_jpn": "上司",
@@ -155826,7 +155826,7 @@
     },
     {
         "id": "61ac41b1aebf9a9f58be96aa",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒါလင်",
         "romanization": "dàlìɴ",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）、ダーリン",
@@ -155911,7 +155911,7 @@
     },
     {
         "id": "61ac4137aebf9a9f58be96a9",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟန်နီ",
         "romanization": "hàɴnì",
         "trans_jpn": "愛しい人（＝パートナー専用の呼び名）",
@@ -156001,7 +156001,7 @@
     },
     {
         "id": "61ac40cfaebf9a9f58be96a8",
-        "language": "myn",
+        "language": "mya",
         "form": "ဇနီးသည်",
         "romanization": "zăníd̪ɛ̀",
         "trans_jpn": "妻",
@@ -156086,7 +156086,7 @@
     },
     {
         "id": "61ac405aaebf9a9f58be96a7",
-        "language": "myn",
+        "language": "mya",
         "form": "ဇနီး",
         "romanization": "zăní",
         "trans_jpn": "妻",
@@ -156171,7 +156171,7 @@
     },
     {
         "id": "61ac3fbaaebf9a9f58be96a6",
-        "language": "myn",
+        "language": "mya",
         "form": "မိန်းမ",
         "romanization": "méiɴmâ",
         "trans_jpn": "妻、女性",
@@ -156256,7 +156256,7 @@
     },
     {
         "id": "61ac3f30aebf9a9f58be96a5",
-        "language": "myn",
+        "language": "mya",
         "form": "အမျိုးသမီး",
         "romanization": "ʔămyód̪ămí",
         "trans_jpn": "妻, 女性",
@@ -156341,7 +156341,7 @@
     },
     {
         "id": "61ac3e68aebf9a9f58be96a4",
-        "language": "myn",
+        "language": "mya",
         "form": "ကတော်",
         "romanization": "ɡădɔ̀",
         "trans_jpn": "夫人",
@@ -156426,7 +156426,7 @@
     },
     {
         "id": "61ac3e0eaebf9a9f58be96a3",
-        "language": "myn",
+        "language": "mya",
         "form": "မယား",
         "romanization": "măyá",
         "trans_jpn": "妻",
@@ -156511,7 +156511,7 @@
     },
     {
         "id": "61ac3dbbaebf9a9f58be96a2",
-        "language": "myn",
+        "language": "mya",
         "form": "ခင်ပွန်းသည်",
         "romanization": "khìɴpúɴd̪ɛ̀",
         "trans_jpn": "夫",
@@ -156596,7 +156596,7 @@
     },
     {
         "id": "61ac3d6caebf9a9f58be96a1",
-        "language": "myn",
+        "language": "mya",
         "form": "ခင်ပွန်း",
         "romanization": "khìɴpúɴ",
         "trans_jpn": "夫",
@@ -156681,7 +156681,7 @@
     },
     {
         "id": "61ac3d00aebf9a9f58be96a0",
-        "language": "myn",
+        "language": "mya",
         "form": "ယောကျ်ား",
         "romanization": "youʔtɕá",
         "trans_jpn": "夫、男性",
@@ -156771,7 +156771,7 @@
     },
     {
         "id": "61ac3c9faebf9a9f58be969f",
-        "language": "myn",
+        "language": "mya",
         "form": "အမျိုးသား",
         "romanization": "ʔămyót̪á",
         "trans_jpn": "夫",
@@ -156856,7 +156856,7 @@
     },
     {
         "id": "61ac3c30aebf9a9f58be969e",
-        "language": "myn",
+        "language": "mya",
         "form": "လင်ယောကျ်ား",
         "romanization": "lìɴyouʔtɕá",
         "trans_jpn": "夫",
@@ -156944,7 +156944,7 @@
     },
     {
         "id": "61ac3b6aaebf9a9f58be969d",
-        "language": "myn",
+        "language": "mya",
         "form": "လင်",
         "romanization": "lìɴ",
         "trans_jpn": "夫",
@@ -157032,7 +157032,7 @@
     },
     {
         "id": "61ac3aa5aebf9a9f58be969c",
-        "language": "myn",
+        "language": "mya",
         "form": "မိတ်ဆွေ",
         "romanization": "meiʔshwè",
         "trans_jpn": "友達",
@@ -157112,7 +157112,7 @@
     },
     {
         "id": "61ac351eaebf9a9f58be969b",
-        "language": "myn",
+        "language": "mya",
         "form": "သမက်01",
         "romanization": "t̪ămɛʔ",
         "trans_jpn": "婿（娘の夫）",
@@ -157200,7 +157200,7 @@
     },
     {
         "id": "61ab83e1aebf9a9f58be9698",
-        "language": "myn",
+        "language": "mya",
         "form": "မြတ်မွန်",
         "romanization": "myaʔmòɴ",
         "trans_jpn": "ミャッムン",
@@ -157323,7 +157323,7 @@
     },
     {
         "id": "61ab8095aebf9a9f58be9697",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖြူဖြူကိုယ်တိုင်",
         "romanization": "phyùphyùkòdàiɴ",
         "trans_jpn": "ピューピュー自身",
@@ -157408,7 +157408,7 @@
     },
     {
         "id": "61ab7eb6aebf9a9f58be9696",
-        "language": "myn",
+        "language": "mya",
         "form": "သာဓု",
         "romanization": "t̪àdû",
         "trans_jpn": "タードゥ（人名・映画監督の名前）",
@@ -157493,7 +157493,7 @@
     },
     {
         "id": "61ab7bf2aebf9a9f58be9695",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်မောင်",
         "romanization": "màuɴmàuɴ",
         "trans_jpn": "マウンマウン（人名）",
@@ -157581,7 +157581,7 @@
     },
     {
         "id": "61ab23d9aebf9a9f58be9694",
-        "language": "myn",
+        "language": "mya",
         "form": "သူမတို့",
         "romanization": "t̪ùmâ=dô",
         "trans_jpn": "彼女ら",
@@ -157666,7 +157666,7 @@
     },
     {
         "id": "61ab222baebf9a9f58be9693",
-        "language": "myn",
+        "language": "mya",
         "form": "သူတို့01",
         "romanization": "t̪ù=dô",
         "trans_jpn": "彼ら、彼女ら",
@@ -157754,7 +157754,7 @@
     },
     {
         "id": "613ceb37d00474ca7eb319dd",
-        "language": "myn",
+        "language": "mya",
         "form": "သူမ",
         "romanization": "t̪ùmâ",
         "trans_jpn": "彼女",
@@ -157827,7 +157827,7 @@
     },
     {
         "id": "613ceb0ed00474ca7eb319dc",
-        "language": "myn",
+        "language": "mya",
         "form": "သူ01",
         "romanization": "t̪ù",
         "trans_jpn": "彼／彼女",
@@ -157919,7 +157919,7 @@
     },
     {
         "id": "613cead0d00474ca7eb319db",
-        "language": "myn",
+        "language": "mya",
         "form": "သင်တို့",
         "romanization": "t̪ìɴ=dô",
         "trans_jpn": "あなた達",
@@ -158004,7 +158004,7 @@
     },
     {
         "id": "613cea87d00474ca7eb319da",
-        "language": "myn",
+        "language": "mya",
         "form": "သင်",
         "romanization": "t̪ìɴ",
         "trans_jpn": "あなた",
@@ -158089,7 +158089,7 @@
     },
     {
         "id": "613cea12d00474ca7eb319d9",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါတို့02",
         "romanization": "ŋà=dô",
         "trans_jpn": "私達（除外形）",
@@ -158177,7 +158177,7 @@
     },
     {
         "id": "613ce98ed00474ca7eb319d8",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါတို့01",
         "romanization": "ŋà=dô",
         "trans_jpn": "私達（包括形）",
@@ -158262,7 +158262,7 @@
     },
     {
         "id": "613ce93dd00474ca7eb319d7",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါ",
         "romanization": "ŋà",
         "trans_jpn": "私",
@@ -158361,7 +158361,7 @@
     },
     {
         "id": "613ce7c4d00474ca7eb319d6",
-        "language": "myn",
+        "language": "mya",
         "form": "သူဌေး",
         "romanization": "t̪ătʰé",
         "trans_jpn": "お金持ち（の人）",
@@ -158446,7 +158446,7 @@
     },
     {
         "id": "613ce785d00474ca7eb319d5",
-        "language": "myn",
+        "language": "mya",
         "form": "အရူး",
         "romanization": "ʔăyú",
         "trans_jpn": "ばか",
@@ -158538,7 +158538,7 @@
     },
     {
         "id": "613ce6ead00474ca7eb319d4",
-        "language": "myn",
+        "language": "mya",
         "form": "ငကြောင်",
         "romanization": "ŋăʨàuɴ",
         "trans_jpn": "まぬけ",
@@ -158623,7 +158623,7 @@
     },
     {
         "id": "613ce681d00474ca7eb319d3",
-        "language": "myn",
+        "language": "mya",
         "form": "ဂုဏ်သရေရှိ လူကြီးမင်းများ",
         "romanization": "ɡòuɴt̪ăyèɕîlùdʑímíɴmyá",
         "trans_jpn": "紳士淑女諸君",
@@ -158708,7 +158708,7 @@
     },
     {
         "id": "613ce64ed00474ca7eb319d2",
-        "language": "myn",
+        "language": "mya",
         "form": " မိသားစုအားလုံး",
         "romanization": "mît̪ázûʔálóuɴ",
         "trans_jpn": "家族全員(一家族全員あるいは複数家族全員)",
@@ -158793,7 +158793,7 @@
     },
     {
         "id": "613ce5f4d00474ca7eb319d1",
-        "language": "myn",
+        "language": "mya",
         "form": "တစ်မိသားစုလုံး",
         "romanization": "tămît̪ázûlóuɴ",
         "trans_jpn": "家族全員(一家族全員)",
@@ -158867,7 +158867,7 @@
     },
     {
         "id": "613ce592d00474ca7eb319d0",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီသုံးယောက်",
         "romanization": "dìt̪óuɴyauʔ",
         "trans_jpn": "この三人",
@@ -158952,7 +158952,7 @@
     },
     {
         "id": "613ce538d00474ca7eb319cf",
-        "language": "myn",
+        "language": "mya",
         "form": "အိမ်စာ မထပ်ရသေးတဲ့လူ",
         "romanization": "ʔèiɴzà mătʰaʔyâd̪éd̪ɛ̂ lù",
         "trans_jpn": "課題をまだ出していない人",
@@ -159037,7 +159037,7 @@
     },
     {
         "id": "613ce4dcd00474ca7eb319ce",
-        "language": "myn",
+        "language": "mya",
         "form": "ဖျားနေတဲ့လူ",
         "romanization": "pʰyánèdɛ̂lù",
         "trans_jpn": "熱のある人（関係節を使う）",
@@ -159125,7 +159125,7 @@
     },
     {
         "id": "613ce4abd00474ca7eb319cd",
-        "language": "myn",
+        "language": "mya",
         "form": "မမချော",
         "romanization": "mâmâtɕʰɔ́",
         "trans_jpn": "美しいお姉さん",
@@ -159210,7 +159210,7 @@
     },
     {
         "id": "613ce3b9d00474ca7eb319cb",
-        "language": "myn",
+        "language": "mya",
         "form": "(အဲ)ဟိုနောက်ခုံက တစ်ယောက်",
         "romanization": "(ʔɛ́)hò nauʔkʰouɴɡâ tăyauʔ",
         "trans_jpn": "そこの後ろの席の方",
@@ -159269,7 +159269,7 @@
     },
     {
         "id": "613ce331d00474ca7eb319ca",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီက အစ်ကို",
         "romanization": "ʔɛ́dìɡâ ʔăkò",
         "trans_jpn": "そこのお兄さん",
@@ -159354,7 +159354,7 @@
     },
     {
         "id": "613ce25dd00474ca7eb319c9",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုတစ်ယောက် ",
         "romanization": "hòtăyauʔ",
         "trans_jpn": "そこのあなた",
@@ -159439,7 +159439,7 @@
     },
     {
         "id": "613ce1c6d00474ca7eb319c8",
-        "language": "myn",
+        "language": "mya",
         "form": "သောတရှင်",
         "romanization": "t̪ɔ́tâɕìɴ",
         "trans_jpn": "ラジオのリスナー",
@@ -159524,7 +159524,7 @@
     },
     {
         "id": "613ce18cd00474ca7eb319c7",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘွားရဲ့ မြေးလေး",
         "romanization": "ʔăpʰwáyɛ̂myílé",
         "trans_jpn": "おばあちゃんの孫",
@@ -159612,7 +159612,7 @@
     },
     {
         "id": "613ce153d00474ca7eb319c6",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖေ့ရဲ့သား",
         "romanization": "ʔăpʰêyɛ̂t̪á",
         "trans_jpn": "お父さんの子・息子",
@@ -159702,7 +159702,7 @@
     },
     {
         "id": "613cdfd0d00474ca7eb319c5",
-        "language": "myn",
+        "language": "mya",
         "form": "ခင်ဗျားရဲ့ အဖေ",
         "romanization": "kʰămyáyɛ̂ʔăpʰè",
         "trans_jpn": "あなたのお父さん",
@@ -159799,7 +159799,7 @@
     },
     {
         "id": "613cdf63d00474ca7eb319c4",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်မောင်ရဲ့ အမေ",
         "romanization": "màuɴmàuɴyɛ̂ʔămè",
         "trans_jpn": "マウンマウンのお母さん",
@@ -159887,7 +159887,7 @@
     },
     {
         "id": "613cdf19d00474ca7eb319c3",
-        "language": "myn",
+        "language": "mya",
         "form": "အစ်မ ဖြူဖြူ",
         "romanization": "ʔămâpʰyùpʰyù",
         "trans_jpn": "ピューピュー姉さん",
@@ -159972,7 +159972,7 @@
     },
     {
         "id": "613cdef2d00474ca7eb319c2",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါက်တာဦးမောင်မောင်",
         "romanization": "dauʔtàʔúmàuɴmàuɴ",
         "trans_jpn": "マウンマウン医師",
@@ -160057,7 +160057,7 @@
     },
     {
         "id": "613cdeb7d00474ca7eb319c1",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာ ဦးမောင်မောင်",
         "romanization": "săyàʔúmàuɴmàuɴ",
         "trans_jpn": "マウンマウン先生",
@@ -160142,7 +160142,7 @@
     },
     {
         "id": "613cde84d00474ca7eb319c0",
-        "language": "myn",
+        "language": "mya",
         "form": "ဝန်ကြီးချုပ် ဦးမောင်မောင်",
         "romanization": "wìɴdʑídʑouʔʔúmàuɴmàuɴ~wùɴdʑídʑouʔʔúmàuɴmàuɴ",
         "trans_jpn": "人名＋首相",
@@ -160227,7 +160227,7 @@
     },
     {
         "id": "613cde2bd00474ca7eb319bf",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးမောင်မောင်",
         "romanization": "ʔúmàuɴmàuɴ",
         "trans_jpn": "マウンマウンさん",
@@ -160326,7 +160326,7 @@
     },
     {
         "id": "613cdd53d00474ca7eb319bd",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟို",
         "romanization": "hò",
         "trans_jpn": "あそこ",
@@ -160411,7 +160411,7 @@
     },
     {
         "id": "613cdd2cd00474ca7eb319bc",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒီ",
         "romanization": "ʔɛ́dì",
         "trans_jpn": "そこ",
@@ -160496,7 +160496,7 @@
     },
     {
         "id": "613cdcfdd00474ca7eb319bb",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒီ",
         "romanization": "dì",
         "trans_jpn": "ここ",
@@ -160584,7 +160584,7 @@
     },
     {
         "id": "613cdcd3d00474ca7eb319ba",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုဟာတွေ",
         "romanization": "hòhàdwè",
         "trans_jpn": "あれら",
@@ -160669,7 +160669,7 @@
     },
     {
         "id": "613cdca4d00474ca7eb319b9",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုဟာ",
         "romanization": "hòhà/hò-",
         "trans_jpn": "あれ",
@@ -160754,7 +160754,7 @@
     },
     {
         "id": "613cdc74d00474ca7eb319b8",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒါတွေ",
         "romanization": "ʔɛ́dàdwè",
         "trans_jpn": "それら",
@@ -160839,7 +160839,7 @@
     },
     {
         "id": "613cdc4dd00474ca7eb319b7",
-        "language": "myn",
+        "language": "mya",
         "form": "အဲဒါ",
         "romanization": "ʔɛ́dà",
         "trans_jpn": "それ",
@@ -160927,7 +160927,7 @@
     },
     {
         "id": "613cdc1bd00474ca7eb319b6",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒါတွေ",
         "romanization": "dàdwè",
         "trans_jpn": "これら",
@@ -161012,7 +161012,7 @@
     },
     {
         "id": "613cdbe8d00474ca7eb319b5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒါ",
         "romanization": "dà",
         "trans_jpn": "これ",
@@ -161097,7 +161097,7 @@
     },
     {
         "id": "613cdba0d00474ca7eb319b4",
-        "language": "myn",
+        "language": "mya",
         "form": "နှစ်ယောက်စလုံး",
         "romanization": "hnăyauʔsălóuɴ",
         "trans_jpn": "二人とも",
@@ -161182,7 +161182,7 @@
     },
     {
         "id": "613cdb47d00474ca7eb319b3",
-        "language": "myn",
+        "language": "mya",
         "form": "နှစ်ယောက်",
         "romanization": "hnăyauʔ",
         "trans_jpn": "二人",
@@ -161270,7 +161270,7 @@
     },
     {
         "id": "613cdab4d00474ca7eb319b2",
-        "language": "myn",
+        "language": "mya",
         "form": "အယောက်တိုင်း",
         "romanization": "ʔăyauʔtáiɴ",
         "trans_jpn": "みんな・全員",
@@ -161355,7 +161355,7 @@
     },
     {
         "id": "613cda57d00474ca7eb319b1",
-        "language": "myn",
+        "language": "mya",
         "form": "လူတိုင်း",
         "romanization": "lùdáiɴ",
         "trans_jpn": "みんな・皆さん",
@@ -161440,7 +161440,7 @@
     },
     {
         "id": "613cd9d8d00474ca7eb319b0",
-        "language": "myn",
+        "language": "mya",
         "form": "အားလုံး",
         "romanization": "ʔálóuɴ",
         "trans_jpn": "全員・全部",
@@ -161525,7 +161525,7 @@
     },
     {
         "id": "613cd97cd00474ca7eb319af",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်မောင်ကိုယ်တိုင်",
         "romanization": "máuɴmáuɴkòdàiɴ",
         "trans_jpn": "マウンマウン自身",
@@ -161610,7 +161610,7 @@
     },
     {
         "id": "613cd929d00474ca7eb319ae",
-        "language": "myn",
+        "language": "mya",
         "form": " မိမိကိုယ်",
         "romanization": "mîmîkò",
         "trans_jpn": "自分自身",
@@ -161698,7 +161698,7 @@
     },
     {
         "id": "613cd847d00474ca7eb319ab",
-        "language": "myn",
+        "language": "mya",
         "form": "မင်းသမီး",
         "romanization": "míɴd̪ămí",
         "trans_jpn": "王女",
@@ -161783,7 +161783,7 @@
     },
     {
         "id": "613cd7f6d00474ca7eb319aa",
-        "language": "myn",
+        "language": "mya",
         "form": "မင်းညီမင်းသား",
         "romanization": "míɴɲìmíɴd̪á",
         "trans_jpn": "王子",
@@ -161871,7 +161871,7 @@
     },
     {
         "id": "613cd776d00474ca7eb319a9",
-        "language": "myn",
+        "language": "mya",
         "form": "မင်းသား",
         "romanization": "míɴd̪á",
         "trans_jpn": "王子",
@@ -161956,7 +161956,7 @@
     },
     {
         "id": "613cd70fd00474ca7eb319a8",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘုရင်မ01",
         "romanization": "băyìɴmâ",
         "trans_jpn": "女王",
@@ -162026,7 +162026,7 @@
     },
     {
         "id": "613cd698d00474ca7eb319a7",
-        "language": "myn",
+        "language": "mya",
         "form": "မိဖုရား",
         "romanization": "mîbăyá~mìbăyá",
         "trans_jpn": "王妃",
@@ -162111,7 +162111,7 @@
     },
     {
         "id": "613cd46cd00474ca7eb319a5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘုရင်",
         "romanization": "băyìɴ",
         "trans_jpn": "王",
@@ -162199,7 +162199,7 @@
     },
     {
         "id": "613cd403d00474ca7eb319a3",
-        "language": "myn",
+        "language": "mya",
         "form": "ဧကရာဇ်",
         "romanization": "ʔèkăriʔ",
         "trans_jpn": "陛下、君主",
@@ -162287,7 +162287,7 @@
     },
     {
         "id": "613cd3d5d00474ca7eb319a2",
-        "language": "myn",
+        "language": "mya",
         "form": "သင်းအုပ်ဆရာ",
         "romanization": "t̪íɴʔouʔsăyà",
         "trans_jpn": "牧師",
@@ -162372,7 +162372,7 @@
     },
     {
         "id": "613cd38dd00474ca7eb3199f",
-        "language": "myn",
+        "language": "mya",
         "form": " ခရစ်ယာန်ဘုန်းကြီး",
         "romanization": "kʰăriʔyàɴpʰóuɴdɔ̀dʑí",
         "trans_jpn": "神父",
@@ -162442,7 +162442,7 @@
     },
     {
         "id": "613cd23dd00474ca7eb3199a",
-        "language": "myn",
+        "language": "mya",
         "form": "စော်ဘွား",
         "romanization": " sɔ̀bwá",
         "trans_jpn": "スルタン、藩王、藩侯",
@@ -162469,7 +162469,7 @@
     },
     {
         "id": "613cd1eed00474ca7eb31998",
-        "language": "myn",
+        "language": "mya",
         "form": " ပသီဘုရင်",
         "romanization": "păt̪ìbăyìɴ",
         "trans_jpn": "スルタン（君主）、藩王、藩侯",
@@ -162554,7 +162554,7 @@
     },
     {
         "id": "613cd1add00474ca7eb31997",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘုန်းကြီး",
         "romanization": "pʰóuɴdʑí",
         "trans_jpn": "僧侶",
@@ -162639,7 +162639,7 @@
     },
     {
         "id": "613ccfb7d00474ca7eb3198b",
-        "language": "myn",
+        "language": "mya",
         "form": "ဧည့်သည်02",
         "romanization": "ʔɛ̂d̪ɛ̀",
         "trans_jpn": "客",
@@ -162731,7 +162731,7 @@
     },
     {
         "id": "613ccf1ad00474ca7eb31985",
-        "language": "myn",
+        "language": "mya",
         "form": "ငါးစိမ်းသည်",
         "romanization": " ŋăzéiɴd̪ɛ̀",
         "trans_jpn": "魚屋（鮮魚販売業者）",
@@ -162801,7 +162801,7 @@
     },
     {
         "id": "613cce90d00474ca7eb31982",
-        "language": "myn",
+        "language": "mya",
         "form": "ကုန်စိမ်းသည်",
         "romanization": " kòuɴzéiɴd̪ɛ̀",
         "trans_jpn": "八百屋（青果物販売業者）",
@@ -162886,7 +162886,7 @@
     },
     {
         "id": "613cce31d00474ca7eb31981",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟင်းရွက်သည်",
         "romanization": "híɴyɛʔt̪ɛ̀",
         "trans_jpn": "八百屋（青果物販売業者）",
@@ -162971,7 +162971,7 @@
     },
     {
         "id": "613ccd6ed00474ca7eb3197c",
-        "language": "myn",
+        "language": "mya",
         "form": "ရောင်းသူ",
         "romanization": "yáuɴd̪ù",
         "trans_jpn": "物売り（売り買いで客の対となる概念）",
@@ -163030,7 +163030,7 @@
     },
     {
         "id": "613cccedd00474ca7eb31977",
-        "language": "myn",
+        "language": "mya",
         "form": "ယာဉ်မောင်း",
         "romanization": "yìɴmáuɴ",
         "trans_jpn": "運転手",
@@ -163115,7 +163115,7 @@
     },
     {
         "id": "613ccc52d00474ca7eb31974",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒေါက်တာ",
         "romanization": "dauʔtà",
         "trans_jpn": "医者",
@@ -163200,7 +163200,7 @@
     },
     {
         "id": "613ccb8dd00474ca7eb31970",
-        "language": "myn",
+        "language": "mya",
         "form": "ဝန်ကြီးချုပ်",
         "romanization": "wìɴdʑídʑouʔ~ wùɴdʑídʑouʔ",
         "trans_jpn": "総理大臣、首相",
@@ -163274,7 +163274,7 @@
     },
     {
         "id": "613ccb48d00474ca7eb3196e",
-        "language": "myn",
+        "language": "mya",
         "form": "ဥက္ကဋ္ဌ",
         "romanization": "ʔouʔkătʰâ",
         "trans_jpn": "議長",
@@ -163359,7 +163359,7 @@
     },
     {
         "id": "613cc8ead00474ca7eb31967",
-        "language": "myn",
+        "language": "mya",
         "form": "ကုမ္ပဏီသူဌေး01",
         "romanization": "kòuɴpănìt̪ătʰé~ kòuɴmănìt̪ătʰé",
         "trans_jpn": "社長",
@@ -163444,7 +163444,7 @@
     },
     {
         "id": "613cc3c2d00474ca7eb31952",
-        "language": "myn",
+        "language": "mya",
         "form": "သူငယ်ချင်း",
         "romanization": "t̪ăŋɛ̀dʑíɴ",
         "trans_jpn": "友達",
@@ -163536,7 +163536,7 @@
     },
     {
         "id": "613cc367d00474ca7eb31950",
-        "language": "myn",
+        "language": "mya",
         "form": "သရုပ်ပြ",
         "romanization": "t̪ăyouʔpyâ",
         "trans_jpn": "コーチ",
@@ -163621,7 +163621,7 @@
     },
     {
         "id": "613cc327d00474ca7eb3194f",
-        "language": "myn",
+        "language": "mya",
         "form": "နည်းပြ ",
         "romanization": "nípyâ",
         "trans_jpn": "コーチ",
@@ -163706,7 +163706,7 @@
     },
     {
         "id": "613cc2b3d00474ca7eb3194d",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်03",
         "romanization": "dăbɛ̂; dăbyî",
         "trans_jpn": "学生（大学）",
@@ -163790,7 +163790,7 @@
     },
     {
         "id": "613cc247d00474ca7eb3194c",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျောင်းသူကျောင်းသား03",
         "romanization": "tɕáuɴd̪ùtɕáuɴd̪á",
         "trans_jpn": "学生（大学）",
@@ -163875,7 +163875,7 @@
     },
     {
         "id": "613cc1efd00474ca7eb3194b",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်02",
         "romanization": " dăbɛ̂; dăbyî",
         "trans_jpn": "生徒（中学校、高校）",
@@ -163948,7 +163948,7 @@
     },
     {
         "id": "613cbfb7d00474ca7eb31942",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျောင်းသူကျောင်းသား02",
         "romanization": "tɕáuɴd̪ùtɕáuɴd̪á",
         "trans_jpn": "生徒（中学校、高校）",
@@ -164033,7 +164033,7 @@
     },
     {
         "id": "613cbef8d00474ca7eb31940",
-        "language": "myn",
+        "language": "mya",
         "form": "တပည့်01",
         "romanization": "dăbɛ̂; dăbyî",
         "trans_jpn": "児童（小学校）",
@@ -164120,7 +164120,7 @@
     },
     {
         "id": "613cbd82d00474ca7eb31938",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျောင်းသူကျောင်းသား01",
         "romanization": "tɕáuɴd̪ùtɕáuɴd̪á",
         "trans_jpn": "児童（小学校）",
@@ -164208,7 +164208,7 @@
     },
     {
         "id": "613cbc4dd00474ca7eb31933",
-        "language": "myn",
+        "language": "mya",
         "form": "ပါမောက္ခ",
         "romanization": "pàmauʔkʰâ~ pàuɴmauʔkʰâ",
         "trans_jpn": "教授（職位としての「教授」、大学の先生一般ではない）",
@@ -164296,7 +164296,7 @@
     },
     {
         "id": "613cbbdad00474ca7eb31931",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာမ",
         "romanization": "săyàmâ",
         "trans_jpn": "先生(女性)",
@@ -164381,7 +164381,7 @@
     },
     {
         "id": "613cbb44d00474ca7eb3192e",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာ",
         "romanization": "săyà",
         "trans_jpn": "先生(男性)",
@@ -164466,7 +164466,7 @@
     },
     {
         "id": "613c985fd00474ca7eb3191d",
-        "language": "myn",
+        "language": "mya",
         "form": "တူမ02",
         "romanization": "tùmâ",
         "trans_jpn": "姪",
@@ -164551,7 +164551,7 @@
     },
     {
         "id": "613c97f2d00474ca7eb3191c",
-        "language": "myn",
+        "language": "mya",
         "form": "တူ02",
         "romanization": "tù",
         "trans_jpn": "甥（非親族）",
@@ -164636,7 +164636,7 @@
     },
     {
         "id": "613c976dd00474ca7eb3191a",
-        "language": "myn",
+        "language": "mya",
         "form": "သမက်02",
         "romanization": "t̪ămɛʔ",
         "trans_jpn": "婿（娘の夫）",
@@ -164724,7 +164724,7 @@
     },
     {
         "id": "613c96f4d00474ca7eb31918",
-        "language": "myn",
+        "language": "mya",
         "form": "ချွေးမ02",
         "romanization": "tɕʰwémâ",
         "trans_jpn": "嫁（息子の妻）",
@@ -164809,7 +164809,7 @@
     },
     {
         "id": "613c9690d00474ca7eb31917",
-        "language": "myn",
+        "language": "mya",
         "form": "မြေး02",
         "romanization": "myí",
         "trans_jpn": "孫",
@@ -164894,7 +164894,7 @@
     },
     {
         "id": "613c9647d00474ca7eb31916",
-        "language": "myn",
+        "language": "mya",
         "form": "သမီး04",
         "romanization": "t̪ămí",
         "trans_jpn": "娘",
@@ -164979,7 +164979,7 @@
     },
     {
         "id": "613c959cd00474ca7eb31914",
-        "language": "myn",
+        "language": "mya",
         "form": "ကလေး03",
         "romanization": "kʰălé",
         "trans_jpn": "子",
@@ -165064,7 +165064,7 @@
     },
     {
         "id": "613c9548d00474ca7eb31912",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီမ02",
         "romanization": "ɲìmâ",
         "trans_jpn": "妹",
@@ -165152,7 +165152,7 @@
     },
     {
         "id": "613c94bed00474ca7eb31911",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီ02",
         "romanization": "ɲì",
         "trans_jpn": "弟（ 男性にとって）",
@@ -165237,7 +165237,7 @@
     },
     {
         "id": "613c940dd00474ca7eb31910",
-        "language": "myn",
+        "language": "mya",
         "form": "အစ်မ02",
         "romanization": "ʔămâ",
         "trans_jpn": "姉",
@@ -165336,7 +165336,7 @@
     },
     {
         "id": "613c938ed00474ca7eb3190f",
-        "language": "myn",
+        "language": "mya",
         "form": "အစ်ကို02",
         "romanization": "ʔăkò",
         "trans_jpn": "兄",
@@ -165421,7 +165421,7 @@
     },
     {
         "id": "613c9306d00474ca7eb3190e",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘွား04",
         "romanization": "ʔăpʰwá",
         "trans_jpn": "祖母（母の母）",
@@ -165506,7 +165506,7 @@
     },
     {
         "id": "613c9092d00474ca7eb3190a",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘိုး04",
         "romanization": "ʔăpʰó",
         "trans_jpn": "祖父（母の父）",
@@ -165591,7 +165591,7 @@
     },
     {
         "id": "613c8faed00474ca7eb31909",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘွား03",
         "romanization": "ʔăpʰwá",
         "trans_jpn": "祖母（父の母）",
@@ -165676,7 +165676,7 @@
     },
     {
         "id": "613c8ee1d00474ca7eb31908",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘိုး03",
         "romanization": "ʔăpʰó",
         "trans_jpn": "祖父（父の父）",
@@ -165761,7 +165761,7 @@
     },
     {
         "id": "613c8e33d00474ca7eb31906",
-        "language": "myn",
+        "language": "mya",
         "form": "အဒေါ်04",
         "romanization": "ʔădɔ̀",
         "trans_jpn": "叔母（母の妹）",
@@ -165846,7 +165846,7 @@
     },
     {
         "id": "613c8dc0d00474ca7eb31905",
-        "language": "myn",
+        "language": "mya",
         "form": "အဒေါ်03",
         "romanization": "ʔădɔ̀",
         "trans_jpn": "叔母（父の妹）",
@@ -165934,7 +165934,7 @@
     },
     {
         "id": "613c8cdad00474ca7eb31903",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးတော်04",
         "romanization": "dʑídɔ̀",
         "trans_jpn": "伯母（母の姉）",
@@ -166019,7 +166019,7 @@
     },
     {
         "id": "613c8c83d00474ca7eb31902",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးတော်03",
         "romanization": "dʑídɔ̀",
         "trans_jpn": "伯母（父の姉）",
@@ -166104,7 +166104,7 @@
     },
     {
         "id": "613c8ba6d00474ca7eb31901",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးလေး04",
         "romanization": "ʔúlé",
         "trans_jpn": "叔父（母の弟）",
@@ -166189,7 +166189,7 @@
     },
     {
         "id": "613c8af7d00474ca7eb31900",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးလေး03",
         "romanization": "ʔúlé",
         "trans_jpn": "叔父（父の弟）",
@@ -166274,7 +166274,7 @@
     },
     {
         "id": "613c8a1fd00474ca7eb318ff",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘကြီး04",
         "romanization": "bâdʑí~bàdʑí",
         "trans_jpn": "伯父（母の兄）",
@@ -166359,7 +166359,7 @@
     },
     {
         "id": "613c8947d00474ca7eb318fd",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘကြီး03",
         "romanization": "bâdʑí~bàdʑí",
         "trans_jpn": "伯父（父の兄）",
@@ -166444,7 +166444,7 @@
     },
     {
         "id": "613c88d6d00474ca7eb318fc",
-        "language": "myn",
+        "language": "mya",
         "form": "အမေ02",
         "romanization": "ʔămè",
         "trans_jpn": "母",
@@ -166529,7 +166529,7 @@
     },
     {
         "id": "613c8866d00474ca7eb318fb",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖေ02",
         "romanization": "ʔăpʰè",
         "trans_jpn": "父",
@@ -166617,7 +166617,7 @@
     },
     {
         "id": "613c845fd00474ca7eb318fa",
-        "language": "myn",
+        "language": "mya",
         "form": "တစ်ဝမ်းကွဲ",
         "romanization": "tăwáɴɡwé~ tăwúɴɡwé",
         "trans_jpn": "いとこ",
@@ -166702,7 +166702,7 @@
     },
     {
         "id": "613c83f7d00474ca7eb318f9",
-        "language": "myn",
+        "language": "mya",
         "form": "တူမ01",
         "romanization": "tùmâ",
         "trans_jpn": "姪",
@@ -166787,7 +166787,7 @@
     },
     {
         "id": "613c8395d00474ca7eb318f8",
-        "language": "myn",
+        "language": "mya",
         "form": "တူ01",
         "romanization": "tù",
         "trans_jpn": "甥",
@@ -166872,7 +166872,7 @@
     },
     {
         "id": "613c82d5d00474ca7eb318f6",
-        "language": "myn",
+        "language": "mya",
         "form": "ချွေးမ01",
         "romanization": "tɕʰwémâ",
         "trans_jpn": "嫁（息子の妻）",
@@ -166957,7 +166957,7 @@
     },
     {
         "id": "613c824cd00474ca7eb318f5",
-        "language": "myn",
+        "language": "mya",
         "form": "မြေး01",
         "romanization": "myí",
         "trans_jpn": "孫",
@@ -167042,7 +167042,7 @@
     },
     {
         "id": "613c81cdd00474ca7eb318f4",
-        "language": "myn",
+        "language": "mya",
         "form": "သမီး03",
         "romanization": "t̪ămí",
         "trans_jpn": "娘",
@@ -167130,7 +167130,7 @@
     },
     {
         "id": "613c80f0d00474ca7eb318f2",
-        "language": "myn",
+        "language": "mya",
         "form": "ကလေး02",
         "romanization": "kʰălé",
         "trans_jpn": "子, 息子, 娘",
@@ -167215,7 +167215,7 @@
     },
     {
         "id": "613c7eead00474ca7eb318f1",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီမ01",
         "romanization": "ɲìmâ",
         "trans_jpn": "妹",
@@ -167303,7 +167303,7 @@
     },
     {
         "id": "613c7e23d00474ca7eb318f0",
-        "language": "myn",
+        "language": "mya",
         "form": "ညီ01",
         "romanization": "ɲì",
         "trans_jpn": "弟（男性にとって）",
@@ -167393,7 +167393,7 @@
     },
     {
         "id": "613c7d31d00474ca7eb318ef",
-        "language": "myn",
+        "language": "mya",
         "form": "အစ်မ01",
         "romanization": "ʔămâ",
         "trans_jpn": "姉",
@@ -167478,7 +167478,7 @@
     },
     {
         "id": "613c7ca7d00474ca7eb318ee",
-        "language": "myn",
+        "language": "mya",
         "form": "အစ်ကို01",
         "romanization": "ʔăkò",
         "trans_jpn": "兄",
@@ -167563,7 +167563,7 @@
     },
     {
         "id": "613c7b9fd00474ca7eb318ed",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘွား02",
         "romanization": "ʔăpʰwá",
         "trans_jpn": "祖母（母の母）",
@@ -167648,7 +167648,7 @@
     },
     {
         "id": "613c7b43d00474ca7eb318ec",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘွား01",
         "romanization": "ʔăpʰwá",
         "trans_jpn": "祖母（父の母）",
@@ -167733,7 +167733,7 @@
     },
     {
         "id": "613c7a41d00474ca7eb318eb",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘိုး02",
         "romanization": "ʔăpʰó",
         "trans_jpn": "祖父（母の父）",
@@ -167818,7 +167818,7 @@
     },
     {
         "id": "613c7491d00474ca7eb318ea",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘိုး01",
         "romanization": "ʔăpʰó",
         "trans_jpn": "祖父（父の父）",
@@ -167903,7 +167903,7 @@
     },
     {
         "id": "613c73dfd00474ca7eb318e9",
-        "language": "myn",
+        "language": "mya",
         "form": "အဒေါ်02",
         "romanization": "ʔădɔ̀",
         "trans_jpn": "叔母（母の妹）",
@@ -167988,7 +167988,7 @@
     },
     {
         "id": "613c737fd00474ca7eb318e8",
-        "language": "myn",
+        "language": "mya",
         "form": "အဒေါ်01",
         "romanization": "ʔădɔ̀",
         "trans_jpn": "叔母（父の妹）",
@@ -168073,7 +168073,7 @@
     },
     {
         "id": "613c72b4d00474ca7eb318e7",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးတော်02",
         "romanization": "dʑídɔ̀",
         "trans_jpn": "伯母（母の姉）",
@@ -168158,7 +168158,7 @@
     },
     {
         "id": "613c7172d00474ca7eb318e6",
-        "language": "myn",
+        "language": "mya",
         "form": "ကြီးတော်01",
         "romanization": "dʑídɔ̀",
         "trans_jpn": "伯母（父の姉）",
@@ -168246,7 +168246,7 @@
     },
     {
         "id": "613c700ad00474ca7eb318e5",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးလေး02",
         "romanization": "ʔúlé",
         "trans_jpn": "叔父（母の弟）",
@@ -168331,7 +168331,7 @@
     },
     {
         "id": "613c6f62d00474ca7eb318e4",
-        "language": "myn",
+        "language": "mya",
         "form": "ဦးလေး01",
         "romanization": "ʔúlé",
         "trans_jpn": "叔父（父の弟）",
@@ -168419,7 +168419,7 @@
     },
     {
         "id": "613c6d27d00474ca7eb318e3",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘကြီး02",
         "romanization": "bâdʑí~bàdʑí",
         "trans_jpn": "伯父（母の兄）",
@@ -168507,7 +168507,7 @@
     },
     {
         "id": "613c6c85d00474ca7eb318e2",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘကြီး01",
         "romanization": "bâdʑí~bàdʑí",
         "trans_jpn": "伯父（父の兄）",
@@ -168595,7 +168595,7 @@
     },
     {
         "id": "613c6a4cd00474ca7eb318e0",
-        "language": "myn",
+        "language": "mya",
         "form": "အမေ01",
         "romanization": "ʔămè",
         "trans_jpn": "母",
@@ -168683,7 +168683,7 @@
     },
     {
         "id": "613c68b3d00474ca7eb318df",
-        "language": "myn",
+        "language": "mya",
         "form": "အဖေ01",
         "romanization": "ʔăpʰè",
         "trans_jpn": "父",
@@ -168768,7 +168768,7 @@
     },
     {
         "id": "613c6382d00474ca7eb318dd",
-        "language": "myn",
+        "language": "mya",
         "form": "လူငယ်",
         "romanization": "lùŋɛ̀",
         "trans_jpn": "若者（10代後半～20代、男女問わず）",
@@ -168853,7 +168853,7 @@
     },
     {
         "id": "613c62d0d00474ca7eb318dc",
-        "language": "myn",
+        "language": "mya",
         "form": "မိန်းကလေး",
         "romanization": "méiɴɡălé~méiɴkʰălé",
         "trans_jpn": "若い女性（10代後半～20代、女）",
@@ -168941,7 +168941,7 @@
     },
     {
         "id": "613c61d9d00474ca7eb318db",
-        "language": "myn",
+        "language": "mya",
         "form": "ယောကျ်ားလေး",
         "romanization": "youʔtɕálé",
         "trans_jpn": "若い男性（10代後半～20代、男）",
@@ -169026,7 +169026,7 @@
     },
     {
         "id": "613c5d37d00474ca7eb318da",
-        "language": "myn",
+        "language": "mya",
         "form": "သမီး02",
         "romanization": "t̪ămí",
         "trans_jpn": "お嬢さん（10代後半から20代前半、女）",
@@ -169114,7 +169114,7 @@
     },
     {
         "id": "613c5a21d00474ca7eb318d9",
-        "language": "myn",
+        "language": "mya",
         "form": "ကလေး01",
         "romanization": "kʰălé",
         "trans_jpn": "子供（10歳くらいまでの年少者、男女問わず）",
@@ -169202,7 +169202,7 @@
     },
     {
         "id": "613c588cd00474ca7eb318d8",
-        "language": "myn",
+        "language": "mya",
         "form": "သမီး01",
         "romanization": "t̪ămí",
         "trans_jpn": "お嬢ちゃん（10歳くらいまでの年少者、女）",
@@ -169290,7 +169290,7 @@
     },
     {
         "id": "613c5756d00474ca7eb318d7",
-        "language": "myn",
+        "language": "mya",
         "form": "သား01",
         "romanization": "t̪á",
         "trans_jpn": "坊や",
@@ -169378,7 +169378,7 @@
     },
     {
         "id": "60f2918cd00474ca7eb3172c",
-        "language": "myn",
+        "language": "mya",
         "form": "သတို့သမီး",
         "romanization": "t̪ădôt̪ămí",
         "trans_jpn": "花嫁、女子、女児、良家の子女",
@@ -169437,7 +169437,7 @@
     },
     {
         "id": "60f290ffd00474ca7eb3172b",
-        "language": "myn",
+        "language": "mya",
         "form": "သတို့သား",
         "romanization": "t̪ădôt̪á",
         "trans_jpn": "花婿、男子、男児",
@@ -169496,7 +169496,7 @@
     },
     {
         "id": "60ecdbdbd00474ca7eb316f5",
-        "language": "myn",
+        "language": "mya",
         "form": "များ",
         "romanization": "myá",
         "trans_jpn": "他人、私",
@@ -169608,7 +169608,7 @@
     },
     {
         "id": "60ecda1ad00474ca7eb316f4",
-        "language": "myn",
+        "language": "mya",
         "form": "သူများ",
         "romanization": "t̪ùmyá",
         "trans_jpn": "他人、私",
@@ -169705,7 +169705,7 @@
     },
     {
         "id": "60e95127966aaf3bb98ea372",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်လေး01",
         "romanization": "màuɴ‑lé",
         "trans_jpn": "弟、弟さん",
@@ -169796,7 +169796,7 @@
     },
     {
         "id": "60e9330c966aaf3bb98ea371",
-        "language": "myn",
+        "language": "mya",
         "form": "မောင်01",
         "romanization": "màuɴ",
         "trans_jpn": "弟、弟さん",
@@ -169884,7 +169884,7 @@
     },
     {
         "id": "60e06412966aaf3bb98ea33b",
-        "language": "myn",
+        "language": "mya",
         "form": "တိရစ္ဆာန်မ",
         "romanization": "tăreiʔsàɴmâ",
         "trans_jpn": "畜生（女）",
@@ -169966,7 +169966,7 @@
     },
     {
         "id": "60e063b3966aaf3bb98ea33a",
-        "language": "myn",
+        "language": "mya",
         "form": "တိရစ္ဆာန်",
         "romanization": "tăreiʔsàɴ",
         "trans_jpn": "動物",
@@ -170048,7 +170048,7 @@
     },
     {
         "id": "60e062dd966aaf3bb98ea339",
-        "language": "myn",
+        "language": "mya",
         "form": "ကလေးမ",
         "romanization": "kʰălémâ",
         "trans_jpn": "お嬢さん（10代後半から20代前半、女）",
@@ -170136,7 +170136,7 @@
     },
     {
         "id": "60e061be966aaf3bb98ea336",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘွားတော်",
         "romanization": "bwádɔ̀",
         "trans_jpn": null,
@@ -170187,7 +170187,7 @@
     },
     {
         "id": "60e0617b966aaf3bb98ea335",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘိုးတော်",
         "romanization": "bódɔ̀",
         "trans_jpn": "おじいさん、じじい",
@@ -170262,7 +170262,7 @@
     },
     {
         "id": "60e0600e966aaf3bb98ea334",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘဘ01",
         "romanization": "bâbâ",
         "trans_jpn": "伯父（父の兄）",
@@ -170350,7 +170350,7 @@
     },
     {
         "id": "60e05fa8966aaf3bb98ea333",
-        "language": "myn",
+        "language": "mya",
         "form": "အဘ",
         "romanization": "ʔăbâ",
         "trans_jpn": "伯父さん",
@@ -170425,7 +170425,7 @@
     },
     {
         "id": "60e05ee3966aaf3bb98ea332",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာသမား",
         "romanization": "săyàd̪ămá",
         "trans_jpn": null,
@@ -170515,7 +170515,7 @@
     },
     {
         "id": "60e05c69966aaf3bb98ea32d",
-        "language": "myn",
+        "language": "mya",
         "form": "ခွေးမသား",
         "romanization": "kʰwémâd̪á",
         "trans_jpn": null,
@@ -170590,7 +170590,7 @@
     },
     {
         "id": "60e05c3c966aaf3bb98ea32c",
-        "language": "myn",
+        "language": "mya",
         "form": "ခွေးမ",
         "romanization": "kʰwémâ",
         "trans_jpn": "雌犬",
@@ -170672,7 +170672,7 @@
     },
     {
         "id": "60e05c13966aaf3bb98ea32b",
-        "language": "myn",
+        "language": "mya",
         "form": "နွားမ",
         "romanization": "nămâ",
         "trans_jpn": "牝牛、雌牛",
@@ -170754,7 +170754,7 @@
     },
     {
         "id": "60e05be4966aaf3bb98ea32a",
-        "language": "myn",
+        "language": "mya",
         "form": "နွား",
         "romanization": "nwá",
         "trans_jpn": null,
@@ -170797,7 +170797,7 @@
     },
     {
         "id": "60e05b33966aaf3bb98ea329",
-        "language": "myn",
+        "language": "mya",
         "form": "မအလ",
         "romanization": "mâʔâlâ",
         "trans_jpn": "マアラ",
@@ -170872,7 +170872,7 @@
     },
     {
         "id": "60e05a7b966aaf3bb98ea328",
-        "language": "myn",
+        "language": "mya",
         "form": "သေနာမ",
         "romanization": "t̪ènàmâ",
         "trans_jpn": "死体（女性）",
@@ -170947,7 +170947,7 @@
     },
     {
         "id": "60e05a45966aaf3bb98ea327",
-        "language": "myn",
+        "language": "mya",
         "form": "သေနာ(ကောင်)",
         "romanization": "t̪ènà(ɡàuɴ)",
         "trans_jpn": "遺体（男性）",
@@ -171022,7 +171022,7 @@
     },
     {
         "id": "60e05358966aaf3bb98ea326",
-        "language": "myn",
+        "language": "mya",
         "form": "သေခြင်းဆိုးမ",
         "romanization": "t̪èjíɴzómâ",
         "trans_jpn": "遺体（女性）",
@@ -171097,7 +171097,7 @@
     },
     {
         "id": "60e05323966aaf3bb98ea325",
-        "language": "myn",
+        "language": "mya",
         "form": "သေခြင်းဆိုး",
         "romanization": "t̪èjíɴzó",
         "trans_jpn": "変死体（男性）",
@@ -171172,7 +171172,7 @@
     },
     {
         "id": "60e0524c966aaf3bb98ea324",
-        "language": "myn",
+        "language": "mya",
         "form": "မသာမ",
         "romanization": "mat̪àmâ",
         "trans_jpn": null,
@@ -171215,7 +171215,7 @@
     },
     {
         "id": "60e051f0966aaf3bb98ea323",
-        "language": "myn",
+        "language": "mya",
         "form": "မသာ",
         "romanization": "mat̪à",
         "trans_jpn": null,
@@ -171259,7 +171259,7 @@
     },
     {
         "id": "60e0509d966aaf3bb98ea322",
-        "language": "myn",
+        "language": "mya",
         "form": "ကောင်မလေး01",
         "romanization": "kàuɴmàlé",
         "trans_jpn": "お嬢さん（10代後半から20代前半、女）",
@@ -171361,7 +171361,7 @@
     },
     {
         "id": "60e05085966aaf3bb98ea321",
-        "language": "myn",
+        "language": "mya",
         "form": "ကောင်လေး01",
         "romanization": "kàuɴlé",
         "trans_jpn": "坊や",
@@ -171451,7 +171451,7 @@
     },
     {
         "id": "60e0501f966aaf3bb98ea320",
-        "language": "myn",
+        "language": "mya",
         "form": "ချာတိတ်01",
         "romanization": "tɕàteiʔ",
         "trans_jpn": "坊や",
@@ -171539,7 +171539,7 @@
     },
     {
         "id": "60e04f97966aaf3bb98ea31e",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုကောင်မ",
         "romanization": "hòkàuɴmâ",
         "trans_jpn": "あいつ（女）",
@@ -171629,7 +171629,7 @@
     },
     {
         "id": "60e04f7e966aaf3bb98ea31d",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟိုကောင်",
         "romanization": "hòkàuɴ",
         "trans_jpn": "あいつ（男）、やつ",
@@ -171719,7 +171719,7 @@
     },
     {
         "id": "60e04e18966aaf3bb98ea31c",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုယ်တော်ချော",
         "romanization": "kòdɔ̀chɔ́",
         "trans_jpn": "美しいお兄さん",
@@ -171794,7 +171794,7 @@
     },
     {
         "id": "60e04ddd966aaf3bb98ea31b",
-        "language": "myn",
+        "language": "mya",
         "form": "(ဟဲ့)အကောင်",
         "romanization": "(hɛ̂)ʔăkàuɴ",
         "trans_jpn": "ねえ、あなた",
@@ -171869,7 +171869,7 @@
     },
     {
         "id": "60e04d25966aaf3bb98ea31a",
-        "language": "myn",
+        "language": "mya",
         "form": "ကောင်မ",
         "romanization": "kàuɴmâ",
         "trans_jpn": "女",
@@ -171944,7 +171944,7 @@
     },
     {
         "id": "60e04c24966aaf3bb98ea319",
-        "language": "myn",
+        "language": "mya",
         "form": "မယ်မင်းကြီးမ",
         "romanization": "mɛ̀míɴjímâ",
         "trans_jpn": "お姫様",
@@ -172034,7 +172034,7 @@
     },
     {
         "id": "60e04bdf966aaf3bb98ea318",
-        "language": "myn",
+        "language": "mya",
         "form": "ရှင်",
         "romanization": "ɕìɴ",
         "trans_jpn": "あなた",
@@ -172145,7 +172145,7 @@
     },
     {
         "id": "60e04bba966aaf3bb98ea317",
-        "language": "myn",
+        "language": "mya",
         "form": "ခင်ဗျား",
         "romanization": "kămyá",
         "trans_jpn": "あなた",
@@ -172235,7 +172235,7 @@
     },
     {
         "id": "60e04aa7966aaf3bb98ea315",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုယ့်လူ",
         "romanization": "kôlù",
         "trans_jpn": "自分の人、お前",
@@ -172310,7 +172310,7 @@
     },
     {
         "id": "60e0487e966aaf3bb98ea314",
-        "language": "myn",
+        "language": "mya",
         "form": "ယောက်မ",
         "romanization": "yauʔmâ/ yáuɴmâ",
         "trans_jpn": "義理の姉妹",
@@ -172385,7 +172385,7 @@
     },
     {
         "id": "60e047c2966aaf3bb98ea313",
-        "language": "myn",
+        "language": "mya",
         "form": "ယောက်ဖ",
         "romanization": "yauʔpʰâ",
         "trans_jpn": "義理の兄",
@@ -172460,7 +172460,7 @@
     },
     {
         "id": "60e045f7966aaf3bb98ea312",
-        "language": "myn",
+        "language": "mya",
         "form": "ဟေ့ကောင်",
         "romanization": "hêkàuɴ, hăyàuɴ",
         "trans_jpn": "お前、君、あなた、奴",
@@ -172550,7 +172550,7 @@
     },
     {
         "id": "60e0451b966aaf3bb98ea311",
-        "language": "myn",
+        "language": "mya",
         "form": "ကောင်ကြီး",
         "romanization": "kàuɴdʑí",
         "trans_jpn": "お前、君、あなた",
@@ -172640,7 +172640,7 @@
     },
     {
         "id": "60e044a6966aaf3bb98ea310",
-        "language": "myn",
+        "language": "mya",
         "form": "သားကြီး",
         "romanization": "t̪ádʑí",
         "trans_jpn": "お前、君、あなた、息子",
@@ -172730,7 +172730,7 @@
     },
     {
         "id": "60e04346966aaf3bb98ea30e",
-        "language": "myn",
+        "language": "mya",
         "form": "သားလေး",
         "romanization": "t̪álé",
         "trans_jpn": "息子",
@@ -172832,7 +172832,7 @@
     },
     {
         "id": "60e01342966aaf3bb98ea30b",
-        "language": "myn",
+        "language": "mya",
         "form": "မိမိ",
         "romanization": "mîmî",
         "trans_jpn": "自分",
@@ -172929,7 +172929,7 @@
     },
     {
         "id": "60e01114966aaf3bb98ea30a",
-        "language": "myn",
+        "language": "mya",
         "form": "သူ02",
         "romanization": "tù",
         "trans_jpn": "彼女、彼、あなた",
@@ -173031,7 +173031,7 @@
     },
     {
         "id": "60e00ea0966aaf3bb98ea308",
-        "language": "myn",
+        "language": "mya",
         "form": "ယူ",
         "romanization": "yù",
         "trans_jpn": null,
@@ -173106,7 +173106,7 @@
     },
     {
         "id": "60e00bb0966aaf3bb98ea307",
-        "language": "myn",
+        "language": "mya",
         "form": "ကိုယ်",
         "romanization": "kò",
         "trans_jpn": "自分、私",
@@ -173196,7 +173196,7 @@
     },
     {
         "id": "60e00b55966aaf3bb98ea306",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်ုပ်",
         "romanization": "ʨănouʔ",
         "trans_jpn": "私",
@@ -173284,7 +173284,7 @@
     },
     {
         "id": "60e00b01966aaf3bb98ea305",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်မ",
         "romanization": "ʨămâ",
         "trans_jpn": "私（女）",
@@ -173388,7 +173388,7 @@
     },
     {
         "id": "60e00ad3966aaf3bb98ea304",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျွန်တော်",
         "romanization": "ʨănɔ̀",
         "trans_jpn": "私（男）",
@@ -173534,7 +173534,7 @@
     },
     {
         "id": "60e009df966aaf3bb98ea302",
-        "language": "myn",
+        "language": "mya",
         "form": "ကျုပ်",
         "romanization": "ʨouʔ",
         "trans_jpn": "私",
@@ -173625,7 +173625,7 @@
     },
     {
         "id": "60e00983966aaf3bb98ea301",
-        "language": "myn",
+        "language": "mya",
         "form": "တို့01",
         "romanization": "dô",
         "trans_jpn": "私",
@@ -173710,7 +173710,7 @@
     },
     {
         "id": "60e008b1966aaf3bb98ea2ff",
-        "language": "myn",
+        "language": "mya",
         "form": "သင်း",
         "romanization": "d̪íɴ",
         "trans_jpn": "彼／彼女",
@@ -173784,7 +173784,7 @@
     },
     {
         "id": "60e00855966aaf3bb98ea2fe",
-        "language": "myn",
+        "language": "mya",
         "form": "ဒင်း",
         "romanization": "d̪íɴ",
         "trans_jpn": "彼／彼女",
@@ -173861,7 +173861,7 @@
     },
     {
         "id": "60e00807966aaf3bb98ea2fd",
-        "language": "myn",
+        "language": "mya",
         "form": "နင်",
         "romanization": "nìɴ",
         "trans_jpn": "あなた",
@@ -173956,7 +173956,7 @@
     },
     {
         "id": "60e007d0966aaf3bb98ea2fc",
-        "language": "myn",
+        "language": "mya",
         "form": "ညည်း",
         "romanization": "ɲí",
         "trans_jpn": "あなた",
@@ -174044,7 +174044,7 @@
     },
     {
         "id": "60e00488966aaf3bb98ea2fa",
-        "language": "myn",
+        "language": "mya",
         "form": "မင်း",
         "romanization": "míɴ",
         "trans_jpn": "君、お前、あなた",
@@ -174176,7 +174176,7 @@
     },
     {
         "id": "5feb3321452b03fc15c7381e",
-        "language": "myn",
+        "language": "mya",
         "form": "ဆရာတော်",
         "romanization": "sʰăyàdɔ̀",
         "trans_jpn": "和尚、僧正、僧侶",
@@ -174263,7 +174263,7 @@
     },
     {
         "id": "5feb2cd0452b03fc15c7381c",
-        "language": "myn",
+        "language": "mya",
         "form": "ဘုရား",
         "romanization": "pʰăyá",
         "trans_jpn": "僧侶",
@@ -174350,7 +174350,7 @@
     },
     {
         "id": "5fd5cad7049288cb5e39325b",
-        "language": "myn",
+        "language": "mya",
         "form": "မမ01",
         "romanization": "mâmâ",
         "trans_jpn": "姉",

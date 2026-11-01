@@ -1,0 +1,17 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	3rd	address	1st.family	1st.fictional-family	2nd.family	2nd.fictional-family	3rd.family	3rd.fictional-family	1st.proper-name	2nd.proper-name	3rd.proper-name	1st.modified-np	2nd.modified-np	3rd.modified-np	1st.quantifier	2nd.quantifier	3rd.quantifier	1st.service	2nd.service	3rd.service	1st.relationship	2nd.relationship	3rd.relationship	1st.anaphor	2nd.anaphor	3rd.anaphor
+Texts	1995_12	1	0	0						1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	2	75	85	မောင်မောင်					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	3	127	129	ဦး					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	4	164	167	မင်					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	5	233	242	ကျွန်တော်					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	6	330	332	ဦး					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	7	476	480	မင်း					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	8	647	651	ဦးရာ					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	9	963	969	သူတို့					1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	10	1124	1128	ဦးရာ					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	11	1439	1448	သူတို့တွေ					1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	12	1467	1471	ဦးရာ					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	13	2051	2059	မင်းတို့					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	14	2395	2399	မင်း					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	15	2419	2423	မင်း					1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_12	16	2590	2592	ဦး					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

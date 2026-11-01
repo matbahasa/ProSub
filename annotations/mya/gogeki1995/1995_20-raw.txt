@@ -1,0 +1,7 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	3rd	address	1st.family	1st.fictional-family	2nd.family	2nd.fictional-family	3rd.family	3rd.fictional-family	1st.proper-name	2nd.proper-name	3rd.proper-name	1st.modified-np	2nd.modified-np	3rd.modified-np	1st.quantifier	2nd.quantifier	3rd.quantifier	1st.service	2nd.service	3rd.service	1st.relationship	2nd.relationship	3rd.relationship	1st.anaphor	2nd.anaphor	3rd.anaphor
+Texts	1995_20	1	0	0						1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_20	2	72	78	မိစိမ်					1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_20	3	165	178	ဒေါ်ကြီးလှရဲ့					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_20	4	217	224	မိစိမ်း					1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_20	5	387	389	ငါ					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_20	6	442	450	ဒီသူငယ်မ					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0

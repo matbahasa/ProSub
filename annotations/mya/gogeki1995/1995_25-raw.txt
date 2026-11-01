@@ -1,0 +1,15 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	3rd	address	1st.family	1st.fictional-family	2nd.family	2nd.fictional-family	3rd.family	3rd.fictional-family	1st.proper-name	2nd.proper-name	3rd.proper-name	1st.modified-np	2nd.modified-np	3rd.modified-np	1st.quantifier	2nd.quantifier	3rd.quantifier	1st.service	2nd.service	3rd.service	1st.relationship	2nd.relationship	3rd.relationship	1st.anaphor	2nd.anaphor	3rd.anaphor
+Texts	1995_25	1	0	0						1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	2	67	71	ဆရာ့					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	1995_25	3	154	183	ကျွန်တော့ရဲ့မေတ္တာရှင်မမစိမ်း					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	4	186	195	ကျွန်တော့					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	5	219	245	ကျွန်တော် ဆရာဝန်မောင်မောင်					1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	6	385	394	ကျွန်တော်					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	7	398	405	မမစိမ်း					1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	8	425	434	ကျွန်တော့					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	9	628	637	ကျွန်တော်					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	10	677	688	တစ်ယောက်တည်					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	15	903	939	ကြွရောက်လာကြတဲ့ဧည့်ပရိသတ်များခင်ဗျား					1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	12	980	989	ကျွန်တော့					1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	13	1256	1290	သရုပ်ဆောင်ခဲ့တဲ့မင်းသားမင်းသမီးမျာ					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1995_25	14	1293	1307	ဧည့်ပရိသတ်များ					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0

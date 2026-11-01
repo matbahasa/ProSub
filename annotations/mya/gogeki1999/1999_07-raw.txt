@@ -1,0 +1,3 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	3rd	address	1st.family	1st.fictional-family	2nd.family	2nd.fictional-family	3rd.family	3rd.fictional-family	1st.proper-name	2nd.proper-name	3rd.proper-name	1st.modified-np	2nd.modified-np	3rd.modified-np	1st.quantifier	2nd.quantifier	3rd.quantifier	1st.education	2nd.education	3rd.education	1st.position	2nd.position	3rd.position	1st.service	2nd.service	3rd.service	1st.relationship	2nd.relationship	3rd.relationship	1st.anaphor	2nd.anaphor	3rd.anaphor	1st.age	2nd.age	3rd.age
+Texts	1999_07	1	0	0						1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texts	1999_07	2	787	795	အဖေါ်တွေ					1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
